@@ -1,0 +1,73 @@
+project:
+  type: website
+
+lang: es
+date-format: iso
+
+execute:
+  freeze: auto
+
+website:
+  title: "Biología de las plantas, 2025-1"
+  description: |
+    Sitio web del curso Biología de las plantas del Instituto de Biología de la Universidad de Antioquia Seccional Suroeste, 2025-1
+  site-url: https://alexespinosaco.github.io/biologia-plantas-2025-1
+  repo-url: https://github.com/alexespinosaco/biologia-plantas-2025-1
+  # repo-actions: [edit, source, issue]
+
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+  google-analytics:
+    tracking-id: "G-GK5K4Z0HJH"
+    anonymize-ip: true
+
+  twitter-card:
+    creator: "@alexespinosaco"
+    card-style: summary_large_image
+
+  open-graph: true
+
+  sidebar:
+    style: docked
+    logo: imagenes/bldp.png
+    search: true
+    pinned: true
+    align: center
+
+    tools: 
+      - icon: github
+        href: https://github.com/alexespinosaco/biologia-plantas-2025-1
+  
+    contents:
+      - section: "Información del curso"
+        contents:
+          - text: "Inicio"
+            href: index.qmd
+          - text: "Manual de laboratorio"
+            href: https://alexespinosaco.github.io/biologia-plantas-manual/
+          - text: "Enlaces de utilidad"
+      - section: "Teoría"
+        contents:
+          - text: "Bienvenida al curso"
+            href: presentaciones/00/
+      - section: "Laboratorio"
+
+  page-footer: 
+    left: Álex Espinosa-Correa © 2025 is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    right: Made by [\@alexespinosaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+
+csl: apa.csl
+
+crossref: 
+  fig-title: Fig
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    toc: true
+    css: styles.scss
+    mainfont: "Atkinson Hyperlegible"

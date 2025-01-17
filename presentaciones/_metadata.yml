@@ -1,0 +1,24 @@
+author: 
+  - name: "Álex Espinosa-Correa"
+    url: https://alexespinosaco.github.io/
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA"
+    affiliation-url: https://geobota.github.io/
+
+institute: "Universidad de Antioquia <br> Biología de las plantas, 2025-1"
+
+format: 
+  revealjs:
+    theme:
+      - simple
+      - custom.scss
+    width: 1920
+    height: 1080
+    slide-number: true
+    chalkboard: true
+    controls: true
+    touch: false
+    footer: "[alexespinosaco.github.io/biologia-plantas-2025-1/](https://alexespinosaco.github.io/biologia-plantas-2025-1/)"
+    logo: "/imagenes/bldp.png"
+
+execute:
+  freeze: auto

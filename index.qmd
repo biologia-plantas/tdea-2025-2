@@ -1,0 +1,19 @@
+---
+title: "Biología de las plantas, 2025-1"
+# subtitle: "Instituto de Biología, Universidad de Antioquia"
+description: |
+  Sitio web del curso Biología de las plantas del Instituto de Biología de la Universidad de Antioquia Seccional Suroeste, 2025-1
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: https://alexespinosaco.github.io/
+    orcid: 0000-0002-7353-1182
+    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia"
+    affiliation-url: https://geobota.github.io/
+
+date: 2025-02-15
+
+citation: true
+---
+
