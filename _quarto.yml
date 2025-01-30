@@ -51,7 +51,9 @@ website:
       - section: "Teoría"
         contents:
           - text: "Bienvenida al curso"
-            href: presentaciones/00/
+            href: presentaciones/introducción/
+          - text: "Origen y evolución de las plantas"
+            href: presentaciones/origen-evolucion/
       - section: "Laboratorio"
 
   page-footer: 

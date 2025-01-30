@@ -1,0 +1,13 @@
+---
+title: "Introducción a la Botánica"
+# date: 2025-02-15
+format: revealjs
+bibliography: references.bib
+---
+
+## Botánica
+
+> Del latín medieval *botanicus*, y este del griego βοτανική *botanikḗ*, derivado de βοτάνη *botánē* 'hierba'. @realacademiaespañola2025
+
+
+## Referencias
