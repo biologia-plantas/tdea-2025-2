@@ -9,5 +9,63 @@ bibliography: references.bib
 
 > Del latín medieval *botanicus*, y este del griego βοτανική *botanikḗ*, derivado de βοτάνη *botánē* 'hierba'. @realacademiaespañola2025
 
+## Importancia de la botánica
+
+## Planta
+
+## Diversidad de Embryophyta
+
+::: columns
+::: {.column width="50%"}
+World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
+
+-   Marchantiophyta 7,321
+-   Bryophyta 11,970
+-   Anthocerotophyta 225
+-   Lycopodiophyta 1,516
+-   Polypodiophyta 12,688
+-   Gymnospermae 1134
+-   Angiospermae 345,299
+:::
+
+::: {.column width="50%"}
+![[Bewareofdog](https://commons.wikimedia.org/wiki/File:Plants.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), via Wikimedia Commons.](/presentaciones/images/embryophyta_diversidad.jpg){#fig-embryophyta-diversidad fig-align="center"}
+:::
+:::
+
+## Plantas útiles
+
+::: columns
+::: {.column width="50%"}
+![@sotwp2016](/presentaciones/images/plantas_utiles_01.jpg){#fig-plantas-utiles-01 fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![@sotwp2016](/presentaciones/images/plantas_utiles_02.jpg){#fig-plantas-utiles-02 fig-align="center"}
+:::
+:::
+
+## Plantas útiles
+
+::: columns
+::: {.column width="50%"}
+![@sotwpf2017](/presentaciones/images/plantas_utiles_03.jpg){#fig-plantas-utiles-03 fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![@sotwpf2020](/presentaciones/images/plantas_utiles_04.jpg){#fig-plantas-utiles-04 fig-align="center"}
+:::
+:::
+
+## Heading 2
+
+
+::: columns
+::: {.column width="50%"}
+:::
+
+::: {.column width="50%"}
+:::
+:::
 
 ## Referencias
