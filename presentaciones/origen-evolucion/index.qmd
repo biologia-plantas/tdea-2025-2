@@ -5,11 +5,41 @@ format: revealjs
 bibliography: references.bib
 ---
 
+# «La evolución de las plantas ha cambiado literalmente el mundo, y nadie puede afirmar que entiende la evolución a menos que entienda la biología de las plantas.» @niklas2016.
+
+## ¿El fin de la botánica?
+
+::: columns
+::: {.column width="50%"}
+::: r-stack
+![](/presentaciones/images/botanica_fin.png){#botanica-fin .fragment fragment-index="1" fig-align="center" width="707"}
+
+![](/presentaciones/images/botanica_boom.png){#botanica-boom .fragment fragment-index="3" fig-align="center" width="760"}
+:::
+:::
+
+::: {.column .fragment fragment-index="2" width="50%"}
+### Botánica vs. Ciencia de las plantas
+
+Algunos autores [@simpson2019] distinguen entre Botánica y Ciencia de las plantas. La primera se enfoca en el estudio de las plantas terrestres (Embryophyta), mientras que la segunda abarca el estudio de la mayoría de los organismos tradicionalmente considerados como plantas (prácticamente todos los organismos eucariotas fotosintéticos o con paredes celulares y esporas). Reconocer tanto la Botánica como las Ciencias de las plantas como campos de estudio diferenciados puede ser útil; sin embargo, la definición de estos campos puede variar y requerir aclaraciones adicionales.
+:::
+:::
+
+::: footer
+Artículos de @crisci2019 y @burke2022.
+:::
+
 ## Botánica
 
-> Del latín medieval *botanicus*, y este del griego βοτανική *botanikḗ*, derivado de βοτάνη *botánē* 'hierba'. @realacademiaespañola2025
+> Del latín medieval *botanicus*, y este del griego βοτανική *botanikḗ*, derivado de βοτάνη *botánē* 'hierba'. @realacademiaespañola2025.
+
+> Estudio científico de las plantas verdes (Viridiplantae), incluidas aquellas que contienen clorofilas a y b, almacenan sus productos fotosintéticos como almidón dentro de los cloroplastos con doble membrana donde se producen, y tienen paredes celulares compuestas de celulosa. @crisci2020.
+
+![Relaciones entre Botánica, Agronomía y Medicina. El «Triángulo de la Botánica» resaltado en rojo. El área de transdisciplinariedad, representada por la región central, se indica con tres líneas de puntos. @peruzzi2025.](/presentaciones/images/botanica_definicion.jpg){#fig-botanica-definicion fig-align="center"}
 
 ## Importancia de la botánica
+
+> El estudio de las plantas nos ha proporcionado una gran comprensión de la naturaleza de toda la vida y seguirá haciéndolo en los años venideros. @evert2013.
 
 ## Planta
 
@@ -32,6 +62,10 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 ![[Bewareofdog](https://commons.wikimedia.org/wiki/File:Plants.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), via Wikimedia Commons.](/presentaciones/images/embryophyta_diversidad.jpg){#fig-embryophyta-diversidad fig-align="center"}
 :::
 :::
+
+## Importancia de las plantas
+
+> Las plantas entran en nuestras vidas de innumerables maneras más allá de ser fuentes de alimento. Nos proporcionan fibra para la ropa, madera para muebles, refugio y combustible, papel para libros, especias para dar sabor, medicamentos y el oxígeno que respiramos. Dependemos completamente de las plantas. Además, tienen un gran atractivo sensorial y enriquecen nuestras vidas a través de los jardines, parques y áreas silvestres que disfrutamos. @evert2013.
 
 ## Plantas útiles
 
@@ -58,7 +92,6 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 :::
 
 ## Heading 2
-
 
 ::: columns
 ::: {.column width="50%"}
