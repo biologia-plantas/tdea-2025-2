@@ -11,8 +11,8 @@ website:
   title: "Biología de las plantas, 2025-1"
   description: |
     Sitio web del curso Biología de las plantas del Instituto de Biología de la Universidad de Antioquia Seccional Suroeste, 2025-1
-  site-url: https://alexespinosaco.github.io/biologia-plantas-2025-1
-  repo-url: https://github.com/alexespinosaco/biologia-plantas-2025-1
+  site-url: https://biologia-plantas.github.io/2025-1
+  repo-url: https://github.com/biologia-plantas/2025-1
   # repo-actions: [edit, source, issue]
 
   page-navigation: true
@@ -37,9 +37,19 @@ website:
     align: center
 
     tools: 
-      - icon: github
-        href: https://github.com/alexespinosaco/biologia-plantas-2025-1
-  
+      - text: "Repositorio"
+        icon: github
+        href: https://github.com/biologia-plantas/2025-1
+      - text: "Manual de laboratorio"
+        icon: book
+        href: https://alexespinosaco.github.io/biologia-plantas-manual/
+      - text: "Google Classroom"
+        icon: layout-text-window-reverse
+        href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
+      - text: "Google Meet"
+        icon: person-video
+        # href:
+
     contents:
       - section: "Información del curso"
         contents:
@@ -47,18 +57,21 @@ website:
             href: index.qmd
           - text: "Manual de laboratorio"
             href: https://alexespinosaco.github.io/biologia-plantas-manual/
+          - text: "Google Classroom"
+            href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
+          - text: "Google Meet"
           - text: "Enlaces de utilidad"
       - section: "Teoría"
         contents:
-          - text: "Bienvenida al curso"
-            href: presentaciones/introducción/
-          - text: "Origen y evolución de las plantas"
-            href: presentaciones/origen-evolucion/
+          # - text: "Bienvenida al curso"
+          #   href: presentaciones/introducción/
+          # - text: "Origen y evolución de las plantas"
+          #   href: presentaciones/origen-evolucion/
       - section: "Laboratorio"
 
   page-footer: 
-    left: Álex Espinosa-Correa © 2025 is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-    right: Made by [\@alexespinosaco](https://alexespinosaco.github.io) with [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    right: Hecho por [\@alexespinosaco](https://alexespinosaco.github.io) con [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/) y [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 csl: apa.csl
 
