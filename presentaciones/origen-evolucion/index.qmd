@@ -263,6 +263,19 @@ En Colombia existe un [Catálogo de árboles urbanos en Colombia](https://catalo
 
 ## Biotecnología
 
+> La Biotecnología se encarga de la obtención de vegetales y productos vegetales mejorados mediante técnicas científicas. @nabors2006
+
+::: {.incremental}
+-   Arroz dorado
+
+-   Plantas resistentes a las plagas (Bt)
+
+-   Vacunas comestibles
+
+-   Plantas resistentes a toxinas
+
+-   Plantas resistentes a los herbicidas
+:::
 
 ## Debemos tomarnos en serio la extinción
 
