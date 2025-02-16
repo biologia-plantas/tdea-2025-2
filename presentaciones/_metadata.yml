@@ -17,7 +17,7 @@ format:
     chalkboard: true
     controls: true
     touch: false
-    footer: "[alexespinosaco.github.io/biologia-plantas-2025-1/](https://alexespinosaco.github.io/biologia-plantas-2025-1/)"
+    footer: "[biologia-plantas.github.io/2025-1](https://biologia-plantas.github.io/2025-1/)"
     logo: "/imagenes/bldp.png"
 
 execute:

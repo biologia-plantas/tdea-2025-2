@@ -7,6 +7,44 @@ bibliography: references.bib
 
 # «La evolución de las plantas ha cambiado literalmente el mundo, y nadie puede afirmar que entiende la evolución a menos que entienda la biología de las plantas.» @niklas2016.
 
+## ¿Qué ve en esta foto?
+
+![Imagen tomada de @sophienkamoun2017.](/presentaciones/images/ceguera-plantas.jpeg){#fig-ceguera-plantas fig-align="center"}
+
+## Ceguera a las plantas
+
+::: {.fragment fragment-index="1"}
+> Hay tantas plantas en la Tierra que existe el peligro de considerarlas triviales y perder de vista la sutileza y eficiencia de su diseño. Son grandes y hermosas máquinas, impulsadas por la luz solar, absorbiendo agua del suelo y dióxido de carbono del aire, y convirtiéndolos en alimento para su uso y el nuestro. Sagan ([1980](https://www.imdb.com/es/title/tt0759810/)).
+:::
+
+::: columns 
+::: {.column .fragment fragment-index="2" width="50%"}
+@wandersee1999 describieron la ceguera a las plantas (*plant blindness*) como la incapacidad de percibir las plantas del entorno, reconocer su importancia o apreciar sus características biológicas únicas.
+
+[Algunos autores [@parsley2020] prefieren utilizar Disparidad en el conocimiento de las plantas (*plant awareness disparity* PAD) en lugar de Ceguera a las plantas.]{.fragment fragment-index="3"}
+:::
+
+::: {.column .fragment fragment-index="2" width="50%"}
+![Tropical forest with monkeys, @rousseau1910.](/presentaciones/images/tropical_forest_with_monkeys_1982.76.7.jpg){#fig-tropical-forest-monkeys fig-align="center"}
+:::
+:::
+
+## ¿Sufro de ceguera a las plantas?
+
+Según @wandersee1999, las personas afectadas por la ceguera a las plantas presentan síntomas como los siguientes:
+
+::: {.incremental}
+1.  Pensar que las plantas no son más que el telón de fondo de la vida animal
+2.  No ver, fijarse o prestar atención a las plantas en la vida cotidiana
+3.  No entender qué necesitan las plantas para mantenerse vivas
+4.  Pasar por alto la importancia de las plantas en la vida cotidiana
+5.  No distinguir las diferentes escalas temporales de la actividad vegetal y animal 
+6.  Carecer de experiencias prácticas en el cultivo, la observación y la identificación de plantas en la propia región geográfica
+7.  No explicar la ciencia básica de las plantas que subyace en las comunidades vegetales cercanas, incluyendo su crecimiento, nutrición, reproducción y consideraciones ecológicas relevantes
+8.  No ser conscientes de que las plantas son fundamentales en un ciclo bioquímico clave: el ciclo del carbono
+9.  Ser insensibles a las cualidades estéticas de las plantas y sus estructuras, especialmente en lo que respecta a su adaptación, coevolución, color, dispersión, diversidad, crecimiento, patrón, reproducción, olor, tamaño, sonidos, espaciado, fuerza, simetría, tactilidad, sabor y textura
+:::
+
 ## ¿El fin de la botánica?
 
 ::: columns
@@ -21,7 +59,7 @@ bibliography: references.bib
 ::: {.column .fragment fragment-index="2" width="50%"}
 ### Botánica vs. Ciencia de las plantas
 
-Algunos autores [@simpson2019] distinguen entre Botánica y Ciencia de las plantas. La primera se enfoca en el estudio de las plantas terrestres (Embryophyta), mientras que la segunda abarca el estudio de la mayoría de los organismos tradicionalmente considerados como plantas (prácticamente todos los organismos eucariotas fotosintéticos o con paredes celulares y esporas). Reconocer tanto la Botánica como las Ciencias de las plantas como campos de estudio diferenciados puede ser útil; sin embargo, la definición de estos campos puede variar y requerir aclaraciones adicionales.
+Algunos autores [@simpson2019] distinguen entre Botánica y Ciencia de las plantas. La primera abarca el estudio de la mayoría de los organismos tradicionalmente considerados como plantas (prácticamente todos los organismos eucariotas fotosintéticos o con paredes celulares y esporas), mientras que la segunda se enfoca en el estudio de las plantas terrestres (Embryophyta). Reconocer tanto la Botánica como las Ciencias de las plantas como campos de estudio diferenciados puede ser útil; sin embargo, la definición de estos campos puede variar y requerir aclaraciones adicionales.
 :::
 :::
 
@@ -31,19 +69,230 @@ Artículos de @crisci2019 y @burke2022.
 
 ## Botánica
 
+::: {.fragment fragment-index="1"}
 > Del latín medieval *botanicus*, y este del griego βοτανική *botanikḗ*, derivado de βοτάνη *botánē* 'hierba'. @realacademiaespañola2025.
+:::
 
+::: {.fragment fragment-index="2"}
 > Estudio científico de las plantas verdes (Viridiplantae), incluidas aquellas que contienen clorofilas a y b, almacenan sus productos fotosintéticos como almidón dentro de los cloroplastos con doble membrana donde se producen, y tienen paredes celulares compuestas de celulosa. @crisci2020.
+:::
 
-![Relaciones entre Botánica, Agronomía y Medicina. El «Triángulo de la Botánica» resaltado en rojo. El área de transdisciplinariedad, representada por la región central, se indica con tres líneas de puntos. @peruzzi2025.](/presentaciones/images/botanica_definicion.jpg){#fig-botanica-definicion fig-align="center"}
+::: {.fragment fragment-index="3"}
+![Relaciones entre Botánica, Agronomía y Medicina. El «Triángulo de la Botánica» resaltado en rojo. El área de transdisciplinariedad, representada por la región central, se indica con tres líneas de puntos. @peruzzi2025.](/presentaciones/images/botanica_definicion.jpg){#fig-botanica-definicion fig-align="center" width="60%"}
+:::
 
-## Importancia de la botánica
+## Botánica y método científico
 
+::: columns
+::: {.column .fragment fragment-index="1" width="50%"}
+> En su nivel más básico, el método científico es un sencillo proceso de tres pasos (observar, explicar y comprobar) mediante el cual los científicos investigan la naturaleza. @carey2012.
+
+::: {.fragment fragment-index="2"}
+### Fundamentos del método cientifíco
+
+1.  Toda la información aceptada sólo puede derivarse de observaciones o experimentos cuidadosamente documentados y controlados.
+
+2.  Sólo se estudian los fenómenos y objetos tangibles
+
+3.  Las fuerzas físicas que controlan el mundo son constantes a lo largo del tiempo y son las mismas en todas partes.
+
+4.  La base fundamental del método científico es el escepticismo
+:::
+:::
+
+::: {.column .fragment fragment-index="1" width="50%"}
+![El método científico es un proceso continuo. @bezjak2018.](/presentaciones/images/ciencia_metodo.png){#fig-ciencia-metodo fig-align="center"}
+:::
+:::
+
+::: footer
+Fundamentos tomados de @mauseth2016.
+:::
+
+## Botánica y método científico
+
+::: {.fragment fragment-index="1"}
+> En algunas ciencias (sobre todo en biología) que se basan en la construcción de narraciones historicas, el método científico esencial en la actualidad es básicamente el inductivo. @mayr1998.
+:::
+
+::: {.fragment fragment-index="2"}
+> Los estudios científicos adoptan muchas formas, pero básicamente comienzan con una serie de observaciones, seguidas de un periodo de experimentación mezclado con nuevas observaciones y análisis. @mauseth2016.
+:::
+
+::: {.fragment fragment-index="3"}
+![Enunciación y comprobación de las hipótesis. Modificado de @nabors2006.](/presentaciones/images/ciencia_hipotesis.svg){#fig-ciencia-hipotesis fig-align="center"}
+:::
+
+::: footer
+¿Qué es una hipótesis? ¿Qué es una teoría?
+:::
+
+## Áreas de la botánica {.smaller}
+
+::: {.fragment fragment-index="1"}
 > El estudio de las plantas nos ha proporcionado una gran comprensión de la naturaleza de toda la vida y seguirá haciéndolo en los años venideros. @evert2013.
+:::
+
+::: {.fragment fragment-index="2"}
+Según @fontquer2001, la botánica se divide en *botánica pura* y *botánica aplicada*. La primera estudia las plantas desde un punto de vista puramente teórico, mientras que la segunda aborda los problemas prácticos o de aplicación que pueden surgir al utilizar los vegetales. La *botánica pura* puede subdividirse en *botánica general* y *botánica especial*.
+:::
+
+::: columns
+::: {.column .fragment fragment-index="3" width="50%"}
+### Botánica general
+
+A.  Morfología botánica
+    1.  Morfología general y organografía
+    2.  Morfología experimental
+    3.  Anatomía
+        a.  Citología
+        b.  Histología
+        c.  Anatomía fisiológica
+B.  Fisiología botánica
+    1.  Fisiología botánica propiamente dicha
+    2.  Genética
+:::
+
+::: {.column .fragment fragment-index="4" width="50%"}
+### Botánica especial
+
+A.  Botánica sistemática o taxonomía botánica
+    1.  Botánica sistemática actual
+    2.  Paleontología botánica
+B.  Geobotánica
+C.  Teratología vegetal
+:::
+:::
+
+## Importancia de las plantas
+
+::: {.fragment fragment-index="1"}
+> Las plantas entran en nuestras vidas de innumerables maneras más allá de ser fuentes de alimento. Nos proporcionan fibra para la ropa, madera para muebles, refugio y combustible, papel para libros, especias para dar sabor, medicamentos y el oxígeno que respiramos. Dependemos completamente de las plantas. Además, tienen un gran atractivo sensorial y enriquecen nuestras vidas a través de los jardines, parques y áreas silvestres que disfrutamos. @evert2013.
+:::
+
+![Algunas de las plantas más utilizadas.](/presentaciones/images/botanica_importancia.jpg){#fig-botanica-importancia .fragment fragment-index="2" fig-align="center" width="65%"}
+
+## Plantas útiles
+
+::: columns
+::: {.column width="50%"}
+::: {.callout-note .fragment fragment-index="1"}
+Etnobotánica: rama de la botánica que estudia las interacciones entre las personas y las plantas. No sólo abarca el uso de las plantas por parte de las comunidades humanas, sino también su conocimiento, manejo y el simbolismo que estas tienen en diversas culturas.
+:::
+
+![Número de especies de plantas en cada categoría de uso. @sotwp2016.](/presentaciones/images/plantas_utiles_02.jpg){#fig-plantas-utiles-02 .fragment fragment-index="3" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Al menos 31,128 especies de plantas tienen actualmente un uso documentado. @sotwp2016.](/presentaciones/images/plantas_utiles_01.jpg){#fig-plantas-utiles-01 .fragment fragment-index="2" fig-align="center" width="65%"}
+:::
+:::
+
+## Plantas útiles en Colombia
+
+::: columns
+::: {.column width="50%"}
+![Catálogo de plantas útiles de Colombia. @catalogu2022.](/presentaciones/images/libro_catalogue-useful-plants-colombia.jpg){#fig-CUPC .fragment fragment-index="1" fig-align="center" width="75%"}
+:::
+
+::: {.column .fragment fragment-index="2" width="50%"}
+
+| Números  | Plantas | Plantas útiles | Hongos | Hongos útiles |
+|----------|---------|----------------|--------|---------------|
+| Especies | 28,947  | 7,472          | 7,140  | 374           |
+| Géneros  | 3,583   | 2,140          | 1,763  | 192           |
+| Familias | 395     | 258            | 448    | 99            |
+
+: Diversidad de plantas y hongos útiles frente a no útiles en Colombia {#tbl-CUPC}
+
+![Número de especies de plantas útiles en Colombia.](/presentaciones/images/plantas_utiles_colombia.png){#fig-CUPC-valores .fragment fragment-index="3" fig-align="center" width="75%"}
+:::
+:::
+
+## Plantas alimenticias
+
+::: columns
+::: {.column width="50%"}
+![El 80% de los alimentos derivados de plantas procede de 17 familias de plantas. Las más importantes son Poaceae, Fabaceae y Brassicaceae. @sotwpf2017.](/presentaciones/images/plantas_utiles_03.jpg){#fig-plantas-utiles-03 .fragment fragment-index="1" fig-align="center" width="65%"}
+:::
+
+::: {.column width="50%"}
+![Hay al menos 7039 especies de plantas comestibles, pero sólo 417 se consideran cultivos alimentarios. @sotwpf2020.](/presentaciones/images/plantas_utiles_04.jpg){#fig-plantas-utiles-04 .fragment fragment-index="2" fig-align="center" width="65%"}
+:::
+:::
+
+## Plantas alimenticias: amenazas
+
+![La biodiversidad que nos alimenta está gravemente amenazada. [@onu2019; @fao2019].](/presentaciones/images/noticia_onu_alimentacion.png){#fig-noticia-onu fig-align="center" width="75%"}
+
+## Plantas alimenticias: origen
+
+![Regiones primarias de diversidad de los principales cultivos agrícolas del mundo. @khoury2016.](/presentaciones/images/origen_alimentos.jpg){#fig-alimenciticias-origen fig-align="center"}
+
+## Plantas medicinales
+
+::: columns
+::: {.column width="50%"}
+![Plantas útiles - medicinales. En la actualidad hay registradas al menos 28,187 especies de plantas de uso medicinal. @sotwpf2017.](/presentaciones/images/plantas_utiles_05.jpg){#fig-plantas-utiles-05 .fragment fragment-index="1" fig-align="center" width="65%"}
+:::
+
+::: {.column width="50%"}
+![En Colombia hay 133 plantas aprobadas para uso medicinal.](/presentaciones/images/libro_plantas-medicinales.jpg){#fig-libro-plantas-medicinales .fragment fragment-index="2" fig-align="center" width="55%"}
+
+::: {.fragment fragment-index="3"}
+> «¿Sabes como llaman a la "medicina alternativa" que ha demostrado que funcionar? Medicina.» Minchin ([2011](https://www.youtube.com/watch?v=HhGuXCuDb1U)).
+:::
+:::
+:::
+
+## Plantas y ecosistemas urbanos
+
+::: columns
+::: {.column width="50%"}
+![Perspectiva general de los servicios prestados por los árboles en los ecosistemas urbanos. @sotwpf2020.](/presentaciones/images/ecosistemas_urbanos.jpg){#fig-ecosistemas-urbanos .fragment fragment-index="1" fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Las plantas en ecosistemas urbanos también pueden causar perjuicios. @espinosa-correa2025.](/presentaciones/images/arbolado-medellin.jpg){#fig-arbolado-urbano .fragment fragment-index="2" fig-align="center" width="60%"}
+:::
+:::
+
+::: footer
+En Colombia existe un [Catálogo de árboles urbanos en Colombia](https://catalogoarbolesurbanos.eia.edu.co)
+:::
+
+## Biotecnología
+
+
+## Debemos tomarnos en serio la extinción
+
+::: columns
+::: {.column width="50%"}
+![Se calcula que 2 de cada 5 plantas están en peligro de extinción. @sotwpf2020.](/presentaciones/images/plantas_extincion_01.jpg){#fig-plantas-extincion-01 .fragment fragment-index="1" fig-align="center" width="65%"}
+:::
+
+::: {.column width="50%"}
+![El 45% de las plantas con flor están en peligro de extinción. @sotwpf2023.](/presentaciones/images/plantas_extincion_02.jpg){#fig-plantas-extincion-02 .fragment fragment-index="2" fig-align="center" width="65%"}
+:::
+:::
+
+## Unas de cal, otras de arena
+
+::: columns
+::: {.column width="50%"}
+![Hay 221,399 plantas exclusivas de un solo país. @sotwpf2023.](/presentaciones/images/plantas_oportunidad_01.jpg){#fig-plantas-oportunidad-01 .fragment fragment-index="1" fig-align="center" width="65%"}
+:::
+
+::: {.column width="50%"}
+![Se han identificado 32 puntos oscuros de datos sobre plantas en todo el mundo. Las mayores lagunas de conocimiento sobre diversidad y distribución de plantas se dan en Colombia. @sotwpf2023.](/presentaciones/images/plantas_oportunidad_02.jpg){#fig-plantas-oportunidad-02 .fragment fragment-index="2" fig-align="center" width="65%"}
+:::
+:::
 
 ## Planta
 
 ## Diversidad de Embryophyta
+
+![@sotwpf2017.](embryophyta_relaciones_diagrama.jpg)
 
 ::: columns
 ::: {.column width="50%"}
@@ -63,33 +312,7 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 :::
 :::
 
-## Importancia de las plantas
 
-> Las plantas entran en nuestras vidas de innumerables maneras más allá de ser fuentes de alimento. Nos proporcionan fibra para la ropa, madera para muebles, refugio y combustible, papel para libros, especias para dar sabor, medicamentos y el oxígeno que respiramos. Dependemos completamente de las plantas. Además, tienen un gran atractivo sensorial y enriquecen nuestras vidas a través de los jardines, parques y áreas silvestres que disfrutamos. @evert2013.
-
-## Plantas útiles
-
-::: columns
-::: {.column width="50%"}
-![@sotwp2016](/presentaciones/images/plantas_utiles_01.jpg){#fig-plantas-utiles-01 fig-align="center"}
-:::
-
-::: {.column width="50%"}
-![@sotwp2016](/presentaciones/images/plantas_utiles_02.jpg){#fig-plantas-utiles-02 fig-align="center"}
-:::
-:::
-
-## Plantas útiles
-
-::: columns
-::: {.column width="50%"}
-![@sotwpf2017](/presentaciones/images/plantas_utiles_03.jpg){#fig-plantas-utiles-03 fig-align="center"}
-:::
-
-::: {.column width="50%"}
-![@sotwpf2020](/presentaciones/images/plantas_utiles_04.jpg){#fig-plantas-utiles-04 fig-align="center"}
-:::
-:::
 
 ## Heading 2
 
