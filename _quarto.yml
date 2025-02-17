@@ -48,7 +48,7 @@ website:
         href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
       - text: "Google Meet"
         icon: person-video
-        # href:
+        href: https://meet.google.com/zrq-rtri-der
 
     contents:
       - section: "Información del curso"
@@ -60,14 +60,20 @@ website:
           - text: "Google Classroom"
             href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
           - text: "Google Meet"
+            href: https://meet.google.com/zrq-rtri-der
           - text: "Enlaces de utilidad"
       - section: "Teoría"
         contents:
-          # - text: "Bienvenida al curso"
-          #   href: presentaciones/introducción/
-          # - text: "Origen y evolución de las plantas"
-          #   href: presentaciones/origen-evolucion/
+          - text: "Introducción al curso"
+            href: presentaciones/introduccion-curso/
+          - text: "Introducción a la botánica"
+            href: presentaciones/introduccion-botanica/
       - section: "Laboratorio"
+        contents:
+          # - text: "Introducción al laboratorio"
+          #   href: presentaciones/introducción-laboratorio/
+          # - text: "Recorrido"
+          #   href: presentaciones/recorrido/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
