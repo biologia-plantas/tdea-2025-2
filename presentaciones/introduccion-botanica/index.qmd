@@ -1,6 +1,6 @@
 ---
 title: "Introducción a la botánica"
-# date: 2025-02-15
+# date: 2025-02-18
 format: revealjs
 bibliography: references.bib
 ---
@@ -27,7 +27,7 @@ bibliography: references.bib
 :::
 
 ::: {.column .fragment fragment-index="2" width="50%"}
-![Tropical forest with monkeys, @rousseau1910.](/presentaciones/images/tropical_forest_with_monkeys_1982.76.7.jpg){#fig-tropical-forest-monkeys fig-align="center"}
+![Tropical forest with monkeys, @rousseau1910.](/presentaciones/images/tropical_forest_with_monkeys_1982.76.7.jpg){#fig-tropical-forest-monkeys fig-align="center" width="75%"}
 :::
 :::
 
@@ -172,7 +172,7 @@ C.  Teratología vegetal
 > Las plantas entran en nuestras vidas de innumerables maneras más allá de ser fuentes de alimento. Nos proporcionan fibra para la ropa, madera para muebles, refugio y combustible, papel para libros, especias para dar sabor, medicamentos y el oxígeno que respiramos. Dependemos completamente de las plantas. Además, tienen un gran atractivo sensorial y enriquecen nuestras vidas a través de los jardines, parques y áreas silvestres que disfrutamos. @evert2013.
 :::
 
-![Algunas de las plantas más utilizadas.](/presentaciones/images/botanica_importancia.jpg){#fig-botanica-importancia .fragment fragment-index="2" fig-align="center" width="65%"}
+![Algunas de las plantas más utilizadas. A. *Allium cepa*, cebolla. B. *Cannabis sativa*, marihuana. C. *Coffea arabica*, café. D. *Erythroxylum coca*, coca. E. *Hordeum vulgare*, cebada. F. *Humulus lupulus*, lúpulo. G. *Nicotiana tabacum*, tabaco. H. *Oryza sativa*, arroz. I. *Papaver somniferum*, amapola. J. *Phaseolus vulgaris*, frijol. K. *Saccharum officinarum*, caña. L. *Solanum lycopersicum*, tomate. M. *Solanum tuberosum*, papa. N. *Triticum aestivum*, trigo. O. *Zea mays*, maíz.](/presentaciones/images/botanica_importancia.jpg){#fig-botanica-importancia .fragment fragment-index="2" fig-align="center" width="65%"}
 
 ## Cómo la evolución de las plantas cambió la tierra {.smaller}
 
@@ -396,10 +396,10 @@ Definiciones tomadas de @simpson2019.
 -   **Homólogo:** carácter específico que es homólogo a otro rasgo citado. Ver: homología.
 :::
 
-::: {.column  width="50%"}
-![Caracteres biológicos según su posición evolutiva. <a href="https://commons.wikimedia.org/wiki/File:Cladogramanotansimple.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma-caracteres.svg){#fig-cladograma-caracteres .fragment fig-align="center"}
+::: {.column .fragment width="50%"}
+![Caracteres biológicos según su posición evolutiva. <a href="https://commons.wikimedia.org/wiki/File:Cladogramanotansimple.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma-caracteres.svg){#fig-cladograma-caracteres fig-align="center"}
 
-![Huesos homólogos en diferentes vertebrados. <a href="https://commons.wikimedia.org/wiki/File:Homology_vertebrates-es.svg">Волков Владислав Петрович (Vladlen666); translation by Angelito7</a>, CC0, via Wikimedia Commons.](/presentaciones/images/homology_vertebrates-es.svg){#fig-cladograma-caracteres .fragment fig-align="center" width="50%"}
+![Huesos homólogos en diferentes vertebrados. <a href="https://commons.wikimedia.org/wiki/File:Homology_vertebrates-es.svg">Волков Владислав Петрович (Vladlen666); translation by Angelito7</a>, CC0, via Wikimedia Commons.](/presentaciones/images/homology_vertebrates-es.svg){#fig-cladograma-caracteres fig-align="center" width="50%"}
 :::
 :::
 
@@ -481,17 +481,27 @@ Definiciones tomadas de @simpson2019.
 
 ## ¿Qué es una planta?
 
+::: fragment
 > Las plantas tienen tantos tipos y variaciones que una definición simple tiene muchas excepciones, y una definición que incluya todas las plantas y excluya todas las no plantas puede ser demasiado complicada para ser útil. @mauseth2016.
+:::
 
+::: fragment
 > Esta pregunta puede responderse de dos maneras conceptuales. Una, la tradicional, consiste en definir grupos de organismos como las plantas por las características que poseen. Una segunda forma es evaluar la historia evolutiva de la vida y utilizar esa historia para delimitar los grupos de vida. @simpson2019.
+:::
 
+::: fragment
 > Históricamente, las «plantas» incluían aquellos organismos que poseían fotosíntesis, paredes celulares, esporas y un comportamiento más o menos sedentario. Este grupo tradicional de plantas incluía una variedad de organismos microscópicos, todas las «algas» y las plantas más familiares que viven en tierra. @simpson2019.
+:::
 
 ## Carácteristicas de una planta
 
+::: fragment
 > La mayoría de las plantas tienen hojas verdes, tallos, raíces y flores, pero enseguida se nos ocurren excepciones. @mauseth2016.
+:::
 
+::: fragment
 ![Características típicas de una planta. @nabors2006.](/presentaciones/images/plantas_caracteristicas.jpg){#fig-plantas-caracteristicas fig-align="center"}
+:::
 
 ## Comparación de las plantas con otros organismos {.smaller}
 
@@ -519,9 +529,13 @@ Definiciones tomadas de @simpson2019.
 
 ## Dos superreinos vs Tres dominios
 
+::: fragment
 Superreinos (Eukaryota y Prokaryota) vs Tres dominios (Eukarya, Archaea, Bacteria)
+:::
 
+::: fragment
 ![Árbol filogenético mostrando la separación de bacterias, arqueas y eucariontes de acuerdo con @woese1990. <a href="https://commons.wikimedia.org/wiki/File:PhylogeneticTree,_Woese_1990.PNG">Maulucioni</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons. ](/presentaciones/images/phylogenetic_tree_woese_1990.png){#fig-phylogenetic-tree-woese fig-align="center"}
+:::
 
 ## Vivimos en un mundo de bacterias
 
@@ -531,7 +545,7 @@ Superreinos (Eukaryota y Prokaryota) vs Tres dominios (Eukarya, Archaea, Bacteri
 
 ![El árbol de la vida. Beaud (2023). Tomado de @sgribaldo2023.](/presentaciones/images/tree_of_life_beaud.jpg){#fig-tree-life-beaud fig-align="center"}
 
-## Plantas verdes 
+## Viridiplantae: las plantas verdes 
 
 > Las algas verdes (Chlorophyceae y Charophyceae) y las Embryophyta son un grupo monofilético de plantas que se denominan colectivamente Viridiplantae o Chloroplastida. Las Charophyceae y las Embryophyta se denominan colectivamente Streptophyta. @niklas2016.
 
@@ -541,19 +555,33 @@ Superreinos (Eukaryota y Prokaryota) vs Tres dominios (Eukarya, Archaea, Bacteri
 :::
 
 ::: {.column .fragment width="50%"}
-![Cladograma del estado actual de las relaciones entre filogenéticas los Streptophyta a partir de los últimos estudios filogenéticos y filogenómicos. @bierenbroodspot2024](/presentaciones/images/viridiplante_cladograma_02.jpeg){#fig-viridiplante-cladograma-02 fig-align="center"}
+![Cladograma del estado actual de las relaciones entre filogenéticas los Streptophyta a partir de los últimos estudios filogenéticos y filogenómicos. @bierenbroodspot2024](/presentaciones/images/viridiplante_cladograma_02.jpeg){#fig-viridiplante-cladograma-02 fig-align="center" width="65%"}
 :::
 :::
 
 ## Embryophyta: las plantas terrestres
 
+::: columns
+::: {.column .fragment width="50%"}
 > Las necesidades de un organismo fotosintético son relativamente sencillas: luz, agua, dióxido de carbono para la fotosíntesis, oxígeno para la respiración y algunos minerales. En tierra, la luz es abundante, al igual que el oxígeno y el dióxido de carbono, que circulan más libremente en el aire que en el agua. Además, el suelo suele ser rico en minerales. Así pues, el factor crítico para la transición a la tierra -o, como prefiere decir un investigador, «al aire»- es el agua. @evert2013
+:::
+
+::: {.column .fragment width="50%"}
+![Diversidad de las plantas terrestres. [Bewareofdog](https://commons.wikimedia.org/wiki/File:Plants.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), via Wikimedia Commons.](/presentaciones/images/embryophyta_diversidad.jpg){#fig-embryophyta-diversidad fig-align="center"}
+:::
+:::
+
+
 
 ## Embryophyta: características
 
+::: {.fragment}
 > Las plantas terrestres están unidas por varias novedades evolutivas que fueron adaptaciones a la transición de un medio acuático a la vida en tierra. Entre ellas se encuentran (1) una cutícula externa que ayuda a proteger los tejidos de la desecación; (2) gametangios especializados (órganos productores de óvulos y espermatozoides) que tienen una capa externa protectora de células estériles; y (3) una fase diploide intercalada (esporófito) en el ciclo vital, cuyo componente temprano e inmaduro se denomina embrión. @simpson2019
+:::
 
+::: {.fragment}
 > A pesar de la enorme diversidad de tamaño y aspecto entre estas plantas, todas las embriofitas modernas comparten tres importantes características del ciclo vital. (1) una alternancia de generaciones que incluye una generación haploide multicelular y una generación diploide multicelular. (2) la retención de los óvulos y sus embriones diploides dentro de una estructura llamada arquegonio (o su homólogo evolutivamente modificado). (3) la formación de espermatozoides dentro de una estructura denominada anteridio (o su homóloga modificada evolutivamente). @niklas2016.
+:::
 
 ## Embryophyta: relaciones
 
@@ -565,36 +593,103 @@ Superreinos (Eukaryota y Prokaryota) vs Tres dominios (Eukarya, Archaea, Bacteri
 
 ## Embryophyta: diversidad
 
-![@sotwpf2017.](embryophyta_relaciones_diagrama.jpg)
+![Diversidad de las plantas terrestres. @nabors2006.](/presentaciones/images/embryophyta_diversidad_02.jpg){#fig-embryophyta-diversidad-02.jpg fig-align="center"}
+
+
+## Embryophyta: diversidad en el mundo
 
 ::: columns
-::: {.column width="50%"}
+::: {.column .fragment width="50%"}
 World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 
+::: incremental
 -   Anthocerotophyta 225
 -   Marchantiophyta 7,321
 -   Bryophyta 11,970
 -   Lycopodiophyta 1,516
--   Polypodiophyta 12,688
+-   Polypodiophyta (Monilophyta) 12,688
 -   Gymnospermae 1134
 -   Angiospermae 345,299
 :::
+:::
 
-::: {.column width="50%"}
-![[Bewareofdog](https://commons.wikimedia.org/wiki/File:Plants.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), via Wikimedia Commons.](/presentaciones/images/embryophyta_diversidad.jpg){#fig-embryophyta-diversidad fig-align="center"}
+::: {.column .fragment width="50%"}
+![Diagrama simplificado para ilustrar las relaciones entre los principalres grupos de familias de plantas y el número de especies. @sotwpf2017.](/presentaciones/images/embryophyta_relaciones_diagrama.jpg){#fig-embryophyta-relaciones-diagrama fig-align="center"}
 :::
 :::
 
+## Embryophyta: diversidad en Colombia
 
+![@sibcolombia2025 reporta 37,718 especies de Embryophyta para Colombia. Angiospermas (32,343), Helechos (2,174), Musgos (1,312), Hepáticas (846), Gimnospermas (117), Antocerotas (19).](/presentaciones/images/embryophyta_diversidad_colombia.png){#fig-embryophyta-diversidad-colombia fig-align="center"}
 
-## Heading 2
+## Embryophyta: diversidad en Antioquia
+
+![@sibcolombia2025 reporta 13,581 especies de Embryophyta para Colombia. Angiospermas (11,526), Helechos (1,036), Musgos (580), Hepáticas (284), Gimnospermas (37), Antocerotas (3). Antioquia es el departamento con el mayor número de especies endémicas, así como de especies amenazadas.](/presentaciones/images/embryophyta_diversidad_antioquia.png){#fig-embryophyta-diversidad-antioquia fig-align="center"}
+
+## Evolución de las plantas
+
+::: fragment
+> Para poder hacer una tarta de manzana a partir de cero hay que inventar primero el universo. Sagan ([1980](https://www.imdb.com/es/title/tt0760463/))
+:::
+
+::: fragment
+Ocho acontecimientos de la historia de la vida vegetal se perfilan como monumentales por sus consecuencias sobre todas las formas de vida.
+:::
+
+::: incremental
+1.  La evolución de las primeras formas celulares de vida
+2.  El origen y desarrollo de las células fotosintéticas
+3.  La evolución de la pluricelularidad en los microorganismos procariotas
+4.  La primera aparición de células eucariotas (organismos con orgánulos y capacidad de reproducción sexual)
+5.  El asalto ecológico de las plantas a la tierra y su crecimiento en el aire
+6.  La evolución de los tejidos conductores
+7.  La evolución del hábito de la semilla
+8.  El surgimiento de las plantas con flores
+:::
+
+## La Tierra
 
 ::: columns
-::: {.column width="50%"}
+::: {.column .fragment width="50%"}
+![«Mira ese punto. Eso es aquí. Eso es nuestro hogar. Eso somos nosotros. En él, todos los que amas, todos los que conoces, todos de los que alguna vez escuchaste, cada ser humano que ha existido, vivió su vida.» @sagan2006. Imagen, <a href="https://commons.wikimedia.org/wiki/File:Pale_Blue_Dot.png">Voyager 1</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/pale_blue_bot.png){#fig-pale-blue-bot.png fig-align="center"}
 :::
 
-::: {.column width="50%"}
+::: {.column .fragment width="50%"}
+![Reloj geológico con los periodos y eventos más importantes. Ma, «hace un millón de años». <a href="https://commons.wikimedia.org/wiki/File:Geologic_Clock_with_events_and_periods.es.png">WoudloperDerivative work: HardwiggDerivative work: Lourdes Sada</a>, CC0, via Wikimedia Commons.](/presentaciones/images/geologic_clock.png){#fig-geologic-clock fig-align="center"}
 :::
 :::
+
+## Algunos acontecimientos evolutivos importantes
+
+::: columns
+::: {.column .fragment width="50%"}
+![La gran mayoría de la columna geológica está ocupada por el Precámbrico, y muchos de los acontecimientos históricos más importantes se registran en este lapso de tiempo. @niklas2016.](/presentaciones/images/cronologia_01.png){#fig-cronologia-01 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+> Los orígenes de los seres vivos están indicados por los depósitos más antiguos conocidos de grafito y estromatolitos. Los grandes yacimientos de minerales de hierro en bandas (oxidados) indican la presencia de oxígeno libre (y, por tanto, la evolución de la fotosíntesis). La aparición de las algas rojas es una prueba de la evolución de los organismos eucariotas pluricelulares, y los restos fósiles de plantas terrestres indican que estos organismos desarrollaron características que permitían su crecimiento en el aire. @niklas2016.
+
+:::
+:::
+
+## Algunos acontecimientos evolutivos importantes
+
+![Esquema de la columna geológica que enfatiza el intervalo de tiempo denominado Fanerozoico (que abarca desde 570 Mya hasta la actualidad). @niklas2016.](/presentaciones/images/cronologia_02.png){#fig-cronologia-02 fig-align="center"}
+
+## «Nos destruiran a todos»
+
+> No es una hipérbole decir que las plantas con flores han entrenado a los animales para que se conviertan en su cerebro y músculo sustitutos. @niklas2016
+
+![](/presentaciones/images/meme_lisa.jpg){.fragment fig-align="center"}
+
+<!-- ## Heading 2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencias

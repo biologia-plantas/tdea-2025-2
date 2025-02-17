@@ -1,7 +1,0 @@
----
-title: "Bienvenida al curso"
-# date: 2025-02-15
-format: revealjs
----
-
-# Detalles del curso
