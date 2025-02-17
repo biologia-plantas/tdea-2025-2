@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2200"
+   height="400"
+   viewBox="0 0 2200 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="ciencia_hipotesis.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="0.77744375"
+     inkscape:cx="483.63628"
+     inkscape:cy="42.446801"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g64"
+     inkscape:connector-spacing="40" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g64"
+       transform="translate(39.999982,-340)"
+       inkscape:connector-avoid="true">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1640,500.0768 40,-10e-6"
+         id="path47"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1640,579.76962 40,0.30716"
+         id="path48"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1800,515.048 40,9.9808"
+         id="path55"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g29"
+         inkscape:connection-end="#g32" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1800,480.5911 40,-12.99045"
+         id="path56"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g29" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1800,590.23496 1840,620"
+         id="path57"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 799.99999,514.92321 40.00001,10"
+         id="path59"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g8"
+         inkscape:connection-end="#g9" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 840,554.9232 -40,10.00001"
+         id="path60"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g9"
+         inkscape:connection-end="#g7" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1080,514.9232 40,10.00001"
+         id="path61"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g11"
+         inkscape:connection-end="#g13" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1080,564.92321 40,-10.00001"
+         id="path62"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g10"
+         inkscape:connection-end="#g13" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1360,515.01919 40,9.96162"
+         id="path63"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g15"
+         inkscape:connection-end="#g24" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1360,564.82721 40,-9.9616"
+         id="path64"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g14"
+         inkscape:connection-end="#g24" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 280,199.92321 39.99998,-1e-5"
+         id="path65"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g3"
+         inkscape:connection-end="#g4"
+         transform="translate(-39.999982,340)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 559.99998,199.92321 40,-1e-5"
+         id="path66"
+         inkscape:connector-type="polyline"
+         inkscape:connector-curvature="0"
+         inkscape:connection-start="#g5"
+         inkscape:connection-end="#g6"
+         transform="translate(-39.999982,340)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2060,320.00001 v 40 H 659.99998 V 239.9232"
+         id="path67"
+         transform="translate(-39.999982,340)" />
+      <path
+         style="fill-rule:evenodd;marker-end:url(#Triangle)"
+         d="m 375,35 v 124.92383 h 10 V 45 h 1770 v 150 h -35 v 10 h 45 V 35 Z"
+         id="path68"
+         transform="translate(-39.999982,340)" />
+    </g>
+    <g
+       id="g2"
+       transform="translate(-96.591738,40.733377)">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.499998"
+         id="rect1"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect1);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text1"
+         transform="translate(-0.40007629,11.804095)"><tspan
+           x="142.74377"
+           y="133.35373"
+           id="tspan2"><tspan
+             style="font-weight:bold"
+             id="tspan1">Observación y </tspan></tspan><tspan
+           x="138.28778"
+           y="153.35373"
+           id="tspan4"><tspan
+             style="font-weight:bold"
+             id="tspan3">recopilación de </tspan></tspan><tspan
+           x="175.55179"
+           y="173.35373"
+           id="tspan6"><tspan
+             style="font-weight:bold"
+             id="tspan5">datos</tspan></tspan></text>
+    </g>
+    <g
+       id="g3"
+       transform="translate(23.408281,20.733387)">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect2"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect2);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text2"
+         transform="translate(-0.60807629,21.084087)"><tspan
+           x="140.9758"
+           y="153.35373"
+           id="tspan7">El vegetal crece </tspan><tspan
+           x="157.10378"
+           y="173.35373"
+           id="tspan8">hacia la luz</tspan></text>
+    </g>
+    <g
+       id="g4"
+       transform="translate(183.40826,40.733377)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect3"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect3);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text3"
+         transform="translate(-0.35207629,11.804095)"><tspan
+           x="138.26379"
+           y="133.35373"
+           id="tspan10"><tspan
+             style="font-weight:bold"
+             id="tspan9">Formulación de </tspan></tspan><tspan
+           x="158.82379"
+           y="153.35373"
+           id="tspan12"><tspan
+             style="font-weight:bold"
+             id="tspan11">preguntas </tspan></tspan><tspan
+           x="168.55978"
+           y="173.35373"
+           id="tspan14"><tspan
+             style="font-weight:bold"
+             id="tspan13">críticas</tspan></tspan></text>
+    </g>
+    <g
+       id="g5"
+       transform="translate(303.40826,20.733387)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect4"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect4);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text4"
+         transform="translate(-7.6293945e-5,11.396087)"><tspan
+           x="144.10379"
+           y="153.35373"
+           id="tspan15">¿Qué parte del </tspan><tspan
+           x="142.47981"
+           y="173.35373"
+           id="tspan16">vegetal detecta </tspan><tspan
+           x="174.19179"
+           y="193.35373"
+           id="tspan17">la luz?</tspan></text>
+    </g>
+    <g
+       id="g6"
+       transform="translate(463.40826,40.733377)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect5"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect5);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text5"
+         transform="translate(-0.35207629,20.612095)"><tspan
+           x="139.54376"
+           y="133.35373"
+           id="tspan19"><tspan
+             style="font-weight:bold"
+             id="tspan18">Enunciación de </tspan></tspan><tspan
+           x="161.73576"
+           y="153.35373"
+           id="tspan21"><tspan
+             style="font-weight:bold"
+             id="tspan20">hipótesis</tspan></tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(583.40826,60.426197)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.499998"
+         id="rect6"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="139.49701" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect6);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text6"
+         transform="translate(-0.06408362,21.460087)"><tspan
+           x="161.11977"
+           y="153.66037"
+           id="tspan22">Las hojas 
+</tspan><tspan
+           x="145.21581"
+           y="173.66037"
+           id="tspan23">detectan la luz</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(433.40824,-19.266613)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect7"
+         width="120"
+         height="80"
+         x="286.59174"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect7);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text7"
+         transform="translate(-0.24806104,1.0840873)"><tspan
+           x="309.2238"
+           y="153.35373"
+           id="tspan24">El extremo </tspan><tspan
+           x="287.35979"
+           y="173.35373"
+           id="tspan25">superior del tallo </tspan><tspan
+           x="308.2718"
+           y="193.35373"
+           id="tspan26">del vegetal </tspan><tspan
+           x="299.5838"
+           y="213.35373"
+           id="tspan27">detecta la luz</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="translate(743.40826,40.733377)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect8"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect8);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text8"
+         transform="translate(-0.28007629,20.612095)"><tspan
+           x="142.28778"
+           y="133.35373"
+           id="tspan29"><tspan
+             style="font-weight:bold"
+             id="tspan28">Comprobación </tspan></tspan><tspan
+           x="149.87976"
+           y="153.35373"
+           id="tspan31"><tspan
+             style="font-weight:bold"
+             id="tspan30">de hipótesis</tspan></tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="translate(863.40828,60.733387)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.499998"
+         id="rect9"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect9);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text9"
+         transform="translate(-0.40007629,20.268087)"><tspan
+           x="144.59178"
+           y="153.35373"
+           id="tspan32">Cubrir o retirar </tspan><tspan
+           x="165.75977"
+           y="173.35373"
+           id="tspan33">las hojas</tspan></text>
+    </g>
+    <g
+       id="g11"
+       transform="translate(713.40826,-19.266613)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect10"
+         width="120"
+         height="80"
+         x="286.59174"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect10);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text10"
+         transform="translate(0.05593933,10.268087)"><tspan
+           x="294.59178"
+           y="153.35373"
+           id="tspan34">Cubrir o retirar </tspan><tspan
+           x="317.6398"
+           y="173.35373"
+           id="tspan35">el borde </tspan><tspan
+           x="287.35979"
+           y="193.35373"
+           id="tspan36">superior del tallo</tspan></text>
+    </g>
+    <g
+       id="g13"
+       transform="translate(1023.4083,40.733377)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect13"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect13);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text13"
+         transform="translate(-0.13607312,31.084095)"><tspan
+           x="154.4478"
+           y="133.35373"
+           id="tspan38"><tspan
+             style="font-weight:bold"
+             id="tspan37">Resultados</tspan></tspan></text>
+    </g>
+    <g
+       id="g14"
+       transform="translate(1143.4083,60.579797)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.499998"
+         id="rect14"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect14);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text14"
+         transform="translate(-0.60807629,11.460087)"><tspan
+           x="141.2478"
+           y="153.35373"
+           id="tspan39">El vegetal sigue </tspan><tspan
+           x="148.4958"
+           y="173.35373"
+           id="tspan40">detectando la </tspan><tspan
+           x="186.71181"
+           y="193.35373"
+           id="tspan41">luz</tspan></text>
+    </g>
+    <g
+       id="g15"
+       transform="translate(993.40823,-19.113023)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect15"
+         width="120"
+         height="80"
+         x="286.59174"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect15);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text15"
+         transform="translate(-0.32006836,21.084087)"><tspan
+           x="312.5598"
+           y="153.35373"
+           id="tspan42">El vegetal
+</tspan><tspan
+           x="288.6478"
+           y="173.35373"
+           id="tspan43">no detecta la luz</tspan></text>
+    </g>
+    <g
+       id="g24"
+       transform="translate(1303.4083,40.733377)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect24"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect24);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text24"
+         transform="translate(0.21592688,20.612095)"><tspan
+           x="142.39178"
+           y="133.35373"
+           id="tspan45"><tspan
+             style="font-weight:bold"
+             id="tspan44">Interpretación </tspan></tspan><tspan
+           x="140.80777"
+           y="153.35373"
+           id="tspan47"><tspan
+             style="font-weight:bold"
+             id="tspan46">y conclusiones</tspan></tspan></text>
+    </g>
+    <g
+       id="g25"
+       transform="translate(1423.4083,60.579797)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.499998"
+         id="rect25"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect25);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text25"
+         transform="translate(-0.06408362,21.460087)"><tspan
+           x="152.42377"
+           y="153.35373"
+           id="tspan48">Las hojas no </tspan><tspan
+           x="145.21581"
+           y="173.35373"
+           id="tspan49">detectan la luz</tspan></text>
+    </g>
+    <g
+       id="g26"
+       transform="translate(1273.4083,-19.113023)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect26"
+         width="120"
+         height="80"
+         x="286.59174"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect26);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text26"
+         transform="translate(-0.24806104,11.084087)"><tspan
+           x="309.2238"
+           y="153.35373"
+           id="tspan50">El extremo </tspan><tspan
+           x="287.35979"
+           y="173.35373"
+           id="tspan51">superior del tallo </tspan><tspan
+           x="299.5838"
+           y="193.35373"
+           id="tspan52">detecta la luz</tspan></text>
+    </g>
+    <g
+       id="g29"
+       transform="translate(1583.4083,0.88696685)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect29"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect29);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text29"
+         transform="translate(-0.35207629,21.804095)"><tspan
+           x="160.75977"
+           y="133.35373"
+           id="tspan54"><tspan
+             style="font-weight:bold"
+             id="tspan53">Hipótesis </tspan></tspan><tspan
+           x="163.24777"
+           y="153.35373"
+           id="tspan56"><tspan
+             style="font-weight:bold"
+             id="tspan55">admitida</tspan></tspan></text>
+    </g>
+    <g
+       id="g30"
+       transform="translate(1583.4083,80.886957)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect30"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect30);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text30"
+         transform="translate(-0.13607361,21.804095)"><tspan
+           x="160.75977"
+           y="133.35373"
+           id="tspan58"><tspan
+             style="font-weight:bold"
+             id="tspan57">Hipótesis </tspan></tspan><tspan
+           x="158.30377"
+           y="153.35373"
+           id="tspan60"><tspan
+             style="font-weight:bold"
+             id="tspan59">rechazada</tspan></tspan></text>
+    </g>
+    <g
+       id="g31"
+       transform="translate(1743.4083,-39.189833)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.499999"
+         id="rect31"
+         width="240"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect31);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text31"
+         transform="translate(-0.06407361,11.804095)"><tspan
+           x="160.02374"
+           y="133.35373"
+           id="tspan62"><tspan
+             style="font-weight:bold"
+             id="tspan61">Una hipótesis confirmada
+</tspan></tspan><tspan
+           x="180.35179"
+           y="153.35373"
+           id="tspan64"><tspan
+             style="font-weight:bold"
+             id="tspan63">a gran escala puede </tspan></tspan><tspan
+           x="161.84778"
+           y="173.35373"
+           id="tspan66"><tspan
+             style="font-weight:bold"
+             id="tspan65">convertirse en una teoría</tspan></tspan></text>
+    </g>
+    <g
+       id="g32"
+       transform="translate(1743.4083,40.810177)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect32"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect32);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text32"
+         transform="translate(-0.40007629,1.0840949)"><tspan
+           x="140.99179"
+           y="133.35373"
+           id="tspan68"><tspan
+             style="font-weight:bold"
+             id="tspan67">Los resultados </tspan></tspan><tspan
+           x="139.57579"
+           y="153.35373"
+           id="tspan70"><tspan
+             style="font-weight:bold"
+             id="tspan69">pueden sugerir </tspan></tspan><tspan
+           x="177.4478"
+           y="173.35373"
+           id="tspan72"><tspan
+             style="font-weight:bold"
+             id="tspan71">otras </tspan></tspan><tspan
+           x="155.62378"
+           y="193.35373"
+           id="tspan74"><tspan
+             style="font-weight:bold"
+             id="tspan73">cuestiones</tspan></tspan></text>
+    </g>
+    <g
+       id="g33"
+       transform="translate(1743.4083,120.81018)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#e69f00;stroke:#000000;stroke-width:0.5"
+         id="rect33"
+         width="120"
+         height="80"
+         x="136.59172"
+         y="119.18983" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect33);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text33"
+         transform="translate(-0.35207629,9.8920949)"><tspan
+           x="145.95181"
+           y="133.35373"
+           id="tspan76"><tspan
+             style="font-weight:bold"
+             id="tspan75">Desarrollo de </tspan></tspan><tspan
+           x="158.50377"
+           y="153.35373"
+           id="tspan78"><tspan
+             style="font-weight:bold"
+             id="tspan77">una nueva </tspan></tspan><tspan
+           x="161.73576"
+           y="173.35373"
+           id="tspan80"><tspan
+             style="font-weight:bold"
+             id="tspan79">hipótesis</tspan></tspan></text>
+    </g>
+    <g
+       id="g34"
+       transform="translate(1713.4083,20.810177)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect34"
+         width="120"
+         height="80"
+         x="286.59174"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect34);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text34"
+         transform="translate(-0.24806104,-0.35591268)"><tspan
+           x="294.54379"
+           y="153.35373"
+           id="tspan81">¿Qué rango de </tspan><tspan
+           x="289.50378"
+           y="173.35373"
+           id="tspan82">colores de la luz </tspan><tspan
+           x="303.3598"
+           y="193.35373"
+           id="tspan83">detectan los </tspan><tspan
+           x="309.0078"
+           y="213.35373"
+           id="tspan84">vegetales?</tspan></text>
+    </g>
+    <g
+       id="g35"
+       transform="translate(1713.4083,100.81019)"
+       inkscape:connector-avoid="true">
+      <rect
+         style="fill:#0072b2;stroke:#000000;stroke-width:0.5"
+         id="rect35"
+         width="120"
+         height="80"
+         x="286.59174"
+         y="139.18982" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre-wrap;shape-inside:url(#rect35);display:inline;fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="286.43173"
+         y="133.62183"
+         id="text35"
+         transform="translate(-0.24806104,11.084087)"><tspan
+           x="309.2238"
+           y="153.35373"
+           id="tspan85">El extremo </tspan><tspan
+           x="287.35979"
+           y="173.35373"
+           id="tspan86">superior del tallo </tspan><tspan
+           x="299.5838"
+           y="193.35373"
+           id="tspan87">detecta la luz</tspan></text>
+    </g>
+  </g>
+</svg>
