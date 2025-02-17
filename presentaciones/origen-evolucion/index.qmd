@@ -174,6 +174,28 @@ C.  Teratología vegetal
 
 ![Algunas de las plantas más utilizadas.](/presentaciones/images/botanica_importancia.jpg){#fig-botanica-importancia .fragment fragment-index="2" fig-align="center" width="65%"}
 
+## Cómo la evolución de las plantas cambió la tierra {.smaller}
+
+::: incremental
+1.  Evolución de la fotosíntesis
+    -   Transformaron una atmósfera reductora en una atmósfera oxidante; proporcionaron alimento a los heterótrofos.
+2.  Evolución de las plantas terrestres
+    -   Mejoraron el paisaje terrestre; allanaron el camino para la colonización de la tierra por ani- males; dieron forma a los ciclos del agua y los nutrientes del suelo.
+3.  Evolución de la madera
+    -   Secuestró dióxido de carbono; proporcionó material de construcción ligero que amplificó la tridimensionalidad de las comunidades terrestres; dio forma a los ecosistemas gracias a los incendios forestales.
+4.  Evolución de las Plantas con flor y endosperma
+    -   Permitió el almacenamiento de semillas por parte de los primeros humanos, fomentando así la transición de una sociedad cazadora-recolectora a una sociedad agraria.
+5.  Fosilización de las plantas y formación del carbón
+    -   Fomentó la Revolución Industrial.
+6.  Diversificación de los productos metabólicos secundarios de las plantas
+    -   Sigue proporcionando numerosos fármacos.
+:::
+
+
+::: footer
+Tomado de @niklas2016.
+:::
+
 ## Plantas útiles
 
 ::: columns
@@ -435,19 +457,113 @@ Definiciones tomadas de @simpson2019.
 
 > Este es un planeta azul, pero es un mundo verde. @niklas2016.
 
+## Conceptos para entender las plantas
+
+::: incremental
+
+1.  El metabolismo de las plantas se basa en los principios de la química y la física.
+
+2.  Las plantas deben disponer de medios para almacenar y utilizar la información.
+
+3.  Las plantas se reproducen, transmitiendo sus genes y su información a sus descendientes.
+
+4.  Los genes y la información que contienen cambian.
+
+5.  Las plantas deben sobrevivir en su propio entorno.
+
+6.  Las plantas son organismos muy integrados.
+
+7.  Una planta individual es el resultado temporal de la acción conjunta de genes y medio ambiente. 
+
+8.  Las plantas no tienen propósito ni capacidad de decisión.
+
+:::
+
 ## ¿Qué es una planta?
 
 > Las plantas tienen tantos tipos y variaciones que una definición simple tiene muchas excepciones, y una definición que incluya todas las plantas y excluya todas las no plantas puede ser demasiado complicada para ser útil. @mauseth2016.
 
 > Esta pregunta puede responderse de dos maneras conceptuales. Una, la tradicional, consiste en definir grupos de organismos como las plantas por las características que poseen. Una segunda forma es evaluar la historia evolutiva de la vida y utilizar esa historia para delimitar los grupos de vida. @simpson2019.
 
+> Históricamente, las «plantas» incluían aquellos organismos que poseían fotosíntesis, paredes celulares, esporas y un comportamiento más o menos sedentario. Este grupo tradicional de plantas incluía una variedad de organismos microscópicos, todas las «algas» y las plantas más familiares que viven en tierra. @simpson2019.
+
 ## Carácteristicas de una planta
 
-## Conquistando la tierra
+> La mayoría de las plantas tienen hojas verdes, tallos, raíces y flores, pero enseguida se nos ocurren excepciones. @mauseth2016.
+
+![Características típicas de una planta. @nabors2006.](/presentaciones/images/plantas_caracteristicas.jpg){#fig-plantas-caracteristicas fig-align="center"}
+
+## Comparación de las plantas con otros organismos {.smaller}
+
+|                       | Bacterias                                             | Algas                                                                                                                                            | Plantas                                                                                                                                                              | Hongos                                                  | Animales                                                                                                                  |
+|------------|------------|------------|------------|------------|------------|
+| **Tipo de célula**    | Procariota; unicelulares, pero pueden formar colonias | Eucariota; unicelulares y pluricelulares                                                                                                         | Eucariota; pluricelulares                                                                                                                                            | Eucariota; pluricelulares                               | Eucariota; pluricelulares                                                                                                 |
+| **Pared celular**     | Paredes celulares carentes de celulosa                | Las paredes celulares de algunas especies contienen celulosa                                                                                     | Paredes celulares compuestas principalmente de celulosa                                                                                                              | Paredes celulares compuestas principalmente por quitina | Sin paredes celulares                                                                                                     |
+| **Tipo de nutrición** | Varios; algunas son fotosintéticas autótrofas         | Fotosintéticas autótrofas                                                                                                                        | Fotosintéticos autótrofos                                                                                                                                            | Heterótrofos que absorben alimentos                     | Heterótrofos que ingieren alimentos                                                                                       |
+| **Reproducción**      | Fundamentalmente asexual                              | Sexual y asexual; algunas especies presentan dos formas o fases adultas: una que produce esporas y otra que produce ovocélulas y espermatozoides | Sexual y asexual; dos formas o generaciones adultas: una que produce esporas y que produce ovocélulas y espermatozoides; embrión protegido dentro de la planta madre | Sexual y asexual                                        | Fundamentalmente asexual; embrión protegido dentro de la madre en algunas especies, incluidos la mayoría de los mamíferos |
+| **Crecimiento**       | Indeterminado                                         | Indeterminado o determinado                                                                                                                      | Indeterminado o determinado                                                                                                                                          | Indeterminado o determinado                             | Determinado                                                                                                               |
+
+: Las plantas comparten una o más características con cada uno de estos otros tipos de organismos. No obstante, las plantas difieren de cada uno de estos grupos en uno o más aspectos. @nabors2006. {#tbl-plantas-comparacion}
+
+## El Árbol de la vida
+
+::: columns
+::: {.column .fragment width="50%"}
+![The great tree of life de @soltis2019.](/presentaciones/images/libro-great-tree-life.jpg){#fig-great-tree-life fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![El árbol de la vida visto en La evolución del hombre (1879). <a href="https://commons.wikimedia.org/wiki/File:Tree_of_life_by_Haeckel.jpg">Ernst Haeckel</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/tree_of_life_by_haeckel.jpg){#fig-tree-life-haeckel fig-align="center" width="60%"}
+:::
+:::
+
+## Dos superreinos vs Tres dominios
+
+Superreinos (Eukaryota y Prokaryota) vs Tres dominios (Eukarya, Archaea, Bacteria)
+
+![Árbol filogenético mostrando la separación de bacterias, arqueas y eucariontes de acuerdo con @woese1990. <a href="https://commons.wikimedia.org/wiki/File:PhylogeneticTree,_Woese_1990.PNG">Maulucioni</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons. ](/presentaciones/images/phylogenetic_tree_woese_1990.png){#fig-phylogenetic-tree-woese fig-align="center"}
+
+## Vivimos en un mundo de bacterias
+
+![El árbol de la vida. @eisenberg2017.](/presentaciones/images/tree-of-life_eisenberg.jpg){#fig-tree-life-beaud fig-align="center"}
+
+## Vivimos en un mundo de bacterias
+
+![El árbol de la vida. Beaud (2023). Tomado de @sgribaldo2023.](/presentaciones/images/tree_of_life_beaud.jpg){#fig-tree-life-beaud fig-align="center"}
+
+## Plantas verdes 
+
+> Las algas verdes (Chlorophyceae y Charophyceae) y las Embryophyta son un grupo monofilético de plantas que se denominan colectivamente Viridiplantae o Chloroplastida. Las Charophyceae y las Embryophyta se denominan colectivamente Streptophyta. @niklas2016.
+
+::: columns
+::: {.column .fragment width="50%"}
+![Cladograma de las relaciones filogenéticas de Viridiplantae. Algunas de las relaciones filogenéticas mostradas en este diagrama son problemáticas. @niklas2016.](/presentaciones/images/viridiplante_cladograma_01.png){#fig-viridiplante-cladograma-01 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Cladograma del estado actual de las relaciones entre filogenéticas los Streptophyta a partir de los últimos estudios filogenéticos y filogenómicos. @bierenbroodspot2024](/presentaciones/images/viridiplante_cladograma_02.jpeg){#fig-viridiplante-cladograma-02 fig-align="center"}
+:::
+:::
+
+## Embryophyta: las plantas terrestres
 
 > Las necesidades de un organismo fotosintético son relativamente sencillas: luz, agua, dióxido de carbono para la fotosíntesis, oxígeno para la respiración y algunos minerales. En tierra, la luz es abundante, al igual que el oxígeno y el dióxido de carbono, que circulan más libremente en el aire que en el agua. Además, el suelo suele ser rico en minerales. Así pues, el factor crítico para la transición a la tierra -o, como prefiere decir un investigador, «al aire»- es el agua. @evert2013
 
-## Diversidad de Embryophyta
+## Embryophyta: características
+
+> Las plantas terrestres están unidas por varias novedades evolutivas que fueron adaptaciones a la transición de un medio acuático a la vida en tierra. Entre ellas se encuentran (1) una cutícula externa que ayuda a proteger los tejidos de la desecación; (2) gametangios especializados (órganos productores de óvulos y espermatozoides) que tienen una capa externa protectora de células estériles; y (3) una fase diploide intercalada (esporófito) en el ciclo vital, cuyo componente temprano e inmaduro se denomina embrión. @simpson2019
+
+> A pesar de la enorme diversidad de tamaño y aspecto entre estas plantas, todas las embriofitas modernas comparten tres importantes características del ciclo vital. (1) una alternancia de generaciones que incluye una generación haploide multicelular y una generación diploide multicelular. (2) la retención de los óvulos y sus embriones diploides dentro de una estructura llamada arquegonio (o su homólogo evolutivamente modificado). (3) la formación de espermatozoides dentro de una estructura denominada anteridio (o su homóloga modificada evolutivamente). @niklas2016.
+
+## Embryophyta: relaciones
+
+![Árbol filogenómico de plástidos basado en el análisis de 1827 taxones de Viridiplantae y 52 outgroups utilizando 78 genes codificadores de proteínas. @gitzendanner2018.](/presentaciones/images/viridiplante_cladograma_03.jpg){#fig-viridiplante-cladograma-03 fig-align="center"}
+
+## Embryophyta: relaciones
+
+![Las inferencias filogenéticas se basaron en el análisis ASTRAL de 410 familias de genes nucleares de una sola copia extraídas de datos genómicos y transcriptómicos de 1.153 especies, incluidas 1.090 especies de plantas verdes (Viridiplantae). @onekp2019.](/presentaciones/images/viridiplante_cladograma_04.png){#fig-viridiplante-cladograma-04 fig-align="center"}
+
+## Embryophyta: diversidad
 
 ![@sotwpf2017.](embryophyta_relaciones_diagrama.jpg)
 
@@ -455,9 +571,9 @@ Definiciones tomadas de @simpson2019.
 ::: {.column width="50%"}
 World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 
+-   Anthocerotophyta 225
 -   Marchantiophyta 7,321
 -   Bryophyta 11,970
--   Anthocerotophyta 225
 -   Lycopodiophyta 1,516
 -   Polypodiophyta 12,688
 -   Gymnospermae 1134
