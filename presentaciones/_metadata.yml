@@ -19,6 +19,12 @@ format:
     touch: false
     footer: "[biologia-plantas.github.io/2025-1](https://biologia-plantas.github.io/2025-1/)"
     logo: "/imagenes/bldp.png"
+    pointer:
+      color: green
+      pointerSize: 30
+
+revealjs-plugins:
+  - pointer
 
 execute:
   freeze: auto
