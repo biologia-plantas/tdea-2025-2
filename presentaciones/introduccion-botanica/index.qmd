@@ -1,7 +1,10 @@
 ---
 title: "Introducción a la botánica"
 # date: 2025-02-18
-format: revealjs
+format:
+  revealjs:
+    controls: true
+    touch: false
 bibliography: references.bib
 ---
 

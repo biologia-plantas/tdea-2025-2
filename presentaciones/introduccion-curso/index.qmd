@@ -1,7 +1,10 @@
 ---
 title: "Introducción al curso"
 # date: 2025-02-18
-format: revealjs
+format:
+  revealjs:
+    controls: true
+    touch: false
 bibliography: references.bib
 nocite: |
   @beentje2016; @bonifacino2011; @bowes2013; @evert2006; @evert2013; @ellis2009; @fontquer2001; @mauseth2016; @nabors2006; @arbo2019; @casares-porcel2014; @megías-pacheco2017; @tormomolina2021
