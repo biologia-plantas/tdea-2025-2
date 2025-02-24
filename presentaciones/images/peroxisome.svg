@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="620"
+xmlns:xlink="http://www.w3.org/1999/xlink" height="620">
+<circle fill="#5B6" cx="310" cy="310" r="300"/>
+<circle fill="#6CD" cx="310" cy="310" r="275"/>
+<path fill="#77B" d="m175.5,234.3-40.5,71.8 44.4,92.7
+82,5 103-1.3 95.4,20.9 35.3-57.5
+l7.8-83.6-43.1-48.3-71.8-13-98,2.6"/>
+
+<g font-family="ArialMT" font-size="26" text-anchor="middle">
+ <switch transform="translate(310,160)">
+	<text systemLanguage="ca">Bicapa lipídica</text>
+	<text systemLanguage="de">Doppellipidschicht</text>
+	<text systemLanguage="en">Lipid bilayer membrane</text>
+	<text systemLanguage="es">Bicapa lipídica</text>
+	<text systemLanguage="el">Λιπιδική μεμβράνη διπλοστιβάδας</text>
+	<text systemLanguage="fi">Kaksoislipidikalvo</text>
+	<text systemLanguage="nl">Lipide dubbellaag membraan</text>
+	<text systemLanguage="pt">Membrana de bocal lipídico</text>
+	<text systemLanguage="tr">Çift katmanlı lipit zar</text>
+	<text systemLanguage="uk">мембрана</text>
+	<text systemLanguage="vi">Màng lởp kép lipid</text>
+	<text systemLanguage="zh-cn">脂双层膜</text>
+	<text systemLanguage="zh-hant">脂雙層</text>
+ </switch>
+ <switch transform="translate(310,294)">
+	<text systemLanguage="ca">Nucli cristal·loide</text>
+	<text systemLanguage="de">Kristallisierter Kern</text>
+	<text systemLanguage="en">Cristalloid core</text>
+	<text systemLanguage="el">Κρυσταλλοειδής πυρήνας</text>
+	<text systemLanguage="es">Núcleo cristalizado</text>
+	<text systemLanguage="fi">Kidemuodostuma</text>
+	<text systemLanguage="nl">Gekristalliseerde kern</text>
+	<text systemLanguage="pt">Núcleo cristalizado</text>
+	<text systemLanguage="tr">Kristaloid öz</text>
+	<text systemLanguage="uk">Кристалічна серцевина</text>
+	<text systemLanguage="vi">lõi tinh thể</text>
+	<text systemLanguage="zh-cn">拟晶体核</text>
+	<text systemLanguage="zh-hant">類晶體核</text>
+ </switch>
+ <switch transform="translate(310,326)" font-size="20">
+	<text systemLanguage="ca">(no sempre present)</text>
+	<text systemLanguage="de">(nicht immer vorhanden)</text>
+	<text systemLanguage="en">(not always present}</text>
+	<text systemLanguage="el">(όχι πάντα παρών)</text>
+	<text systemLanguage="es">(no siempre presente)</text>
+	<text systemLanguage="fi">(ei aina läsnä, ei ihmisillä)</text>
+	<text systemLanguage="nl">(niet altijd aanwezig)</text>
+	<text systemLanguage="pt">(nem sempre presente)</text>
+	<text systemLanguage="tr">(her zaman bulunmaz)</text>
+	<text systemLanguage="uk">(пписутня не завжди)</text>
+	<text systemLanguage="vi">(không bẳt buộc)</text>
+	<text systemLanguage="zh-cn">（不总是存在）</text>
+	<text systemLanguage="zh-hant">（並非皆有）</text>
+ </switch>
+ <switch transform="rotate(-37 350 580)translate(500 660)" font-size="20">
+	<text systemLanguage="ca">Membrana plasmàtica</text>
+	<text systemLanguage="de">Plastische Membran</text>
+	<text systemLanguage="en">Plasma membrane</text>
+	<text systemLanguage="es">Membrana plasmática</text>
+	<text> </text>
+	</switch>
+</g>
+
+<g id="g"><g id="f"><g id="e"><g id="d"><g id="c"><g id="b"><g id="a">
+<path id="s" stroke="#093" d="m310,10v25"/>
+<use xlink:href="#s" transform="rotate(1 310,310)"/>
+<circle id="k" fill="#FF6" stroke="#093" cx="310" cy="35" r="5.0"/>
+<use xlink:href="#k" transform="translate(0-25)rotate(1 310,310)"/></g>
+<use xlink:href="#a" transform="rotate(2 310,310)"/></g> 
+<use xlink:href="#b" transform="rotate(4 310,310)"/></g> 
+<use xlink:href="#c" transform="rotate(8 310,310)"/></g> 
+<use xlink:href="#d" transform="rotate(16 310,310)"/></g> 
+<use xlink:href="#e" transform="rotate(32 310,310)"/></g> 
+<use xlink:href="#f" transform="rotate(64 310,310)"/></g> 
+<use xlink:href="#g" transform="rotate(128 310,310)"/> 
+<use xlink:href="#g" transform="rotate(256 310,310)"/> 
+<circle cx="400" cy="38" r="4"/>
+<path stroke="#000" stroke-width="2" d="m310,130 90-92"/>
+</svg>
