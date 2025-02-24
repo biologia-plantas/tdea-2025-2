@@ -322,7 +322,7 @@ La membrana plasmática tiene varias funciones importantes:
 :::
 :::
 
-## Peroxixomas
+## Peroxisomas
 
 ::: columns
 ::: {.column .fragment width="50%"}
@@ -355,47 +355,172 @@ La membrana plasmática tiene varias funciones importantes:
 :::
 :::
 
-## Retículo endoplásmico
+## Retículo endoplásmico {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+
+> El retículo endoplásmico (RE) es un complejo sistema de membranas tridimensional que impregna todo el citosol. @evert2013.
+
+> El RE liso, que normalmente tiene forma tubular, fabrica lípidos y modifica la estructura de algunos carbohidratos. La superficie del RE rugoso está salpicada por ribosomas sintetizadores de proteínas, que le otorgan esa apariencia rugosa. Dicha superficie suele estar formada por unos sacos planos, conectados entre sí,
+llamados cisternas. @nabors2006.
+
+> El RE funciona como sistema de comunicación dentro de la célula y como sistema de canalización de materiales (proteínas y lípidos) hacia distintas partes de la célula. Además, el RE de células vegetales adyacentes está interconectado por filamentos citoplasmáticos (plasmodesmos) que atraviesan sus paredes comunes y desempeñan un papel en la comunicación entre células. @evert2013.
+
 :::
 
 ::: {.column .fragment width="50%"}
+![1. Membrana nuclear. 2. Poro nuclear. 3. Retículo endoplásmico rugoso (rER). 4. Retículo endoplásmico liso (sER). 5. Ribosoma unido al rER. 6. Macromoléculas. 7. Vesículas de transporte. 8. Aparato de Golgi. 9. Cara cis del aparato de Golgi. 10. Cara trans del aparato de Golgi. 11. Cisternas del aparato de Golgi. <a href="https://commons.wikimedia.org/wiki/File:Nucleus_ER_golgi.svg">Nucleus ER golgi.jpg: Magnus Manske / derivative work: Pbroks13</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.](/presentaciones/images/nucleus_er_golgi.svg){#fig-reticulo-endoplasmatico fig-align="center" width="75%"}
 :::
 :::
 
-## Aparato de Golgi
+## Aparato de Golgi {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> El término aparato de Golgi, o complejo de Golgi, se utiliza para referirse colectivamente a todos los cuerpos de Golgi (también llamados cuerpos de Golgi o dictiosomas) de una célula. @evert2013.
+
+> El aparato de Golgi está formado por varios sacos independientes de cisternas que tienen su origen en las membranas que se producen en el RE. Al contrario que las cisternas del RE, las cisternas del cuerpo de Golgi no están conectadas entre sí. La cara del cuerpo de Golgi más cercana al RE (cis) recibe de éste las vesículas de transporte. Las nuevas vesículas de transporte se forman en la cara del cuerpo de Golgi más alejada del RE (trans). @nabors2006.
+
+> En las plantas, la mayoría de los cuerpos de Golgi participan en la síntesis y secreción de polisacáridos no celulósicos (hemicelulosas y pectinas) destinados a incorporarse a la pared celular. @evert2013.
+
 :::
 
 ::: {.column .fragment width="50%"}
+![Diagrama del aparato de Golgi. <a href="https://commons.wikimedia.org/wiki/File:Golgi_apparatus_(borderless_version)-es.svg">Kelvinsong</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.](/presentaciones/images/golgi_apparatus.svg){#fig-aparato-golgi fig-align="center" width="100%"}
 :::
 :::
 
-## Ribosomas
+## Ribosomas {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Son agregados complejos de tres moléculas de ARN (ARN ribosomal) y aproximadamente 50 tipos de proteínas que se asocian y forman dos subunidades. @mauseth2016.
+
+> Algunos científicos prefieren no llamar orgánulos a los ribosomas, pues éstos son mucho más pequeños que aquéllos, carecen de membranas y también están presentes en las células procariotas. Sin embargo, los ribosomas de las células eucariotas son tremendamente diferentes a los de las procariotas. @nabors2006.
+
+> Los ribosomas que participan activamente en la síntesis de proteínas se agrupan en conjuntos o agregados denominados polisomas o polirribosomas. @evert2013.
+
+> Cada ribosoma consta de una subunidad grande y otra pequeña, que se producen en el nucléolo y se exportan al citoplasma, donde se ensamblan en un ribosoma. @evert2013.
+
 :::
 
 ::: {.column .fragment width="50%"}
+![Subunidades grande (roja) y pequeña (azul) de un ribosoma. <a href="https://commons.wikimedia.org/wiki/File:Ribosome_shape.png">Vossman</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/ribosome_shape.png){#fig-ribosoma-01 fig-align="center"}
+
+![Ribosoma durante la traducción. <a href="https://commons.wikimedia.org/wiki/File:Ribosome_mRNA_translation_es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/ribosome_mRNA.svg){#fig-ribosoma-02 fig-align="center"}
 :::
 :::
+
+## Sistema endomembranoso
+
+> Sin embargo, a excepción de las membranas mitocondriales, plastidiales y peroxisomales, todas las membranas celulares -incluidas la membrana plasmática, la envoltura nuclear, el retículo endoplásmico, el aparato de Golgi, el tonoplasto y varios tipos de vesículas- constituyen un sistema continuo e interconectado, conocido como sistema endomembranoso. @evert2013.
+
+
+![El sistema de endomembranas está formado por una red interconectada de retículo endoplásmico, envoltura nuclear, cuerpos de Golgi con sus vesículas de transporte y secreción, membrana plasmática y membranas vacuolares. @evert2013.](/presentaciones/images/sistema_endomembranoso.jpg){#fig-sistema-endomembranoso fig-align="center"}
 
 ## Citoesqueleto
 
+> Todas las células eucariotas poseen un citoesqueleto, una red dinámica tridimensional de filamentos proteicos que se extiende por todo el citosol y está íntimamente implicada en muchos procesos. 
+>
+> El citoesqueleto de las células vegetales está formado por dos tipos de filamentos proteicos: los microtúbulos y los microfilamentos. Además, pueden contener un tercer tipo de filamento citoesquelético, los filamentos intermedios. @evert2013.
+
+![El citoesqueleto está formado por (a) microtúbulos, (b) microfilamentos y (c) filamentos intermedios. OpenStax ([2016](https://commons.wikimedia.org/wiki/File:0317_Cytoskeletal_Components.jpg#metadata)).](/presentaciones/images/cytoskeletal_components.jpg){#fig-citoesqueleto-01 fig-align="center"}
+
+## Microtúbulos y microfilamentos {.smaller}
+
 ::: columns
 ::: {.column .fragment width="50%"}
+
+> Los microtúbulos son estructuras cilíndricas de unos 24 nanómetros de diámetro y longitud variable. Cada microtúbulo está formado por subunidades de la proteína tubulina.
+>
+> Los microtúbulos tienen muchas funciones. Intervienen en el crecimiento ordenado de la pared celular, dirigir las vesículas secretoras de Golgi, formar las fibras del huso que intervienen en el movimiento de los cromosomas y en la formación de la placa celular en las células en división. @evert2013.
+
+> Los filamentos de actina, o microfilamentos, están formados por una proteína llamada actina y se presentan como filamentos largos de 5 a 7 nanómetros de diámetro.
+>
+> Los microfilamentos intervienen en diversas actividades, como la deposición de la pared celular, el crecimiento de la punta de los tubos polínicos, el movimiento del núcleo antes y después de la división celular, el movimiento de orgánulos, la secreción mediada por vesículas, la organización del RE y el flujo citoplasmático. @evert2013.
 :::
 
 ::: {.column .fragment width="50%"}
+![Diagrama que muestra diversos aspectos del citoesqueleto en una célula vegetal común. @nabors2006.](/presentaciones/images/citoesqueleto.jpg){#fig-citoesqueleto-02 fig-align="center"}
+
 :::
 :::
 
 ## Pared celular
+
+::: columns
+::: {.column .fragment width="50%"}
+> La pared celular, por encima de cualquier otra característica, distingue a las células vegetales de las animales.
+>
+> La pared celular determina en gran medida el tamaño y la forma de la célula y la textura del tejido, y contribuye a la forma final del órgano vegetal.
+>
+> La pared celular puede desempeñar un papel activo en la defensa contra patógenos bacterianos y fúngicos. @evert2013.
+
+> Existen dos tipos básicos de paredes celulares. Las paredes celulares primarias y las paredes celulares secundarias. @crang2018.
+:::
+
+::: {.column .fragment width="50%"}
+![Células repletas de cloroplastos y birrefringencia exhibida por las paredes celulares en una hoja de musgo. By <a href="//commons.wikimedia.org/w/index.php?title=User:KarlGaff&amp;action=edit&amp;redlink=1" class="new" title="User:KarlGaff (page does not exist)">KarlGaff</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=141493228">Link</a>.](/presentaciones/images/bryophyte_leaf_cells.jpg){#fig-pared-celular fig-align="center" width="50%"}
+:::
+:::
+
+## Pared celular: composición {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+> Las paredes de las células vegetales están compuestas fundamentalmente por celulosa. La mayoría de las moléculas de celulosa se disponen unas al lado de otras formando microfibrillas cilíndricas (10 a 25 nm de diámetro). Las moléculas de celulosa de las microfibrillas están conectadas por algunas partes formando subunidades cristalinas llamadas micelas. Estas uniones se producen mediante dos tipos de proteínas: las pectinas, de aspecto gelatinoso, y las hemicelulosas, que son carbohidratos de apariencia viscosa. @nabors2006.
+
+> Otro componente importante de las paredes de muchos tipos de células es la lignina, que añade resistencia a la compresión y rigidez a la flexión (rigidez) a la pared celular. Suele encontrarse en las paredes de las células vegetales que tienen una función mecánica o de soporte. La cutina, la suberina y las ceras son sustancias grasas que suelen encontrarse en las paredes de los tejidos exteriores y protectores del cuerpo vegetal. @evert2013.
+:::
+
+::: {.column .fragment width="50%"}
+
+![Estructura y composición de la pared celular primaria y secundaria de las plantas. @loix2017.](/presentaciones/images/pared_celular_composicion.jpg){#fig-pared-celular-composicion fig-align="center"}
+:::
+:::
+
+## Pared célular: sintesis
+
+![Las microfibrillas de celulosa son sintetizadas por complejos enzimáticos que se mueven dentro del plano de la membrana plasmática. @evert2013.](/presentaciones/images/celulosa_sintesis.jpeg){#fig-celulosa-sintesis-01 fig-align="center"}
+
+## Pared célular: sintesis
+
+::: columns
+::: {.column .fragment width="50%"}
+![Varias capas de microfibrillas de celulosa son visibles. @mauseth2016.](/presentaciones/images/celulosa_microfibrillas.jpeg){#fig-celulosa-sintesis-02 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![La orientación de las microfibrillas de celulosa en la pared primaria influye en la dirección de la expansión celular. @evert2013.](/presentaciones/images/celulosa_expansion.jpeg){#fig-celulosa-sintesis-03 fig-align="center"}
+:::
+:::
+
+## Pared célular secundaria {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+> La formación de la pared secundaria se produce sobre todo después de que la célula haya dejado de crecer y la pared primaria ya no aumente su superficie.
+>
+> La celulosa es más abundante en las paredes secundarias que en las primarias, y pueden faltar las pectinas; la pared secundaria es, por tanto, rígida y no se estira fácilmente.
+> 
+> Con frecuencia, en una pared secundaria pueden distinguirse tres capas distintas, denominadas S1 , S2 y S3 , para la capa externa, media e interna, respectivamente. @evert2013.
+
+![Células pétreas en *Pyrus pera*. By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/146824358@N03">Berkshire Community College Bioscience Image Library</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/146824358@N03/36452689990/">Stone cells in Pyrus pear</a>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=82866501">Link</a>.](/presentaciones/images/stone_cells_in_pyrus_pear.jpg){#fig-stone-cells fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama que muestra la organización de las microfibrillas de celulosa y las tres capas (S1, S2, S3) de la pared secundaria. @evert2013.](/presentaciones/images/pared_celular_secundaria.png){#fig-pared-celular-secundaria fig-align="center"}
+:::
+:::
+
+## Pared célular: punteaduras
+
+> Una puteadura en una pared celular suele producirse frente a una punteadura en la pared de una célula adyacente. La lámina media y las dos paredes primarias entre las dos fosas se denominan membrana de la punteadura. En las células con paredes secundarias se encuentran dos tipos principales de punteaduras: simples y areoladas. @evert2013.
+
+![(a) Células con paredes primarias y punteaduras. (b) Células con paredes secundarias y numerosas punteaduras simples. (c) Un par de punteaduras simples. (d) Un par de punteaduras areoladas. @evert2013.](/presentaciones/images/punteaduras.png){#fig-puteaduras fig-align="center"}
+
+## Pared célular: plasmodesmos
 
 ::: columns
 ::: {.column .fragment width="50%"}
