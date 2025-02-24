@@ -1,0 +1,439 @@
+---
+title: "Citología"
+# date: 2025-02-25
+format:
+  revealjs:
+    controls: true
+    touch: false
+bibliography: references.bib
+---
+
+```{r}
+#| label: setup
+#| echo: false
+#| message: false
+#| warning: false
+
+if (!require("tibble")) install.packages("tibble"); library("tibble")
+if (!require("gt")) install.packages("gt"); library("gt")
+```
+
+# Citología
+
+> La vida comienza donde empieza la célula. @evert2013.
+
+## Células
+
+::: columns
+::: {.column .fragment width="50%"}
+> Cuando se estudian a nivel celular, incluso los organismos más diversos son notablemente similares entre sí, tanto en su organización física como en sus propiedades bioquímicas. @evert2013.
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
+:::
+:::
+
+## Teoría celular
+
+::: columns
+::: {.column .incremental width="50%"}
+1.  Todos los organismos vivos están compuestos por una o más células.
+2.  Las reacciones químicas de un organismo vivo, incluidos sus procesos de liberación de energía y sus reacciones biosintéticas, tienen lugar dentro de las células.
+3.  Las células surgen de otras células.
+4.  Las células contienen la información hereditaria de los organismos de los que forman parte, y esta información se transmite de célula madre a célula hija.
+
+:::
+
+::: {.column .fragment width="50%"}
+![Schem. XI - Del esquema o textura del corcho y de las células y poros de otros cuerpos espumosos semejantes. Hooke ([1665](https://commons.wikimedia.org/wiki/Category:Hooke's_Micrographia_Diagrams_from_the_National_Library_of_Wales)).](/presentaciones/images/micrographia_schem_11.jpg){#fig-micrographia-schem fig-align="center"}
+:::
+:::
+
+## Procariota vs Eucariota {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+|                                                      | Células procariotas           | Células eucariotas                                                                                                                                         |
+|------------------------------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tamaño celular (longitud)                            | Generalmente 1-10 micrómetros | Generalmente 5-100 micrómetros (animales en el extremo inferior, plantas en el extremo superior, de ese rango); muchas mucho más largas de 100 micrómetros |
+| Envoltura nuclear                                    | Ausente                       | Presente                                                                                                                                                   |
+| ADN                                                  | Circular, en el nucleoide     | Lineal, en el núcleo                                                                                                                                       |
+| Organelas (por ejemplo, mitocondrias y cloroplastos) | Ausente                       | Presente                                                                                                                                                   |
+| Citoesqueleto (microtúbulos y filamentos de actina)  | Ausente                       | Presente                                                                                                                                                   |
+
+: Comparación de características seleccionadas de células procariotas y eucariotas. Traducido de @evert2013. {#tbl-comparacion-celulas}
+:::
+
+::: {.column .fragment width="50%"}
+
+![Representación de una celula procariota. <a href="https://commons.wikimedia.org/wiki/File:Prokaryote_cell-es.svg">Ali Zifan</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/prokaryote_cell.svg){#fig-prokaryote-cell fig-align="center" width="75%"}
+:::
+:::
+
+## Célula animal vs Célula vegetal
+
+::: columns
+::: {.column .fragment width="50%"}
+![Diagrama de una célula animal típica. 1. Nucléolo. 2. Núcleo celular. 3. Ribosoma. 4. Vesículas de secreción. 5. Retículo endoplasmático rugoso. 6. Aparato de Golgi. 7. Citoesqueleto. 8. Retículo endoplasmático liso. 9. Mitocondria. 10. Vacuola. 11. Citosol. 12. Lisosoma. 13. Centríolo. <a href="https://commons.wikimedia.org/wiki/File:Biological_cell.svg">MesserWoland  and Szczepan1990</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/celula_animal.svg){#fig-celula-animal fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama de una célula vegetal típica. a. Plasmodesmos. b. Membrana plasmática. c. Pared celular. 1. Cloroplasto (d. Membrana tilacoide. e. Grano de almidón). 2. Vacuola (f. Vacuola. g. Tonoplasto). h. Mitocondria. i. Peroxisoma. j. Citoplasma. k. Pequeñas vesículas membranosas. l. Retículo endoplásmico rugoso. 3. Núcleo (m. Poro nuclear. n. Envoltura nuclear. o. Nucleolo). p. Ribosomas. q. Retículo endoplásmico liso. r. Vesículas de Golgi. s. Cuerpo de Golgi (aparato de Golgi). t. Citoesqueleto filamentoso. <a href="https://commons.wikimedia.org/wiki/File:Plant_cell_structure_svg_labels.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/celula_vegetal.svg){#fig-celula-vegetal fig-align="center"}
+:::
+:::
+
+## Célula vegetal {.smaller}
+
+> La célula vegetal suele estar formada por una pared celular más o menos rígida y un protoplasto. @evert2013.
+
+```{r}
+#| label: tbl-celula-componentes
+#| tbl-cap: Inventario de componentes celulares vegetales. Traducido de @evert2013.
+#| echo: false
+#| message: false
+#| html-table-processing: none
+
+celula_componentes <- tibble::tibble(
+  pared = c(
+    "Lámina media",
+    "Pared primaria",
+    "Pared secundaria",
+    "Plasmodesmata",
+    base::rep("",4)
+  ),
+  nucleo = c(
+    "Envoltura nuclear",
+    "Nucleoplasma",
+    "Cromatina",
+    "Nucleolo",
+    base::rep("", 4)
+  ),
+  cito = c(
+    "Membrana plasmática (límite exterior del citoplasma)",
+    "Citosol",
+    "Orgánulos rodeados por dos membranas: plástidos y mitocondrias",
+    "Orgánulos rodeados por una membrana: peroxisoma, vacuolas rodeadas por tonoplasto",
+    "Sistema de endomembranas (componentes principales): retículo endoplásmico, aparato de Golgi y vesículas",
+    "Citoesqueleto: microtúbulos y filamentos de actina",
+    "Ribosomas",
+    "Cuerpos oleosos"
+  )
+)
+
+celula_componentes |>
+  gt::gt() |>
+  gt::cols_label(
+    pared = "Pared celular",
+    nucleo = "Núcleo",
+    cito = "Citoplasma"
+  ) |>
+  gt::tab_spanner(
+    label = gt::md("**Protoplasma**"),
+    columns = c(nucleo, cito)
+  ) |>
+  gt::tab_style(
+    style = gt::cell_text(weight = "bold"),
+    locations = gt::cells_column_labels()
+  ) |> 
+  gt::tab_footnote(
+    footnote = ("El sistema de endomembranas también incluye la membrana plasmática, la envoltura nuclear, el tonoplasto y todas las demás membranas internas, a excepción de las membranas mitocondrial, plastidial y peroxisomal."),
+    gt::cells_body(columns = cito, rows = 5)
+  ) |> 
+  gt::opt_table_font(
+    font = gt::google_font(name = "Atkinson Hyperlegible")
+  ) |> 
+  gt::tab_options(
+    table.font.size = 32
+  )
+```
+
+## Célula vegetal: tamaños
+
+![Representación pictórica de varias estructuras vegetales y sus tamaños. @crang2018.](/presentaciones/images/plantas_tamanos.jpg){#fig-plantas-tamanos fig-align="center"}
+
+## Protoplasto
+
+::: columns
+::: {.column width="50%"}
+::: fragment
+> El término «protoplasto» deriva de la palabra protoplasma, que se utiliza para referirse al contenido de las células. Un protoplasto es la unidad de protoplasma dentro de la pared celular. Un protoplasto consta de citoplasma y núcleo. @evert2013.
+
+:::
+
+::: fragment
+> [Antes] se pensaba que el protoplasma era una sustancia distinta, como el agua, el oxígeno o el hierro, y que una de sus propiedades era la vida misma. Ahora sabemos que el protoplasma es una masa de proteínas, lípidos, ácidos nucleicos y agua dentro de una célula; salvo la pared, todo en la célula es protoplasma. @mauseth2016.
+
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Estructura de una célula vegetal típica. @nabors2006.](/presentaciones/images/celula_vegetal.jpg){#fig-celula-vegetal-2 fig-align="center"}
+:::
+:::
+
+## Núcleo
+
+::: columns
+::: {.column .fragment width="50%"}
+El núcleo suele ser la estructura más prominente dentro del protoplasto de las células eucariotas. El núcleo desempeña dos funciones importantes:
+
+1.  controla las actividades en curso de la célula determinando qué moléculas proteicas produce la célula y cuándo las produce.
+2.  almacena la información genética (ADN) y la transmite a las células hijas durante la división celular.
+
+El núcleo está rodeado por un par de membranas denominadas envoltura nuclear. En varios lugares, la membrana externa de la envoltura nuclear puede ser continua con el retículo endoplásmico.
+:::
+
+::: {.column .fragment width="50%"}
+![Núcleo. En este diagrama se visualiza la doble membrana tachonada de ribosomas de la envoltura nuclear, el ADN (complejado como cromatina), y el nucléolo. Dentro del núcleo celular se encuentra un líquido viscoso conocido como nucleoplasma (similar al citoplasma). <a href="https://commons.wikimedia.org/wiki/File:Diagram_human_cell_nucleus_es.svg">Mariana Ruiz Villarreal (LadyofHats), translation by Kelvinsong.</a>, CC0, via Wikimedia Commons.](/presentaciones/images/diagram_cell_nucleus.svg){#fig-nucleo fig-align="center" width="100%"}
+:::
+:::
+
+## Citoplasma
+
+::: columns
+::: {.column .fragment width="50%"}
+El citoplasma incluye entidades distintas, delimitadas por membranas (orgánulos como plástidos y mitocondrias), sistemas de membranas (el retículo endoplásmico y el aparato de Golgi) y entidades no membranosas (como ribosomas, filamentos de actina y microtúbulos).
+
+El resto del citoplasma -la «sopa celular» o matriz citoplasmática, en la que están suspendidos el núcleo, diversas entidades y sistemas de membranas- se denomina citosol. El citoplasma está rodeado por una única membrana, la membrana plasmática.
+:::
+
+::: {.column .fragment width="50%"}
+Los orgánulos y diversas sustancias suspendidas en el citosol, son arrastrados de forma ordenada por las corrientes en movimiento. Este movimiento se conoce como flujo citoplasmático o ciclosis y continúa mientras la célula está viva. El flujo citoplasmático facilita el transporte de materiales dentro de la célula y entre la célula y su entorno.
+
+![En una célula vegetal viva, el citoplasma está siempre en movimiento. <a href="https://commons.wikimedia.org/wiki/File:Elodea-ciclose.gif">MarceloTeles</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons](/presentaciones/images/elodea-ciclose.gif){#fig-ciclosis fig-align="center"}
+:::
+:::
+
+## Membrana plasmática
+
+::: columns
+::: {.column .fragment width="50%"}
+La membrana plasmática tiene varias funciones importantes:
+
+1.  separa el protoplasto de su entorno externo.
+2.  media en el transporte de sustancias dentro y fuera del protoplasto.
+3.  coordina la síntesis y el ensamblaje de las microfibrillas de la pared celular (celulosa).
+4.  detecta y facilita las respuestas a las señales hormonales y ambientales implicadas en el control del crecimiento y la diferenciación celular.
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama detallado de la estructura de la membrana citoplasmática y sus componentes. <a href="https://commons.wikimedia.org/wiki/File:Detalle_de_la_membrana_celular.svg">Jpablo cad</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.](/presentaciones/images/detalle_de_la_membrana_celular.svg){#fig-membrana-celular fig-align="center" width="70%"}
+:::
+:::
+
+## Plástidos {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+
+> Plastidio, término general que agrupa a todos los orgánulos vegetales que fabrican o almacenan nutrientes o pigmentos. @nabors2006.
+
+> Junto con las vacuolas y las paredes celulares, los plástidos son componentes característicos de las células vegetales y se ocupan de procesos como la fotosíntesis y el almacenamiento. Los plástido se diferencia en un sistema de membranas formado por sacos aplanados llamados tilacoides y una matriz más o menos homogénea, llamada estroma. @evert2013.
+
+![Cloroplastos (A y B). La imagen A es parénquima clorofílico, la imagen B es un estoma. Cromoplastos (C y D) del tomate. Amiloplastos (E y F) de la papa. @megías-pacheco2017.](/presentaciones/images/plastos-tipos.png){#fig-plastos-tipos fig-align="center"}
+
+:::
+
+::: {.column .fragment width="50%"}
+
+| Plástidos    | Función                                                                                                                 |
+|--------------|-------------------------------------------------------------------------------------------------------------------------|
+| Amiloplastos | Almacenan almidón; se consideran leucoplastos                                                                           |
+| Cloroplastos | Realizan la fotosíntesis                                                                                                |
+| Cromoplastos | Contienen abundantes lípidos coloreados; en flores y frutos                                                             |
+| Etioplastos  | Etapa específica en la transformación de proplastos en cloroplastos; se producen cuando los tejidos se cultivan sin luz |
+| Leucoplastos | Plastidios incoloros; sintetizan lípidos y otros materiales                                                             |
+| Proplástidos | Plastidios pequeños e indiferenciados                                                                                   |
+
+: Tipos de plástidos. Traducido de @mauseth2016. {#tbl-plastidios}
+
+![Distintos tipos de plastos y los caminos de diferenciación entre ellos. @megías-pacheco2017.](/presentaciones/images/plastos.png){#fig-plastos fig-align="center"}
+:::
+:::
+
+## Cloroplastos
+
+::: columns
+::: {.column .fragment width="50%"}
+> Los cloroplastos, los motores del mundo vegetal, son la fuente última de prácticamente todos nuestros alimentos y combustibles. @evert2013.
+
+> Los cloroplastos contienen pigmentos verdes de clorofila, son el lugar donde se produce la fotosíntesis en una célula vegetal. @nabors2006.
+
+> Los pigmentos clorofílicos son los responsables del color verde de estos plástidos. Los carotenoides son pigmentos amarillos y anaranjados que, en las hojas verdes, quedan enmascarados por los pigmentos clorofílicos, más numerosos. @evert2013.
+
+:::
+
+::: {.column .fragment width="50%"}
+
+![Los cloroplastos son los orgánulos que llevan a cabo la fotosíntesis. @nabors2006.](/presentaciones/images/cloroplastos.jpg){#fig-cloroplastos fig-align="center" width="50%"}
+:::
+:::
+
+## Cloroplastos: origen
+
+::: columns
+::: {.column .fragment width="50%"}
+![Esquema de las etapas clave en la evolución de las células eucariotas según las hipótesis endosimbiótica (izquierda) y autógena (derecha). @niklas2016.](/presentaciones/images/eukaryota_origeng_01){#fig-cloroplastos-origen-01 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Las primeras células eran simples, pero a lo largo de cientos de millones de años se hicieron más complejas metabólicamente. @mauseth2016.](/presentaciones/images/eukaryota_origeng_02){#fig-cloroplastos-origen-02 fig-align="center"}
+:::
+:::
+
+## Cromoplastos
+
+::: columns
+::: {.column .fragment width="50%"}
+> De forma variable, los cromoplastos carecen de clorofila pero sintetizan y retienen pigmentos carotenoides, que suelen ser los responsables de los colores amarillo, naranja o rojo de muchas flores, hojas envejecidas, algunos frutos y algunas raíces, como las zanahorias. @evert2013.
+
+> Presenta un extenso sistema ondulado de membranas, pero no grana, y los pigmentos pueden estar presentes como parte de la membrana o como gotitas discretas. @mauseth2016.
+
+:::
+
+::: {.column .fragment width="50%"}
+
+![Cada diminuto punto naranja es un cromoplasto; procede de un pimiento naranja intensamente brillante. @mauseth2016.](/presentaciones/images/cromoplastos.jpg){#fig-cromoplastos fig-align="center" width="50%"}
+:::
+:::
+
+## Leucoplastos 
+
+> Estructuralmente el menos diferenciado de los plastos maduros, carecen de pigmentos y de un elaborado sistema de membranas internas. @evert2013.
+
+> «Leucoplasto» es un término puramente descriptivo: cualquier plastidios incoloro, incluidos los proplastos y los amiloplastos, pueden considerarse leucoplastos. @mauseth2016.
+
+![Amiloplastos en papa. <a href="https://commons.wikimedia.org/wiki/File:Potato_storage_tissue_containing_amyloplasts._(Leucoplast).jpg">Krishna satya 333</a>, CC0, via Wikimedia Commons.](/presentaciones/images/amiloplastos.jpg){#fig-amiloplastos fig-align="center"}
+
+## Mitocondrias {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+> Las mitocondrias son los lugares de la respiración, un proceso que implica la liberación de energía de las moléculas orgánicas y su conversión en moléculas de ATP (trifosfato de adenosina), la principal fuente inmediata de energía química para todas las células eucariotas. @evert2013.
+
+> Las membranas mitocondriales están plegadas, formando grandes láminas o tubos conocidos como crestas. Este plegamiento proporciona espacio para un gran número de enzimas. Las reacciones que no implican intermediarios altamente reactivos tienen lugar en la matriz líquida entre las crestas. @mauseth2016.
+
+> Además de la respiración, las mitocondrias intervienen en otros muchos procesos metabólicos, entre ellos la biosíntesis de aminoácidos, cofactores vitamínicos y ácidos grasos, y desempeñan un papel fundamental en la muerte celular programada, el proceso genéticamente determinado que conduce a la muerte de la célula. @evert2013.
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama de una mitocondria. <a href="https://commons.wikimedia.org/wiki/File:Mitochondrion_(borderless_version)-es.svg">Kelvinsong</a>, CC0, via Wikimedia Commons.](/presentaciones/images/mitochondrion.svg){#fig-amiloplastos fig-align="center" width="100%"}
+:::
+:::
+
+## Peroxixomas
+
+::: columns
+::: {.column .fragment width="50%"}
+
+> Los peroxisomas (también llamados microcuerpos) son organelas esféricas que tienen una sola membrana. Tienen un interior granular, que puede contener un cuerpo, a veces cristalino, compuesto de proteínas. @evert2013.
+
+> Los microcuerpos sólo tienen una membrana, cuyo origen no es endosimbiótico. En cambio, está en las membranas del retículo endoplásmico. Los microcuerpos se reproducen, pero no contienen cromosomas ni fabrican sus propias proteínas. @nabors2006.
+
+> Los peroxisomas participan en la desintoxicación de ciertos subproductos de la fotosíntesis y se encuentran estrechamente asociados a los cloroplasto. Los glioxisomas participan en la transformación de las grasas almacenadas en azúcares. @mauseth2016.
+:::
+
+::: {.column .fragment width="50%"}
+![Estructura básica de un peroxisoma. <a href="https://commons.wikimedia.org/wiki/File:Peroxisome.svg">Qef</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/peroxisome.svg){#fig-peroxisoma fig-align="center" width="100%"}
+:::
+:::
+
+## Vacuolas {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+> Junto con los plástidos y la pared celular, la vacuola es una de las tres estructuras características que distinguen a las células vegetales de las animales. Las vacuolas son orgánulos rodeados por una membrana única denominada tonoplasto o membrana vacuolar. @evert2013.
+
+> La vacuola central está llena de agua y de productos de desecho, y desempeña varias funciones importantes, algunas en relación con el metabolismo celular. Extrae las sales del citoplasma y controla los niveles de agua en la célula. Sirve como centro de desintoxicación contra las sustancias nocivas ayudando en la descomposición de grandes moléculas y en la regulación de las concentraciones de sales. La vacuola puede almacenar iones tóxicos e iones que sólo son necesarios en momentos determinados para ciertas reacciones químicas. Igualmente, ayuda a mantener la forma de la célula presionando el resto del citoplasma contra la pared celular. @nabors2006.
+:::
+
+::: {.column .fragment width="50%"}
+![La vacuola determina la turgencia de la célula. <a href="https://commons.wikimedia.org/wiki/File:Turgor_pressure_on_plant_cells_diagram-es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/turgor_pressure_on_plant_cells_diagram-es.svg){#fig-vacuola fig-align="center"}
+
+![Las vacuolas pueden contener diferentes formas de cristales de oxalato de calcio. A. Drusas. B. Rafidios. @evert2013.](/presentaciones/images/cristales.jpg){#fig-cristales fig-align="center" width="50%"}
+:::
+:::
+
+## Retículo endoplásmico
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Aparato de Golgi
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Ribosomas
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Citoesqueleto
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Pared celular
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Ciclo célular
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+
+## Células inusuales
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Referencias
