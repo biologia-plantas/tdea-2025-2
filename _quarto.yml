@@ -68,6 +68,8 @@ website:
             href: presentaciones/introduccion-curso/
           - text: "Introducción a la botánica"
             href: presentaciones/introduccion-botanica/
+          - text: "Citología"
+            href: presentaciones/citologia/
       - section: "Laboratorio"
         contents:
           # - text: "Introducción al laboratorio"
