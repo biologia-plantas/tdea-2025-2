@@ -27,6 +27,10 @@ if (!require("gt")) install.packages("gt"); library("gt")
 ::: columns
 ::: {.column .fragment width="50%"}
 > Cuando se estudian a nivel celular, incluso los organismos más diversos son notablemente similares entre sí, tanto en su organización física como en sus propiedades bioquímicas. @evert2013.
+
+::: fragment
+![Flor de *Passiflora_caerulea*. By <a href="//commons.wikimedia.org/wiki/User:PetarM" title="User:PetarM">Petar Milošević</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=43160056">Link</a>.](/presentaciones/images/flor_passiflora_caerulea.jpg){#fig-passiflora fig-align="center" width="75%"}
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -48,6 +52,10 @@ if (!require("gt")) install.packages("gt"); library("gt")
 ::: {.column .fragment width="50%"}
 ![Schem. XI - Del esquema o textura del corcho y de las células y poros de otros cuerpos espumosos semejantes. Hooke ([1665](https://commons.wikimedia.org/wiki/Category:Hooke's_Micrographia_Diagrams_from_the_National_Library_of_Wales)).](/presentaciones/images/micrographia_schem_11.jpg){#fig-micrographia-schem fig-align="center"}
 :::
+:::
+
+::: footer
+Traducido de @evert2013.
 :::
 
 ## Procariota vs Eucariota {.smaller}
@@ -85,8 +93,11 @@ if (!require("gt")) install.packages("gt"); library("gt")
 
 ## Célula vegetal {.smaller}
 
+::: fragment
 > La célula vegetal suele estar formada por una pared celular más o menos rígida y un protoplasto. @evert2013.
+:::
 
+::: fragment
 ```{r}
 #| label: tbl-celula-componentes
 #| tbl-cap: Inventario de componentes celulares vegetales. Traducido de @evert2013.
@@ -147,6 +158,7 @@ celula_componentes |>
     table.font.size = 32
   )
 ```
+:::
 
 ## Célula vegetal: tamaños
 
@@ -178,15 +190,23 @@ celula_componentes |>
 ::: {.column .fragment width="50%"}
 El núcleo suele ser la estructura más prominente dentro del protoplasto de las células eucariotas. El núcleo desempeña dos funciones importantes:
 
+::: incremental
 1.  controla las actividades en curso de la célula determinando qué moléculas proteicas produce la célula y cuándo las produce.
 2.  almacena la información genética (ADN) y la transmite a las células hijas durante la división celular.
+:::
 
+::: fragment
 El núcleo está rodeado por un par de membranas denominadas envoltura nuclear. En varios lugares, la membrana externa de la envoltura nuclear puede ser continua con el retículo endoplásmico.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
 ![Núcleo. En este diagrama se visualiza la doble membrana tachonada de ribosomas de la envoltura nuclear, el ADN (complejado como cromatina), y el nucléolo. Dentro del núcleo celular se encuentra un líquido viscoso conocido como nucleoplasma (similar al citoplasma). <a href="https://commons.wikimedia.org/wiki/File:Diagram_human_cell_nucleus_es.svg">Mariana Ruiz Villarreal (LadyofHats), translation by Kelvinsong.</a>, CC0, via Wikimedia Commons.](/presentaciones/images/diagram_cell_nucleus.svg){#fig-nucleo fig-align="center" width="100%"}
 :::
+:::
+
+::: footer
+Traducido de @evert2013.
 :::
 
 ## Citoplasma
@@ -195,7 +215,9 @@ El núcleo está rodeado por un par de membranas denominadas envoltura nuclear. 
 ::: {.column .fragment width="50%"}
 El citoplasma incluye entidades distintas, delimitadas por membranas (orgánulos como plástidos y mitocondrias), sistemas de membranas (el retículo endoplásmico y el aparato de Golgi) y entidades no membranosas (como ribosomas, filamentos de actina y microtúbulos).
 
+::: fragment
 El resto del citoplasma -la «sopa celular» o matriz citoplasmática, en la que están suspendidos el núcleo, diversas entidades y sistemas de membranas- se denomina citosol. El citoplasma está rodeado por una única membrana, la membrana plasmática.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -205,16 +227,22 @@ Los orgánulos y diversas sustancias suspendidas en el citosol, son arrastrados 
 :::
 :::
 
+::: footer
+Traducido de @evert2013.
+:::
+
 ## Membrana plasmática
 
 ::: columns
 ::: {.column .fragment width="50%"}
 La membrana plasmática tiene varias funciones importantes:
 
+::: incremental
 1.  separa el protoplasto de su entorno externo.
 2.  media en el transporte de sustancias dentro y fuera del protoplasto.
 3.  coordina la síntesis y el ensamblaje de las microfibrillas de la pared celular (celulosa).
 4.  detecta y facilita las respuestas a las señales hormonales y ambientales implicadas en el control del crecimiento y la diferenciación celular.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -229,10 +257,13 @@ La membrana plasmática tiene varias funciones importantes:
 
 > Plastidio, término general que agrupa a todos los orgánulos vegetales que fabrican o almacenan nutrientes o pigmentos. @nabors2006.
 
+::: fragment
 > Junto con las vacuolas y las paredes celulares, los plástidos son componentes característicos de las células vegetales y se ocupan de procesos como la fotosíntesis y el almacenamiento. Los plástido se diferencia en un sistema de membranas formado por sacos aplanados llamados tilacoides y una matriz más o menos homogénea, llamada estroma. @evert2013.
+:::
 
+::: fragment
 ![Cloroplastos (A y B). La imagen A es parénquima clorofílico, la imagen B es un estoma. Cromoplastos (C y D) del tomate. Amiloplastos (E y F) de la papa. @megías-pacheco2017.](/presentaciones/images/plastos-tipos.png){#fig-plastos-tipos fig-align="center"}
-
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -248,7 +279,9 @@ La membrana plasmática tiene varias funciones importantes:
 
 : Tipos de plástidos. Traducido de @mauseth2016. {#tbl-plastidios}
 
+::: fragment
 ![Distintos tipos de plastos y los caminos de diferenciación entre ellos. @megías-pacheco2017.](/presentaciones/images/plastos.png){#fig-plastos fig-align="center"}
+:::
 :::
 :::
 
@@ -258,10 +291,13 @@ La membrana plasmática tiene varias funciones importantes:
 ::: {.column .fragment width="50%"}
 > Los cloroplastos, los motores del mundo vegetal, son la fuente última de prácticamente todos nuestros alimentos y combustibles. @evert2013.
 
+::: fragment
 > Los cloroplastos contienen pigmentos verdes de clorofila, son el lugar donde se produce la fotosíntesis en una célula vegetal. @nabors2006.
+:::
 
+::: fragment
 > Los pigmentos clorofílicos son los responsables del color verde de estos plástidos. Los carotenoides son pigmentos amarillos y anaranjados que, en las hojas verdes, quedan enmascarados por los pigmentos clorofílicos, más numerosos. @evert2013.
-
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -288,8 +324,9 @@ La membrana plasmática tiene varias funciones importantes:
 ::: {.column .fragment width="50%"}
 > De forma variable, los cromoplastos carecen de clorofila pero sintetizan y retienen pigmentos carotenoides, que suelen ser los responsables de los colores amarillo, naranja o rojo de muchas flores, hojas envejecidas, algunos frutos y algunas raíces, como las zanahorias. @evert2013.
 
+::: fragment
 > Presenta un extenso sistema ondulado de membranas, pero no grana, y los pigmentos pueden estar presentes como parte de la membrana o como gotitas discretas. @mauseth2016.
-
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -300,11 +337,17 @@ La membrana plasmática tiene varias funciones importantes:
 
 ## Leucoplastos 
 
+::: fragment
 > Estructuralmente el menos diferenciado de los plastos maduros, carecen de pigmentos y de un elaborado sistema de membranas internas. @evert2013.
+:::
 
+::: fragment
 > «Leucoplasto» es un término puramente descriptivo: cualquier plastidios incoloro, incluidos los proplastos y los amiloplastos, pueden considerarse leucoplastos. @mauseth2016.
+:::
 
+::: fragment
 ![Amiloplastos en papa. <a href="https://commons.wikimedia.org/wiki/File:Potato_storage_tissue_containing_amyloplasts._(Leucoplast).jpg">Krishna satya 333</a>, CC0, via Wikimedia Commons.](/presentaciones/images/amiloplastos.jpg){#fig-amiloplastos fig-align="center"}
+:::
 
 ## Mitocondrias {.smaller}
 
@@ -312,9 +355,13 @@ La membrana plasmática tiene varias funciones importantes:
 ::: {.column .fragment width="50%"}
 > Las mitocondrias son los lugares de la respiración, un proceso que implica la liberación de energía de las moléculas orgánicas y su conversión en moléculas de ATP (trifosfato de adenosina), la principal fuente inmediata de energía química para todas las células eucariotas. @evert2013.
 
+::: fragment
 > Las membranas mitocondriales están plegadas, formando grandes láminas o tubos conocidos como crestas. Este plegamiento proporciona espacio para un gran número de enzimas. Las reacciones que no implican intermediarios altamente reactivos tienen lugar en la matriz líquida entre las crestas. @mauseth2016.
+:::
 
+::: fragment
 > Además de la respiración, las mitocondrias intervienen en otros muchos procesos metabólicos, entre ellos la biosíntesis de aminoácidos, cofactores vitamínicos y ácidos grasos, y desempeñan un papel fundamental en la muerte celular programada, el proceso genéticamente determinado que conduce a la muerte de la célula. @evert2013.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -329,9 +376,13 @@ La membrana plasmática tiene varias funciones importantes:
 
 > Los peroxisomas (también llamados microcuerpos) son organelas esféricas que tienen una sola membrana. Tienen un interior granular, que puede contener un cuerpo, a veces cristalino, compuesto de proteínas. @evert2013.
 
+::: fragment
 > Los microcuerpos sólo tienen una membrana, cuyo origen no es endosimbiótico. En cambio, está en las membranas del retículo endoplásmico. Los microcuerpos se reproducen, pero no contienen cromosomas ni fabrican sus propias proteínas. @nabors2006.
+:::
 
+::: fragment
 > Los peroxisomas participan en la desintoxicación de ciertos subproductos de la fotosíntesis y se encuentran estrechamente asociados a los cloroplasto. Los glioxisomas participan en la transformación de las grasas almacenadas en azúcares. @mauseth2016.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -345,13 +396,17 @@ La membrana plasmática tiene varias funciones importantes:
 ::: {.column .fragment width="50%"}
 > Junto con los plástidos y la pared celular, la vacuola es una de las tres estructuras características que distinguen a las células vegetales de las animales. Las vacuolas son orgánulos rodeados por una membrana única denominada tonoplasto o membrana vacuolar. @evert2013.
 
+::: fragment
 > La vacuola central está llena de agua y de productos de desecho, y desempeña varias funciones importantes, algunas en relación con el metabolismo celular. Extrae las sales del citoplasma y controla los niveles de agua en la célula. Sirve como centro de desintoxicación contra las sustancias nocivas ayudando en la descomposición de grandes moléculas y en la regulación de las concentraciones de sales. La vacuola puede almacenar iones tóxicos e iones que sólo son necesarios en momentos determinados para ciertas reacciones químicas. Igualmente, ayuda a mantener la forma de la célula presionando el resto del citoplasma contra la pared celular. @nabors2006.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
 ![La vacuola determina la turgencia de la célula. <a href="https://commons.wikimedia.org/wiki/File:Turgor_pressure_on_plant_cells_diagram-es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/turgor_pressure_on_plant_cells_diagram-es.svg){#fig-vacuola fig-align="center"}
 
+::: fragment
 ![Las vacuolas pueden contener diferentes formas de cristales de oxalato de calcio. A. Drusas. B. Rafidios. @evert2013.](/presentaciones/images/cristales.jpg){#fig-cristales fig-align="center" width="50%"}
+:::
 :::
 :::
 
@@ -362,11 +417,14 @@ La membrana plasmática tiene varias funciones importantes:
 
 > El retículo endoplásmico (RE) es un complejo sistema de membranas tridimensional que impregna todo el citosol. @evert2013.
 
+::: fragment
 > El RE liso, que normalmente tiene forma tubular, fabrica lípidos y modifica la estructura de algunos carbohidratos. La superficie del RE rugoso está salpicada por ribosomas sintetizadores de proteínas, que le otorgan esa apariencia rugosa. Dicha superficie suele estar formada por unos sacos planos, conectados entre sí,
 llamados cisternas. @nabors2006.
+:::
 
+::: fragment
 > El RE funciona como sistema de comunicación dentro de la célula y como sistema de canalización de materiales (proteínas y lípidos) hacia distintas partes de la célula. Además, el RE de células vegetales adyacentes está interconectado por filamentos citoplasmáticos (plasmodesmos) que atraviesan sus paredes comunes y desempeñan un papel en la comunicación entre células. @evert2013.
-
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -380,10 +438,13 @@ llamados cisternas. @nabors2006.
 ::: {.column .fragment width="50%"}
 > El término aparato de Golgi, o complejo de Golgi, se utiliza para referirse colectivamente a todos los cuerpos de Golgi (también llamados cuerpos de Golgi o dictiosomas) de una célula. @evert2013.
 
+::: fragment
 > El aparato de Golgi está formado por varios sacos independientes de cisternas que tienen su origen en las membranas que se producen en el RE. Al contrario que las cisternas del RE, las cisternas del cuerpo de Golgi no están conectadas entre sí. La cara del cuerpo de Golgi más cercana al RE (cis) recibe de éste las vesículas de transporte. Las nuevas vesículas de transporte se forman en la cara del cuerpo de Golgi más alejada del RE (trans). @nabors2006.
+:::
 
+::: fragment
 > En las plantas, la mayoría de los cuerpos de Golgi participan en la síntesis y secreción de polisacáridos no celulósicos (hemicelulosas y pectinas) destinados a incorporarse a la pared celular. @evert2013.
-
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -397,18 +458,25 @@ llamados cisternas. @nabors2006.
 ::: {.column .fragment width="50%"}
 > Son agregados complejos de tres moléculas de ARN (ARN ribosomal) y aproximadamente 50 tipos de proteínas que se asocian y forman dos subunidades. @mauseth2016.
 
+::: fragment
 > Algunos científicos prefieren no llamar orgánulos a los ribosomas, pues éstos son mucho más pequeños que aquéllos, carecen de membranas y también están presentes en las células procariotas. Sin embargo, los ribosomas de las células eucariotas son tremendamente diferentes a los de las procariotas. @nabors2006.
+:::
 
+::: fragment
 > Los ribosomas que participan activamente en la síntesis de proteínas se agrupan en conjuntos o agregados denominados polisomas o polirribosomas. @evert2013.
+:::
 
+::: fragment
 > Cada ribosoma consta de una subunidad grande y otra pequeña, que se producen en el nucléolo y se exportan al citoplasma, donde se ensamblan en un ribosoma. @evert2013.
-
+:::
 :::
 
 ::: {.column .fragment width="50%"}
 ![Subunidades grande (roja) y pequeña (azul) de un ribosoma. <a href="https://commons.wikimedia.org/wiki/File:Ribosome_shape.png">Vossman</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/ribosome_shape.png){#fig-ribosoma-01 fig-align="center"}
 
+::: fragment
 ![Ribosoma durante la traducción. <a href="https://commons.wikimedia.org/wiki/File:Ribosome_mRNA_translation_es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/ribosome_mRNA.svg){#fig-ribosoma-02 fig-align="center"}
+:::
 :::
 :::
 
@@ -421,11 +489,21 @@ llamados cisternas. @nabors2006.
 
 ## Citoesqueleto
 
+::: fragment
 > Todas las células eucariotas poseen un citoesqueleto, una red dinámica tridimensional de filamentos proteicos que se extiende por todo el citosol y está íntimamente implicada en muchos procesos. 
->
-> El citoesqueleto de las células vegetales está formado por dos tipos de filamentos proteicos: los microtúbulos y los microfilamentos. Además, pueden contener un tercer tipo de filamento citoesquelético, los filamentos intermedios. @evert2013.
+:::
 
+::: fragment
+> El citoesqueleto de las células vegetales está formado por dos tipos de filamentos proteicos: los microtúbulos y los microfilamentos. Además, pueden contener un tercer tipo de filamento citoesquelético, los filamentos intermedios.
+:::
+
+::: fragment
 ![El citoesqueleto está formado por (a) microtúbulos, (b) microfilamentos y (c) filamentos intermedios. OpenStax ([2016](https://commons.wikimedia.org/wiki/File:0317_Cytoskeletal_Components.jpg#metadata)).](/presentaciones/images/cytoskeletal_components.jpg){#fig-citoesqueleto-01 fig-align="center"}
+:::
+
+::: footer
+Traducido de @evert2013.
+:::
 
 ## Microtúbulos y microfilamentos {.smaller}
 
@@ -433,12 +511,18 @@ llamados cisternas. @nabors2006.
 ::: {.column .fragment width="50%"}
 
 > Los microtúbulos son estructuras cilíndricas de unos 24 nanómetros de diámetro y longitud variable. Cada microtúbulo está formado por subunidades de la proteína tubulina.
->
-> Los microtúbulos tienen muchas funciones. Intervienen en el crecimiento ordenado de la pared celular, dirigir las vesículas secretoras de Golgi, formar las fibras del huso que intervienen en el movimiento de los cromosomas y en la formación de la placa celular en las células en división. @evert2013.
 
+::: fragment
+> Los microtúbulos tienen muchas funciones. Intervienen en el crecimiento ordenado de la pared celular, dirigir las vesículas secretoras de Golgi, formar las fibras del huso que intervienen en el movimiento de los cromosomas y en la formación de la placa celular en las células en división.
+:::
+
+::: fragment
 > Los filamentos de actina, o microfilamentos, están formados por una proteína llamada actina y se presentan como filamentos largos de 5 a 7 nanómetros de diámetro.
->
-> Los microfilamentos intervienen en diversas actividades, como la deposición de la pared celular, el crecimiento de la punta de los tubos polínicos, el movimiento del núcleo antes y después de la división celular, el movimiento de orgánulos, la secreción mediada por vesículas, la organización del RE y el flujo citoplasmático. @evert2013.
+:::
+
+::: fragment
+> Los microfilamentos intervienen en diversas actividades, como la deposición de la pared celular, el crecimiento de la punta de los tubos polínicos, el movimiento del núcleo antes y después de la división celular, el movimiento de orgánulos, la secreción mediada por vesículas, la organización del RE y el flujo citoplasmático. 
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -447,17 +531,27 @@ llamados cisternas. @nabors2006.
 :::
 :::
 
+::: footer
+Traducido de @evert2013.
+:::
+
 ## Pared celular
 
 ::: columns
 ::: {.column .fragment width="50%"}
 > La pared celular, por encima de cualquier otra característica, distingue a las células vegetales de las animales.
->
-> La pared celular determina en gran medida el tamaño y la forma de la célula y la textura del tejido, y contribuye a la forma final del órgano vegetal.
->
-> La pared celular puede desempeñar un papel activo en la defensa contra patógenos bacterianos y fúngicos. @evert2013.
 
+::: fragment
+> La pared celular determina en gran medida el tamaño y la forma de la célula y la textura del tejido, y contribuye a la forma final del órgano vegetal.
+:::
+
+::: fragment
+> La pared celular puede desempeñar un papel activo en la defensa contra patógenos bacterianos y fúngicos. @evert2013.
+:::
+
+::: fragment
 > Existen dos tipos básicos de paredes celulares. Las paredes celulares primarias y las paredes celulares secundarias. @crang2018.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -471,7 +565,9 @@ llamados cisternas. @nabors2006.
 ::: {.column .fragment width="50%"}
 > Las paredes de las células vegetales están compuestas fundamentalmente por celulosa. La mayoría de las moléculas de celulosa se disponen unas al lado de otras formando microfibrillas cilíndricas (10 a 25 nm de diámetro). Las moléculas de celulosa de las microfibrillas están conectadas por algunas partes formando subunidades cristalinas llamadas micelas. Estas uniones se producen mediante dos tipos de proteínas: las pectinas, de aspecto gelatinoso, y las hemicelulosas, que son carbohidratos de apariencia viscosa. @nabors2006.
 
+::: fragment
 > Otro componente importante de las paredes de muchos tipos de células es la lignina, que añade resistencia a la compresión y rigidez a la flexión (rigidez) a la pared celular. Suele encontrarse en las paredes de las células vegetales que tienen una función mecánica o de soporte. La cutina, la suberina y las ceras son sustancias grasas que suelen encontrarse en las paredes de los tejidos exteriores y protectores del cuerpo vegetal. @evert2013.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -501,12 +597,18 @@ llamados cisternas. @nabors2006.
 ::: columns
 ::: {.column .fragment width="50%"}
 > La formación de la pared secundaria se produce sobre todo después de que la célula haya dejado de crecer y la pared primaria ya no aumente su superficie.
->
-> La celulosa es más abundante en las paredes secundarias que en las primarias, y pueden faltar las pectinas; la pared secundaria es, por tanto, rígida y no se estira fácilmente.
-> 
-> Con frecuencia, en una pared secundaria pueden distinguirse tres capas distintas, denominadas S1 , S2 y S3 , para la capa externa, media e interna, respectivamente. @evert2013.
 
+::: fragment
+> La celulosa es más abundante en las paredes secundarias que en las primarias, y pueden faltar las pectinas; la pared secundaria es, por tanto, rígida y no se estira fácilmente.
+:::
+
+::: fragment
+> Con frecuencia, en una pared secundaria pueden distinguirse tres capas distintas, denominadas S1 , S2 y S3 , para la capa externa, media e interna, respectivamente.
+:::
+
+::: fragment
 ![Células pétreas en *Pyrus pera*. By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/146824358@N03">Berkshire Community College Bioscience Image Library</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/146824358@N03/36452689990/">Stone cells in Pyrus pear</a>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=82866501">Link</a>.](/presentaciones/images/stone_cells_in_pyrus_pear.jpg){#fig-stone-cells fig-align="center"}
+:::
 :::
 
 ::: {.column .fragment width="50%"}
@@ -514,29 +616,46 @@ llamados cisternas. @nabors2006.
 :::
 :::
 
+::: footer
+Traducido de @evert2013.
+:::
+
 ## Pared célular: punteaduras
 
 > Una puteadura en una pared celular suele producirse frente a una punteadura en la pared de una célula adyacente. La lámina media y las dos paredes primarias entre las dos fosas se denominan membrana de la punteadura. En las células con paredes secundarias se encuentran dos tipos principales de punteaduras: simples y areoladas. @evert2013.
 
-![(a) Células con paredes primarias y punteaduras. (b) Células con paredes secundarias y numerosas punteaduras simples. (c) Un par de punteaduras simples. (d) Un par de punteaduras areoladas. @evert2013.](/presentaciones/images/punteaduras.png){#fig-puteaduras fig-align="center"}
+![(a) Células con paredes primarias y punteaduras. (b) Células con paredes secundarias y numerosas punteaduras simples. (c) Un par de punteaduras simples. (d) Un par de punteaduras areoladas. @evert2013.](/presentaciones/images/punteaduras.png){#fig-puteaduras .fragment fig-align="center" width="75%"}
 
 ## Pared célular: plasmodesmos
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Poros diminutos en la pared celular primaria a través de los cuales las membranas atraviesan las células, permitiendo el intercambio de compuestos entre células. @simpson2019
+
+::: fragment
+> Los plasmodesmos pueden estar repartidos por toda la pared celular o agrupados en campos de punteaduras primarias o en las membranas entre pares de punteaduras. @evert2013.
+:::
+
+::: fragment
+> Cada plasmodesmo está rodeado de una membrana plasmática y suele presentar una conexión intercelular denominada desmo- túbulo. @nabors2006.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+
+![Los plasmodesmos son complejos formados por finos orificios en las paredes primarias; también contienen membrana plasmática, líquido y un túbulo (llamado desmotúbulo) unido al RE. @nabors2006.](/presentaciones/images/plasmodesmos.jpg){#fig-plasmodesmos fig-align="center" width="75%"}
 :::
 :::
 
-## Ciclo célular
+## Ciclo célular {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+![La mitosis (división del núcleo) y la citocinesis (división del citoplasma), que juntas constituyen la fase M, tienen lugar tras la finalización de las tres fases preparatorias (G1, S y G2) de la interfase. @evert2013.](/presentaciones/images/ciclo_celular.jpg){#fig-ciclo-celular fig-align="center"}
 :::
 
 ::: {.column .fragment width="50%"}
+![El proceso de la mitosis se suele describir haciendo referencia a cuatro fases: profase, metafase, anafase y telofase. La citocinesis suele comenzar al final de la anafase o al principio de la telofase. @nabors2006.](/presentaciones/images/mitosis.jpg){#fig-mitosis fig-align="center" width="60%"}
 :::
 :::
 
@@ -544,21 +663,35 @@ llamados cisternas. @nabors2006.
 ## Células inusuales
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column .incremental width="50%"}
+-   Células muertas
+    -   Las células conductoras de agua no pueden funcionar mientras viven: deben estar muertas.
+    -   Otras células que funcionan después de morir son los tricomas de muchas plantas, las cáscaras de las semillas, las espinas.
+
+-   Núcleos inusuales
+    -   El núcleo de cada célula del tapetum se divide una o dos veces más que las células, por lo que en la madurez, cada célula tiene dos o cuatro núcleos.
+    -   Las células que transportan azúcares por todo el cuerpo de la planta (elementos cribosos) destruyen sus núcleos durante el desarrollo.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column .incremental width="50%"}
+-   Flagelos
+    -   Las células espermáticas de plantas como los musgos, los helechos e incluso algunas plantas con semillas (cícadas) tienen flagelos y nadan.
+    
+-   Células gigantes
+    -   La tela y el hilo de algodón están formados por células largas y delgadas, cada una de hasta 4 cm (1,5 pulgadas) de largo.
+    -   La mayor parte del papel se fabrica a partir de traqueidas de madera conductoras de agua, cada una de las cuales tiene varios milímetros de longitud.
+    -   Los laticíferos tubulares comienzan su desarrollo como pequeñas células normales, pero siguen creciendo incluso después de que las células circundantes hayan alcanzado su tamaño máximo y dejen de crecer.
 :::
 :::
 
-## Heading2
+<!-- ## Heading2 -->
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencias
