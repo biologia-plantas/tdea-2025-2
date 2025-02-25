@@ -624,7 +624,9 @@ Traducido de @evert2013.
 
 > Una puteadura en una pared celular suele producirse frente a una punteadura en la pared de una célula adyacente. La lámina media y las dos paredes primarias entre las dos fosas se denominan membrana de la punteadura. En las células con paredes secundarias se encuentran dos tipos principales de punteaduras: simples y areoladas. @evert2013.
 
-![(a) Células con paredes primarias y punteaduras. (b) Células con paredes secundarias y numerosas punteaduras simples. (c) Un par de punteaduras simples. (d) Un par de punteaduras areoladas. @evert2013.](/presentaciones/images/punteaduras.png){#fig-puteaduras .fragment fig-align="center" width="75%"}
+::: fragment
+![(a) Células con paredes primarias y punteaduras. (b) Células con paredes secundarias y numerosas punteaduras simples. (c) Un par de punteaduras simples. (d) Un par de punteaduras areoladas. @evert2013.](/presentaciones/images/punteaduras.png){#fig-puteaduras fig-align="center" width="75%"}
+:::
 
 ## Pared célular: plasmodesmos
 
@@ -643,7 +645,7 @@ Traducido de @evert2013.
 
 ::: {.column .fragment width="50%"}
 
-![Los plasmodesmos son complejos formados por finos orificios en las paredes primarias; también contienen membrana plasmática, líquido y un túbulo (llamado desmotúbulo) unido al RE. @nabors2006.](/presentaciones/images/plasmodesmos.jpg){#fig-plasmodesmos fig-align="center" width="75%"}
+![Los plasmodesmos son complejos formados por finos orificios en las paredes primarias; también contienen membrana plasmática, líquido y un túbulo (llamado desmotúbulo) unido al RE. @nabors2006.](/presentaciones/images/plasmodesmos.jpg){#fig-plasmodesmos fig-align="center" width="50%"}
 :::
 :::
 
