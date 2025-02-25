@@ -537,7 +537,7 @@ Superreinos (Eukaryota y Prokaryota) vs Tres dominios (Eukarya, Archaea, Bacteri
 :::
 
 ::: fragment
-![Árbol filogenético mostrando la separación de bacterias, arqueas y eucariontes de acuerdo con @woese1990. <a href="https://commons.wikimedia.org/wiki/File:PhylogeneticTree,_Woese_1990.PNG">Maulucioni</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons. ](/presentaciones/images/phylogenetic_tree_woese_1990.png){#fig-phylogenetic-tree-woese fig-align="center"}
+![Árbol filogenético mostrando la separación de bacterias, arqueas y eucariontes de acuerdo con @woese1990. <a href="https://commons.wikimedia.org/wiki/File:PhylogeneticTree,_Woese_1990.PNG">Maulucioni</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons. ](/presentaciones/images/phylogenetic_tree_woese_1990.png){#fig-phylogenetic-tree-woese fig-align="center" width="50%"}
 :::
 
 ## Vivimos en un mundo de bacterias
@@ -666,7 +666,7 @@ Ocho acontecimientos de la historia de la vida vegetal se perfilan como monument
 
 ::: columns
 ::: {.column .fragment width="50%"}
-![La gran mayoría de la columna geológica está ocupada por el Precámbrico, y muchos de los acontecimientos históricos más importantes se registran en este lapso de tiempo. @niklas2016.](/presentaciones/images/cronologia_01.png){#fig-cronologia-01 fig-align="center"}
+![La gran mayoría de la columna geológica está ocupada por el Precámbrico, y muchos de los acontecimientos históricos más importantes se registran en este lapso de tiempo. @niklas2016.](/presentaciones/images/cronologia_01.png){#fig-cronologia-01 fig-align="center" width="75%"}
 :::
 
 ::: {.column .fragment width="50%"}
