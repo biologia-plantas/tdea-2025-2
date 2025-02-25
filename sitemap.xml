@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biologia-plantas.github.io/2025-1/presentaciones/introduccion-curso/index.html</loc>
-    <lastmod>2025-02-20T17:03:07.740Z</lastmod>
+    <loc>https://biologia-plantas.github.io/2025-1/presentaciones/citologia/index.html</loc>
+    <lastmod>2025-02-25T06:03:14.833Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/2025-1/presentaciones/introduccion-botanica/index.html</loc>
+    <lastmod>2025-02-25T05:55:03.560Z</lastmod>
   </url>
   <url>
     <loc>https://biologia-plantas.github.io/2025-1/index.html</loc>
     <lastmod>2025-02-17T06:20:23.297Z</lastmod>
   </url>
   <url>
-    <loc>https://biologia-plantas.github.io/2025-1/presentaciones/introduccion-botanica/index.html</loc>
-    <lastmod>2025-02-20T16:59:49.999Z</lastmod>
+    <loc>https://biologia-plantas.github.io/2025-1/presentaciones/introduccion-curso/index.html</loc>
+    <lastmod>2025-02-20T17:03:07.740Z</lastmod>
   </url>
 </urlset>
