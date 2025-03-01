@@ -1,0 +1,37 @@
+---
+title: "Histología"
+# date: 2025-03-04
+format:
+  revealjs:
+    controls: true
+    touch: false
+bibliography: references.bib
+---
+
+# Histología
+
+> Para funcionar correctamente, un tejido debe contener las células adecuadas en la disposición correcta. @mauseth2016
+
+## General Sherman
+
+![El General Sherman es una secuoya (*Sequoiadendron giganteum*) considerada el árbol de un solo tronco más grande del mundo. Su volumen se estima en 1,487 m³, con una altura de 83.8 m. La base tiene una circunferencia de 31.3 m y un diámetro de 11.1 m. <a href="https://commons.wikimedia.org/wiki/File:General_Sherman_Tree_in_Sequoia_National_Park_-_June_2022.jpg">Marty Aligata</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> & <a href="https://commons.wikimedia.org/wiki/File:General_Sherman_with_fire_protection_wrap.jpg">Elizabeth Wu, National Park Service</a>, Public domain, via Wikimedia Commons. ](/presentaciones/images/general_sherman.jpg){#fig-general-sherman fig-align="center"}
+
+## Tejidos
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
