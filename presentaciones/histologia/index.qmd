@@ -458,19 +458,197 @@ Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://com
 ::: {.column .fragment width="50%"}
 > Capa de células que separa el medio interno de las plantas del externo en aquellos órganos que no presentan crecimiento secundario. @megías-pacheco2017.
 
+::: incremental
 -   Tejido complejo
 -   Formado por varios tipos de células
     -   Epidérmicas
     -   Estomáticas
     -   Idioblastos
     -   Tricomas
+-   Las principales funciones son: 
+    -   Protección mecánica de tejidos subyacentes
+    -   Restricción de la transpiración
+    -   Regulación del intercambio gaseoso
+    -   Contribuye a dar sostén a la planta
+:::
+:::
+
+::: {.column .fragment width="50%"} 
+![Hoja de *Ficus elástica*. cis: cistolito, cu: cuticula, ep: epidermis pluriestratificada, hv: haz vascular, id: idioblasto, pe: parénquima en empalizada, pl: parénquima lagunar, st: estoma.](/presentaciones/images/hoja_ficus.png){#fig-hoja-ficus fig-align="center" width="75%"}
+:::
+:::
+
+## Células epidérmicas
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Células vivas
+    -   Más abundantes y menos especializadas
+    -   Unidas muy estrechamente, sin espacios intercelulares
+    -   Pared celular primaria
+    -   Forma y tamaño muy variados, adaptándose a la estructura que recubren
+    -   Normalmente no tienen cloroplastos, sino proplastos o leucoplastos
+    -   Una gran vacuola
+    -   tienen desarrollado el RE y AG
+-   Generalmente es una sola fila de células
+-   En las partes áreas de la planta forman la cutícula (cutina)
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+
+![Epidermis de la hoja de una crasulacea. @megías-pacheco2017.](/presentaciones/images/epidermis_sedum.jpg){#fig-epidermis_sedum fig-align="center"}
+
+![Epidermis pluriestratificada, velamen, de la raíz aérea de una orquídea. @megías-pacheco2017.](/presentaciones/images/epidermis_velamen.png){#fig-velamen fig-align="center"}
+
 :::
 :::
 
-## Heading2
+## Cuticula
+
+::: columns
+::: {.column .fragment width="50%"}
+> Capa cerosa o grasaso en la pared externa de las células epidérmicas, compuesta por cutina y ceras. evert2006.
+
+::: incremental
+-   Impide la pérdida de agua y la entrada de patógenos
+-   Grosos variable
+-   Sobre la cutícula se depositan otras sustancias lipídicas
+-   Formada por capa cuticular (más interna) y capa lamelar (más externa)
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Epidermis con diferentes tipos de cutícula. @megías-pacheco2017.](/presentaciones/images/epidermis_cuticula.jpg){#fig-cuticula fig-align="center"}
+:::
+:::
+
+## Estomas
+
+::: columns
+::: {.column .fragment width="50%"}
+> Abertura en la epidermis de hojas y tallos, bordeada por dos células oclusivas, que facilita el intercambio de gases. También se utiliza para referirse al aparato estomático completo, que incluye las células oclusivas y el poro que forman. @evert2006.
+
+### Características {.fragment}
+
+::: incremental
+-   Formados por dos células oclusivas o de guarda y un orificio denominado (ostiolo)
+-   Bajo las células oclusivas se encuentra la cámara subestomática
+-   Generalmente rodeados por células acompañantes, subsidiarias,o anexas
+-   El número de estomas es variable
+-   En hojas normalmente están en el envés
+-   Controlan el intercambio de gases
+:::
+:::
+
+::: {.column .fragment width="50%"}
+
+![Estomas de diferentes plantas. @megías-pacheco2017.](/presentaciones/images/estomas.png){#fig-estomas fig-align="center"}
+
+![Estomas de diferentes plantas. @megías-pacheco2017.](/presentaciones/images/estoma_lateral.jpg){#fig-estomas-lateral fig-align="center"}
+:::
+:::
+
+## Estomas: clasificación
+
+::: columns
+::: {.column .fragment width="50%"}
+Clasificados en función de la organización de las células oclusivas y las células acompañantes
+
+::: incremental
+-   **Actinocítico:** células anexas de manera radial
+-   **Anomocítico:** sin células anexas
+-   **Anisocítico:** tres células anexas de tamaño desigual
+-   **Ciclocítico:** anillos concéntricos de células anexas
+-   **Diacítico:** dos células anexas perpendiculares a las oclusivas
+-   **Paracítico:** dos células anexas paralelamente a las oclusivas
+-   **Tetracítico:** cuatro células anexas
+-   **Poaceae:** células oclusivas en forma de mancuerna, dos células anexas pequeñas paralelamente a las oclusivas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Clasificación de estomas. @singh2019.](/presentaciones/images/estomas_tipos.png){#fig-estomas-tipos fig-align="center"}
+:::
+:::
+
+
+## Tricomas
+
+::: columns
+::: {.column .fragment width="50%"}
+> Excrecencia epidérmica de diversa forma, estructura y función, pero sin tejido vascular. @beentje2016.
+
+### Características
+
+::: incremental
+-   Pared primarias o secundaria
+-   Pueden estar en cualquier órgano de la planta
+-   Desde micrómetros hasta centímetros de longitud
+-   Morfología variable
+-   Unicelulares o pluricelulares
+-   Glandulares y no glandulares
+-   Ramificados y no ramificados
+-   Constituyen el indumento
+-   Utilizados en sistemática
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![(A) Tricoma en forma de escama. (B y C) Tricomas ramificados. (D, E y F) Tricomas glandulares. (G y H) Tricomas simples, no ramificados, no glandulares. @mauseth2016.](/presentaciones/images/estomas_tipos.png){#fig-tricomas fig-align="center" width="60%"}
+:::
+:::
+
+## Tricomas: clasificación
+
+::: columns
+::: {.column .fragment width="50%"}
+![Distintos tipos de tricomas. @megías-pacheco2017.](/presentaciones/images/tricomas-tipos.png){#fig-tricomas-tipos fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Tricomas de diferentes plantas. @megías-pacheco2017.](/presentaciones/images/tricomas.jpg){#fig-tricomas-tipos-2 fig-align="center"}
+:::
+:::
+
+## Tricomas: ejemplos
+
+![Variedad de tricomas en la familia Asteraceae. @khaleel2022.](/presentaciones/images/tricoma_ejemplos.jpg){#fig-tricomas-ejemplos fig-align="center"}
+
+## Idioblastos {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+> Célula de un tejido que difiere notablemente en forma, tamaño o contenido de otras células del mismo tejido. @evert2006.
+
+::: incremental
+-   Técnicamente las células oclusivas y los tricomas son idioblastos, sin embargo se suelen tratar como células separadas y distintas
+-   Células buliformes
+    -   Especializada en almacenar agua en Poaceae
+-   Células silícicas y suberosas
+    -   Típicas de la epidermis de Poaceae
+-   Litocitos
+    -   Contienen cistolitos de carbonato de calcio
+:::
+
+::: fragment
+![Litocitos y cistolitos. @chulalongkorn2015.](/presentaciones/images/celulas_litocitos.jpg){#fig-litocitos fig-align="center" width="50%"}
+:::
+:::
+
+::: {.column .fragment width="50%"}
+
+![Células buliformes. @avci2023.](/presentaciones/images/celulas_buliformes.jpg){#fig-buliformes fig-align="center" width="50%"}
+
+![Células silícicas. @prychid2003.](/presentaciones/images/celulas_silicicas.jpg){#fig-silicicas. fig-align="center" width="50%"}
+
+:::
+:::
+
+## Peridermis
 
 ::: columns
 ::: {.column .fragment width="50%"}
@@ -479,28 +657,6 @@ Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://com
 ::: {.column .fragment width="50%"}
 :::
 :::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-
 
 ## Tejidos diferenciados: conducción
 
@@ -523,7 +679,15 @@ Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://com
 
 ## Tejidos diferenciados: secreción
 
+## Heading2
 
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 ## Heading2
 
@@ -535,5 +699,46 @@ Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://com
 :::
 :::
 
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Referencias
 
 
