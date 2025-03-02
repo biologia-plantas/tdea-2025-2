@@ -16,10 +16,131 @@ bibliography: references.bib
 
 ![El General Sherman es una secuoya (*Sequoiadendron giganteum*) considerada el árbol de un solo tronco más grande del mundo. Su volumen se estima en 1,487 m³, con una altura de 83.8 m. La base tiene una circunferencia de 31.3 m y un diámetro de 11.1 m. <a href="https://commons.wikimedia.org/wiki/File:General_Sherman_Tree_in_Sequoia_National_Park_-_June_2022.jpg">Marty Aligata</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> & <a href="https://commons.wikimedia.org/wiki/File:General_Sherman_with_fire_protection_wrap.jpg">Elizabeth Wu, National Park Service</a>, Public domain, via Wikimedia Commons. ](/presentaciones/images/general_sherman.jpg){#fig-general-sherman fig-align="center"}
 
-## Tejidos
+## Tejido
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Grupo de células organizadas en una unidad estructural y funcional. Las células que lo componen pueden ser iguales (tejido simple) o variadas (tejido complejo). @evert2006.
+
+::: fragment
+### Sistema de tejidos
+> Tejido o tejidos de una planta u órgano vegetal organizados estructural y funcionalmente en una unidad. Comúnmente se reconocen tres sistemas de tejidos, dérmico, vascular y fundamental. @evert2006.
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Distribución de los tres sistemas de tejidos a lo largo de una planta vascular. Cada sistema es continuo a lo largo de toda la planta. @nabors2006.](/presentaciones/images/tejidos_sistemas.jpg){#fig-sistemas fig-align="center" width="50%"}
+:::
+:::
+
+## Clasificación de los tejidos
+
+::: columns
+::: {.column .fragment width="50%"}
+![Clasificación tradicional de los tejidos de las plantas. @megías-pacheco2017.](/presentaciones/images/tejidos_tradicional.png){#fig-sistemas fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Clasificación de los tejidos de las plantas según su permanencia, capacidad de división y tipos celulares que los componen. @megías-pacheco2017.](/presentaciones/images/tejidos_permanencia.png){#fig-sistemas fig-align="center"}
+:::
+:::
+
+## Crecimiento, morfogénesis y diferenciación
+
+::: incremental
+-   **Desarrollo:** suma total de acontecimientos que forman progresivamente el cuerpo de un organismo, implica tres procesos superpuestos: crecimiento, morfogénesis y diferenciación.
+-   **Crecimiento:** aumento irreversible de tamaño, se logra mediante una combinación de división celular y agrandamiento celular.
+    -   **Primario:** crecimiento originado en los meristemas apicales de tallos y raíces, da lugar a un aumento de la longitud.
+    -   **Secundario:** crecimiento derivado de meristemas secundarios o laterales, el cambium vascular y el cambium de corcho, que da lugar a un aumento de la circunferencia
+- **Morfogénesis:** desarrollo de la forma; conjunto de fenómenos relacionados con el desarrollo y la diferenciación de tejidos y órganos.
+-   **Diferenciación:** proceso por el que células con idéntica constitución genética se diferencian entre sí y de las células meristemáticas de las que proceden.
+:::
+
+# Tejidos indiferenciados
+
+## Meristemas
+
+::: columns
+::: {.column .fragment width="50%"}
+> Regiones de tejido embrionario capaces de añadir células indefinidamente al cuerpo de la planta. @evert2013.
+
+### Carácteristicas
+
+::: incremental
+-   Células vivas y totipotentes
+-   Pared celular primaria delgada
+-   Indiferenciadas
+-   Poliédricas
+-   Sin espacioes intercelulares
+-   Núcleos grandes
+-   Abundantes ribosomas y AG
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Secciones longitudinales de medianas de *Ternstroemia gymnanthera* (A) y *Aucuba japonica* (B). @atlasof2014.](/presentaciones/images/meristemas_angiosperma.jpg){#fig-meristemas fig-align="center" width="60%"}
+:::
+:::
+
+## Meristemas: clasificación
+
+::: columns
+::: {.column .fragment width="50%"}
+
+### Posición
+::: incremental
+-   Apicales
+-   Laterales
+-   Intercalares
+:::
+
+::: fragment
+### Naturaleza
+::: incremental
+-   Primarios
+-   Secundarios
+:::
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Clasificación de los meristemas. @megías-pacheco2017.](/presentaciones/images/meristemos_clasificacion.png){#fig-meristemas-clasificacion fig-align="center"}
+:::
+:::
+
+## Meristemas apicales o primarios
+
+::: columns
+::: {.column .fragment width="50%"}
+> La protodermis, el procambium y el meristemo fundamental
+son los meristemas primarios @evert2013.
+
+::: incremental
+-   Se originan en el embrión
+-   Se encuentran en los ápices de raíces y tallos, principales y laterales
+-   Responsables del crecimiento primario de la planta
+:::
+
+::: fragment
+![Del meristemo apical a los tejidos primarios El meristemo apical da lugar a los meristemos primarios, que originan los tejidos y sistemas de tejidos del cuerpo primario de la planta. @nabors2006.](/presentaciones/images/meristemas_tejidos.jpg){#fig-meristemas-tejidos fig-align="center"}
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Localización de los meristemas apicales en una planta vascular. @simpson2019.](/presentaciones/images/meristemas_apicales.jpg){#fig-meristemas-apicales fig-align="center" width="75%"}
+:::
+:::
+
+## Meristema apicales: caulinar y radical
+
+![Meristemo apical caulinar y radical. @evert2013.](/presentaciones/images/meristemos_apical.png){#fig-meristemas-apicales-02 fig-align="center"}
+
+## Meristemas laterales o secundarios
+
+::: columns
+::: {.column .fragment width="50%"}
+> Meristemas que dan lugar a tejido secundario; el cambium vascular y el cambium de corcho (felogéno). @evert2013.
+
 :::
 
 ::: {.column .fragment width="50%"}
