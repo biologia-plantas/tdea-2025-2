@@ -33,7 +33,18 @@ bibliography: references.bib
 :::
 :::
 
-## Clasificación de los tejidos
+## Crecimiento, morfogénesis y diferenciación
+
+::: incremental
+-   **Desarrollo:** suma total de acontecimientos que forman progresivamente el cuerpo de un organismo, implica tres procesos superpuestos: crecimiento, morfogénesis y diferenciación.
+-   **Crecimiento:** aumento irreversible de tamaño, se logra mediante una combinación de división celular y agrandamiento celular.
+    -   **Primario:** crecimiento originado en los meristemas apicales de tallos y raíces, da lugar a un aumento de la longitud.
+    -   **Secundario:** crecimiento derivado de meristemas secundarios o laterales, el cambium vascular y el cambium de corcho, que da lugar a un aumento de la circunferencia
+- **Morfogénesis:** desarrollo de la forma; conjunto de fenómenos relacionados con el desarrollo y la diferenciación de tejidos y órganos.
+-   **Diferenciación:** proceso por el que células con idéntica constitución genética se diferencian entre sí y de las células meristemáticas de las que proceden.
+:::
+
+## Tejidos: clasificación
 
 ::: columns
 ::: {.column .fragment width="50%"}
@@ -45,15 +56,38 @@ bibliography: references.bib
 :::
 :::
 
-## Crecimiento, morfogénesis y diferenciación
+## Tejidos: clasificación
 
-::: incremental
--   **Desarrollo:** suma total de acontecimientos que forman progresivamente el cuerpo de un organismo, implica tres procesos superpuestos: crecimiento, morfogénesis y diferenciación.
--   **Crecimiento:** aumento irreversible de tamaño, se logra mediante una combinación de división celular y agrandamiento celular.
-    -   **Primario:** crecimiento originado en los meristemas apicales de tallos y raíces, da lugar a un aumento de la longitud.
-    -   **Secundario:** crecimiento derivado de meristemas secundarios o laterales, el cambium vascular y el cambium de corcho, que da lugar a un aumento de la circunferencia
-- **Morfogénesis:** desarrollo de la forma; conjunto de fenómenos relacionados con el desarrollo y la diferenciación de tejidos y órganos.
--   **Diferenciación:** proceso por el que células con idéntica constitución genética se diferencian entre sí y de las células meristemáticas de las que proceden.
+::: columns
+::: {.column width="50%"}
+**Tejidos indiferenciados**
+
+-   Meristemas
+    -   Primarios o apicales
+        -   Protodermis
+        -   Procambium 
+        -   Meristema fundamental
+    -   Secundarios o laterales
+        -   Cambium vascular
+        -   Cambium suberoso
+:::
+
+::: {.column width="50%"}
+**Tejidos diferenciados**
+
+-   Protección
+    -   Epidermis
+    -   Peridermis
+-   Fundamental
+    -   Parénquima
+-   Conducción
+    - Xilema
+    - Floema
+-   Sostén
+    -   Colénquima
+    -   Esclerénquima
+-   Secreción
+:::
 :::
 
 # Tejidos indiferenciados
@@ -82,12 +116,12 @@ bibliography: references.bib
 :::
 :::
 
-## Meristemas: clasificación
+## Meristemas: clasificación {.smaller}
 
-::: columns
-::: {.column .fragment width="50%"}
+::::: columns
+:::: {.column .fragment width="50%"}
 
-### Posición
+### Por posición en la planta
 ::: incremental
 -   Apicales
 -   Laterales
@@ -95,18 +129,23 @@ bibliography: references.bib
 :::
 
 ::: fragment
-### Naturaleza
+### Por naturaleza de las células
+:::
+
 ::: incremental
 -   Primarios
 -   Secundarios
 :::
-:::
-:::
 
-::: {.column .fragment width="50%"}
+::: fragment
 ![Clasificación de los meristemas. @megías-pacheco2017.](/presentaciones/images/meristemos_clasificacion.png){#fig-meristemas-clasificacion fig-align="center"}
 :::
-:::
+::::
+
+:::: {.column .fragment width="50%"}
+![Las células de un meristemo apical dan lugar a tres tipos de células subapicales, que a su vez dan lugar a tipos particulares de tejidos primarios maduros. @mauseth2016.](/presentaciones/images/meristemas_lineas.png){#fig-meristemas-lineas fig-align="center"}
+::::
+:::::
 
 ## Meristemas apicales o primarios
 
@@ -135,12 +174,296 @@ son los meristemas primarios @evert2013.
 
 ![Meristemo apical caulinar y radical. @evert2013.](/presentaciones/images/meristemos_apical.png){#fig-meristemas-apicales-02 fig-align="center"}
 
-## Meristemas laterales o secundarios
+## Meristemas laterales o secundarios {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
 > Meristemas que dan lugar a tejido secundario; el cambium vascular y el cambium de corcho (felogéno). @evert2013.
 
+::: incremental
+-   Responsable del crecimiento secundario
+    -   Formación de la madera y de la corteza de los troncos
+    -   Aumento de diámetro de tallos y raíces
+-   Se disponen paralelamente a los lados del tallo y la raíz
+-   Hay dos tipos de meristemas secundarios: 
+    -   Cámbium vascular
+    -   Cámbium suberoso o felógeno
+:::
+
+::: fragment
+![Resumen del desarrollo del tallo en una angiosperma leñosa durante el primer año de crecimiento. *Colectivamente constituyen la peridermis. @evert2013](/presentaciones/images/meristemas_tejidos.png){#fig-crecimiento-secundario fig-align="center"}
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Representación esquemática de crecimiento secundario en tallos de eudicotiledóneas de dos años. @scert2024.](/presentaciones/images/crecimiento_secundario.jpg){#fig-crecimiento-secundario fig-align="center" width="60%"}
+:::
+:::
+
+## Cámbium vascular
+
+::: columns
+::: {.column .fragment width="50%"}
+> Meristemo lateral que forma los tejidos vasculares secundarios, floema secundario y xilema secundario, en el tallo y la raíz. @evert2006.
+
+::: incremental
+-   Se origina a partir de células del córtex y del procámbium.
+    -   En la raíz, las células del periciclo también participan en este proceso.
+-   El cámbium vascular añade xilema secundario hacia la parte interna y floema secundario hacia la parte externa del cámbium vascular.
+-   Siempre se produce más xilema que floema a partir del cámbium vascular.
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Tallo de girasol donde se aprecia un estadio previo a la conversión de cámbium fascicular e interfascicular en cámbium vascular. @megías-pacheco2017.](/presentaciones/images/cambium-fascicular.jpg){#fig-cambium-vascular fig-align="center"}
+:::
+:::
+
+::: footer
+*Cámbium* procede del término latino *cambire*, y significa «intercambiar».
+:::
+
+## Cámbium suberoso o felógeno
+
+::: columns
+::: {.column .fragment width="50%"}
+> Meristema lateral que forma la peridermis, un tejido protector secundario común en tallos y raíces de plantas con semilla. Produce súber o corcho hacia el exterior y felodermis hacia el interior.
+
+::: incremental
+-   Se origina inicialmente a partir de células parenquimáticas del córtex y, ocasionalmente, del floema primario.
+-   La peridermis la produce el cámbium suberoso y está formada por el súber o corcho, la felodermis y las células del propio cámbium suberoso.
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Tallo de saúco donde se aprecia el cámbium suberoso. @megías-pacheco2017.](/presentaciones/images/cambium-suberoso.jpg){#fig-cambium-suberoso fig-align="center"}
+:::
+:::
+
+# Tejidos diferenciados
+
+## Tejido fundamental
+
+::: columns
+::: {.column .fragment width="50%"}
+> La mayoría de las frutas, verduras y otras partes de las plantas que consumimos están compuestas casi en su totalidad por parénquima. @mauseth2016
+
+::: fragment
+El parénquima constituye el tejido fundamental en varios aspectos:
+:::
+
+::: incremental
+-   Filogenéticamente
+    -   las primeras plantas estaban compuestas sólo de parénquima.
+-   Ontogenéticamente
+    -   Células más parecidas a las células embrionarias. 
+-   Fisiológicamente
+    -   Interviene en la fotosíntesis, la respiración y el almacenamiento.
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Las células del parénquima son el tipo más común de célula vegetal. nabors2006.](/presentaciones/images/parenquima.jpg){#fig-parenquima fig-align="center" width="70%"}
+:::
+:::
+
+## Parénquima {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Tejido simple
+-   Constituido por células vivas
+    -   Poco diferenciadas
+    -   Pared primaria
+    -   Hay espacios intercelulares entre las células
+    -   Vacuola grande
+    -   Morfológicamente muy diversas
+    -   Totipotentes
+-   Fisiológicamente complejo
+-   Gran variedad de funciones
+    -   Fotosíntesis
+    -   Almacenamiento
+    -   Elaboración de sustancias orgánicas 
+    -   Regeneración de tejidos
+    -   Transporte
+:::
+:::
+
+::: {.column .fragment width="50%"}
+### Clasificación
+
+Según su actividad y función se pueden clasificar en:
+
+::: incremental
+-   Fundamental
+-   Clorofílico
+-   Reserva
+-   Acuífero
+-   Aerífero
+-   Asociado a los tejidos de conducción
+:::
+
+::: fragment
+![¿Como no amarlo?](/presentaciones/images/iparenchyma.png){#fig-iparenchyma fig-align="center"}
+:::
+:::
+:::
+
+## Parénquima fundamental
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Células poliédrica e isodiamétricas
+    -   Pared primaria muy delgada
+    -   Vacuola muy desarrollada
+    -   No presentan cloroplastos sino leucoplastos
+-   Funciona como tejido de relleno
+-   Localizado en la médula y el córtex de tallos y raíces, la pulpa de los frutos y es en general cualquier órgano
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![a. Parénquima de la médula en un tallo de *Artemisia sp.* b. El tejido de la médula se compone de células de parénquima. Barras de escala = 500 μm en a, y 50 μm en b. @crang2018.](/presentaciones/images/parenquima_fundamental.jpg){#fig-parenquima-fundamental fig-align="center" width="50%"}
+:::
+:::
+
+## Parénquima clorofílico o Clorénquima
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Células con pared primaria delgada
+    -   Abundantes espacios intercelulares
+    -   Número variable de cloroplastos
+    -   Presentan numerosas vacuolas o una sola
+-   Tejido fotosintético por excelencia
+-   Localizado por lo general debajo de la epidermis
+-   El clorénquima de la hoja se denomina mesófilo y se divide en dos tipos:
+    -   Empalizada (fotosíntesis)
+    -   Lagunar o esponjoso (intercambio gaseoso)
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Tejidos y organización típicos de una hoja. @megías-pacheco2017.](/presentaciones/images/parenquima_clorofílico.jpg){#fig-parenquima-clorofilico fig-align="center"}
+:::
+:::
+
+## Parénquima de reserva
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Su estructura depende de la naturaleza de la sustancia acumulada
+-   Sintetiza y almacena (en solución o sólidos) diversas sustancias (azúcares, cristales proteicos, proteínas, lípidos, pigmentos, etc.) 
+-   Localizado en raíz, tallo, hojas, semillas y frutas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Parénquima de reserva en la corteza radicular de *Rannunculus repens*. @megías-pacheco2017.](/presentaciones/images/parenquima_reserva.jpg){#fig-parenquima-reserva fig-align="center"}
+:::
+:::
+
+## Parénquima acuífero o Hidrénquima
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Células de grandes dimensiones
+    -   Alargadas
+    -   Pared primaria delgada
+    -   Vacuola muy desarrollada, rica en agua o mucílagos
+-   Especializado en almacenar agua
+-   Localizado en los tallos y hojas de plantas suculentas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Parénquima de acuífero en tallo de un cactus. @megías-pacheco2017.](/presentaciones/images/parenquima_acuifero.jpg){#fig-parenquima-acuifero fig-align="center"}
+:::
+:::
+
+## Parénquima aerífero o Aerénquima
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Células de forma variada, frecuentemente estrelladas o lobuladas
+    -   Espacios intercelulares muy grandes, llamados lagunas o cámaras
+-   Continuo desde los tallos hasta las raíces
+-   Permiten la conducción de gases
+-   Permite la flotación
+-   Localizado típicamente en angiospermas acuáticas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Parénquima aerífero en la médula de *Juncus spp*. @megías-pacheco2017.](/presentaciones/images/parenquima_aerifero.jpg){#fig-parenquima-aerifero fig-align="center"}
+:::
+:::
+
+## Parénquima asociado a los tejidos de conducción
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Generalmente de paredes primarias engrosadas o secundarias
+-   Sirve para el almacenamiento de sustancias de reserva como para el transporte
+-   Localizado formando los radios medulares y también filas verticales entre floema y xilema
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Parénquima radial situado entre las tráqueas del xilema. @megías-pacheco2017.](/presentaciones/images/parenquima_vascular.jpg){#fig-parenquima-vascular fig-align="center"}
+:::
+:::
+
+## Tejidos de protección {background-color="black" background-image="/presentaciones/images/epidermis_arabidopsis.jpg"}
+
+> Todo el intercambio de material entre una planta y su entorno ocurre a través de su epidermis. @mauseth2016
+
+::: incremental
+-   Parte más externa las plantas
+    -   Se encuentran en contacto con el medio ambiente
+    -   Protegen de la desecación, del daño mecánico y patógenos
+    -   Funcionan como aislantes térmicos
+-   Los tejidos de protección típicos son la epidermis y peridermis
+    -   También se incluyen a la hipodermis y a la endodermis
+:::
+
+::: footer
+Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://commons.wikimedia.org/wiki/File:Arabidopsis-epiderm-stomata.jpg">Emmanuel Boutet</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.
+:::
+
+## Epidermis
+
+::: columns
+::: {.column .fragment width="50%"}
+> Capa de células que separa el medio interno de las plantas del externo en aquellos órganos que no presentan crecimiento secundario. @megías-pacheco2017.
+
+-   Tejido complejo
+-   Formado por varios tipos de células
+    -   Epidérmicas
+    -   Estomáticas
+    -   Idioblastos
+    -   Tricomas
 :::
 
 ::: {.column .fragment width="50%"}
@@ -156,3 +479,61 @@ son los meristemas primarios @evert2013.
 ::: {.column .fragment width="50%"}
 :::
 :::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+
+
+## Tejidos diferenciados: conducción
+
+## Xilema
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+::: footer
+*Xilema* proviene del la palabra griega *xylon*, que significa «madera».
+:::
+
+
+## Tejidos diferenciados: sostén
+
+## Tejidos diferenciados: secreción
+
+
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+
+
