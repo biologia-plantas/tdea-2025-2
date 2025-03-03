@@ -396,7 +396,7 @@ Según su actividad y función se pueden clasificar en:
 :::
 
 ::: {.column .fragment width="50%"}
-![Tejidos y organización típicos de una hoja. @megías-pacheco2017.](/presentaciones/images/parenquima_clorofílico.jpg){#fig-parenquima-clorofilico fig-align="center"}
+![Tejidos y organización típicos de una hoja. @megías-pacheco2017.](/presentaciones/images/parenquima_clorofilico.jpg){#fig-parenquima-clorofilico fig-align="center"}
 :::
 :::
 
@@ -741,9 +741,11 @@ Clasificados en función de la organización de las células oclusivas y las cé
 ::: {.column .fragment width="50%"}
 > Tejido protector secundario que sustituye a la epidermis en tallos y raíces, raramente en otros órganos.
 
+::: incremental
 -   Formado por el corcho, súber, felema, el felógeno (cambium suberoso) y la felodermis
 -   Acumulación de terpenos, alcaloides, fenoles y otros componentes bioactivos
 -   Producida por el felógeno
+:::
 :::
 
 ::: {.column .fragment width="50%"}
