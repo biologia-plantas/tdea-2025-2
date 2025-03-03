@@ -712,19 +712,6 @@ Clasificados en función de la organización de las células oclusivas y las cé
 ![Algunas fases del desarrollo de la peridermis. a. Peridermis reciente formada. b. Peridermis en una fase más avanzada de desarrollo. @evert2013.](/presentaciones/images/felodermis.jpg){#fig-peridermis fig-align="center" width="60%"}
 :::
 
-
-## Tejidos diferenciados: conducción
-
-## Xilema
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
 ::: footer
 *Xilema* proviene del la palabra griega *xylon*, que significa «madera».
 :::
@@ -843,7 +830,7 @@ Existen formas intermedias de díficil clasificación.
 :::
 
 ::: {.column .fragment width="50%"}
-![CEsclereidas de un tallo de *Ulex*. @megías-pacheco2017.](/presentaciones/images/esclereida_braquiesclereidas.png){#fig-braquiesclereidas fig-align="center"}
+![Esclereidas de un tallo de *Ulex*. @megías-pacheco2017.](/presentaciones/images/esclereida_braquiesclereidas.png){#fig-braquiesclereidas fig-align="center"}
 :::
 :::
 
@@ -880,17 +867,260 @@ Las esclereidas se clasifican según su forma.
 ### Características
 
 ::: incremental
+-   Células largas y estrechas, con extremos aguzados (fusiformes)
+    -   Pared secundaria lignificada, de grosor variable
+-   Varían en tamaño, forma,estructura, y cantidad y tipo de puntuaciones
+-   Pueden encontrarse en diversas partes de la planta
+-   Gran importancia económica
+-   Se clasifican según posición
+    -   Xilares, se encuentran en el xilema
+    -   Extraxilares, se encuentran en el floema (fibras floemáticas), en la corteza (fibras corticales), o rodeando haces vasculares (fibras perivasculares)
+:::
+:::
+
+::: {.column .fragment width="50%"}
+
+![Fibras de esclerénquima en tallo de *Zea mays*. @megías-pacheco2017.](/presentaciones/images/esclerenquima_fibras.jpg){#fig-fibras fig-align="center"}
+:::
+:::
+
+## Tejidos de conducción o vasculares
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Tejidos compuestos
+-   Células muy especializadas
+    -   Generalmente alargada
+    -   paredes terminales generalmente oblicuas
+    -   A menudo están fusionadas entre sí
+
+:::
+
+::: {.column .incremental width="50%"}
+-   Constituido por el xilema y el floema (haces vasculares)
+-   Especializados en la conducción de agua, sustancias inorgánicas y orgánicas
+-   Organización de los tejidos conductores es diferente en tallo y raíz
+:::
+:::
+
+::: fragment
+![Tallo de *Helianthus*. <a href="https://commons.wikimedia.org/wiki/File:Herbaceous_Dicot_Stem_Vascular_Bundles_in_Older_Helianthus_(23669988488).jpg">Berkshire Community College  Bioscience Image Library</a>, CC0, via Wikimedia Commons.](/presentaciones/images/tejidos_vasculares.jpg){#fig-tejidos-vasculares fig-align="center"}
+:::
+
+## Xilema
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Tejido complejo
+-   Transporta la savia bruta (agua y minerales) desde la raíz al resto de la planta
+-   Principal elemento de soporte mecánico de las plantas
+-   Cuatro tipos celulares principales
+    -   Elementos conductores o traqueales
+        -   Elementos de los vasos o tráqueas
+        -   Traqueidas
+    -   Células parenquimáticas
+    -   Fibras esclerenquimáticas
+-   Durante el crecimiento primario se originan el xilema y el floema primarios
+-   Si hay crecimiento secundario se forman el xilema (leño) y floema secundarios
 
 :::
 :::
 
 ::: {.column .fragment width="50%"}
+![Diagrama del tejido xilemático en las plantas. <a href="https://commons.wikimedia.org/wiki/File:Xylem_cells.svg">Kelvinsong</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/xylem_cells.svg){#fig-xilema fig-align="center"}
+
+![Esquema de los principales tipos celulares del xilema primario de una angiosperma. @megías-pacheco2017.](/presentaciones/images/xilema_esquema.png){#fig-fibras fig-align="center"}
 :::
 :::
 
-## Tejidos diferenciados: secreción
+::: footer
+*Xilema* deriva del griego *xylon* que significa madera
+:::
+
+## Elementos conductores o traqueales = tráqueas \+ traqueidas {.smaller}
+
+::: columns
+::: {.column .fragment width="30%"}
+### Características
+
+::: incremental
+-   Células con pared celular secundaria gruesa, dura y lignificada
+-   Sin contenido citoplasmático después de diferenciación
+-   Se distinguen por el engrosamiento de su parede secundaria
+    -   Anulares, helicoidales, reticulados y punteados. 
+    -   Depende del estado de desarrollo
+:::
+::: fragment
+![Esquema de los diferentes tipos de engrosamientos de la pared secundaria. @megías-pacheco2017.](/presentaciones/images/xilema_engrosamientos.png){#fig-engrosamientos fig-align="center"}
+:::
+:::
+
+::: {.column .fragment width="70%"}
+
+![Esquema de los elementos conductores. Las células no están a escala. @megías-pacheco2017.](/presentaciones/images/xilema_comparacion_esquema.png){#fig-xilema-comparacion fig-align="center"}
+
+::: fragment
+| Traqueas                                               | Traqueidas                                              |
+|----------------------------------------------|--------------------------|
+| Principal elemento conductor de las angiospermas       | Principal elemento conductor de helechos y gimnospermas |
+| Células cortas que forman filas que crean largos tubos | Son células alargadas con los extremos solapados        |
+| Diámetro interno grande y paredes más finas            | Diámetro interno pequeño y paredes más gruesas          |
+| Poros pequeños y más numerosos                         | Poros grandes y menos numerosos                         |
+| Tienen placas perforadas                               | No tienen placas perforadas                             |
+| Mayor eficiencia en la conducción de agua              | Menos eficiencia en la conducción de agua               |
+| Forman tubos                                           | No forman tubos                                         |
+
+: Comparación entre las traqueas (elementos de los vasos) y las traqueidas. @megías-pacheco2017. {#tbl-elementos-conductores}
+:::
+:::
+:::
+
+## Tráqueas y traqueidas
+
+![Traqueas y traqueidas. @nabors2006.](/presentaciones/images/xilema_elementos_conductores.jpg){#fig-xilema-elementos-conductores fig-align="center"}
+
+## Xilema: parénquima y esclerénquima
+
+::: columns
+::: {.column .fragment width="50%"}
+### Células parenquimáticas
+
+-   Forman parte del xilema
+-   Organizado radialmente y axialmente
+-   Variedad de funciones
+    -   Servir de almacén (carbohidratos, agua, minerales, nitrógeno)
+    -   Permitir la comunicación xilema-floema
+    -   Defensa frente a patógenos
+    -   Entre otros
+:::
+
+::: {.column .fragment width="50%"}
+### Fibras esclerenquimáticas
+
+-   Proteger y soportar las estructuras donde se encuentran
+-   Más largas que los elementos de los vasos, menor diamétro
+-   Parede celular relativamente gruesas y extremos puntiagudos
+:::
+:::
 
 
+## Floema
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Tejido complejo, también llamado líber o tejido criboso
+-   Transportar y repartir moléculas orgánicas solubles, péptidos, hormonas, proteínas y ARNm
+-   Origen primario y secundario
+-   Conformado por varios tipos celulares
+    -   Elementos cribosos
+        -   Miembros del tubo criboso
+        -   Células cribosas
+    -   Células parenquimáticas
+    -   Fibras de esclerénquima y esclereidas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama del tejido floemático en las plantas. <a href="https://commons.wikimedia.org/wiki/File:Phloem_cells.svg">Kelvinsong</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/phloem_cells.svg){#fig-floema fig-align="center" width="75%"}
+:::
+:::
+
+::: footer
+*Floema* deriva del griego *phloios* que significa corteza
+:::
+
+
+## Elementos cribosos: tubo criboso \+ células cribosas {.smaller}
+
+::: columns
+::: {.column .fragment width="30%"}
+### Características
+
+::: incremental
+-   Células vivas
+    -   Múcleo parcialmente degradado
+    -   Protoplasto vivos en la madurez
+    -   Se conserva parte del citoplasma, las cisternas de retículo endoplasmático liso, mitocondrias modificadas, y algunos plastidios
+    -   Pared primaria engrosada con depósitos de calosa
+-   «Controlados» por células albuminosas y células acompañantes
+:::
+:::
+
+::: {.column .fragment width="70%"}
+
+![Esquema de los principales tipos celulares del floema y de los elementos cribosos. @megías-pacheco2017.](/presentaciones/images/floema_elementos_cribosos.png){#fig-elementos-cribosos fig-align="center"}
+
+::: fragment
+ Tubos cribosos                   | Células cribosas                                           |
+|-----------------------------------|-------------------------------------|
+| Típicas de angiospermas          | Típicas de gimnospermas y plantas vasculares sin semillas. |
+| Diámetro mayor                   | Diámetro menor                                             |
+| Más cortas                       | Más largas                                                 |
+| Tienen placas cribosas           | No tienen placas cribosas                                  |
+| Extremos planos a inclinados     | Extremos puntiagudos                                       |
+| Forman tubos                     | No forman tubos                                            |
+| Asociadas a células acompañantes | Asociadas a células albuminíferas                          |
+
+: Comparación entre los tubos cribosos (miembros del tubo criboso) y las células cribosas. @megías-pacheco2017. {#tbl-elementos-conductores}
+:::
+:::
+:::
+
+## Tubo criboso y células cribosas
+
+::: columns
+::: {.column .fragment width="50%"}
+![A. Célula cribosa. B. Miembro de tubo criboso. @mauseth2016.](/presentaciones/images/floema_elementos_cribosos.jpg){#fig-elementos-cribosos-2 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![a. Elementos de los tubos cribosos y sus células anexas. b. Elementos de los tubos cribosos agrupados, con las células anexas y el parénquima floemático. c. Placa cribosa. @nabors2006.](/presentaciones/images/floema_tubos criboso.jpg){#fig-tubos-cribosos fig-align="center" width="75%"}
+:::
+:::
+
+## Floema: parénquima y esclerénquima
+
+::: columns
+::: {.column .fragment width="50%"}
+### Células parenquimáticas
+
+-   pueden estar estrechamente asociadas a los elementos cribosos
+-   Células acompañantes (angiospermas)
+    -   Mantenimiento y control metábolico a los tubos cribosos, normalmente relación 1:1
+    -   Cargar y descargar los elementos cribosos
+    -   Núcleo grande y un citoplasma muy rico en orgánulos
+-   Células albuminosas (gimnospermas)
+    -    similar a las células acompañantes con origen diferente
+-   Otras células parenquimáticas
+:::
+
+::: {.column .fragment width="50%"}
+### Fibras de esclerénquima y esclereidas
+
+-   Protección y soporte
+-   Abundantes en el floema secundario
+-   Células alargadas y puntiagudas
+-   Pared secundaria gruesa
+:::
+:::
+
+## Tejidos de secreción
+
+::: columns
+::: {.column .fragment width="50%"}
+
+-   
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 
 
