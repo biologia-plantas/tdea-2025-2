@@ -36,12 +36,12 @@ bibliography: references.bib
 ## Crecimiento, morfogénesis y diferenciación
 
 ::: incremental
--   **Desarrollo:** suma total de acontecimientos que forman progresivamente el cuerpo de un organismo, implica tres procesos superpuestos: crecimiento, morfogénesis y diferenciación.
--   **Crecimiento:** aumento irreversible de tamaño, se logra mediante una combinación de división celular y agrandamiento celular.
-    -   **Primario:** crecimiento originado en los meristemas apicales de tallos y raíces, da lugar a un aumento de la longitud.
+-   **Desarrollo:** suma total de acontecimientos que forman progresivamente el cuerpo de un organismo, implica tres procesos superpuestos: crecimiento, morfogénesis y diferenciación
+-   **Crecimiento:** aumento irreversible de tamaño, se logra mediante una combinación de división celular y agrandamiento celular
+    -   **Primario:** crecimiento originado en los meristemas apicales de tallos y raíces, da lugar a un aumento de la longitud
     -   **Secundario:** crecimiento derivado de meristemas secundarios o laterales, el cambium vascular y el cambium de corcho, que da lugar a un aumento de la circunferencia
-- **Morfogénesis:** desarrollo de la forma; conjunto de fenómenos relacionados con el desarrollo y la diferenciación de tejidos y órganos.
--   **Diferenciación:** proceso por el que células con idéntica constitución genética se diferencian entre sí y de las células meristemáticas de las que proceden.
+- **Morfogénesis:** desarrollo de la forma; conjunto de fenómenos relacionados con el desarrollo y la diferenciación de tejidos y órganos
+-   **Diferenciación:** proceso por el que células con idéntica constitución genética se diferencian entre sí y de las células meristemáticas de las que proceden
 :::
 
 ## Tejidos: clasificación
@@ -60,7 +60,7 @@ bibliography: references.bib
 
 ::: columns
 ::: {.column width="50%"}
-**Tejidos indiferenciados**
+### Tejidos indiferenciados
 
 -   Meristemas
     -   Primarios o apicales
@@ -73,24 +73,24 @@ bibliography: references.bib
 :::
 
 ::: {.column width="50%"}
-**Tejidos diferenciados**
+### Tejidos diferenciados
 
+-   Fundamental
+    -   Parénquima
 -   Protección
     -   Epidermis
     -   Peridermis
--   Fundamental
-    -   Parénquima
--   Conducción
-    - Xilema
-    - Floema
 -   Sostén
     -   Colénquima
     -   Esclerénquima
+-   Conducción
+    - Xilema
+    - Floema
 -   Secreción
 :::
 :::
 
-# Tejidos indiferenciados
+# Tejidos indiferenciados > Meristemas
 
 ## Meristemas
 
@@ -114,6 +114,10 @@ bibliography: references.bib
 ::: {.column .fragment width="50%"}
 ![Secciones longitudinales de medianas de *Ternstroemia gymnanthera* (A) y *Aucuba japonica* (B). @atlasof2014.](/presentaciones/images/meristemas_angiosperma.jpg){#fig-meristemas fig-align="center" width="60%"}
 :::
+:::
+
+::: footer
+*Meristemo* del alemán *Meristem*, y este del griego meristós «divisible»
 :::
 
 ## Meristemas: clasificación {.smaller}
@@ -185,7 +189,7 @@ son los meristemas primarios @evert2013.
     -   Formación de la madera y de la corteza de los troncos
     -   Aumento de diámetro de tallos y raíces
 -   Se disponen paralelamente a los lados del tallo y la raíz
--   Hay dos tipos de meristemas secundarios: 
+-   Hay dos tipos de meristemas secundarios 
     -   Cámbium vascular
     -   Cámbium suberoso o felógeno
 :::
@@ -207,10 +211,10 @@ son los meristemas primarios @evert2013.
 > Meristemo lateral que forma los tejidos vasculares secundarios, floema secundario y xilema secundario, en el tallo y la raíz. @evert2006.
 
 ::: incremental
--   Se origina a partir de células del córtex y del procámbium.
-    -   En la raíz, las células del periciclo también participan en este proceso.
--   El cámbium vascular añade xilema secundario hacia la parte interna y floema secundario hacia la parte externa del cámbium vascular.
--   Siempre se produce más xilema que floema a partir del cámbium vascular.
+-   Se origina a partir de células del córtex y del procámbium
+    -   En la raíz, las células del periciclo también participan en este proceso
+-   El cámbium vascular añade xilema secundario hacia la parte interna y floema secundario hacia la parte externa del cámbium vascular
+-   Siempre se produce más xilema que floema a partir del cámbium vascular
 :::
 :::
 
@@ -220,7 +224,7 @@ son los meristemas primarios @evert2013.
 :::
 
 ::: footer
-*Cámbium* procede del término latino *cambire*, y significa «intercambiar».
+*Cámbium* del leatín *cambire* «intercambiar»
 :::
 
 ## Cámbium suberoso o felógeno
@@ -241,7 +245,41 @@ son los meristemas primarios @evert2013.
 :::
 :::
 
-# Tejidos diferenciados
+## Tejidos: clasificación
+
+::: columns
+::: {.column width="50%"}
+### Tejidos indiferenciados
+
+-   Meristemas
+    -   Primarios o apicales
+        -   Protodermis
+        -   Procambium 
+        -   Meristema fundamental
+    -   Secundarios o laterales
+        -   Cambium vascular
+        -   Cambium suberoso
+:::
+
+::: {.column width="50%"}
+### Tejidos diferenciados
+
+-   Fundamental
+    -   Parénquima
+-   Protección
+    -   Epidermis
+    -   Peridermis
+-   Sostén
+    -   Colénquima
+    -   Esclerénquima
+-   Conducción
+    - Xilema
+    - Floema
+-   Secreción
+:::
+:::
+
+# Tejidos diferenciados > Fundamental
 
 ## Tejido fundamental
 
@@ -313,6 +351,10 @@ Según su actividad y función se pueden clasificar en:
 :::
 :::
 
+::: footer
+*Parénquima* del latín científico *parenchyma*, y este del griego *parénchyma* «sustancia de los órganos»
+:::
+
 ## Parénquima fundamental
 
 ::: columns
@@ -347,7 +389,7 @@ Según su actividad y función se pueden clasificar en:
     -   Presentan numerosas vacuolas o una sola
 -   Tejido fotosintético por excelencia
 -   Localizado por lo general debajo de la epidermis
--   El clorénquima de la hoja se denomina mesófilo y se divide en dos tipos:
+-   El clorénquima de la hoja se denomina mesófilo y se divide en dos tipos
     -   Empalizada (fotosíntesis)
     -   Lagunar o esponjoso (intercambio gaseoso)
 :::
@@ -436,6 +478,42 @@ Según su actividad y función se pueden clasificar en:
 :::
 :::
 
+## Tejidos: clasificación
+
+::: columns
+::: {.column width="50%"}
+### Tejidos indiferenciados
+
+-   Meristemas
+    -   Primarios o apicales
+        -   Protodermis
+        -   Procambium 
+        -   Meristema fundamental
+    -   Secundarios o laterales
+        -   Cambium vascular
+        -   Cambium suberoso
+:::
+
+::: {.column width="50%"}
+### Tejidos diferenciados
+
+-   Fundamental
+    -   Parénquima
+-   Protección
+    -   Epidermis
+    -   Peridermis
+-   Sostén
+    -   Colénquima
+    -   Esclerénquima
+-   Conducción
+    - Xilema
+    - Floema
+-   Secreción
+:::
+:::
+
+# Tejidos diferenciados > Protección
+
 ## Tejidos de protección {background-color="black" background-image="/presentaciones/images/epidermis_arabidopsis.jpg"}
 
 > Todo el intercambio de material entre una planta y su entorno ocurre a través de su epidermis. @mauseth2016
@@ -477,6 +555,10 @@ Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://com
 ::: {.column .fragment width="50%"} 
 ![Hoja de *Ficus elástica*. cis: cistolito, cu: cuticula, ep: epidermis pluriestratificada, hv: haz vascular, id: idioblasto, pe: parénquima en empalizada, pl: parénquima lagunar, st: estoma.](/presentaciones/images/hoja_ficus.png){#fig-hoja-ficus fig-align="center" width="75%"}
 :::
+:::
+
+::: footer
+*Epidermis* del griego *epidermís*, de epi- «sobre» y dérma «piel»
 :::
 
 ## Células epidérmicas
@@ -538,7 +620,7 @@ Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://com
 ::: incremental
 -   Formados por dos células oclusivas o de guarda y un orificio denominado (ostiolo)
 -   Bajo las células oclusivas se encuentra la cámara subestomática
--   Generalmente rodeados por células acompañantes, subsidiarias,o anexas
+-   Generalmente rodeados por células acompañantes, subsidiarias, o anexas
 -   El número de estomas es variable
 -   En hojas normalmente están en el envés
 -   Controlan el intercambio de gases
@@ -551,6 +633,10 @@ Epidermis de una hoja de *Arabidopsis thaliana* (cryo-SEM). <a href="https://com
 
 ![Estomas de diferentes plantas. @megías-pacheco2017.](/presentaciones/images/estoma_lateral.jpg){#fig-estomas-lateral fig-align="center"}
 :::
+:::
+
+::: footer
+*Estoma* del griego *stóma* «boca»
 :::
 
 ## Estomas: clasificación
@@ -713,8 +799,44 @@ Clasificados en función de la organización de las células oclusivas y las cé
 :::
 
 ::: footer
-*Xilema* proviene del la palabra griega *xylon*, que significa «madera».
+*Felodermis* como *epidermis* pero con el prefijo *felo* «corcho»
 :::
+
+## Tejidos: clasificación
+
+::: columns
+::: {.column width="50%"}
+### Tejidos indiferenciados
+
+-   Meristemas
+    -   Primarios o apicales
+        -   Protodermis
+        -   Procambium 
+        -   Meristema fundamental
+    -   Secundarios o laterales
+        -   Cambium vascular
+        -   Cambium suberoso
+:::
+
+::: {.column width="50%"}
+### Tejidos diferenciados
+
+-   Fundamental
+    -   Parénquima
+-   Protección
+    -   Epidermis
+    -   Peridermis
+-   Sostén
+    -   Colénquima
+    -   Esclerénquima
+-   Conducción
+    - Xilema
+    - Floema
+-   Secreción
+:::
+:::
+
+# Tejidos diferenciados > Sostén
 
 ## Tejidos de sostén
 
@@ -757,7 +879,7 @@ Clasificados en función de la organización de las células oclusivas y las cé
 :::
 
 ::: footer
-*Colénquima* deriva de la palabra griega *colla*, que significa goma.
+*Colénquima* del griego *colla* «goma»
 :::
 
 ## Colénquima: clasificación
@@ -797,7 +919,7 @@ Existen formas intermedias de díficil clasificación.
 -   Tejido compuesto
 -   Formado por células muertas al madurar
     -   Pared celular secundaria, engrosada y lignificada
-    -   Variebles en forma, estructura, origen y desarrollo.
+    -   Variebles en forma, estructura, origen y desarrollo
 -   Soporte de las estructuras que han dejado de alargarse
 -   Más abundante en tallos y hojas que en raíces
 -   Conformado por fibras y esclereidas
@@ -811,7 +933,7 @@ Existen formas intermedias de díficil clasificación.
 :::
 
 ::: footer
-*Esclerénquima* viene del griego *scleros* (duro) y *enchyma* (sustancia o infusión)
+*Esclerénquima* del griego *scleros* «duro» y *enchyma* «sustancia o infusión»
 :::
 
 ## Esclereidas
@@ -884,6 +1006,42 @@ Las esclereidas se clasifican según su forma.
 :::
 :::
 
+## Tejidos: clasificación
+
+::: columns
+::: {.column width="50%"}
+### Tejidos indiferenciados
+
+-   Meristemas
+    -   Primarios o apicales
+        -   Protodermis
+        -   Procambium 
+        -   Meristema fundamental
+    -   Secundarios o laterales
+        -   Cambium vascular
+        -   Cambium suberoso
+:::
+
+::: {.column width="50%"}
+### Tejidos diferenciados
+
+-   Fundamental
+    -   Parénquima
+-   Protección
+    -   Epidermis
+    -   Peridermis
+-   Sostén
+    -   Colénquima
+    -   Esclerénquima
+-   Conducción
+    - Xilema
+    - Floema
+-   Secreción
+:::
+:::
+
+# Tejidos diferenciados > Conducción
+
 ## Tejidos de conducción o vasculares
 
 ::: columns
@@ -937,7 +1095,7 @@ Las esclereidas se clasifican según su forma.
 :::
 
 ::: footer
-*Xilema* deriva del griego *xylon* que significa madera
+*Xilema* del griego *xylon* «madera»
 :::
 
 ## Elementos conductores o traqueales = tráqueas \+ traqueidas {.smaller}
@@ -1032,7 +1190,7 @@ Las esclereidas se clasifican según su forma.
 :::
 
 ::: footer
-*Floema* deriva del griego *phloios* que significa corteza
+*Floema* del griego *phloios* «corteza»
 :::
 
 
@@ -1057,7 +1215,7 @@ Las esclereidas se clasifican según su forma.
 ![Esquema de los principales tipos celulares del floema y de los elementos cribosos. @megías-pacheco2017.](/presentaciones/images/floema_elementos_cribosos.png){#fig-elementos-cribosos fig-align="center"}
 
 ::: fragment
- Tubos cribosos                   | Células cribosas                                           |
+| Tubos cribosos                   | Células cribosas                                           |
 |-----------------------------------|-------------------------------------|
 | Típicas de angiospermas          | Típicas de gimnospermas y plantas vasculares sin semillas. |
 | Diámetro mayor                   | Diámetro menor                                             |
@@ -1110,29 +1268,83 @@ Las esclereidas se clasifican según su forma.
 :::
 :::
 
-## Tejidos de secreción
+## Tejidos: clasificación
+
+::: columns
+::: {.column width="50%"}
+### Tejidos indiferenciados
+
+-   Meristemas
+    -   Primarios o apicales
+        -   Protodermis
+        -   Procambium 
+        -   Meristema fundamental
+    -   Secundarios o laterales
+        -   Cambium vascular
+        -   Cambium suberoso
+:::
+
+::: {.column width="50%"}
+### Tejidos diferenciados
+
+-   Fundamental
+    -   Parénquima
+-   Protección
+    -   Epidermis
+    -   Peridermis
+-   Sostén
+    -   Colénquima
+    -   Esclerénquima
+-   Conducción
+    - Xilema
+    - Floema
+-   Secreción
+:::
+:::
+
+# Tejidos diferenciados > Secreción
+
+## Tejidos de secreción {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Secrececión: síntesis y liberación de sustancias tanto intracelular, cuando los productos quedan en el citoplasma o en la vacuola como extracelular, cuando los productos salen de la célula, al exterior o hacia espacios internos. @arbo2019
 
--   
+::: incremental
+-   Difícil distinguir entre excreción y secreción
+-   Todas las células vegetales cumplen actividades secretoras intrínsecas
+-   Secreción activa y pasiva
+-   Estructuras de secreción externas
+    -   Hidatodos
+    -   Nectarios
+    -   Osmóforos
+    -   Glándulas de la sal
+    -   Tricomas glandulares
+-   Estructuras de secreción interna
+    -   Células secretoras (idioblastos)
+    -   Cavidades y conductos secretores
+        -   Conductos resiníferos
+        -   Cavidades lisogénicas
+    -   Laticíferos
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![Hidatodo de una hoja de *Sedum brevifolium*. @megías-pacheco2017.](/presentaciones/images/secrecion_hidatodo.jpg){#fig-elementos-cribosos fig-align="center"}
+
+![Canal resinífero en un tallo de *Pinus spp.* @megías-pacheco2017.](/presentaciones/images/secrecion_resinifero.jpg){#fig-elementos-cribosos fig-align="center"}
 :::
 :::
 
+<!-- ## Heading2 -->
 
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
 
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencias
 
