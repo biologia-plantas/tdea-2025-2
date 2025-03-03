@@ -20,3 +20,8 @@ Imágenes usadas en general_sherman.jpg
 
 General Sherman 1 https://commons.wikimedia.org/wiki/File:General_Sherman_Tree_in_Sequoia_National_Park_-_June_2022.jpg
 General Sherman 2 https://commons.wikimedia.org/wiki/File:General_Sherman_with_fire_protection_wrap.jpg
+
+Imágenes usadas en tejidos_sosten.jpg
+
+https://commons.wikimedia.org/wiki/File:Plant_cell_type_collenchyma.png
+https://commons.wikimedia.org/wiki/File:Plant_cell_type_sclerenchyma_fibers.png

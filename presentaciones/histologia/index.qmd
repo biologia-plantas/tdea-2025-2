@@ -227,11 +227,12 @@ son los meristemas primarios @evert2013.
 
 ::: columns
 ::: {.column .fragment width="50%"}
-> Meristema lateral que forma la peridermis, un tejido protector secundario común en tallos y raíces de plantas con semilla. Produce súber o corcho hacia el exterior y felodermis hacia el interior.
+> Meristema lateral que forma la peridermis, un tejido protector secundario común en tallos y raíces de plantas con semilla. Produce súber o corcho hacia el exterior y felodermis hacia el interior. @evert2006.
 
 ::: incremental
--   Se origina inicialmente a partir de células parenquimáticas del córtex y, ocasionalmente, del floema primario.
--   La peridermis la produce el cámbium suberoso y está formada por el súber o corcho, la felodermis y las células del propio cámbium suberoso.
+-   Se origina inicialmente a partir de células parenquimáticas del córtex y, ocasionalmente, del floema primario
+-   La peridermis la produce el cámbium suberoso y está formada por el súber o corcho, la felodermis y las células del propio cámbium suberoso
+-   Puede ser persistente o no persistente
 :::
 :::
 
@@ -652,11 +653,65 @@ Clasificados en función de la organización de las células oclusivas y las cé
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Tejido protector secundario que sustituye a la epidermis en tallos y raíces, raramente en otros órganos.
+
+-   Formado por el corcho, súber, felema, el felógeno (cambium suberoso) y la felodermis
+-   Acumulación de terpenos, alcaloides, fenoles y otros componentes bioactivos
+-   Producida por el felógeno
 :::
 
 ::: {.column .fragment width="50%"}
+![Tallo de *Sambucus nigra* con peridermis. @megías-pacheco2017.](/presentaciones/images/peridermis.jpg){#fig-peridermis fig-align="center"}
 :::
 :::
+
+## Súber, corcho o felema
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Compuesto por células muertas con paredes suberizadas
+-   Formado hacia el exterior por el felógeno (cámbium suberoso)
+-   Reemplaza la epidermis en tallos y raíces envejecidos de muchas plantas con semilla
+-   Tejido elástico, compresible, impermeable al agua, resistente a la acción de enzimas, liviano y buen aislante térmico
+-   Pueden tener contenidos fluidos o sólidos
+-   Formado por células células suberizadas y células feloides
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Súber en tallo de *Aristolochia*. Las lenticelas son estructuras que permiten el intercambio gaseoso. @evert2013.](/presentaciones/images/suber.jpg){#fig-suber fig-align="center" width="75%"}
+
+![Corteza de *Quercus suber*. <a href="https://commons.wikimedia.org/wiki/File:1-Arraiolos-0050.jpg">User:Sallyofmayflower</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons.](/presentaciones/images/corcho.jpg){#fig-corcho fig-align="center" width="50%"}
+
+:::
+:::
+
+## Felodermis
+
+### Características
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Formada por células vivas
+    -   Similar al parénquima, diferente por su forma de hileras radiales
+    -   Presentan numerosos espacios intercelulares
+    -   Inicialmente pueden ser fotosintéticas
+:::
+
+::: {.column .incremental width="50%"}
+-   En general es una capa de células o unas pocas
+-   La esclerificación de todo o parte del filodermo es común
+-   Puede desempeñar una función de almacenamiento
+:::
+:::
+
+::: fragment
+![Algunas fases del desarrollo de la peridermis. a. Peridermis reciente formada. b. Peridermis en una fase más avanzada de desarrollo. @evert2013.](/presentaciones/images/felodermis.jpg){#fig-peridermis fig-align="center" width="60%"}
+:::
+
 
 ## Tejidos diferenciados: conducción
 
@@ -674,60 +729,170 @@ Clasificados en función de la organización de las células oclusivas y las cé
 *Xilema* proviene del la palabra griega *xylon*, que significa «madera».
 :::
 
+## Tejidos de sostén
 
-## Tejidos diferenciados: sostén
+::: columns
+::: {.column .incremental width="50%"}
+-   Mantienen erguida a la planta
+-   El colénquima y el esclerénquima son los tejidos de sostén
+-   Constituidos por células con paredes celulares gruesas
+-   Diferentes en sus paredes celulares y localización
+-   En plantas de cierto porte, la función de soporte la realiza los tejidos vasculares
+:::
+
+::: {.column .fragment width="50%"}
+![Tejidos de sosten en plantas: colénquima y esclerénquima. Snowman frosty, Public domain, via Wikimedia Commons.](/presentaciones/images/tejidos_sosten.jpg){#fig-sosten fig-align="center"}
+:::
+:::
+
+## Colénquima
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Tejido simple
+-   Compuesto de células vivas más o menos alargadas
+    -   Pared primaria, no lignificadas y desigualmente engrosadas
+    -   Protoplasto  vacuolado
+    -   Capaces de reanudar una actividad meristemática
+-   Tejido resistente y flexible
+-   Común en regiones de crecimiento primario en tallos y hojas
+-   Ausente en la mayoría de las monocotiledóneas
+:::
+
+:::
+
+::: {.column .fragment width="50%"}
+![Distribución del colénquima (entrecruzado) en diversas partes de la planta. @evert2006.](/presentaciones/images/colenquima_ubicacion.png){#fig-colenquima fig-align="center" width="75%"}
+:::
+:::
+
+::: footer
+*Colénquima* deriva de la palabra griega *colla*, que significa goma.
+:::
+
+## Colénquima: clasificación
+
+::: columns
+::: {.column .fragment width="50%"}
+El colénquima se clasifica en base a la distribución del engrosamiento de la pared
+
+::: incremental
+-   **Angular:** engrosamientos en los vértices de las células
+-   **Anular:** engrosamiento uniforme alrededor de la células
+-   **Lagunar:** engrosamientos próximos a espacios intercelulares
+-   **Laminar:** engrosamientos en las paredes tangenciales externas e internas
+:::
+
+::: fragment
+Existen formas intermedias de díficil clasificación.
+:::
+:::
+
+::: {.column .fragment width="50%"} 
+![Tipos de colénquima. A. Colénquima angular. B. Colénquima laminar. C. Colénquima anular. D. Colénquima lagunar. @megías-pacheco2017.](/presentaciones/images/colenquima_tipos.png){#fig-colenquima-tipos fig-align="center"}
+:::
+:::
+
+## Colénquima: ejemplos
+
+![Colénquima de diferentes plantas. @megías-pacheco2017.](/presentaciones/images/colenquima_tipos.jpg){#fig-colenquima-ejemplos fig-align="center"}
+
+## Esclerénquima
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Tejido compuesto
+-   Formado por células muertas al madurar
+    -   Pared celular secundaria, engrosada y lignificada
+    -   Variebles en forma, estructura, origen y desarrollo.
+-   Soporte de las estructuras que han dejado de alargarse
+-   Más abundante en tallos y hojas que en raíces
+-   Conformado por fibras y esclereidas
+    -   fibroesclereida cuando es difícil de clasificar
+:::
+:::
+
+::: {.column .fragment width="50%"} 
+![Distribución del esclerénquima (punteado), principalmente fibras, y de los tejidos vasculares, en diversas partes de la planta. @evert2006.](/presentaciones/images/esclerenquima_ubicacion.png){#fig-esclerenquima fig-align="center" width="60%"}
+:::
+:::
+
+::: footer
+*Esclerénquima* viene del griego *scleros* (duro) y *enchyma* (sustancia o infusión)
+:::
+
+## Esclereidas
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Células pequñas
+    -   Pared secundaria muy gruesa y lignificada
+    -   Forma variable (isodiamétricas, estrelladas, ramificadas, etc.)
+-   Función mecánica o protectora
+-   Se encuentran en los tallos, hojas, frutos y semillas, aisladas o formando capas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![CEsclereidas de un tallo de *Ulex*. @megías-pacheco2017.](/presentaciones/images/esclereida_braquiesclereidas.png){#fig-braquiesclereidas fig-align="center"}
+:::
+:::
+
+## Esclereidas: clasificación
+
+::: columns
+::: {.column .fragment width="50%"}
+Las esclereidas se clasifican según su forma.
+
+::: incremental
+-   **Astroesclereidas:** células ramificadas en grado variable
+-   **Braquiesclereidas:** células cortas, isodiamétricas, célula pétrea
+-   **Filiformes:** células largas y delgadas semejantes a fibras
+-   **Macroesclereidas:** células alargadas en forma de barril
+-   **Osteoesclereidas:** células columnares con sus extremos agrandados
+-   **Tricoesclereidas:** células con paredes delgadas, semejantes a pelos
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Tipos de esclereidas. a. Braquiesclereidas. b. Macrosclereidas. c. Osteosclereidas d. Astrosclereidas. e. Tricosclereidas. @scert2024.](/presentaciones/images/esclereidas_clasificacion.png){#fig-esclereidas-clasificacion fig-align="center" width="75%"}
+:::
+:::
+
+## Esclereidas: ejemplos
+
+![A. Braquiesclereidas en *Pyrus communis*. B. Astroesclereidas en *Nymphaea odorata*. C. Macroesclereidas en *Phaseolus vulgaris*, recuadro: macroesclereidas (M) y osteoesclereidas (O) aisladas de una *Vicia faba*. @crang2018.](/presentaciones/images/esclereidas_tipos.jpg){#fig-esclereidas-ejemplo fig-align="center"}
+
+
+## Fibras
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+
+:::
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 ## Tejidos diferenciados: secreción
 
-## Heading2
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
 
-::: {.column .fragment width="50%"}
-:::
-:::
 
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
 
 ## Heading2
 
