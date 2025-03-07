@@ -1192,7 +1192,7 @@ La savia bruta asciende por cohesión del agua, transpiración en las hojas, pre
 :::
 
 ::: {.column .fragment width="50%"}
-![Las punteaduras en las células del xilema participan en la transferencia lateral de agua hacia las células vecinas. ](/presentaciones/images/xilema_transporte_02.png){#fig-xilema-transporte-02 fig-align="center"}
+![Las punteaduras en las células del xilema participan en la transferencia lateral de agua hacia las células vecinas. @khan2017.](/presentaciones/images/xilema_transporte_02.png){#fig-xilema-transporte-02 fig-align="center"}
 :::
 :::
 
