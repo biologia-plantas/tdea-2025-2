@@ -120,6 +120,22 @@ bibliography: references.bib
 *Meristemo* del alemán *Meristem*, y este del griego meristós «divisible»
 :::
 
+## Meristemas: división y diferenciación {.smaller}
+
+::: fragment
+![A. Células lista para dividirse. B. División del núcelo. C. División del citoplasma. D. Crecimiento célular. E. Una puede dividirse, otra diferenciarse. F. Un par de células crecen, una sigue diferenciandose. G. Corte transversal mostrando lo representado. @mauseth2016.](/presentaciones/images/meristemas_division.png){#fig-meristemas-division fig-align="center" width="50%"}
+:::
+
+::: columns
+::: {.column .fragment width="50%"}
+![Planos de división célular. @megías-pacheco2017.](/presentaciones/images/celulas_division.png){#fig-celulas-division fig-align="center" width="45%"}
+:::
+
+::: {.column .fragment width="50%"}
+![Varios tipos de células pueden originarse a partir de una célula meristemática del procambium o del cambium vascular. @evert2013.](/presentaciones/images/meristemas_diferenciacion.png){#fig-meristemas-diferenciacion fig-align="center" width="65%"}
+:::
+:::
+
 ## Meristemas: clasificación {.smaller}
 
 ::::: columns
@@ -1166,6 +1182,19 @@ Las esclereidas se clasifican según su forma.
 :::
 :::
 
+## Xilema: movimiento de agua
+
+La savia bruta asciende por cohesión del agua, transpiración en las hojas, presión radicular.
+
+::: columns
+::: {.column .fragment width="50%"}
+![A. El agua pasa entre traqueidas únicamente a través de pares de punteaduras. B. El agua puede pasar entre los elementos de los vasos a través de perforaciones, pero solo puede moverse de un vaso a otro a través de pares de punteaduras. @mauseth2016.](/presentaciones/images/xilema_transporte_01.png){#fig-xilema-transporte-01 fig-align="center" width="65%"}
+:::
+
+::: {.column .fragment width="50%"}
+![Las punteaduras en las células del xilema participan en la transferencia lateral de agua hacia las células vecinas. ](/presentaciones/images/xilema_transporte_02.png){#fig-xilema-transporte-02 fig-align="center"}
+:::
+:::
 
 ## Floema
 
