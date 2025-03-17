@@ -1,0 +1,338 @@
+---
+title: "Diversidad"
+# date: 2025-03-18
+format:
+  revealjs:
+    controls: true
+    touch: false
+bibliography: references.bib
+draft: true
+---
+
+```{r}
+#| label: setup
+#| echo: false
+#| message: false
+#| warning: false
+
+if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
+if (!require("ggtext")) install.packages("ggtext"); library("ggtext")
+if (!require("sysfonts")) install.packages("sysfonts"); library("sysfonts")
+if (!require("showtext")) install.packages("showtext"); library("showtext")
+
+sysfonts::font_add_google(
+  name = "Atkinson Hyperlegible",
+  family = "atkinson"
+)
+
+showtext::showtext_auto()
+```
+
+# Diversidad
+
+## Diversidad
+
+> La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otras cosas, los ecosistemas terrestres y marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas. @nacionesunidas1992.
+
+## El árbol de la vida
+
+![El árbol de la vida. @eisenberg2017.](/presentaciones/images/tree-of-life_eisenberg.jpg){#fig-tree-life-beaud fig-align="center"}
+
+## Diversidad en cifras
+
+![El número total estimado de especies de los cuatro grupos principales se muestra en verde, y el número actual de especies descritas científicamente se muestra en negro. @sotwpf2023.](/presentaciones/images/diversidad_numeros.png){#fig-diversidad_numeros_01 fig-align="center"}
+
+## Diversidad en cifras
+
+![Número de especies identificadas y nombradas en cada grupo taxonómico. @owid2022.](/presentaciones/images/diversidad_numeros.svg){#fig-diversidad_numeros_02 fig-align="center"}
+
+## Diversidad en Colombia
+
+```{r}
+#| label: diversidad-colombia
+#| echo: false
+#| message: false
+#| output-location: fragment
+
+datos_colombia <- 
+  tibble::tribble(
+  ~grupo, ~numero,
+  "Vertebrados", 8161,
+  "Anfibios", 927,
+  "Aves", 1821,
+  "Mamiferos", 458,
+  "Reptiles", 591,
+  "Peces", 4298,
+  "Invertebrados", 23724,
+  "Arácnidos", 1500,
+  "Corales", 196,
+  "Crustáceos", 1806,
+  "Equinodermos", 435,
+  "Esponjas", 251,
+  "Insectos", 13985,
+  "Medusas", 153,
+  "Moluscos", 3638,
+  "Plantas", 37718,
+  "Angiospermas", 32343,
+  "Musgos", 1312,
+  "Hepáticas", 846,
+  "Helechos", 2174,
+  "Gimnospermas", 117,
+  "Antoceros", 19,
+  "Hongos", 6936,
+  "Archeas", 20,
+  "Bacterías", 1390,
+  "Cromistas", 1390,
+  "Protozoos", 226
+)
+
+datos_colombia |> 
+  dplyr::mutate(
+    grupo = forcats::fct_reorder(grupo, numero)
+  ) |> 
+  ggplot2::ggplot(
+    ggplot2::aes(
+      x = grupo,
+      y = numero,
+      label = numero
+    )
+  ) + 
+  ggplot2::geom_bar(
+    stat = "identity",
+    fill = "#0072B2"
+  ) +
+  ggplot2::geom_text(
+    hjust = -0.1,
+    size = 3
+  ) +
+  ggplot2::coord_flip() +
+  ggplot2::labs(
+    title = "**Número de especies observadas en Colombia**",
+    subtitle = "En marzo de 2025, el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia) registró 79828 especies observadas,<br>de las cuales 75723 habitan en el continente y 7633 en el mar. Se estima que en Colombia podrían existir alrededor de 200000 especies.",
+    caption = "**Datos:** SiB Colombia. (2025). *Biodiversidad en Cifras*. cifras.biodiversidad.co | **Elaboró:** Álex Espinosa-Correa | **Licencia:** CC BY",
+    x = NULL,
+    y = NULL
+  ) +
+  ggplot2::theme_minimal(
+    base_family = "atkinson"
+  ) +
+  ggplot2::theme(
+    plot.caption = ggtext::element_markdown(),
+    plot.title = ggtext::element_markdown(size = 12),
+    plot.subtitle = ggtext::element_markdown(size = 10)
+  )
+```
+
+## Diversidad en Antioquia
+
+```{r}
+#| label: diversidad-antioquia
+#| echo: false
+#| message: false
+#| output-location: fragment
+
+datos_antioquia <- 
+  tibble::tribble(
+  ~grupo, ~numero,
+  "Vertebrados", 2382,
+  "Anfibios", 318,
+  "Aves", 1150,
+  "Mamiferos", 260,
+  "Reptiles", 246,
+  "Peces", 408,
+  "Invertebrados", 3647,
+  "Arácnidos", 175,
+  "Corales", 20,
+  "Crustáceos", 69,
+  "Insectos", 3078,
+  "Moluscos", 166,
+  "Plantas", 13581,
+  "Angiospermas", 11526,
+  "Musgos", 589,
+  "Hepáticas", 284,
+  "Helechos", 1036,
+  "Gimnospermas", 37,
+  "Antoceros", 3,
+  "Hongos", 1634,
+  "Bacterías", 121,
+  "Cromistas", 206,
+  "Protozoos", 64
+)
+
+datos_antioquia |> 
+  dplyr::mutate(
+    grupo = forcats::fct_reorder(grupo, numero)
+  ) |> 
+  ggplot2::ggplot(
+    ggplot2::aes(
+      x = grupo,
+      y = numero,
+      label = numero
+    )
+  ) + 
+  ggplot2::geom_bar(
+    stat = "identity",
+    fill = "#0072B2"
+  ) +
+  ggplot2::geom_text(
+    hjust = -0.1,
+    size = 3
+  ) +
+  ggplot2::coord_flip() +
+  ggplot2::labs(
+    title = "**Número de especies observadas en Antioquia**",
+    subtitle = "En marzo de 2025, el Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia) registró 21689 especies en Antioquia<br>(27.2 % del total en Colombia), con 21458 en el continente y 288 en el mar. Se estima que el departamento alberga unas 37.591 especies.",
+    caption = "**Datos:** SiB Colombia. (2025). *Biodiversidad en Cifras*. cifras.biodiversidad.co | **Elaboró** Álex Espinosa-Correa | **Licencia:** CC BY",
+    x = NULL,
+    y = NULL
+  ) +
+  ggplot2::theme_minimal(
+    base_family = "atkinson"
+  ) +
+  ggplot2::theme(
+    plot.caption = ggtext::element_markdown(),
+    plot.title = ggtext::element_markdown(size = 12),
+    plot.subtitle = ggtext::element_markdown(size = 10),
+  )
+```
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+## Referencías
