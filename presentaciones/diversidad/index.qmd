@@ -30,9 +30,13 @@ showtext::showtext_auto()
 
 # Diversidad
 
+> Nuestros sistemas de clasificación son hipótesis, modelos que intentan representar esa evolución. @mauseth2016.
+
 ## Diversidad
 
 > La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otras cosas, los ecosistemas terrestres y marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas. @nacionesunidas1992.
+
+![Representación de la diversidad de animales, bacterias, hongos y plantas.](/presentaciones/images/diversidad.jpg){#fig-diversidad fig-align="center"}
 
 ## El árbol de la vida
 
@@ -52,7 +56,6 @@ showtext::showtext_auto()
 #| label: diversidad-colombia
 #| echo: false
 #| message: false
-#| output-location: fragment
 
 datos_colombia <- 
   tibble::tribble(
@@ -129,7 +132,6 @@ datos_colombia |>
 #| label: diversidad-antioquia
 #| echo: false
 #| message: false
-#| output-location: fragment
 
 datos_antioquia <- 
   tibble::tribble(
@@ -196,143 +198,588 @@ datos_antioquia |>
   )
 ```
 
-## Heading2
+## Sistemática y evolución
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> A lo largo de la historia, las personas han distinguido a menudo entre diversas plantas y animales según preocupaciones prácticas: este animal, ¿es o no peligroso? Esta planta, ¿es venenosa o comestible? ¿Qué plantas pueden emplearse como medicinas contra esta enfermedad? @nabors2006.
+
+::: incremental
+-   **Sistemática:** ciencia que incluye y abarca la taxonomía tradicional, la descripción, identificación, nomenclatura y clasificación de los organismos, y que tiene como objetivo principal la reconstrucción de la filogenia, o historia evolutiva, de la vida.
+
+-   **Filogenética:** clasificación basada en la historia evolutiva o el patrón de descendencia; se refiere a las relaciones entre grupos de individuos en un momento dado.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![Aunque existían clasificaciones antes de Darwin, tras proponer la teoría de la evolución junto a Wallace, estas adoptaron un enfoque evolutivo. <a href="https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg">Herbert Rose Barraud</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/charles_darwin.jpg){#fig-darwin fig-align="center" width="60%"}
 :::
 :::
 
-## Heading2
+## Cladística o sistemática filogenética
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Metodología para inferir el patrón de la historia evolutiva de un grupo de organismos mediante la agrupación de taxones basada en apomorfías. @simpson2019
+
+::: incremental
+-   Los estudios cladísticos se complican por el hecho de que las plantas pueden parecerse entre sí por dos razones distintas: (1) han descendido de un ancestro común, o (2) han sufrido una evolución convergente.
+
+-   Determinar si una similitud se debe a la homología (ascendencia común) o a la analogía (evolución convergente) puede ser extremadamente difícil.
+
+-   Un cladograma debe construirse de la forma más sencilla, menos complicada y más eficaz. Este principio se denomina principio de parsimonia o navaja de Ockham.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![Willi Hennig (1913-1976) propuso la cladísta en 1950 en *Fundamentos de una teoría de la sistemática filogenética*. By Gerd Hennig, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=107698">Link</a>.](/presentaciones/images/willi_hennig.jpg){#fig-hennig fig-align="center"}
 :::
 :::
 
-## Heading2
+## Clado y Taxón
+
+::: columns
+::: {.column .incremental width="50%"}
+-   **Clado:** grupo monofilético, formado por un ancestro común y todos los linajes que surgen de ese ancestro común. Ver: linaje.
+
+-   **Linaje:** secuencia de poblaciones ancestrales-descendientes, en la que los miembros están vinculados o conectados por flujo génico. Ver: clado.
+
+-   **Taxón **(plural, taxa): grupo de organismos, idealmente monofilético y tradicionalmente tratado con un rango determinado.
+
+-   **Rango:** una de las categorías taxonómicas jerárquicas, en la que un rango superior incluye todos los rangos inferiores.
+:::
+
+::: {.column .fragment width="50%"}
+![Diferencia entre clados (izquierda) y taxones (derecha). A, B y C son grupos que están delimitados por sus apomorfías (izquierda) o por su circunscripción (derecha). <a href="https://commons.wikimedia.org/wiki/File:Cladograma_diferencia_entre_clados_y_taxones.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma_diferencia_clados_taxones.svg){#fig-cladograma-clado-taxon fig-align="center"}
+:::
+:::
+
+::: footer
+Definiciones tomadas de @simpson2019. 
+:::
+
+## Carácteres
+
+::: columns
+::: {.column .incremental width="50%"}
+-   **Carácter:** característica o atributo de un taxón.
+
+-   **Estado del carácter:** una de las dos o más formas de un carácter.
+
+-   **Ancestral:** se refiere a una condición o estado de carácter preexistente. Sinónimo: plesiomorfo; primitivo.
+
+-   **Derivado:** se refiere a una nueva condición o estado del carácter. Sinónimo: apomórfico, avanzado.
+
+-   **Homología:** similitud resultante de una ascendencia común. Adjetivo: homólogo.
+
+-   **Homólogo:** carácter específico que es homólogo a otro rasgo citado. Ver: homología.
+:::
+
+::: {.column .fragment width="50%"}
+![Caracteres biológicos según su posición evolutiva. <a href="https://commons.wikimedia.org/wiki/File:Cladogramanotansimple.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma-caracteres.svg){#fig-cladograma-caracteres fig-align="center"}
+
+![Huesos homólogos en diferentes vertebrados. <a href="https://commons.wikimedia.org/wiki/File:Homology_vertebrates-es.svg">Волков Владислав Петрович (Vladlen666); translation by Angelito7</a>, CC0, via Wikimedia Commons.](/presentaciones/images/homology_vertebrates-es.svg){#fig-cladograma-caracteres fig-align="center" width="50%"}
+:::
+:::
+
+::: footer
+Definiciones tomadas de @simpson2019. 
+:::
+
+## Morfías
+
+::: columns
+::: {.column .incremental width="50%"}
+-   **Apoformia:** una condición derivada o estado de carácter, que representa una novedad evolutiva.
+
+    -   **Autapomorfía:** apomorfía que se da en un único linaje o taxón.
+
+    -   **Sinapomorfia:** apomorfía que une dos o más taxones o linajes
+
+-   **Plesiomorfia:** carácter ancestral
+
+    -   **Simplesiomorfia:** carácter ancestral (plesiomorfo) compartido entre taxones, que puede servir de base para agruparlos en una clasificación fenética.
+
+
+:::
+
+::: {.column .fragment width="50%"}
+![El carácter círculo negro es plesiomórfico y simplesiomórfico. El círculo gris es apomorfo y sinapomorfo. El carácter círculo blanco es apoformo y autapomorfo. A, B, C, D y E son taxones existentes y F, G, H e I son antepasados comunes. <a href="https://commons.wikimedia.org/wiki/File:Clado.JPG">Biotoscano</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/morfias.jpg){#fig-morfias fig-align="center"}
+:::
+:::
+
+::: footer
+Definiciones tomadas de @simpson2019. 
+:::
+
+## Monofilético vs Parafilético
+
+::: columns
+::: {.column .incremental width="50%"}
+-   **Monofilético:** grupo que consiste en un ancestro común más todos (y sólo todos) los descendientes de ese ancestro.
+
+-   **Parafilético:** grupo que incluye un ancestro común más algunos, pero no todos, los descendientes de ese ancestro común.
+
+-   **Polifilético:** grupo formado por dos o más grupos monofiléticos o parafiléticos separados, cada uno con un antepasado común distinto; grupo en el que el antepasado común de todos los miembros no es a su vez miembro del grupo.
+:::
+
+::: {.column .fragment width="50%"}
+![Cladograma de los vertebrados que muestra los tres diferentes grupos filogenéticos o taxones que existen. <a href="https://commons.wikimedia.org/wiki/File:Phylogenetic-Groups.svg">TotoBaggins at English Wikipedia</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/phylogenetic-groups.svg){#fig-phylogenetic-groups fig-align="center"}
+:::
+:::
+
+::: footer
+Definiciones tomadas de @simpson2019. 
+:::
+
+## Taxonomía: nomenclatura y clasificación
+
+> Un aspecto importante de la sistemática es la taxonomía, que consiste en identificar, nombrar y clasificar las especies. @evert2013.
 
 ::: columns
 ::: {.column .fragment width="50%"}
+![El sistema moderno de nomenclatura de los seres vivos comenzó con el naturalista sueco Carl Linnaeus (1707-1778). <a href="https://commons.wikimedia.org/wiki/File:Carl_von_Linn%C3%A9.jpg">Alexander Roslin</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/carl_von_linne.jpg){#fig-linneo fig-align="center" width="50%"}
 :::
 
 ::: {.column .fragment width="50%"}
+![En 1753, Linnaeus publicó *Species Plantarum* (Las especies de las plantas) en la que describía cada especie en latín, en una secuencia limitada a 12 palabras. Linnaeus hizo permanente el **sistema binomial** («de dos términos») de nomenclatura. <a href="https://commons.wikimedia.org/wiki/File:Species_plantarum_001.jpg">Carl Linnaeus</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/species_plantarum.jpg){#fig-species-plantarum fig-align="center" width="40%"}
 :::
 :::
 
-## Heading2
+## Código Internacional de Nomenclatura para algas, hongos y plantas (ICN)
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> El Código Internacional de Nomenclatura de algas, hongos y plantas es el conjunto de normas y recomendaciones que rigen la denominación científica de todos los organismos tradicionalmente tratados como algas, hongos o plantas, fósiles o no fósiles, incluidas las algas verdeazuladas (cianobacterias), los quítridos, los oomicetos, los mohos limosos y los protistas fotosintéticos con sus grupos no fotosintéticos taxonómicamente relacionados (pero excluidos los microsporidios). Antes de 2011 se denominaba Código Internacional de Nomenclatura Botánica (CINB).
 :::
 
 ::: {.column .fragment width="50%"}
+![La útlima versión del Código recoge las decisiones de la Sección de Nomenclatura del XIX Congreso Botánico Internacional (IBC), que tuvo lugar en Shenzhen, China, en julio de 2017.](/presentaciones/images/icn_2018.jpg){#fig-icn fig-align="center"}
 :::
 :::
 
-## Heading2
+::: footer
+Texto e imagen de @internat2018.
+:::
+
+## Principios del ICN
+
+::: columns
+::: {.column .incremental width="50%"}
+-   **Principio I.** La nomenclatura de algas, hongos y plantas es **independiente** de la no- menclatura zoológica y procariótica (bacteriológica).
+
+-   **Principio II.** La aplicación de los nombres de los grupos taxonómicos se determina por medio de los **tipos nomenclaturales**.
+
+-   **Principio III.** La nomenclatura de un grupo taxonómico se basa en la **prioridad de la publicación**.
+:::
+
+::: {.column .incremental width="50%"}
+-   **Principio IV.** Cada grupo taxonómico con circunscripción, posición y rango particulares puede llevar solo **un nombre correcto**, el más antiguo que esté de acuerdo con las reglas, excepto en casos determinados.
+
+-   **Principio V.** Los nombres científicos de los grupos taxonómicos se consideran **latinos**, sin reparar en su origen.
+
+-   **Principio VI.** Las reglas de nomenclatura tienen **efecto retroactivo**, salvo limitación expresa.
+:::
+:::
+
+## Rangos taxónomicos {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+![Rangos o categorías taxónomicas principales. <a href="https://commons.wikimedia.org/wiki/File:Categorias_taxonomicas_es.svg">derivative work: Xvazquez (talk)11866.0.Bpatrisiovamachoiological_classification_L_Pengo_es.svg: User:Pengo</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons.](/presentaciones/images/categorias_taxonomicas.svg){#fig-rangos fig-align="center"}
 :::
 
 ::: {.column .fragment width="50%"}
+
+| Categoría o rango     | Sufijo                                                                                           |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| **División o Filo**   | -phyta                                                                                           |
+| Subdivisión o subfilo | -phytina                                                                                         |
+| **Clase**             | -opsida                                                                                          |
+| Subclase              | -idae                                                                                            |
+| **Orden**             | -ales                                                                                            |
+| **Familia**           | -aceae                                                                                           |
+| Subfamilia            | -oideae                                                                                          |
+| Tribu                 | -eae, ae                                                                                         |
+| **Género**            | -us, -a, -um, -is, -os, -ina, -ium, -ides, -ella, -ula, -aster, -cola, -ensis, -oides, -opsis... |
+| **Especie**           | Varias terminaciones                                                                             |
+
+: Rangos taxonómicos principales: reino, división o filo, clase, orden, familia, género y especie. Rangos taxonómicos secundarios: entre familia y género (tribu), entre género y especie (sección y serie), por debajo de especie (variedad y forma). Se pueden construir otros rangos agregando el prefijo «Sub\-» a los rangos principales o secundarios. {#tbl-rangos}
 :::
 :::
 
-## Heading2
+## Rangos taxónomicos: ejemplos
+
+| Categoría o rango   | Frailejón                 | Palma de cera           |
+|---------------------|---------------------------|-------------------------|
+| **División o Filo** | Magnolio**phyta**         | Magnolio**phyta**       |
+| **Clase**           | Magnoli**opsida**         | Lili**opsida**          |
+| **Orden**           | Aster**ales**             | Arec**ales**            |
+| **Familia**         | Aster**aceae**            | Arec**aceae**           |
+| **Género**          | *Espeletia*               | *Ceroxylon*             |
+| **Especie**         | *Espeletia frontinoensis* | *Ceroxylon quindiuense* |
+
+: En los trabajos taxonómicos se recomienda indicar la cita completa del nombre del taxón (nombre del taxón y autor) la primera vez que se menciona: *Espeletia frontinoensis* Cuatrec. y *Ceroxylon quindiuense* (H. Karst.) H. Wendl. {#tbl-rangos-ejemplos}
+
+::: fragment
+Por diversas razones, algunos nombres se conservan (nomen conservandum), como Palmae (Arecaceae), Leguminosae (Fabaceae), Gramineae (Poaceae), Guttiferae (Clusiaceae), Umbelliferae (Apiaceae), Labiatae (Lamiaceae) y Compositae (Asteraceae).
+:::
+
+## Publicación válida de taxones
 
 ::: columns
 ::: {.column .fragment width="50%"}
+A partir del 1 de Enero de 1935 para que el nombre de un taxón esté publicado validamente debe de cumplir con:
+
+::: incremental
+-   El taxón debe ser nombrado
+-   El rango taxónomico debe estar claramente indicado
+-   Designado un tipo nomenclatural
+-   Diagnosis en latín o inglés
+-   Estar efectivamente publicada
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![Ejemplo de publicación efectiva. @murillo-serna2025.](/presentaciones/images/diversidad_publicacion_01.png){#fig-publicacion-01 fig-align="center"}
 :::
 :::
 
-## Heading2
+## Publicación válida de taxones
 
 ::: columns
 ::: {.column .fragment width="50%"}
+![Ejemplo de publicación valida @murillo-serna2025.](/presentaciones/images/diversidad_publicacion_02.png){#fig-publicacion-02 fig-align="center"}
 :::
 
 ::: {.column .fragment width="50%"}
+![Tipo nomenclatural de *Maracanthus kuijtii* (HUA, HUA134843). @murillo-serna2025.](/presentaciones/images/diversidad_publicacion_03.jpg){#fig-publicacion-03 fig-align="center" width="65%"}
 :::
 :::
 
-## Heading2
+## Ciclo de vida y diploidía
+
+::: columns
+::: {.column .incremental width="50%"}
+
+-   **Ciclo de vida:** secuencia completa de fases en el crecimiento y desarrollo de un organismo, desde la formación del cigoto hasta la producción de gametos.
+
+-   **Alternancia de generaciones:** ciclo reproductivo en el que una fase haploide (n), el gametofito, produce gametos que se fusionan en pares para formar un cigoto, el cual germina y da origen a una fase diploide (2n), el esporofito. Las esporas producidas por división meiótica en el esporofito generan nuevos gametofitos, completando así el ciclo
+:::
+
+::: {.column .fragment width="50%"}
+
+![Los principales tipos de ciclos de vida. La fase diploide del ciclo tiene lugar debajo de la barra ancha, y la fase haploide, encima. Las cuatro flechas blancas representan los productos de la meiosis; la única flecha blanca representa el óvulo fecundado o cigoto.](/presentaciones/images/ciclos_vida.png){#fig-ciclos-vida fig-align="center" width="35%"}
+:::
+:::
+
+::: footer
+Definiciones e imagen de @evert2013.
+:::
+
+## Vivimos en un mundo de bacterias
+
+![El árbol de la vida. Beaud (2023). Tomado de @sgribaldo2023.](/presentaciones/images/tree_of_life_beaud.jpg){#fig-tree-life-beaud fig-align="center"}
+
+
+
+## Algunos acontecimientos evolutivos importantes
 
 ::: columns
 ::: {.column .fragment width="50%"}
+![La gran mayoría de la columna geológica está ocupada por el Precámbrico, y muchos de los acontecimientos históricos más importantes se registran en este lapso de tiempo. @niklas2016.](/presentaciones/images/cronologia_01.png){#fig-cronologia-01 fig-align="center" width="75%"}
 :::
 
 ::: {.column .fragment width="50%"}
+![Esquema de la columna geológica que enfatiza el intervalo de tiempo denominado Fanerozoico (que abarca desde 570 Mya hasta la actualidad). @niklas2016.](/presentaciones/images/cronologia_02.png){#fig-cronologia-02 fig-align="center" width="75%"}
 :::
 :::
 
-## Heading2
+## Viridiplantae: las plantas verdes {.smaller}
+
+> Las algas verdes (Chlorophyceae y Charophyceae) y las Embryophyta son un grupo monofilético de plantas que se denominan colectivamente Viridiplantae o Chloroplastida. Las Charophyceae y las Embryophyta se denominan colectivamente Streptophyta. @niklas2016.
+
+::: fragment
+Único grupo de organismos que contienen clorofilas a y b, almacenan almidón en el interior de los plástidos, tilacoides apilados en grana, ¿pared celular de celulosa?
+::: 
 
 ::: columns
 ::: {.column .fragment width="50%"}
+![Cladograma de las relaciones filogenéticas de Viridiplantae. Algunas de las relaciones filogenéticas mostradas en este diagrama son problemáticas. @niklas2016.](/presentaciones/images/viridiplante_cladograma_01.png){#fig-viridiplante-cladograma-01 fig-align="center"}
 :::
 
 ::: {.column .fragment width="50%"}
+![Cladograma del estado actual de las relaciones filogenéticas entre los Streptophyta a partir de los últimos estudios filogenéticos y filogenómicos. @bierenbroodspot2024.](/presentaciones/images/viridiplante_cladograma_02.jpeg){#fig-viridiplante-cladograma-02 fig-align="center" width="65%"}
 :::
 :::
 
-## Heading2
+## Viridiplantae: relaciones
+
+![Árbol filogenómico de plástidos basado en el análisis de 1827 taxones de Viridiplantae y 52 outgroups utilizando 78 genes codificadores de proteínas. @gitzendanner2018.](/presentaciones/images/viridiplante_cladograma_03.jpg){#fig-viridiplante-cladograma-03 fig-align="center"}
+
+## Viridiplantae: relaciones
+
+![Abreviaturas: Chloro, Chlorophyta; Chkb, Chlorokybophyceae; Klb, Klebsormidiophyceae; C, Charophyceae; Cole, Coleochaetophyceae; Zygnemato, Zygnematophyceae; Ho, hornworts; Lycophy, Lycophyta; Pterid., Pteridophyta. @puttick2018.](/presentaciones/images/viridiplante_arbol.jpg){#fig-viridiplante-cladograma-04 fig-align="center"}
+
+## Algas
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Término tradicional para una serie de grupos no relacionados de organismos eucariotas fotosintéticos que carecen de órganos sexuales pluricelulares (excepto las carófitas); las mal llamadas «algas verdeazuladas» son cianobacterias, uno de los grupos de bacterias fotosintéticas. @evert2013.
+
+::: fragment
+Las algas se diferencian por sus pigmentos fotosintéticos, sustancias de reserva, composición de la pared celular, presencia o ausencia de células móviles, morfología y disposición de los flagelos, organización nuclear, tipo de reproducción y alternancia de generaciones.
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![Variedad de algas pluricelulares, entre algas verdes, rojas y pardas. <a href="https://commons.wikimedia.org/wiki/File:Adolphe_Millot_algues.jpg">Adolphe Millot (1857–1921)</a>, Public domain, via Wikimedia Commons. ](/presentaciones/images/algues_adolphe_millot.jpg){#fig-algas fig-align="center" width="60%"}
 :::
 :::
 
-## Heading2
+## Algas: características {.smaller}
+
+| Filo                                  | Número aproximado de especies conocidas | Pigmentos fotosintéticos              | Características                                                                                                             |
+|-----------------|-----------------|-----------------|--------------------|
+| Euglenophyta (euglenoides)            | 800                                     | Clorofila *a, b*<br>Carotenoides      | Principalmente de agua dulce<br>Algunas no fotosintéticas<br>Flageladas                                                     |
+| Dinophyta (dinoflagelados)            | 3000                                    | Clorofila *a, c*<br>Carotenoides      | Fitoplancton de agua cálida salada y dulce<br>Algunas no fotosintéticas<br>Algunas producen toxinas nerviosas<br>Flageladas |
+| Bacillariophyta (diatomeas)           | 5600                                    | Clorofila *a, c*<br>Carotenoides      | Fitoplancton de agua fría salada y dulce<br>Algunas especies terrestres<br>Paredes celulares de sílice                      |
+| Xanthophyta (algas verdeamarillentas) | 600                                     | Clorofila *a, c*<br>Carotenoides      | Fitoplancton principalmente de agua dulce<br>Flageladas                                                                     |
+| Chrysophyta (algas doradas)           | 1000                                    | Clorofila *a, c*<br>Carotenoides      | Fitoplancton marino y de agua dulce<br>Flageladas<br>Algunas no fotosintéticas                                              |
+| Cryptophyta (criptofitas)             | 200                                     | Clorofila *a, c*<br>Ficobiliproteínas | Fitoplancton de agua dulce fría<br>Flageladas                                                                               |
+| Prymnesiophyta (haptofitas)           | 300                                     | Clorofila *a, c*<br>Carotenoides      | Fitoplancton principalmente en agua marina cálida<br>Flageladas                                                             |
+
+: Características de los filos con algas unicelulares o coloniales. @nabors2006. {#tbl-algas}
+
+## Algas: características {.smaller}
+
+| Filo                       | Número aproximado de especies conocidas | Pigmentos fotosintéticos                       | Características                                                                                                               |
+|-----------------|-----------------|-----------------|--------------------|
+| Phaeophyta (algas pardas)  | 1500                                    | Clorofila *a, c*<br>Carotenoides (fucoxantina) | Principalmente en zonas marinas intermareales y someras<br>Engloban a los quelpos<br>Flageladas<br>Producen esporas y gametos |
+| Rhodophyta (algas rojas)   | 5000                                    | Clorofila *a, d*<br>Ficobiliproteínas          | Principalmente marinas<br>Sin células flageladas en el ciclo vital                                                            |
+| Chlorophyta (algas verdes) | 7500                                    | Clorofila *a, b*                               | Principalmente de agua dulce<br>Algunas emparentadas con las plantas<br>En ocasiones, flageladas                              |
+
+: Características de los filos con algas pluricelulares. @nabors2006. {#tbl-algas}
+
+## Chlorophyta 
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Alrededor de 8200 especies
+-   Contienen clorofila a y b, β-caroteno y xantofilas
+-   Almacenan almidón dentro de los cloroplastos
+:::
+
+::: {.column .incremental width="50%"}
+-   Unicelulares, pluricelulares, filamentosas y cenocíticas
+-   Agua dulce, marina, salobre y ambientes terrestres
+-   Reproducción sexual o asexual
+:::
+:::
 
 ::: columns
 ::: {.column .fragment width="50%"}
+![Lechuga de mar, *Ulva lactuca*, crece en rocas, pilotes y lugares similares en mares poco profundos de todo el mundo. <a href="https://commons.wikimedia.org/wiki/File:Ecomare_-_zeesla_(zeesla-2340-ogb).jpg">Ecomare/Oscar Bos</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/chlorophyta_ulva.jpg){#fig-viridiplante-ulva fig-align="center"}
 :::
 
 ::: {.column .fragment width="50%"}
+![*Volvox* es una Chlorophyta colonial. Cada esfera grande es una colonia de entre unos cientos y unos miles de células. Las esferas pequeñas dentro de las grandes son las colonias hijas. <a href="https://commons.wikimedia.org/wiki/File:Mikrofoto.de-volvox-16.jpg">Frank Fox</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">CC BY-SA 3.0 DE</a>, via Wikimedia Commons.](/presentaciones/images/chlorophyta_volvox.jpg){#fig-volvox fig-align="center"}
 :::
 :::
 
-## Heading2
+## Streptophyta {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+Grupo monofilético que comprende las plantas terrestres (Embryophyta) y las algas estreptofitas. Las algas estreptófitas son morfológicamente diversas y están representadas seis linajes: Mesostigmatophyceae, Chlorokybophyceae, Klebsormidiophyceae, Charophyceae, Coleochaetophyceae y Zygnematophyceae.
+
+::: fragment
+| Clase               | Número de géneros | Número de especies | Hábitat               |
+|-----------------|-----------------|-----------------|----------------------|
+| Mesostigmatophyceae | 1                 | 2                  | Agua dulce            |
+| Chlorokybophyceae   | 1                 | 5                  | Terrestre             |
+| Klebsormidiophyceae | 6                 | 42                 | Agua dulce, terrestre |
+| Coleochaetophyceae  | 2                 | 22                 | Agua dulce            |
+| Charophyceae        | 6                 | 395--450           | Agua dulce--salobre   |
+| Zygnematophyceae    | \>50              | 4000--13000        | Agua dulce, terrestre |
+
+: Número de especies de algas estreptófitas. {#tbl-algas-estreptofitas.}
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![Cladograma del estado actual de las relaciones filogenéticas entre los Streptophyta a partir de los últimos estudios filogenéticos y filogenómicos.](/presentaciones/images/viridiplante_cladograma_02.jpeg){#fig-viridiplante-cladograma-02-1 fig-align="center" width="80%"}
 :::
 :::
 
-## Heading2
+::: footer
+Tabla e imagen de @bierenbroodspot2024.
+:::
+
+## Conquistando el aire
 
 ::: columns
 ::: {.column .fragment width="50%"}
+> Las necesidades de un organismo fotosintético son relativamente sencillas: luz, agua, dióxido de carbono para la fotosíntesis, oxígeno para la respiración y algunos minerales. En tierra, la luz es abundante, al igual que el oxígeno y el dióxido de carbono, que circulan más libremente en el aire que en el agua. Además, el suelo suele ser rico en minerales. Así pues, el factor crítico para la transición a la tierra -o, como prefiere decir un investigador, «al aire»- es el agua. @evert2013
 :::
 
 ::: {.column .fragment width="50%"}
+![Terrestrialización de los estreptofitos y colonización de hábitats terrestres por los cloroplastidios actuales. @devries2018.](/presentaciones/images/streptophyta_terrestrialization.jpg){#fig-conquistando-aire fig-align="center"}
 :::
 :::
 
-## Heading2
+## Embryophyta: las plantas terrestres
 
 ::: columns
 ::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Alternancia de generaciones
+    -   Gametófito
+    -   Esporófito
+-   Gametangios especializados
+    -   Anteridios
+    -   Arquegonios
+-   Embrión
+-   Cutícula
+-   Parénquima
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![Diversidad de las plantas terrestres. [Bewareofdog](https://commons.wikimedia.org/wiki/File:Plants.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), via Wikimedia Commons.](/presentaciones/images/embryophyta_diversidad.jpg){#fig-embryophyta-diversidad fig-align="center"}
 :::
 :::
+
+## Embryophyta: relaciones
+
+![Abreviaturas: Chloro, Chlorophyta; Chkb, Chlorokybophyceae; Klb, Klebsormidiophyceae; C, Charophyceae; Cole, Coleochaetophyceae; Zygnemato, Zygnematophyceae; Ho, hornworts; Lycophy, Lycophyta; Pterid., Pteridophyta. @puttick2018.](/presentaciones/images/viridiplante_arbol.jpg){#fig-viridiplante-cladograma-04-1 fig-align="center"}
+
+## Embryophyta: relaciones
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Bryophyta *s. l.*
+    -   Anthocerophyta
+    -   Setaphyta
+        -   Marchantiophyta
+        -   Bryophyta *s. s.*
+:::
+
+::: {.column .incremental width="50%"}
+-   Tracheophyta
+    -   Lycopodiophyta
+    -   Euphyllophyta
+        -   Monilophyta
+        -   Spermatophyta
+            -   Gimnospermae
+            -   Angiospermae
+:::
+:::
+
+::: footer
+*s. l.* sensu lato & *s. s.*: sensu stricto
+:::
+
+## Embryophyta: diversidad en el mundo
+
+::: columns
+::: {.column .fragment width="50%"}
+World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
+
+::: incremental
+-   Anthocerotophyta 225
+-   Marchantiophyta 7,321
+-   Bryophyta 11,970
+-   Lycopodiophyta 1,516
+-   Polypodiophyta (Monilophyta) 12,688
+-   Gymnospermae 1134
+-   Angiospermae 345,299
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama simplificado para ilustrar las relaciones entre los principalres grupos de familias de plantas y el número de especies. @sotwpf2017.](/presentaciones/images/embryophyta_relaciones_diagrama.jpg){#fig-embryophyta-relaciones-diagrama fig-align="center"}
+:::
+:::
+
+## Embryophyta: diversidad en Colombia
+
+![@sibcolombia2025 reporta 37,718 especies de Embryophyta para Colombia. Angiospermas (32,343), Helechos (2,174), Musgos (1,312), Hepáticas (846), Gimnospermas (117), Antocerotas (19).](/presentaciones/images/embryophyta_diversidad_colombia.png){#fig-embryophyta-diversidad-colombia fig-align="center"}
+
+## Embryophyta: diversidad en Antioquia
+
+![@sibcolombia2025 reporta 13,581 especies de Embryophyta para Colombia. Angiospermas (11,526), Helechos (1,036), Musgos (580), Hepáticas (284), Gimnospermas (37), Antocerotas (3). Antioquia es el departamento con el mayor número de especies endémicas, así como de especies amenazadas.](/presentaciones/images/embryophyta_diversidad_antioquia.png){#fig-embryophyta-diversidad-antioquia fig-align="center"}
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
 ## Referencías

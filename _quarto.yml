@@ -72,6 +72,8 @@ website:
             href: presentaciones/citologia/
           - text: "Histología"
             href: presentaciones/histologia/
+          - text: "Diversidad"
+            href: presentaciones/diversidad/
       - section: "Laboratorio"
         contents:
           # - text: "Introducción al laboratorio"
