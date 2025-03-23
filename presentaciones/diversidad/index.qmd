@@ -642,8 +642,9 @@ Tabla e imagen de @bierenbroodspot2024.
     -   Anteridios
     -   Arquegonios
 -   Embrión
--   Cutícula
+-   Cutícula de cutina
 -   Parénquima
+-   Laminilla media
 :::
 :::
 
@@ -652,35 +653,13 @@ Tabla e imagen de @bierenbroodspot2024.
 :::
 :::
 
+## Embryophyta: Alternancia de generaciones
+
+!["Alternancia de generaciones" haplodiplóntica en las plantas terrestres. @simpson2019.](/presentaciones/images/embryophyta_ciclo_vida.png){#fig-embryophyta-ciclo-vida fig-align="center"}
+
 ## Embryophyta: relaciones
 
 ![Abreviaturas: Chloro, Chlorophyta; Chkb, Chlorokybophyceae; Klb, Klebsormidiophyceae; C, Charophyceae; Cole, Coleochaetophyceae; Zygnemato, Zygnematophyceae; Ho, hornworts; Lycophy, Lycophyta; Pterid., Pteridophyta. @puttick2018.](/presentaciones/images/viridiplante_arbol.jpg){#fig-viridiplante-cladograma-04-1 fig-align="center"}
-
-## Embryophyta: relaciones
-
-::: columns
-::: {.column .incremental width="50%"}
--   Bryophyta *s. l.*
-    -   Anthocerophyta
-    -   Setaphyta
-        -   Marchantiophyta
-        -   Bryophyta *s. s.*
-:::
-
-::: {.column .incremental width="50%"}
--   Tracheophyta
-    -   Lycopodiophyta
-    -   Euphyllophyta
-        -   Monilophyta
-        -   Spermatophyta
-            -   Gimnospermae
-            -   Angiospermae
-:::
-:::
-
-::: footer
-*s. l.* sensu lato & *s. s.*: sensu stricto
-:::
 
 ## Embryophyta: diversidad en el mundo
 
@@ -712,65 +691,248 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 
 ![@sibcolombia2025 reporta 13,581 especies de Embryophyta para Colombia. Angiospermas (11,526), Helechos (1,036), Musgos (580), Hepáticas (284), Gimnospermas (37), Antocerotas (3). Antioquia es el departamento con el mayor número de especies endémicas, así como de especies amenazadas.](/presentaciones/images/embryophyta_diversidad_antioquia.png){#fig-embryophyta-diversidad-antioquia fig-align="center"}
 
-<!-- ## Heading2 -->
+## Embryophyta: relaciones
+
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram fig-align="center"}
+
+<!-- ## Embryophyta: relaciones -->
 
 <!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   Bryophyta *s. l.* -->
+<!--     -   Anthocerophyta -->
+<!--     -   Setaphyta -->
+<!--         -   Marchantiophyta -->
+<!--         -   Bryophyta *s. s.* -->
 <!-- ::: -->
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ## Heading2 -->
-
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
-
-<!-- ## Heading2 -->
-
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-
-<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   Tracheophyta -->
+<!--     -   Lycopodiophyta -->
+<!--     -   Euphyllophyta -->
+<!--         -   Monilophyta -->
+<!--         -   Spermatophyta -->
+<!--             -   Gimnospermae -->
+<!--             -   Angiospermae -->
 <!-- ::: -->
 <!-- ::: -->
 
-<!-- ## Heading2 -->
+::: footer
+*s. l.* sensu lato & *s. s.* sensu stricto
+:::
 
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
+## Bryophyta *sensu lato*
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+::: columns
+::: {.column .fragment width="40%"}
+### Características
 
-<!-- ## Heading2 -->
+::: incremental
+-   Gametofito
+    -   Dominante
+    -   Fotosintético
+    -   Persistente
+    -   Autónoma
+-   Esporofito
+    -   Relativamente pequeño
+    -   Efímero
+    -   Unido y dependiente del gametofito
+:::
+:::
 
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
+::: {.column .fragment width="60%"}
+![Diversidad de Bryophyta *s. l.*. @cabaña-fader.](/presentaciones/images/bryophyta_sl_diversidad.jpg){#fig-bryophyta_diversidad fig-align="center"}
+:::
+:::
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+## Bryophyta *sensu lato*: relaciones
 
-<!-- ## Heading2 -->
+::: columns
+::: {.column .fragment width="60%"}
+![Siete topologías en competencia entre embriófitas y traqueófitas. @puttick2018.](/presentaciones/images/embryophyta_relaciones_hipotesis.jpg){#fig-embryophyta_hipotesis fig-align="center"}
+:::
 
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
+::: {.column .fragment width="40%"}
+![Hipótesis de las relaciones de Embryophyta con las principales apomorfías. @simpson2019.](/presentaciones/images/embryophyta_apomorfias.png){#fig-apomorfias fig-align="center"}
+:::
+:::
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+# Anthocerotophyta {background-color="black" background-image="/presentaciones/images/anthocerotophyta.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Anthoceros_sp.jpg">Bramadi Arya</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>.
+:::
+
+## Anthocerotophyta: antoceros {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Gametofito
+    -   Taloso
+    -   1-8 cloroplastos con pirinoides
+    -   Rizoides unicelulares
+    -   Gametangios endogénos
+    -   Simbiosis con cianobacterias (*Nostoc*)
+-   Esporofito
+    -   Aéreo, alargado, cilíndrico
+    -   Meristema basal (indeterminado)
+    -   Estomas
+    -   Fotosintético
+    -   Relativamente longevo
+    -   Columna central única de tejido estéril (columela)
+    -   Pseudoeláteres
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A. Población de *Anthoceros sp.* B. Gametofito con esporofito. C-E. Base del esporofito. El collar es tejido gametofítico que rodea el meristemo intercalar del esporofito F. Sección longitudinal del esporofito. @simpson2019.](/presentaciones/images/anthocerotophyta_caracteristicas_01.jpg){#fig-anthocerotophyta-caracteristicas fig-align="center"}
+:::
+:::
+
+## Anthocerotophyta: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Ordenes: 5
+    -   Familias: 5
+    -   Géneros: 12
+    -   Especies: 225
+:::
+
+::: {.column .incremental width="50%"}
+-   Colombia
+    -   Familias: 4
+    -   Géneros: 7
+    -   Especies: 13
+    -   Endémicas: 2
+:::
+:::
+
+::: fragment
+![Relaciones de Anthocerotophyta. @cole2023.](/presentaciones/images/anthocerotophyta_cladograma.png){#fig-anthocerotophyta-relaciones fig-align="center"}
+:::
+
+::: footer
+Cifras de @brinda2025, @catálogo2016a, @wfo.
+:::
+
+## Anthocerotophyta: ciclo de vida
+
+![Ciclo de vida de Anthocerotophyta. @frangedakis2021.](/presentaciones/images/anthocerotophyta_ciclo.jpg){#fig-anthocerotophyta-ciclo fig-align="center"}
+
+## Anthocerotophyta: morfología
+
+::: columns
+::: {.column .fragment width="50%"}
+![Ciclo de vida de Anthocerotophyta. <a href="https://commons.wikimedia.org/wiki/File:Hornwort_life_cicle_svg_diagram-es.svg">LadyofHats, Alexespinosaco</a>, CC0, via Wikimedia Commons.](/presentaciones/images/hornwort_life_cicle_svg_diagram-es.svg){#fig-anthocerotophyta-morfologia-1 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Algunas características morfológicas de *Anthoceros*. A. Esporas en germinación. B. Vista superficial del talo. C. Rizoides. D. Esporofitos creciendo sobre el gametofito. E. Talo con canales de mucílago. F. Vista superficial de la cámara anteridial con anteridios amarillos. G. Anteridio extraído de la cámara. H. Anteridios. I. Espermatozoides biflagelados. J. Arquegonios. L. Plástidos individuales en cada célula. M. Talo con un arquegonio abierto. N. Estoma. O. Espora. @frangedakis2021.](/presentaciones/images/anthocerotophyta_caracteristicas_02.jpg){#fig-anthocerotophyta-caracteristicas fig-align="center" width="50%"}
+:::
+:::
+
+# Marchantiophyta {background-color="black" background-image="/presentaciones/images/marchantiophyta.jpg" background-size="contain"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Jung-Koch-Quentell_Wall_Chart_Lebermoos.jpg">Authors are Heinrich Jung, Gottlieb von Koch, Friedrich Quentell</a>, Public domain, via Wikimedia Commons.
+:::
+
+## Marchantiophyta: hepáticas
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Gametofito
+    -   Folioso o taloso 
+    -   Poros
+    -   Rizoides generalmente unicelulares
+    -   Cuerpos oleíferos
+    -   Gametangios exógenos
+-   Esporofito
+    -   Relativamente pequeño
+    -   Eláteres
+    -   Esporofito efímero
+    -   Sin estomas
+    -   No fotosintético
+    
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![«Hepaticae», 1904. <a href="https://commons.wikimedia.org/wiki/File:Assortment_of_Hepaticae_from_Kunstformen_der_Natur_(1904),_plate_82.jpg">Ernst Haeckel</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/marchantiophyta_ilustacion.jpg){#fig-marchantiophyta-ilustacion fig-align="center" width="65%"}
+:::
+:::
+
+## Marchantiophyta: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Ordenes: 23
+    -   Familias: 89
+    -   Géneros: 410
+    -   Especies: 7321
+-   Colombia
+    -   Familias: 38
+    -   Géneros: 134
+    -   Especies: 703
+    -   Endémicas: 37
+:::
+
+::: {.column .fragment width="50%"}
+![Relaciones de Marchantiophyta @cole2023.](/presentaciones/images/marchantiophyta_cladograma.png){#fig-marchantiophyta-relaciones fig-align="center"}
+:::
+:::
+
+::: footer
+Cifras de @brinda2025, @catálogo2016a, @wfo.
+:::
+
+# Bryophyta
+
+## Bryophyta: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Ordenes: 46
+    -   Familias: 142
+    -   Géneros: 1009
+    -   Especies: 11970
+-   Colombia
+    -   Familias: 65
+    -   Géneros: 261
+    -   Especies: 932
+    -   Endémicas: 52
+:::
+
+::: {.column .fragment width="50%"}
+![Relaciones de Bryophyta @cole2023.](/presentaciones/images/bryophyta_cladograma.png){#fig-bryophyta-relaciones fig-align="center"}
+:::
+:::
+
+::: footer
+Cifras de @brinda2025, @catálogo2016a, @wfo.
+:::
+
+
+# Lycopodiophyta
+# Monilophyta
+# Gymnospermae
+# Angiospermae
+
+
+
+
+
+
 
 <!-- ## Heading2 -->
 

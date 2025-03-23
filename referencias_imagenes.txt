@@ -35,3 +35,15 @@ https://commons.wikimedia.org/wiki/File:Bacteria_collage.jpg
 https://commons.wikimedia.org/wiki/File:Fungi_Diversity.jpg
 https://commons.wikimedia.org/wiki/File:Diversity_of_plants_image_version_6.jpg
 https://commons.wikimedia.org/wiki/File:Protozoa.png
+
+Imágenes usadas en embryophyta_cladograma.svg
+
+https://www.phylopic.org/images/fa04f501-452b-405b-839f-e6b1f2961b4a/anthoceros-fusiformis
+https://www.phylopic.org/images/4de6d5a6-bae9-432a-bb39-546791224857/marchantia-polymorpha
+https://www.phylopic.org/images/83121b9f-b916-4770-b226-87c082532647/sphagnum
+https://www.phylopic.org/images/cc68fe27-0e9a-442d-a28d-0de60e30869e/sphagnum-squarrosum
+https://www.phylopic.org/images/2c5cc5b4-bdfe-4c3b-895d-27176e46c9ec/lycopodium-clavatum
+https://www.phylopic.org/images/ee243ea1-c311-4fa2-b730-928b80117515/polypodium-vulgare
+https://www.phylopic.org/images/1b329337-8f8b-4380-8aae-23d50e0db14f/pinus
+https://www.phylopic.org/images/7fb6a9de-0024-4e45-bb8d-1cc32fb2470f/arabidopsis-thaliana-var-thaliana
+
