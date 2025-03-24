@@ -25,10 +25,15 @@ engine: knitr
 #| message: false
 #| warning: false
 
-if (!require("here")) install.packages("here"); library("here")
-if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
-if (!require("googlesheets4")) install.packages("googlesheets4"); library("googlesheets4")
-if (!require("gt")) install.packages("gt"); library("gt")
+# if (!require("here")) install.packages("here"); library("here")
+# if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
+# if (!require("googlesheets4")) install.packages("googlesheets4"); library("googlesheets4")
+# if (!require("gt")) install.packages("gt"); library("gt")
+
+library("here")
+library("tidyverse")
+library("googlesheets4")
+library("gt")
 ```
 
 ## Cronograma
@@ -108,4 +113,3 @@ evaluacion_general |>
     locations = gt::cells_column_labels()
   )
 ```
-

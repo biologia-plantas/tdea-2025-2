@@ -15,10 +15,15 @@ draft: true
 #| message: false
 #| warning: false
 
-if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
-if (!require("ggtext")) install.packages("ggtext"); library("ggtext")
-if (!require("sysfonts")) install.packages("sysfonts"); library("sysfonts")
-if (!require("showtext")) install.packages("showtext"); library("showtext")
+# if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
+# if (!require("ggtext")) install.packages("ggtext"); library("ggtext")
+# if (!require("sysfonts")) install.packages("sysfonts"); library("sysfonts")
+# if (!require("showtext")) install.packages("showtext"); library("showtext")
+
+library("tidyverse")
+library("ggtext")
+library("sysfonts")
+library("showtext")
 
 sysfonts::font_add_google(
   name = "Atkinson Hyperlegible",
