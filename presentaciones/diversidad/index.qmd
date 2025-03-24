@@ -721,6 +721,8 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 *s. l.* sensu lato & *s. s.* sensu stricto
 :::
 
+# Bryophyta *sensu lato*
+
 ## Bryophyta *sensu lato*
 
 ::: columns
@@ -756,6 +758,30 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 ![Hipótesis de las relaciones de Embryophyta con las principales apomorfías. @simpson2019.](/presentaciones/images/embryophyta_apomorfias.png){#fig-apomorfias fig-align="center"}
 :::
 :::
+
+## Bryophyta *sensu lato*: comparación {.scrollable}
+
+|                               |                            Anthocerotophyta                            |                            Marchantiophyta                            |                                   Bryophyta                                  |
+|:-----------------------------:|:----------------------------------------------------------------------:|:---------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| **Gametófito**                | Taloso                                                                 | Taloso o folioso                                                      | Folioso                                                                      |
+| **Filidios**                  | Ausentes                                                               | Originados desde dos células iniciales, enteros o lobuldos, sin costa | Originados a partir de una célula inicial, Enteros, con o sin costa          |
+| **Inserción filidios**        | Ausentes                                                               | Con filidios de 2-3 filas o sin filidios                              | Con filidios dispuestos en espiral, ocasionalmente dispuestos en 2 o 3 filas |
+| **Cloroplastos**              | 1-4 de gran tamaño, con o sin un pirenoide                             | Numerosos, sin pirenoide                                              | Numerosos, sin pirenoide                                                     |
+| **Trígonos**                  | Ausentes                                                               | Usualmente presentes                                                  | Usualmente ausentes                                                          |
+| **Oleocuerpos**               | Ausentes                                                               | Usualmente presentes                                                  | Ausentes                                                                     |
+| **Rizoides**                  | Unicelular                                                             | Unicelular                                                            | Pluricelular                                                                 |
+| **Paráfisis**                 | Ausentes                                                               | Ausentes                                                              | Presentes                                                                    |
+| **Protonema**                 | Taloso, muy pequeño, produce sólo un gametófito                        | Taloso, muy pequeño, produce sólo un gametófito                       | Filamentoso, usualmente produce más de un gametófito                         |
+| **Esporofito**                | Crece por meristema basal                                              | Crece por una célula apical                                           | Crece por una célula apical                                                  |
+| **Seta**                      | Ausente                                                                | Frágil, sin pigmentos, puede estar ausente.                           | Firme y pigmentada                                                           |
+| **Cápsula**                   | Cilíndrica a largamente filamentosa                                    | Redondeada a cilíndrica                                               | Redondeada a cilíndrica                                                      |
+| **Dehiscencia de la cápsula** | Apertura gradualmente desde el ápice a la base, a través de dos valvas | Apertura de una vez, por medio de 1-4 valvas                          | Apertura de una vez, a través del opérculo y el peristoma                    |
+| **Maduración de las esporas** | Asincrónico                                                            | Sincrónico, antes de la elongación de la seta                         | Sincrónico, después de la elongación de la seta                              |
+| **Columela**                  | Presente                                                               | Ausente                                                               | Presente                                                                     |
+| **Estomas**                   | Presentes                                                              | Ausentes                                                              | Presentes                                                                    |
+| **Caliptra**                  | Ausente                                                                | En la base del esporófito                                             | En el ápice del esporófito                                                   |
+
+: Principales características de los grupos de Bryophyta *sensu lato*. @UCM2025. {#tbl-bryophyta-comparacion}
 
 # Anthocerotophyta {background-color="black" background-image="/presentaciones/images/anthocerotophyta.jpg"}
 
@@ -836,6 +862,14 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 :::
 :::
 
+## Embryophyta: relaciones
+
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-02 fig-align="center"}
+
+::: footer
+*s. l.* sensu lato & *s. s.* sensu stricto
+:::
+
 # Marchantiophyta {background-color="black" background-image="/presentaciones/images/marchantiophyta.jpg" background-size="contain"}
 
 ::: footer
@@ -856,19 +890,89 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
     -   Cuerpos oleíferos
     -   Gametangios exógenos
 -   Esporofito
-    -   Relativamente pequeño
-    -   Eláteres
-    -   Esporofito efímero
+    -   Relativamente pequeño y efímero
     -   Sin estomas
     -   No fotosintético
-    
+    -   Homospórico
+    -   Eláteres
 :::
 :::
 
 ::: {.column .fragment width="50%"}
-![«Hepaticae», 1904. <a href="https://commons.wikimedia.org/wiki/File:Assortment_of_Hepaticae_from_Kunstformen_der_Natur_(1904),_plate_82.jpg">Ernst Haeckel</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/marchantiophyta_ilustacion.jpg){#fig-marchantiophyta-ilustacion fig-align="center" width="65%"}
+![«Hepaticae», 1904. <a href="https://commons.wikimedia.org/wiki/File:Assortment_of_Hepaticae_from_Kunstformen_der_Natur_(1904),_plate_82.jpg">Ernst Haeckel</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/marchantiophyta_haeckel.jpg){#fig-marchantiophyta-ilustacion fig-align="center" width="65%"}
 :::
 :::
+
+## Marchantiophyta: talosas
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Entre 10 y 30 células de grosos
+-   Diferenciado en parte dorsal y ventral
+-   Rizoides uniseriados y filamentosos
+-   Poros
+-   En *Marchantia* gametangios en estructuras especializadas, gametangióforos
+    -   Anteridióforos
+    -   Arquegonióforos
+    -   Otras hepáticas, no tienen los gametangióforos
+-   Reproducción asexual por propágulos o gemas en copas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A-B. Hepática talosa. C-I. Anteridióforos y Arquegonióforos. J-K. Tejido esporógeno. L. Rizoides y los poros. @simpson2019.](/presentaciones/images/marchantiophyta_talosas.jpg){#fig-marchantiophyta-talosas fig-align="center" width="70%"}
+:::
+:::
+
+## Marchantiophyta: ciclo de vida
+
+![Ciclo vital de *Marchantia*, una hepática talosa. @nabors2006.](/presentaciones/images/marchantiophyta_ciclo_01.jpg){#fig-marchantiophyta-ciclo-01 fig-align="center"}
+
+## Marchantiophyta: ciclo de vida
+
+![Ciclo vital de *Marchantia*, una hepática talosa. @mauseth2016.](/presentaciones/images/marchantiophyta_ciclo_02.jpg){#fig-marchantiophyta-ciclo-02 fig-align="center"}
+
+## Marchantiophyta: foliosas
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Constituyen más del 80 % de las especies
+-   Eje dorsiventral a forma de «tallo» con tres filas de «hojas» de tamaño variable
+-   Rizoides unicélulares
+-   Anteridios en ramas laterales (androceo)
+-   Arquegonios en el extremo del eje (perianto)
+:::
+:::
+
+::: {.column .fragment width="50%"}
+
+![Hepáticas foliosas. @simpson2019.](/presentaciones/images/marchantiophyta_foliosa_1.jpg){#fig-marchantiophyta-foliosa-01 fig-align="center"}
+
+![A. Disposición característica de las hojas. B. Cápsula y el tallo del esporófito. C. Los anteridios están contenidos en el androecio. El perianto contiene el arquegonio y el esporofito en desarrollo. @evert2013.](/presentaciones/images/marchantiophyta_foliosa_1.jpg){#fig-marchantiophyta-foliosa-01 fig-align="center"}
+:::
+:::
+
+## Marchantiophyta: ciclo de vida
+
+![Ciclo vital de una hepática foliosa @cabaña-fader.](/presentaciones/images/marchantiophyta_ciclo_03.jpg){#fig-marchantiophyta-ciclo-03 fig-align="center"}
+
+## Marchantiophyta: foliosas y talosas
+
+![Morfología de Marchantiophyta @simpson2019.](/presentaciones/images/marchantiophyta_gametofito_01.png){#fig-marchantiophyta-gametofito_01 fig-align="center"}
+
+## Marchantiophyta: foliosas y talosas
+
+![Morfología de Marchantiophyta. A. Hepática talosas con gametangióforos. B. Hepática foliosa. C. Copa. D-E. Hojas y esporofito de Hepática foliosa. F. Esporas y elateres.](/presentaciones/images/marchantiophyta_morfologia.jpg){#fig-marchantiophyta-gametofito_02 fig-align="center"}
+
+## Marchantiophyta: foliosas y talosas
+
+![Relaciones filogenéticas de Marchantiophyta y el tipo de gametofito. @li2024.](/presentaciones/images/marchantiophyta_gametofito_02.png){#fig-marchantiophyta-gametofito_03 fig-align="center"}
 
 ## Marchantiophyta: diversidad
 
@@ -895,7 +999,67 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 Cifras de @brinda2025, @catálogo2016a, @wfo.
 :::
 
-# Bryophyta
+# Bryophyta {background-color="black" background-image="/presentaciones/images/bryophyta.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Alishan_Forest_Stump_Moss.JPG">User: (WT-shared) Jpatokal at  wts wikivoyage</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+:::
+
+## Bryophyta *sensu stricto*: musgos
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Gametofito folioso
+    -   Eje erecto o rastrero (caulidio)
+    -   Hojas pequeñas, delgadas y sésiles (filidios), con costa
+    -   Rizoides pluricelulares y ramificados
+    -   Anteridias y Arquegonios suelen producirse en el ápice
+-   Esporofito
+    -   Aéreo y alargado
+        -   Seta, opérculo y caliptra
+-   Células Hidroides y Leptoides
+:::
+
+::: {.column .fragment width="50%"}
+![Muscinae (1904). <a href="https://commons.wikimedia.org/wiki/File:Haeckel_Muscinae.jpg">Ernst Haeckel</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/bryophyta_haeckel.jpg){#fig-bryophyta-haeckel fig-align="center" width="65%"}
+:::
+:::
+
+## {background-color="black" background-image="/presentaciones/images/bryophyta_morfologia_01.jpg" background-size="contain"}
+
+::: footer
+@herbariocib2024.
+::: 
+
+## Bryophyta: morfología
+
+::: columns
+::: {.column .fragment width="50%"}
+![Morfología de Bryophyta. @UCM2025.](/presentaciones/images/bryophyta_esquema.png){#fig-bryophyta-esquema fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Morfología de Bryophyta. A. Protonema. B. Gametofito. C. Filidio. D. Gametofito de mostrando anteridios en las puntas de las ramas. E. Anteridios. F. Arquegonios. G. Esporofitos. H. Desarrollo del esporofito. I. Cápsula. @simpson2019.](/presentaciones/images/bryophyta_morfologia_02.jpg){#fig-bryophyta-esquema fig-align="center" width="70%"}
+:::
+:::
+
+## Hidroides y leptoides
+
+![Las células encargadas de la conducción del agua se conocen como hidroides, se asemejan a los elementos traqueales. Las células encargadas de la conducción de nutrientes, conocidas como leptoides, rodean el cordón de hidroides, se asemejan a los tubos cribosos.](/presentaciones/images/bryophyta_dawsonia.jpg){#fig-bryophyta-dawsonia fig-align="center"}
+
+
+
+## Bryophyta: esporofito
+
+![Esporofito de Bryophyta. A. Esporofito. B. Vista externa de la cápsula. C. Vista en mostrando la columela y las esporas. Vista tras la caída del opérculo. E. Dientes del peristoma. @mauseth2016.](/presentaciones/images/bryophyta_esporofito.jpg){#fig-bryophyta-esporofito fig-align="center"}
+
+## Bryophyta: ciclo de vida
+
+![Ciclo vital de Bryophyta, un musgo. @nabors2006.](/presentaciones/images/bryophyta_ciclo_01.jpg){#fig-bryophyta-ciclo-01 fig-align="center"}
+
+## Bryophyta: ciclo de vida
+
+![Ciclo vital de Bryophyta, un musgo. @mauseth2016.](/presentaciones/images/bryophyta_ciclo_02.jpg){#fig-bryophyta-ciclo-02 fig-align="center"}
 
 ## Bryophyta: diversidad
 
@@ -922,26 +1086,68 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 Cifras de @brinda2025, @catálogo2016a, @wfo.
 :::
 
+## Sphagnum: musgos de turbera
+
+![A. Gametofito y esporofitos de *Sphagnum*. B. Hoja de *Sphagnum* con células vivas (verde), ricas en cloroplastos y células hialinas grandes y muertas. C.  Explotación de turba. D. Mujeres fabricando vendajes para heridas con *Sphagnum* durante la Primera Guerra Mundial.](/presentaciones/images/bryophyta_sphagnum.jpg){#fig-bryophyta-sphagnum fig-align="center"}
+
+## Bryophyta *sensu lato*: resumen {.scrollable}
+
+| Característica | Anthocerotophyta (antoceros)                                                                                                                                                                                  | Marchantiophyta (hepáticas)                                                                                                                                                 | Bryophyta (musgos)                                                                                                                                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gametófito** | - Taloso <br>- Rizoides unicelulares <br>- Células con un solo cloroplasto                                                                                                                                    | - Taloso o folioso <br>- Rizoides unicelulares <br>- Células con numerosos cloroplastos <br>- Pueden producir gemas <br>- Crecimiento desde el meristemo apical             | - Folioso <br>- Rizoides multicelulares <br>- Células con numerosos cloroplastos <br>- Pueden producir gemas <br>- Crecimiento apical en *Bryidae* <br>- Algunas con leptóides e hidroides no lignificados             |
+| **Esporófito** | - Pequeño <br>- No ramificado <br>- Nutricionalmente dependiente del gametófito <br>- Con pie y esporangio cilíndrico con meristemo <br>- Con cutícula y estomas <br>- Sin tejidos conductores especializados | - Pequeño <br>- No ramificado <br>- Nutricionalmente dependiente del gametófito <br>- Algunos con solo esporangio, otros con pie corto, seta y esporangio <br>- Sin estomas | - Pequeño <br>- No ramificado <br>- Nutricionalmente dependiente del gametófito <br>- Con pie, seta larga y esporangio en *Bryidae* <br>- Con estomas <br>- Algunas especies con leptóides e hidroides no lignificados |
+| **Hábitat**    | - Húmedo y tropical                                                                                                                                                                                           | - Mayormente húmedo y tropical <br>- Algunas acuáticas <br>- A menudo epífitas                                                                                              | - Templado y tropical <br>- Algunas especies en el Ártico y la Antártida <br>- Muchas en hábitats secos <br>- Algunas acuáticas                                                                                        |
+
+: Principales características de los grupos de Bryophyta *sensu lato*. Modificado de @evert2013. {#tbl-bryophyta-resumen-02}
+
+## Embryophyta: relaciones
+
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-03 fig-align="center"}
+
+::: footer
+*s. l.* sensu lato & *s. s.* sensu stricto
+:::
+
+# Tracheophyta {background-image="/presentaciones/images/tejidos_vasculares.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Herbaceous_Dicot_Stem_Vascular_Bundles_in_Older_Helianthus_(23669988488).jpg">Berkshire Community College  Bioscience Image Library</a>, CC0, via Wikimedia Commons.
+:::
+
+## Tracheophyta
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+![Representantes de los cuatro linajes principales de traqueófitas: *Lycopodiella inundata* (Lycopodiophyta), *Polypodium vulgare* (Monilophyta), *Wollemia nobilis* (Gimnospermae), *Papaver argemone* (Angiospermae). <a href="https://commons.wikimedia.org/wiki/File:Tracheophyta.jpg">Kostka Martin</a>, CC0, via Wikimedia Commons.](/presentaciones/images/tracheophyta.jpg){#fig-tracheophyta fig-align="center"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 # Lycopodiophyta
 # Monilophyta
 # Gymnospermae
 # Angiospermae
 
+## Heading2
 
+::: columns
+::: {.column .fragment width="50%"}
+:::
 
-
-
-
-
-<!-- ## Heading2 -->
-
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.column .fragment width="50%"}
+:::
+:::
 
 ## Referencías

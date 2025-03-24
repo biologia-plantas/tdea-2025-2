@@ -16,7 +16,7 @@ format:
     slide-number: true
     chalkboard: true
     controls: true
-    touch: false
+    touch: true
     footer: "[biologia-plantas.github.io/2025-1](https://biologia-plantas.github.io/2025-1/)"
     logo: "/imagenes/bldp.png"
     pointer:

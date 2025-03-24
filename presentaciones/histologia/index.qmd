@@ -1080,7 +1080,7 @@ Las esclereidas se clasifican según su forma.
 :::
 
 ::: fragment
-![Tallo de *Helianthus*. <a href="https://commons.wikimedia.org/wiki/File:Herbaceous_Dicot_Stem_Vascular_Bundles_in_Older_Helianthus_(23669988488).jpg">Berkshire Community College  Bioscience Image Library</a>, CC0, via Wikimedia Commons.](/presentaciones/images/tejidos_vasculares.jpg){#fig-tejidos-vasculares fig-align="center"}
+![Tallo de *Helianthus*. <a href="https://commons.wikimedia.org/wiki/File:Herbaceous_Dicot_Stem_Vascular_Bundles_in_Older_Helianthus_(23669988488).jpg">Berkshire Community College  Bioscience Image Library</a>, CC0, via Wikimedia Commons.](/presentaciones/images/tejidos_vasculares.jpg){#fig-tejidos-vasculares fig-align="center" width="50%"}
 :::
 
 ## Xilema
