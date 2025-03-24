@@ -628,6 +628,12 @@ Tabla e imagen de @bierenbroodspot2024.
 :::
 :::
 
+# Embryophyta {background-color="black" background-image="/presentaciones/images/valle_mifafi.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Valle_de_Mifaf%C3%AD_1.jpg">Adolfo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+:::
+
 ## Embryophyta: las plantas terrestres
 
 ::: columns
@@ -653,9 +659,9 @@ Tabla e imagen de @bierenbroodspot2024.
 :::
 :::
 
-## Embryophyta: Alternancia de generaciones
+## Embryophyta: alternancia de generaciones
 
-!["Alternancia de generaciones" haplodiplóntica en las plantas terrestres. @simpson2019.](/presentaciones/images/embryophyta_ciclo_vida.png){#fig-embryophyta-ciclo-vida fig-align="center"}
+![Alternancia de generaciones haplodiplóntica en las plantas terrestres. @simpson2019.](/presentaciones/images/embryophyta_ciclo_vida.png){#fig-embryophyta-ciclo-vida fig-align="center"}
 
 ## Embryophyta: relaciones
 
@@ -755,7 +761,7 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 :::
 
 ::: {.column .fragment width="40%"}
-![Hipótesis de las relaciones de Embryophyta con las principales apomorfías. @simpson2019.](/presentaciones/images/embryophyta_apomorfias.png){#fig-apomorfias fig-align="center"}
+![Hipótesis de las relaciones de Embryophyta con las principales apomorfías. @simpson2019.](/presentaciones/images/embryophyta_apomorfias.png){#fig-bryophyta-apomorfias fig-align="center"}
 :::
 :::
 
@@ -789,7 +795,7 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 <a href="https://commons.wikimedia.org/wiki/File:Anthoceros_sp.jpg">Bramadi Arya</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>.
 :::
 
-## Anthocerotophyta: antoceros {.smaller}
+## Anthocerotophyta: antoceros
 
 ::: columns
 ::: {.column .fragment width="50%"}
@@ -803,11 +809,9 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
     -   Gametangios endogénos
     -   Simbiosis con cianobacterias (*Nostoc*)
 -   Esporofito
-    -   Aéreo, alargado, cilíndrico
+    -   Aéreo, alargado, cilíndrico, fotosintético y relativamente longevo
     -   Meristema basal (indeterminado)
     -   Estomas
-    -   Fotosintético
-    -   Relativamente longevo
     -   Columna central única de tejido estéril (columela)
     -   Pseudoeláteres
 :::
@@ -846,10 +850,6 @@ World Flora Online [@wfo] registra 380,153 nombres aceptados para Embryophyta
 Cifras de @brinda2025, @catálogo2016a, @wfo.
 :::
 
-## Anthocerotophyta: ciclo de vida
-
-![Ciclo de vida de Anthocerotophyta. @frangedakis2021.](/presentaciones/images/anthocerotophyta_ciclo.jpg){#fig-anthocerotophyta-ciclo fig-align="center"}
-
 ## Anthocerotophyta: morfología
 
 ::: columns
@@ -861,6 +861,11 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 ![Algunas características morfológicas de *Anthoceros*. A. Esporas en germinación. B. Vista superficial del talo. C. Rizoides. D. Esporofitos creciendo sobre el gametofito. E. Talo con canales de mucílago. F. Vista superficial de la cámara anteridial con anteridios amarillos. G. Anteridio extraído de la cámara. H. Anteridios. I. Espermatozoides biflagelados. J. Arquegonios. L. Plástidos individuales en cada célula. M. Talo con un arquegonio abierto. N. Estoma. O. Espora. @frangedakis2021.](/presentaciones/images/anthocerotophyta_caracteristicas_02.jpg){#fig-anthocerotophyta-caracteristicas fig-align="center" width="50%"}
 :::
 :::
+
+
+## Anthocerotophyta: ciclo de vida
+
+![Ciclo de vida de Anthocerotophyta. @frangedakis2021.](/presentaciones/images/anthocerotophyta_ciclo.jpg){#fig-anthocerotophyta-ciclo fig-align="center"}
 
 ## Embryophyta: relaciones
 
@@ -954,7 +959,7 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 
 ![Hepáticas foliosas. @simpson2019.](/presentaciones/images/marchantiophyta_foliosa_1.jpg){#fig-marchantiophyta-foliosa-01 fig-align="center"}
 
-![A. Disposición característica de las hojas. B. Cápsula y el tallo del esporófito. C. Los anteridios están contenidos en el androecio. El perianto contiene el arquegonio y el esporofito en desarrollo. @evert2013.](/presentaciones/images/marchantiophyta_foliosa_1.jpg){#fig-marchantiophyta-foliosa-01 fig-align="center"}
+![A. Disposición característica de las hojas. B. Cápsula y el tallo del esporófito. C. Los anteridios están contenidos en el androecio. El perianto contiene el arquegonio y el esporofito en desarrollo. @evert2013.](/presentaciones/images/marchantiophyta_foliosa_2.png){#fig-marchantiophyta-foliosa-02 fig-align="center" width="65%"}
 :::
 :::
 
@@ -997,6 +1002,14 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 
 ::: footer
 Cifras de @brinda2025, @catálogo2016a, @wfo.
+:::
+
+## Embryophyta: relaciones
+
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-03 fig-align="center"}
+
+::: footer
+*s. l.* sensu lato & *s. s.* sensu stricto
 :::
 
 # Bryophyta {background-color="black" background-image="/presentaciones/images/bryophyta.jpg"}
@@ -1086,7 +1099,7 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 Cifras de @brinda2025, @catálogo2016a, @wfo.
 :::
 
-## Sphagnum: musgos de turbera
+## *Sphagnum*: musgos de turbera
 
 ![A. Gametofito y esporofitos de *Sphagnum*. B. Hoja de *Sphagnum* con células vivas (verde), ricas en cloroplastos y células hialinas grandes y muertas. C.  Explotación de turba. D. Mujeres fabricando vendajes para heridas con *Sphagnum* durante la Primera Guerra Mundial.](/presentaciones/images/bryophyta_sphagnum.jpg){#fig-bryophyta-sphagnum fig-align="center"}
 
@@ -1102,7 +1115,7 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 
 ## Embryophyta: relaciones
 
-![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-03 fig-align="center"}
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-04 fig-align="center"}
 
 ::: footer
 *s. l.* sensu lato & *s. s.* sensu stricto
@@ -1114,40 +1127,166 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 <a href="https://commons.wikimedia.org/wiki/File:Herbaceous_Dicot_Stem_Vascular_Bundles_in_Older_Helianthus_(23669988488).jpg">Berkshire Community College  Bioscience Image Library</a>, CC0, via Wikimedia Commons.
 :::
 
-## Tracheophyta
+## Embryophyta: alternancia de generaciones
+
+![Alternancia de generaciones haplodiplóntica en las plantas terrestres. @simpson2019.](/presentaciones/images/embryophyta_ciclo_vida.png){#fig-embryophyta-ciclo-vida-02 fig-align="center"}
+
+## Tracheophyta: plantas vasculares
 
 ::: columns
 ::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Esporofito ramificado, independiente y de vida larga
+-   Paredes celulares secundarias lignificadas
+-   Esclerenquima
+-   Elementos traqueales (xilema)
+-   Elementos cribosos (floema)
+-   Endodermis
+-   Raíces
+:::
 :::
 
 ::: {.column .fragment width="50%"}
-![Representantes de los cuatro linajes principales de traqueófitas: *Lycopodiella inundata* (Lycopodiophyta), *Polypodium vulgare* (Monilophyta), *Wollemia nobilis* (Gimnospermae), *Papaver argemone* (Angiospermae). <a href="https://commons.wikimedia.org/wiki/File:Tracheophyta.jpg">Kostka Martin</a>, CC0, via Wikimedia Commons.](/presentaciones/images/tracheophyta.jpg){#fig-tracheophyta fig-align="center"}
+![Representantes de los cuatro linajes principales de traqueófitas: *Lycopodiella inundata* (Lycopodiophyta), *Polypodium vulgare* (Monilophyta), *Wollemia nobilis* (Gimnospermae), *Papaver argemone* (Angiospermae). <a href="https://commons.wikimedia.org/wiki/File:Tracheophyta.jpg">Kostka Martin</a>, CC0, via Wikimedia Commons.](/presentaciones/images/tracheophyta.jpg){#fig-tracheophyta fig-align="center" width="65%"}
 :::
 :::
 
-## Heading2
+## Tracheophyta: relaciones
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
+![Hipótesis de las relaciones de Tracheophyta con las principales apomorfías. @simpson2019.](/presentaciones/images/tracheophyta_apomorfias.png){#fig-tracheophyta-apomorfias fig-align="center"}
 
-::: {.column .fragment width="50%"}
-:::
-:::
+<!-- # Lycopodiophyta {background-color="black" background-image="/presentaciones/images/lycopodiophyta.jpg" background-size="contain"} -->
 
-# Lycopodiophyta
-# Monilophyta
-# Gymnospermae
-# Angiospermae
+<!-- ::: footer -->
+<!-- <a href="https://commons.wikimedia.org/wiki/File:Spinulum_annotinum_15-p.bot-lyco.anno-003.jpg">Laval University</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons. -->
+<!-- ::: -->
 
-## Heading2
+<!-- ## Lycopodiophyta: licopodios -->
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![Lycopodiophyta (1904). <a href="https://commons.wikimedia.org/wiki/File:Lycopodium_clavatum_Thom%C3%A9.png">Otto Wilhelm Thomé</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/lycopodiophyta_ilustracion.jpg){#fig-lycopodiophyta-ilustracion fig-align="center" width="55%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Lycopodiophyta: diversidad -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   Mundial -->
+<!--     -   Ordenes: 3 -->
+<!--     -   Familias: 3 -->
+<!--     -   Géneros: 19 -->
+<!--     -   Especies: 1516 -->
+<!-- -   Colombia -->
+<!--     -   Ordenes: 3 -->
+<!--     -   Familias: 3 -->
+<!--     -   Géneros: 3 -->
+<!--     -   Especies: 184 -->
+<!--     -   Endémicas: 15 -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: footer -->
+<!-- Cifras de @catálogo2016a, @ppgi2016, @wfo. -->
+<!-- ::: -->
+
+<!-- ## Lycopodiales: diversidad -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   Mundial -->
+<!--     -   Familias: 1 -->
+<!--     -   Géneros: 17 -->
+<!--     -   Especies: 512 -->
+<!-- -   Colombia -->
+<!--     -   Familias: 1 -->
+<!--     -   Géneros: 8 -->
+<!--     -   Especies: 83 -->
+<!--     -   Endémicas: 10 -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ## Isoetales: diversidad -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   Mundial -->
+<!--     -   Familias:  1 -->
+<!--     -   Géneros:  1 -->
+<!--     -   Especies:  239 -->
+<!-- -   Colombia -->
+<!--     -   Familias: 1 -->
+<!--     -   Géneros: 1 -->
+<!--     -   Especies: 10 -->
+<!--     -   Endémicas: 2 -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: footer -->
+<!-- Cifras de @catálogo2016a, @ppgi2016, @wfo. -->
+<!-- ::: -->
+
+<!-- ## Selaginellales: diversidad -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   Mundial -->
+<!--     -   Familias: 1 -->
+<!--     -   Géneros: 1 -->
+<!--     -   Especies: 765 -->
+<!-- -   Colombia -->
+<!--     -   Familias: 1 -->
+<!--     -   Géneros: 1 -->
+<!--     -   Especies: 91 -->
+<!--     -   Endémicas: 3 -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
+
+<!-- ::: footer -->
+<!-- Cifras de @catálogo2016a, @ppgi2016, @wfo. -->
+<!-- ::: -->
+
+<!-- # Monilophyta -->
+<!-- # Gymnospermae -->
+<!-- # Angiospermae -->
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencías
