@@ -1162,125 +1162,546 @@ Cifras de @brinda2025, @catálogo2016a, @wfo.
 
 ![Hipótesis de las relaciones de Tracheophyta con las principales apomorfías. @simpson2019.](/presentaciones/images/tracheophyta_apomorfias.png){#fig-tracheophyta-apomorfias fig-align="center"}
 
-<!-- # Lycopodiophyta {background-color="black" background-image="/presentaciones/images/lycopodiophyta.jpg" background-size="contain"} -->
+# Lycopodiophyta {background-color="black" background-image="/presentaciones/images/lycopodiophyta.jpg" background-size="contain"}
 
-<!-- ::: footer -->
-<!-- <a href="https://commons.wikimedia.org/wiki/File:Spinulum_annotinum_15-p.bot-lyco.anno-003.jpg">Laval University</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons. -->
-<!-- ::: -->
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Spinulum_annotinum_15-p.bot-lyco.anno-003.jpg">Laval University</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+:::
 
-<!-- ## Lycopodiophyta: licopodios -->
+## Lycopodiophyta
 
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
+::: columns
+::: {.column .fragment width="50%"}
+### Características
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ![Lycopodiophyta (1904). <a href="https://commons.wikimedia.org/wiki/File:Lycopodium_clavatum_Thom%C3%A9.png">Otto Wilhelm Thomé</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/lycopodiophyta_ilustracion.jpg){#fig-lycopodiophyta-ilustracion fig-align="center" width="55%"} -->
-<!-- ::: -->
-<!-- ::: -->
+::: incremental
+-   Raíces dicopodiales con protoxilema endarco
+-   Tallo con protoxilema exarco
+-   Hojas licofilas o micrófilas
+:::
+:::
 
-<!-- ## Heading2 -->
+::: {.column .fragment width="50%"}
+![Tipos de xilema primario según su localización. Exarco: se desarrolla desde la periferia hacia el centro del órgano (crecimiento centrípeto). Endarco: se desarrolla desde el centro hacia la periferia del órgano (crecimiento centrífugo). @perez-leal2017.](/presentaciones/images/xilema_tipos.jpg){#fig-xilema-tipos fig-align="center" width="30%"}
+:::
+:::
 
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
+::: fragment
+![A-B. Corte transversal del tallo de *Lycopodium* mostrando el protoxilema exarco (hacia la periferia del tallo). C. Estructura del micrófilo. @simpson2019.](/presentaciones/images/lycopodiophyta_microphyll.jpg){#fig-lycopodiophyta-microphyll fig-align="center" width="50%"}
+:::
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+## Lycopodiophyta: diversidad
 
-<!-- ## Lycopodiophyta: diversidad -->
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Ordenes: 3
+    -   Familias: 3
+    -   Géneros: 19
+    -   Especies: 1516
+:::
 
-<!-- ::: columns -->
-<!-- ::: {.column .incremental width="50%"} -->
-<!-- -   Mundial -->
-<!--     -   Ordenes: 3 -->
-<!--     -   Familias: 3 -->
-<!--     -   Géneros: 19 -->
-<!--     -   Especies: 1516 -->
-<!-- -   Colombia -->
-<!--     -   Ordenes: 3 -->
-<!--     -   Familias: 3 -->
-<!--     -   Géneros: 3 -->
-<!--     -   Especies: 184 -->
-<!--     -   Endémicas: 15 -->
-<!-- ::: -->
+::: {.column .fragment width="50%"}
+-   Colombia
+    -   Ordenes: 3
+    -   Familias: 3
+    -   Géneros: 10
+    -   Especies: 184
+    -   Endémicas: 15
+:::
+:::
 
-<!-- ::: {.column .fragment width="50%"} -->
+::: fragment
+![Relaciones de Lycopodiophyta. @cole2022.](/presentaciones/images/lycopodiophyta_cladograma.png){#fig-lycopodiophyta-cladograma fig-align="center"}
+:::
 
-<!-- ::: -->
-<!-- ::: -->
+::: footer
+Cifras de @catálogo2016a, @ppgi2016, @wfo.
+:::
 
-<!-- ::: footer -->
-<!-- Cifras de @catálogo2016a, @ppgi2016, @wfo. -->
-<!-- ::: -->
+## Lycopodiales (Lycopodiaceae): licopodios
 
-<!-- ## Lycopodiales: diversidad -->
+::: columns
+::: {.column .incremental width="50%"}
+-   Hierbas perennes, erectas, postradas o pendulas
+-   Microfilos espiralados o verticilados, 
+-   Homospóricos
+-   Esporangios en la cara adaxial de los esporofilos (Hoja modificada que porta esporangios), en estrobilos cuando están agrupados.
+-   Raiz y tallo dicotómicamente ramificados
 
-<!-- ::: columns -->
-<!-- ::: {.column .incremental width="50%"} -->
-<!-- -   Mundial -->
-<!--     -   Familias: 1 -->
-<!--     -   Géneros: 17 -->
-<!--     -   Especies: 512 -->
-<!-- -   Colombia -->
-<!--     -   Familias: 1 -->
-<!--     -   Géneros: 8 -->
-<!--     -   Especies: 83 -->
-<!--     -   Endémicas: 10 -->
-<!-- ::: -->
+:::
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.column .fragment width="50%"}
+![Lycopodiophyta (1904). <a href="https://commons.wikimedia.org/wiki/File:Lycopodium_clavatum_Thom%C3%A9.png">Otto Wilhelm Thomé</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/lycopodiophyta_ilustracion.jpg){#fig-lycopodiales-ilustracion fig-align="center" width="55%"}
+:::
+:::
 
-<!-- ## Isoetales: diversidad -->
+## Lycopodiales: morfología
 
-<!-- ::: columns -->
-<!-- ::: {.column .incremental width="50%"} -->
-<!-- -   Mundial -->
-<!--     -   Familias:  1 -->
-<!--     -   Géneros:  1 -->
-<!--     -   Especies:  239 -->
-<!-- -   Colombia -->
-<!--     -   Familias: 1 -->
-<!--     -   Géneros: 1 -->
-<!--     -   Especies: 10 -->
-<!--     -   Endémicas: 2 -->
-<!-- ::: -->
+::: columns
+::: {.column .fragment width="50%"}
+![A. *Huperzia lucidula* . B. *Lycopodium clavatum*. C. Esporangios de *H. lucidula*. D. Estróbilos de *Lycopodium annotinum*. E. Esporófilos de *L. clavatum*, vista adaxial (izquierda) y vista abaxial (derecha). F. *Huperzia squarrosa*. G. Estróbilos de *H. squarrosa*. H. Estróbilos de *Phylloglossum drummondii*. @simpson2019.](/presentaciones/images/lycopodiaceae.jpg){#fig-lycopodiales-lycopodiaceae fig-align="center" width="65%"}
+:::
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.column .fragment width="50%"}
+![Esporofilos de *Huperzia lucidula* y estróbilos de *Lycopodium lagopus*. @evert2013.](/presentaciones/images/lycopodiaceae_sporophylls_strobili.jpg){#fig-lycopodiales-sporophylls-strobili fig-align="center"}
+:::
+:::
 
-<!-- ::: footer -->
-<!-- Cifras de @catálogo2016a, @ppgi2016, @wfo. -->
-<!-- ::: -->
+## Lycopodiales: ciclo de vida
 
-<!-- ## Selaginellales: diversidad -->
+![Ciclo de vida de *Lycopodium lagopus*. @evert2013.](/presentaciones/images/lycopodiaceae_ciclo.png){#fig-lycopodiales-ciclo-strobili fig-align="center"}
 
-<!-- ::: columns -->
-<!-- ::: {.column .incremental width="50%"} -->
-<!-- -   Mundial -->
-<!--     -   Familias: 1 -->
-<!--     -   Géneros: 1 -->
-<!--     -   Especies: 765 -->
-<!-- -   Colombia -->
-<!--     -   Familias: 1 -->
-<!--     -   Géneros: 1 -->
-<!--     -   Especies: 91 -->
-<!--     -   Endémicas: 3 -->
-<!-- ::: -->
+## Lycopodiales: diversidad
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Familias: 1
+    -   Géneros: 17
+    -   Especies: 512
+-   Colombia
+    -   Familias: 1
+    -   Géneros: 8
+    -   Especies: 83
+    -   Endémicas: 10
+:::
 
-<!-- ::: footer -->
-<!-- Cifras de @catálogo2016a, @ppgi2016, @wfo. -->
-<!-- ::: -->
+::: {.column .fragment width="50%"}
+![Relaciones de Lycopodiaceae. Basado en @chen2021 via [Wikipedia](https://en.wikipedia.org/w/index.php?title=Lycopodiaceae&oldid=1272170405).](/presentaciones/images/lycopodiaceae_cladograma.png){#fig-lycopodiales-cladograma fig-align="center"}
+:::
+:::
 
-<!-- # Monilophyta -->
+## Isoetales (Isoetaceae): isoetes
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Hierbas perennes, generalmente acuáticas o terrestres.
+-   Roseta basal de hojas micrófilas y liguladas
+    -   Hojas presentan una vaina basal y son lineares a aciculares en el ápice
+-   Heterospóricas
+    -   Megasporangios y microsporangios adaxiales ubicados dentro de la vaina basal de la hoja.
+-   Gametofito endospórico
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Selaginella (1885). [Otto Wilhelm Thomé](https://commons.wikimedia.org/wiki/File:Illustration_Isoetes_lacustris0.jpg), Public domain, via Wikimedia Commons.](/presentaciones/images/isoetaceae_ilustracion.jpg){#fig-isoetales-ilustracion fig-align="center" width="55%"}
+:::
+:::
+
+## Isoetales: morfología
+
+::: columns
+::: {.column .fragment width="50%"}
+![A. *Isoetes howellii*. B. Esporangios. C. Esporófilos de *Isoetes orcuttii*. D-E. Megasporangio. F-I. Microsporangio. @simpson2019.](/presentaciones/images/isoetaceae.jpg){#fig-isoetales-morfologia-01 fig-align="center" width="75%"}
+:::
+
+::: {.column .fragment width="50%"}
+![Representación de una planta de Isoetes. @evert2013.](/presentaciones/images/isoetaceae_morfologia.png){#fig-isoetales-morfologia-02 fig-align="center"}
+:::
+:::
+
+## Isoetales: ciclo de vida 
+
+::: columns
+::: {.column .fragment width="50%"}
+![Ciclo de vida de *Isoetes*. @avila2009.](/presentaciones/images/isoetaceae_ciclo_01){#fig-isoetales-ciclo-01 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Ciclo de vida de *Isoetes*. <a href="https://commons.wikimedia.org/wiki/File:Isoetes.reproduction.tif">John Game, Robbin Moran, Aidan Harrington</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/isoetaceae_ciclo_02){#fig-isoetales-ciclo-02 fig-align="center" width="75%"}
+:::
+:::
+
+## Isoetales: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Familias:  1
+    -   Géneros:  1
+    -   Especies:  239
+-   Colombia
+    -   Familias: 1
+    -   Géneros: 1
+    -   Especies: 10
+    -   Endémicas: 2
+:::
+
+::: {.column .fragment width="50%"}
+![Relaciones de Isoetaceae. @wood2020.](/presentaciones/images/isoetaceae_cladograma.png){#fig-isoetales-cladograma fig-align="center"}
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @ppgi2016, @wfo.
+:::
+
+## Selaginellales (Selaginellaceae): selaginelas
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Hierbas erectas a postradas
+-   Tallos dicotómicamente ramificados
+-   Micrófilos en espiral, homomórficos (isofilia) o dimórficos (anisofilia)
+-   Esporangios heterospóricos
+    -   Microsporangios y megasporangios en las axilas de esporófilos (megasporofilos y microsporofilos) ligulados dentro de estróbilos terminales
+-   Gametofito endospórico
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Selaginella (1885). [Otto Wilhelm Thomé](https://commons.wikimedia.org/wiki/File:Illustration_Selaginella_selaginoides0.jpg), Public domain, via Wikimedia Commons.](/presentaciones/images/sellaginellaceae_ilustracion.jpg){#fig-selaginellales-ilustracion fig-align="center" width="55%"}
+:::
+:::
+
+## Selaginellales: morfología
+
+::: columns
+::: {.column .fragment width="50%"}
+![A. Hojas isomorfas de *Selaginella bigelovii*. B. Hojas dimórficas de *S. apoda*. C. Hojas dimórfica. D. Lígula. E. Estróbilo. F. Microsporangio y del megasporangio. G. Microsporófilo con microsporangio y megasporófilo con megasporangio. H. Estróbilo. I. Microsporangio. J. Megasporangio. K. Microsporas y megasporas dispersas. @simpson2019.](/presentaciones/images/sellaginellaceae.jpg){#fig-selaginellales-morfologia_01 fig-align="center" width="65%"}
+:::
+
+::: {.column .fragment width="50%"}
+![Morfología general de una Selaginella. A. Hábito de crecimiento erecto. B. Vista ventral. C. Vista dorsal. D. Micrófilo lateral. E. Micrófilos dorsales. F. Esporófilo. @vega-betancur2023.](/presentaciones/images/sellaginellaceae_morfologia.png){#fig-selaginellales-morfologia_02 fig-align="center" width="60%"}
+:::
+:::
+
+## Selaginellales: ciclo de vida
+
+![Ciclo vital de *Selaginella*. @nabors2006.](/presentaciones/images/sellaginellaceae_ciclo_01.png){#fig-selaginellales-ciclo-01 fig-align="center"}
+
+## Selaginellales: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Familias: 1
+    -   Géneros: 1
+    -   Especies: 765
+-   Colombia
+    -   Familias: 1
+    -   Géneros: 1
+    -   Especies: 91
+    -   Endémicas: 3
+:::
+
+::: {.column .fragment width="50%"}
+![Relaciones de Selaginellaceae. @zhou2023. Via [Wikipeadia](https://en.wikipedia.org/w/index.php?title=Lycopodiaceae&oldid=1272170405)](/presentaciones/images/lycopodiaceae_cladograma.png){#fig-lycopodiales-cladograma fig-align="center"}
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @ppgi2016, @wfo.
+:::
+
+## Embryophyta: relaciones
+
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-05 fig-align="center"}
+
+# Euphyllophyta {background-color="black" background-image="/presentaciones/images/euphyllophyta.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Green_leaf_texture.jpg">Martin Vorel martinvorel.com</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+:::
+
+## Euphyllophyta
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Raíz monopodial con protoxilema exarco
+-   Hojas eufilas o megafilas
+    -   Laguna foliar
+    -   Nervaduras o venación
+-   Inversión de 30 kilobases en el ADN del cloroplasto
+
+::: fragment
+![Hojas de diferentes plantas.](/presentaciones/images/hoja_comparacion.png){#fig-euphyllophyta-hojas fig-align="center"}
+:::
+:::
+
+::: {.column .fragment width="50%"} 
+![Estructura y anatomía de las eufilas, destacando la presencia de múltiples venas y una laguna foliar. @evert2013.](/presentaciones/images/euphyllophyta_euphyll.png){#fig-euphyllophyta-euphyll fig-align="center" width="60%"}
+:::
+:::
+
+# Monilophyta {background-color="black" background-image="/presentaciones/images/monilophyta.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Fern_sori_pattern.jpg">L. Shyamal</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+:::
+
+## Monilophyta: helechos
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+::: incremental
+-   Sifonostela
+-   Protoxilema mesarco
+:::
+
+::: fragment
+![Tipos de xilema primario según su localización. Mesarco: el protoxilema se enucntra en el centro y el metaxilema se diferencia rardialmente (centrípetamente y centrífugamente). @perez-leal2017.](/presentaciones/images/xilema_tipos.jpg){#fig-xilema-tipos_02 fig-align="center" width="50%"}
+:::
+:::
+
+::: {.column .fragment width="50%"}
+
+![Tipos de haces vascualres y estelas. @megías-pacheco2017.](/presentaciones/images/vascular_organizacion.png){#fig-estelas fig-align="center" width="60%"}
+:::
+:::
+
+::: footer
+Monilophyta \= Polypodiophyta
+:::
+
+## Monilophyta: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Ordenes: 11
+    -   Familias: 50
+    -   Géneros: 366
+    -   Especies: 12688
+-   Colombia
+    -   Familias: 36
+    -   Géneros: 127
+    -   Especies: 1459
+    -   Endémicas: 89
+:::
+
+::: {.column .fragment width="50%"}
+![Relaciones de Monilophyta. @ppgi2016.](/presentaciones/images/monilophyta_cladograma.jpg){#fig-monilophyta-cladograma fig-align="center"}
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @ppgi2016, @wfo.
+:::
+
+## Pteridophyta: helechos y afines
+
+![Plantas vasculares: Árbol filogenético consensuado al año 2004. <a href="https://commons.wikimedia.org/wiki/File:Filogenia2004.gif">Pryer et al. 2004. Spanish translation by User:RoRo</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/pteridophyta.gif){#fig-pteridophyta.gif fig-align="center"}
+
+## Equisetopsida (Equisetaceae): equisetos
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Hierbas perennes rizomatosas
+-   Tallos acanalados, a menudo con canales internos huecos
+-   Hojas reducidas y verticiladas, generalmente fusionadas en los márgenes, no fotosintéticas
+-   Células epidérmicas con sílice y canales internos
+-   Esporangióforos, con un eje peltado que lleva esporangios, organizados en un estróbilo
+-   Esporas fotosintéticas con eláteres
+-   Homospóricos
+-   Una familia, un género y 41 especies (4 en Colombia)
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![*Equisetum*. <a href="https://commons.wikimedia.org/wiki/File:The_ferns_of_Great_Britain,_and_their_allies_the_club-mosses,_pepperworts,_and_horsetails_(Pl._38)_(8515414457).jpg">Pratt, Anne; Pratt, Anne; Society for Promoting Christian Knowledge (Great Britain)</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/equisetopsida_ilustracion.jpg){#fig-equisetopsida-ilustracion fig-align="center" width="50%"}
+:::
+:::
+
+## Equisetopsida: morfología
+
+::: columns
+::: {.column .fragment width="50%"}
+![Morfología general de *Equisetum*. ](/presentaciones/images/equisetopsida_morfologia.jpg){#fig-equisetopsida-morfologia_01 fig-align="center" width="75%"}
+:::
+
+::: {.column .fragment width="50%"}
+![A-C. Tallo de *Equisetum*. D-E. *Equisetum laevigatum*. F. Esporangióforo. G-H. Esporas y élateres. I-J. Tallos estériles y fotosintéticos. K. Tallo reproductivo con un estróbilo terminal. L. Estróbilo mostrando los esporangióforos. @simpson2019.](/presentaciones/images/equisetopsida.jpg){#fig-equisetopsida-morfologia_02 fig-align="center" width="75%"}
+:::
+:::
+
+## Equisetopsida: ciclo de vida
+
+![Ciclo de vida de *Equisetum*. @evert2013.](/presentaciones/images/equisetopsida_ciclo.png){#fig-equisetopsida-ciclo fig-align="center" width="65%"}
+
+## Psilotopsida
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Homospóricos
+-   Esporangio eusporangiado ubicado adaxialmente
+-   Raíz sin pelos radicales/ramificaciones o ausente
+-   Gametofito no fotosintético y subterráneo
+-   Dos ordenes Ophioglossales y Psilotales
+    -   Dos familias, 13 géneros, 159 especies
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![*Ophioglossum vulgatum* y *Botrychium lunaria* (1985). [Otto Wilhelm Thomé](https://commons.wikimedia.org/wiki/File:Illustration_Ophioglossum_vulgatum0.jpg), Public domain, via Wikimedia Commons.](/presentaciones/images/psilotopsida.jpg){#fig-psilotopsida-ilustracion fig-align="center" width="50%"}
+:::
+:::
+
+## Ophioglossales {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Hierbas perennes, homospóricas y eusporangiadas
+-   Hojas simples a compuestas, con un segmento fértil pedunculado que contiene eusporangios
+-   Gametofitos no fotosintéticos
+:::
+:::
+
+::: {.column .fragment width="50%"}
+-   Mundial
+    -   Géneros: 11
+    -   Especies: 129  
+-   Colombia
+    -   Géneros: 2
+    -   Especies: 6 
+:::
+:::
+
+::: fragment
+![A-B. Lámina vegetativa y el segmento fértil de *Botrychium sp.* C. Segmento fértil de *Ophioglossum californicum*. @simpson2019.](/presentaciones/images/ophioglossales.jpg){#fig-ophioglossales fig-align="center" width="75%"}
+:::
+
+## Psilotales
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Hierbas perennes rizomatosas y sin raíces
+-   Tallos aéreos fotosintéticos, simples o dicotómicamente ramificados
+-   Hojas simples, espiraladas o dísticas, carecen de vascularización (enaciones) o poseen una única vena (microfilas)
+-   Esporangios son 2- o 3-sinangiados
+-   2 géneros, 20 especies. Colombia: 1 género, 2 especies.
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![*Psilotum nudum*. A. Planta entera. B. Brotes aéreos dicotómicos. C. Hojas reducidas o enaciones. D-E. Sinangio. F. Esporas monolete. G. Corte transversal del tallo. @simpson2019.](/presentaciones/images/psilotales.jpg){#fig-psilotales fig-align="center"}
+:::
+:::
+
+::: footer
+Sinangio: conjunto de esporangios con sus paredes fusionadas.
+:::
+
+## Psilotales: ciclo de vida
+
+![Ciclo de vida de *Psilotum*. @nabors2006.](/presentaciones/images/psilotales_ciclo.jpg){#fig-psilotales-ciclo-01 fig-align="center"}
+
+## Marattiopsida
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Helechos terrestres de gran tamaño con canales de mucílago
+-   Sifonostela policíclica
+-   Hojas (frondas) varían de simples a varias veces pinnadas.
+-   Esporangios eusporangiados, abaxiales e intramarginales, y en algunos casos están fusionados en sinangios.
+-   6 géneros, 179 especies. Colombia: 2 géneros, 23 especies
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A,H. Hojas compuestas bipinnadas. B. Peciolos hinchados (pulvínulos) y estípulas persistentes. C. Sifonostela policíclica. D. Soros. E. Eusporangios no fusionados. F. Hoja pinnada compuesta. G. Sinangio. I-J. Folíolos. K. Sinangios. @simpson2019.](/presentaciones/images/marattiopsida.jpg){#fig-marattiopsida fig-align="center" width="65%"}
+:::
+:::
+
+## Polypodiopsida: helechos leptosporangiados
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Hierbas o árboles perennes, con la excepción de algunos helechos acuáticos
+-   La mayoría presenta rizomas
+-   Esporangio leptosporangiado
+-   Soros con o sin indusio
+-   Frondas con prefoliación circinada
+-   Esporas triletes o monoletes
+-   Gametofito típicamente superficial y tiene rizoides
+-   7 ordenes, 46 familias, 346 géneros, 12309 especies
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A-B. *Cyathea medullaris*, uno de los helecho arborescente más altos del mundo. C. Tronco de un helecho. D. Pinna. E. Hoja. F. Detalle de la pinna. G. Soros. H. Corte de la base del pecíolo. I-J. Soro, antes y después de dehiscencia. K. Leptosporangio. @simpson2019.](/presentaciones/images/polypodiopsida_cyatheales.jpg){#fig-polypodiopsida-cyatheales fig-align="center" width="75%"}
+:::
+:::
+
+## Eusporangio y leptosporangio
+
+![Desarrollo y estructura de los dos principales tipos de esporangios. A. El eusporangio se origina a partir de una serie de células parentales superficiales o iniciales. B. El leptosporangio se desarrolla a partir de una única célula inicial. @evert2013.](/presentaciones/images/eusporangia_leptosporangia.jpg){#fig-eusporangia-leptosporangia fig-align="center" width="75%"}
+
+## Polypodiopsida: morfología
+
+![A-B. Rizomas. C. Morfología de la hoja. D. Pecíolo. E. Brotes de helecho. @simpson2019.](/presentaciones/images/polypodiopsida_morfologia_01.jpg){#fig-polypodiopsida-morfologia-01 fig-align="center" width="75%"}
+
+## Polypodiopsida: morfología
+
+![A-C. Venación. D-E. Escama. G-J. Leptosporangio. K. Soro. @simpson2019.](/presentaciones/images/polypodiopsida_morfologia_02.jpg){#fig-polypodiopsida-morfologia-02 fig-align="center" width="75%"}
+
+## Polypodiopsida: morfología
+
+![A-B. Soro exindusiado. C-E. Soro con indusio F. Esporangios acrosticoides (cubre completamente la cara abaxial) G-H. Falso indusio. @simpson2019.](/presentaciones/images/polypodiopsida_morfologia_03.jpg){#fig-polypodiopsida-morfologia-03 fig-align="center" width="75%"}
+
+## Polypodiopsida: ciclo de vida
+
+![Ciclo de vida de de un helecho homospórico. @nabors2006.](/presentaciones/images/polypodiopsida_ciclo_01.jpg){#fig-polypodiopsida-ciclo-01 fig-align="center"}
+
+## Polypodiopsida: ciclo de vida
+
+![Ciclo de vida de de un helecho homospórico. @mauseth2016.](/presentaciones/images/polypodiopsida_ciclo_02.jpg){#fig-polypodiopsida-ciclo-02 fig-align="center"}
+
+## Embryophyta: relaciones
+
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-06 fig-align="center"}
+
+# Spermatophyta {background-color="black" background-image="/presentaciones/images/spermatophyta_semilla.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg">Alexander Klepnev</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.
+:::
+
+## Spermatophyta: plantas con semilla
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Semilla
+-   Heterosporia
+-   Reducción de la megaspora
+-   Retención de la megaspora
+-   Endosporia
+-   Tegumento
+-   Polen
+:::
+
+::: {.column .fragment width="50%"}
+![Gymnospermae y Angiospermae los dos grupos de Spermatophyta.](/presentaciones/images/spermatophyta.png){#fig-spermatophyta fig-align="center"}
+:::
+:::
+
 <!-- # Gymnospermae -->
 <!-- # Angiospermae -->
 
