@@ -1444,7 +1444,7 @@ Cifras de @catálogo2016a, @ppgi2016, @wfo.
 ::: {.column .fragment width="50%"}
 ### Características
 ::: incremental
--   Sifonostela
+-   Sifonostela (ectofloica, anfifloica, dictiostela)
 -   Protoxilema mesarco
 :::
 
@@ -1678,6 +1678,27 @@ Sinangio: conjunto de esporangios con sus paredes fusionadas.
 
 ![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-06 fig-align="center"}
 
+## Lignophyta: plantas leñosas
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Cámbium vascular
+    -   Xilema y floema secundarios
+-   Cámbium suberoso (felógeno)
+    -   Felodermis y súber o corcho
+-   Crecimiento monopodial
+    -   Un único brote principal desarrolla ramas a partir de yemas laterales (normalmente axilares)
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Hipótesis de las relaciones de Lignophyta con las principales apomorfías. @simpson2019.](/presentaciones/images/lignophyta_apomorfias.png){#fig-lignophyta-apomorfias fig-align="center" width="75%"}
+:::
+:::
+
 # Spermatophyta {background-color="black" background-image="/presentaciones/images/spermatophyta_semilla.jpg"}
 
 ::: footer
@@ -1686,33 +1707,130 @@ Sinangio: conjunto de esporangios con sus paredes fusionadas.
 
 ## Spermatophyta: plantas con semilla
 
+::::: columns
+:::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Heterospóricas
+    -   Megasporas
+    -   Microsporas
+-   Endospóricas
+    -   Desarrollo del gametofito dentro de la pared original de la espora
+-   Semilla
+-   Polen
+-   Eustela
+-   Protoximela endarco
+:::
+::::
+
+:::: {.column .fragment width="50%"}
+![Gymnospermae y Angiospermae los dos grupos de Spermatophyta.](/presentaciones/images/spermatophyta.png){#fig-spermatophyta fig-align="center"}
+
+::: fragment
+![Tipos de xilema primario según su localización. Endarco: se desarrolla desde el centro hacia la periferia del órgano (crecimiento centrífugo). @perez-leal2017.](/presentaciones/images/xilema_tipos.jpg){#fig-xilema-tipos fig-align="center" width="50%"}
+:::
+::::
+:::::
+
+## Semilla
+
+::: columns
+::: {.column .fragment width="40%"}
+> Una semilla se define como un embrión, es decir, un esporofito diploide inmaduro que se desarrolla a partir del cigoto, rodeado por tejido nutritivo y envuelto por una cubierta seminal. Una semilla inmadura, antes de la fecundación, se conoce como óvulo. @simpson2019.
+
+::: fragment
+La evolución de la semilla implicó varios pasos
+:::
+
+::: incremental
+-   Heterosporía
+-   Endosporía
+-   Reducción del número de megasporas a una
+-   Retención de la megaspora
+-   Evolución del tegumento y el micrópilo
+:::
+:::
+
+::: {.column .fragment width="60%"}
+![Evolución hipoética del óvulo y la semilla en Spermatophyta @simpson2019.](/presentaciones/images/spermatophyta_evolucion_semilla.jpg){#fig-spermatophyta-evolucion-semilla fig-align="center" width="65%"}
+:::
+:::
+
+## Polen {.smaller}
+
 ::: columns
 ::: {.column .fragment width="50%"}
--   Semilla
--   Heterosporia
--   Reducción de la megaspora
--   Retención de la megaspora
--   Endosporia
--   Tegumento
--   Polen
+> Células de forma y dimensión variables, daotadas de una cubierta muy resistente o esporodermis, que se forma dentro de los sacos polínicos del estambre y tiene como misión, una vez formado el microgametófico pluricelular, fecundar el óvulo. @saenz-laín2004.
+
+> En las plantas con semilla, una microspora que contiene un microgametofito (gametofito masculino) maduro o inmaduro. @evert2013.
+
+::: fragment
+![Formación del grano de polen. @megías-pacheco2017.](/presentaciones/images/spermatophyta_polen.png){#fig-spermatophyta-polen fig-align="center"}
+
+:::
 :::
 
 ::: {.column .fragment width="50%"}
-![Gymnospermae y Angiospermae los dos grupos de Spermatophyta.](/presentaciones/images/spermatophyta.png){#fig-spermatophyta fig-align="center"}
+![Granos de polen de diversas plantas comunes. <a href="https://commons.wikimedia.org/wiki/File:Misc_pollen_colorized.jpg">Dartmouth Electron Microscope Facility, Dartmouth College</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/misc_pollen_colorized.jpg){#fig-spermatophyta-polen_02 fig-align="center"}
 :::
 :::
 
-<!-- # Gymnospermae -->
-<!-- # Angiospermae -->
+## Spermatophyta: ciclo de vida
 
-<!-- ## Heading2 -->
+![Alternancia de generaciones haplodiplóntica en Spermatophyta. @simpson2019.](/presentaciones/images/spermatophyta_ciclo.png){#fig-spermatophyta-ciclo-vida fig-align="center"}
 
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
+## Embryophyta: relaciones
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-07 fig-align="center"}
+
+# Gymnospermae {background-color="black" background-image="/presentaciones/images/gymnospermae.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Pinus_mugo_cone_02.jpg">Agnieszka Kwiecień, Nova</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.
+:::
+
+## Gymnospermae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Estructuras reproductivas generalmente unisexuales y anemógamas
+-   Óvulos o semillas total o parcialmente expuestas en la superficie de hojas modificadas (esporofilas)
+-   Endospermo desarrollado normalmente a partir de los gametofitos haploides
+-   Xilema con traqueidas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Gimnospermas. <a href="https://commons.wikimedia.org/wiki/File:Gymnospermae.jpg">Unknown, Leipzig; Berlin; Wien: F.A. Brockhaus</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/gymnospermae_ilustracion.jpg){#fig-gymnospermae fig-align="center"}
+:::
+:::
+
+::: footer
+Gymnospermae significa «semilla desnuda»
+:::
+
+## Gymnospermae: relaciones
+
+![Hipótesis sobre las relaciones filogenéticas de Spermatophyta. ANG: angiospermas; CYC: cicadófitas; GIN: ginkgo; GNE: gnetófitas; PIN: pináceas; CUP: cupresófitas.](/presentaciones/images/spermatophyta_relaciones_hipotesis.png){#fig-spermatophyta-relaciones-hipotesis fig-align="center"}
+
+## Gymnospermae: diversidad
+
+![Relaciones de Gymnospermae. @cole2022.](/presentaciones/images/gymnospermae_cladograma.png){#fig-gymnospermae-cladograma fig-align="center"}
+
+# Angiospermae
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 ## Referencías
