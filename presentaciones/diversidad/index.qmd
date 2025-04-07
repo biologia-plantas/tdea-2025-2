@@ -1819,7 +1819,318 @@ Gymnospermae significa «semilla desnuda»
 
 ## Gymnospermae: diversidad
 
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   Mundial -->
+<!--     -   Familias:  -->
+<!--     -   Géneros:  -->
+<!--     -   Especies:  -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- -   Colombia -->
+<!--     -   Familias:  -->
+<!--     -   Géneros:  -->
+<!--     -   Especies:  -->
+<!--     -   Endémicas:  -->
+<!-- ::: -->
+<!-- ::: -->
+
 ![Relaciones de Gymnospermae. @cole2022.](/presentaciones/images/gymnospermae_cladograma.png){#fig-gymnospermae-cladograma fig-align="center"}
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Cycadophyta (Cycadales)
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Tallo generalmente corto y erecto, rara vez alto y con aspecto de palmera
+-   Hojas en espiral, en su mayoría pinnaticompuestas
+-   Dioicas
+    -   Conos o estróbilos masculinos (polínicos)
+        -   Espermatozoides móviles
+    -   Conos o estróbilos femeninos (ovulíferos) o megasporofilos agrupados en el ápice del tronco en densas masas
+-   Vernación circinada
+:::
+:::
+
+::: {.column .fragment width="50%"}
+### Diversidad
+
+::: incremental
+-   Mundial
+    -   Familias: 2
+    -   Géneros: 10
+    -   Especies: 384
+-   Colombia
+    -   Familias: 2
+    -   Géneros: 2
+    -   Especies: 20
+    -   Endémicas: 11
+:::
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Cycadaceae: cícadas
+
+::: columns
+::: {.column .incremental width="50%"}
+### Características
+
+::: incremental
+-   Plantas dioicas: árboles o hierbas perennes
+-   Troncos aéreos o tallos subterráneos
+-   Hojas grandes, coriáceas, perennes y pinnadas
+-   Conos de masculinos grandes y determinados
+-   Estructuras reproductivas ovuladas no organizadas en conos
+    -   Numerosos megasporófilos dentados o divididos, dispuestos en el ápice del tronco, con uno o más óvulos marginales
+-   Distribución: este de África, este y sudeste de Asia, y norte de Australia
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A–F. *Cycas revoluta*. A. Individuo masculino. B. Hojas con vernación circinada. C. Cono masculino. D. Microsporófilo con microsporangios. E. Individuo femenino, mostrando un agregado de megasporófilos (sin conos verdaderos). F. Megasporófilo con semillas inmaduras en los márgenes. G. *Cycas circinalis*, individuo femenino con megasporófilos maduros portando semillas (sin conos verdaderos). @simpson2019.](/presentaciones/images/cycadophyta_cycadaceae.jpg){#fig-cycadophyta-cycadaceae fig-align="center"}
+:::
+:::
+
+## Cycadaceae: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Géneros: 1
+    -   Especies: 121
+:::
+
+::: {.column .fragment width="50%"}
+-   Colombia
+    -   Géneros: 1
+    -   Especies: 2
+:::
+:::
+
+::: fragment
+![*Cycas revoluta*. A. Habito. B. Cono masculino. C. Megasporófilo.](/presentaciones/images/cycas_revoluta.jpg){#fig-cycas-revoluta fig-align="center"}
+:::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Zamiaceae: zamias
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Plantas dioicas: árboles o hierbas perennes
+-   Troncos aéreos o tallos subterráneos
+-   Hojas pinnadas (raramente bipinnadas)
+-   Conos masculinos y femeninos determinados
+-   Conos femeninos con megasporófilos usualmente peltados
+    -   2 (3) óvulos o semillas en posición adaxial marginal
+-   Distribución: tropical y subtropical, África, Australia y América
+-   Mundial: 9 género, 263 especies
+-   Colombia: 1 género, 20 especies, 11 endémicas
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A-B. Conos masculinos. C-D,F,H. Conos femeninos. E-I. Megasporófilo con dos semillas adheridas. G. Cono masculino y femenino. @simpson2019.](/presentaciones/images/cycadophyta_zamiaceae.jpg){#fig-cycadophyta-zamiaceae fig-align="center"}
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Ginkgophyta: *Ginkgo biloba*
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Árboles dioicos con ramas cortas y robustas
+-   Hojas simples, espiraladas, de forma flabeliforme (en abanico), con venación dicotómica
+-   Estructura reproductiva masculina compuesta por un eje que porta microsporófilos con microsporangios colgantes, dispuestos en pares
+-   Estructura femenina consiste en un eje que usualmente lleva dos óvulos erectos, cada uno con un collar basal
+-   Semilla presenta una capa externa carnosa y una capa interna dura del integumento
+-   Mundial: 1 especie
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![*Ginkgo biloba* (Ginkgoaceae). A–B. Crecimiento vegetativo. C. Venación dicotómica en hoja. D-E. «Conos» masculinos. F–G. Detalle de los microsporangios. H-I. Pedúnculo que lleva un par de óvulos. J. Semillas jóvenes. K. Semilla madura. @simpson2019.](/presentaciones/images/ginkgo_biloba.jpg){#fig-ginkgo-biloba fig-align="center" width="65%"}
+:::
+:::
+
+## Pinopsida
+
+::: columns
+::: {.column .fragment width="50%"}
+| Subclase    | Orden          | Familia         |
+|-------------|----------------|-----------------|
+| Gnetidae    | Ephedrales     | Ephedraceae     |
+|             | Welwitschiales | Welwitschiaceae |
+|             | Gnetales       | Gnetaceae       |
+| Pinidae     | Pinales        | Pinaceae        |
+| Cupressidae | Araucariales   | Araucariaceae   |
+|             |                | Podocarpaceae   |
+|             | Cupressales    | Sciadopityaceae |
+|             |                | Taxaceae        |
+|             |                | Cephalotaxaceae |
+|             |                | Cupressaceae    |
+
+: Clasificación de Pinopsida según @yang2022. {#tbl-pinopsida}
+:::
+
+::: {.column .fragment width="50%"}
+![Relaciones de Gymnospermae. @cole2022.](/presentaciones/images/gymnospermae_cladograma.png){#fig-gymnospermae-cladograma fig-align="center"}
+:::
+:::
+
+
+## Araucariaceae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Árboles dioicos o monoicos
+-   Hojas anchas a aciculares
+-   Conos masculinos grandes, con numerosos (5–20) microsporangios invertidos por microsporófilo
+-   Conos femeninos grandes y se desintegran al madurar
+    -   Cada escama ovulífera lleva un solo óvulo/semilla en posición media
+-   Distribución: sur de sur América, Australasia y sudeste asiático
+-   Mundial: 2 género, 38 especies
+-   Colombia: 1 género, 3 especies
+    -   *Araucaria angustifolia*, *Araucaria araucana* y *Araucaria heterophylla*
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A-D. *Agathis australis*. A. Tane Mahuta (), el tercer árbol de mayor volumén del mundo  @simpson2019. B-C. Copa y hojas. D. Cono masculino y femenino. E–G. *Araucaria bidwillii*. E. Rama. F. Cono femenino. G. Escama ovulífera. H. *Araucaria cunninghamii*. I–L. *Araucaria heterophylla*. @simpson2019.](/presentaciones/images/araucariaceae.jpg){#fig-araucariaceae fig-align="center" width="65%"}
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Podocarpaceae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Árboles dioicos
+-   Hojas lineares, elípticas, subuladas o escuamiformes.
+-   Conos femeninos presentan escamas ovulíferas con un solo óvulo
+    -   Suele estar reducido a una sola semilla, a veces sostenida sobre un receptáculo carnoso. 
+-   La semilla suele estar envuelta por un epimatio y un carpidio carnosos.
+-   Embrión con dos cotiledones
+-   Distribución: Australasia hasta el sudeste asiático, América Central y del Sur y África tropical
+-   Mundial: 20 género, 193 especies
+-   Colombia: 3 género, 7 especies
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![A–C. Habito y ramas colgantes cubiertas de hojas simples. D,G,I. Conos masculinos. E-F,H,L. Conos femenino con semilla. J-K. Tronco y rama. @simpson2019.](/presentaciones/images/podocarpaceae.jpg){#fig-podocarpaceae fig-align="center" width="65%"}
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Cupressaceae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   
+:::
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Pinaceae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   
+:::
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Ephedraceae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   
+:::
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Welwitschiaceae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   
+:::
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Gnetaceae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   
+:::
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 # Angiospermae
 
