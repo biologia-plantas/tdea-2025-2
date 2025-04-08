@@ -1819,22 +1819,22 @@ Gymnospermae significa «semilla desnuda»
 
 ## Gymnospermae: diversidad
 
-<!-- ::: columns -->
-<!-- ::: {.column .incremental width="50%"} -->
-<!-- -   Mundial -->
-<!--     -   Familias:  -->
-<!--     -   Géneros:  -->
-<!--     -   Especies:  -->
-<!-- ::: -->
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Familias: 12-13
+    -   Géneros: 85
+    -   Especies: 1221
+:::
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- -   Colombia -->
-<!--     -   Familias:  -->
-<!--     -   Géneros:  -->
-<!--     -   Especies:  -->
-<!--     -   Endémicas:  -->
-<!-- ::: -->
-<!-- ::: -->
+::: {.column .fragment width="50%"}
+-   Colombia
+    -   Familias: 7
+    -   Géneros: 15
+    -   Especies: 49
+    -   Endémicas: 11
+:::
+:::
 
 ![Relaciones de Gymnospermae. @cole2022.](/presentaciones/images/gymnospermae_cladograma.png){#fig-gymnospermae-cladograma fig-align="center"}
 
@@ -2044,7 +2044,7 @@ Cifras de @catálogo2016a, @wfo, @yang2024.
 -   Embrión con dos cotiledones
 -   Distribución: Australasia hasta el sudeste asiático, América Central y del Sur y África tropical
 -   Mundial: 20 género, 193 especies
--   Colombia: 3 género, 7 especies
+-   Colombia: 3 género, 7 especies nativas
 :::
 :::
 
@@ -2057,20 +2057,40 @@ Cifras de @catálogo2016a, @wfo, @yang2024.
 Cifras de @catálogo2016a, @wfo, @yang2024.
 :::
 
-## Cupressaceae
+## Cupressaceae: cupresáceas
 
 ::: columns
 ::: {.column .fragment width="50%"}
 ### Características
 
 ::: incremental
--   
+-   Árboles o arbustos monoicos o dioicos
+-   Hojas en espiral, decusadas o verticiladas, de forma deltoide-subulada, lineal o acicular
+-   Conos masculinos suelen tener múltiples microsporangios (2–10) por microesporófilo
+-   Escamas ovulíferas están opuestas o en verticilos de tres
+    -   Varios óvulos por escama en la mayoría de los casos
+    -   Embriones generalmente con dos cotiledones
+-   Mundial: 30 género, 173 especies
+-   Colombia: 7 género, 8 especies
 :::
 :::
 
 ::: {.column .fragment width="50%"}
+![A. Habito y conos femeninos. B. Ramas con conos femeninos. C. Escama ovulífera separada, mostrando numerosas semillas. D. Ramas vegetativas con hojas decusadas y escuamiformes. E. Conos femeninos con escamas ovulíferas carnosas. F. Ramas deciduas y conos femeninos. G–H. Conos femeninos y ramas deciduas con hojas opuestas y simples. I-K. Ramas perennes, aplanadas, hojas lineares y conos femeninos maduros. L-O. Árbol completo, ramas con hojas, conos femeninos maduros y escama ovulífera con varias semillas aladas. @simpson2019.](/presentaciones/images/cupressaceae.jpg){#fig-cupressaceae fig-align="center" width="55%"}
 :::
 :::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Cupressaceae
+
+![*Cupressus lusitanica*. A. Conos femeninos B. Conos femeninos y masculinos. C. Conos masculinos.](/presentaciones/images/cupressus_lusitanica.jpg){#fig-cupressus-lusitanica fig-align="center"}
+
+## Gymnospermae: relaciones
+
+![Relaciones de Gymnospermae. @cole2022.](/presentaciones/images/gymnospermae_cladograma.png){#fig-gymnospermae-cladograma fig-align="center"}
 
 ## Pinaceae
 
@@ -2079,13 +2099,47 @@ Cifras de @catálogo2016a, @wfo, @yang2024.
 ### Características
 
 ::: incremental
--   
+-   Árboles (muy raramente arbustos)
+-   Hojas simples, lineares a aciculares, dispuestas en espiral
+-   Conos masculinos relativamente pequeños
+    -   Dos microsporangios abaxialmente por cada microsporófilo
+-   Conos femeninos con escamas ovulíferas leñosas con dos óvulos/semillas adaxiales e invertidos
+-   Semillas generalmente son aladas
+-   Embriones con múltiples cotiledones
+-   Distribución: Norteamérica, Antillas, Norte de África y Eurasia
+-   Mundial: 11 género, 277 especies
+-   Colombia: 1 género, 3 especies
 :::
 :::
 
 ::: {.column .fragment width="50%"}
+![Representantes y estructuras de diferentes géneros de Pinaceae. @simpson2019.](/presentaciones/images/pinaceae_01.jpg){#fig-pinaceae_01 fig-align="center" width="75%"}
 :::
 :::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Pinaceae: cono, estróbilo o piña
+
+::: columns
+::: {.column .fragment width="50%"}
+![A. Cono femenino en el momento de la polinización. B. Escamas ovulíferas y brácteas. C. Cono femenino de un año de edad. D. Cono femenino maduro. E-F. Conos femeninos. G. Cono femenino con brácteas alargadas y escamas ovulíferas anchas. H. Vista superior de una escama ovulífera. I. Semilla madura. @simpson2019.](/presentaciones/images/pinaceae_02.jpg){#fig-pinaceae_02 fig-align="center" width="70%"}
+:::
+
+::: {.column .fragment width="50%"}
+![A. Brote con fascículos jóvenes. B. Rama que muestra hojas escuamiformes y fascículos. C. Ápice de rama con fascículos y conos masculinos. D. Conos masculinos. E. Microsporófilos de los conos masculinos, cada uno con dos microsporangios. F. Estróbilo masculino. G. Detalle de un microsporangio. @simpson2019.](/presentaciones/images/pinaceae_03.jpg){#fig-pinaceae_03 fig-align="center" width="65%"}
+:::
+:::
+
+## Pinaceae: ciclo de vida
+
+![Ciclo de vida de *Pinus*. @nabors2006.](/presentaciones/images/pinaceae_ciclo.jpg){#fig-pinaceae_ciclo fig-align="center"}
+
+## Gymnospermae: relaciones
+
+![Relaciones de Gymnospermae. @cole2022.](/presentaciones/images/gymnospermae_cladograma.png){#fig-gymnospermae-cladograma fig-align="center"}
 
 ## Ephedraceae
 
@@ -2094,27 +2148,49 @@ Cifras de @catálogo2016a, @wfo, @yang2024.
 ### Características
 
 ::: incremental
--   
+-   Arbustos, lianas o pequeños árboles dioicos
+-   Tallos aéreos fotosintéticos, estriados y estrechos
+-   Hojas escuamiformes, opuestas o verticiladas
+-   Conos masculinos con brácteas decusadas que sustentan microesporangióforos, con sinangios apicales y subtendidos por una bráctea externa y dos bractéolas internas
+-   Conos femeninos con 1 a 3 óvulos subtendidos por una bráctea y encerrado por una -   capa externa formada por bractéolas, y un integumento interno
+-   Demillas aladas o carnosas
+-   Mundial: 1 género, 74 especies
 :::
 :::
 
 ::: {.column .fragment width="50%"}
+![Ephedraceae. A. Planta completa. B. Planta femenina. C. Planta masculina. D-I. Conos masculinos. J-L. Conos femeninos. M-P. Morfología de la semilla. @simpson2019.](/presentaciones/images/ephedraceae.jpg){#fig-ephedraceae fig-align="center" width="75%"}
 :::
 :::
 
-## Welwitschiaceae
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
+
+## Welwitschiaceae: *Welwitschia mirabilis*
 
 ::: columns
 ::: {.column .fragment width="50%"}
 ### Características
 
 ::: incremental
--   
+-   Dioicas
+-   La mayor parte de la planta está enterrada en suelos arenosos
+-   La parte expuesta consiste en un disco leñoso, macizo y cóncavo
+-   Sólo dos hojas alargadas en forma de cinta, se dividen longitudinalmente con la edad
+-   Ramas con conos surgen del tejido meristemático ubicado en el margen del disco
+-   Endémica del desierto de Namibia
+-   1 especie
 :::
 :::
 
 ::: {.column .fragment width="50%"}
+![A. *Gnetum sp*. B-G. *Welwitschia mirabilis*. B. Planta completa. C. Región central. D. Conos masculinos. E–G. Conos femeninos. @simpson2019.](/presentaciones/images/welwitschiaceae.jpg){#fig-welwitschiaceae fig-align="center" width="85%"}
 :::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
 :::
 
 ## Gnetaceae
@@ -2124,24 +2200,113 @@ Cifras de @catálogo2016a, @wfo, @yang2024.
 ### Características
 
 ::: incremental
--   
+-   Principalmente enredaderas (rara vez árboles o arbustos)
+-   Hojas simples y opuestas (decusadas)
+-   Monoicas
+-   Embrión con dos cotilédones
+-   Doble fecundación
+-   Distribución: bosques humedos tropicales
+-   Mundial: 1 género, 44 especies
+-   Colombia: 1 género, 6 especies
 :::
 :::
 
 ::: {.column .fragment width="50%"}
+![*Gnetum sp.* A-B. Hojas y ramas. C-D. Estróbilos masculinos. E-G. Estróbilos femeninos. H-P. Semillas. @hou2016.](/presentaciones/images/gnetaceae.jpg){#fig-gnetaceae fig-align="center"}
 :::
 :::
 
-# Angiospermae
+::: footer
+Cifras de @catálogo2016a, @wfo, @yang2024.
+:::
 
-## Heading2
+## Embryophyta: relaciones
+
+![Árbol filogenético de Embryophyta. Basado en @gitzendanner2018 y @puttick2018. Espinosa-Correa (2025), CC BY.](/presentaciones/images/embryophyta_cladogram_01.svg){#fig-embryophyta-cladogram-08 fig-align="center"}
+
+# Angiospermae {background-color="white" background-image="/presentaciones/images/angiospermae_cover.jpg" background-size="contain"}
+
+::: footer
+@zuntini2024.
+:::
+
+## Angiospermae: plantas con flor
 
 ::: columns
 ::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Flor (generalmente con perianto)
+-   Estambres con dos sacos polínicos (tecas)
+-   Gametofito masculino trinucleado
+-   Carpelo
+-   Óvulo con dos integumentos
+-   Gametofito femenino reducido
+-   Endospermo y doble fecundación
+-   Elementos del tubo criboso y células acompañantes
+:::
 :::
 
 ::: {.column .fragment width="50%"}
+![flores de distintos colores y formas. <a href="https://commons.wikimedia.org/wiki/File:Flower_poster_2.jpg">Alvesgaspar</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/angiospermae.jpg){#fig-angiospermae fig-align="center" width="70%"}
 :::
 :::
+
+## Angiospermae: diversidad
+
+::: columns
+::: {.column .incremental width="50%"}
+-   Mundial
+    -   Ordenes: 64
+    -   Familias: 419
+    -   Géneros: 14177
+    -   Especies: 345299
+-   Colombia
+    -   Familias: 246
+    -   Géneros: 2599
+    -   Especies: 22101
+    -   Endémicas: 6043
+:::
+
+::: {.column .fragment width="50%"}
+![Relaciones de Angiospermae. @apg2016.](/presentaciones/images/angiospermae_cladograma.png){#fig-angiospermae-cladograma fig-align="center"}
+:::
+:::
+
+::: footer
+Cifras de @catálogo2016a, @wfo.
+:::
+
+## Angiospermae: diversidad
+
+![Cronología de la historia de la clasificación de Angiospermae en familias. @sotwpf2017.](/presentaciones/images/angiospermae_familias_numeros.png){#fig-angiospermae-familias-numeros fig-align="center"}
+
+::: fragment
+| Grupo            | Familia         | Número de especies |
+|------------------|-----------------|--------------------|
+| Eudicotyledoneae | Asteraceae      | 34503              |
+| Monocotyledoneae | Orchidaceae     | 31480              |
+| Eudicotyledoneae | Fabaceae        | 22875              |
+| Eudicotyledoneae | Rubiaceae       | 14175              |
+| Monocotyledoneae | Poaceae         | 12361              |
+| Eudicotyledoneae | Lamiaceae       | 8091               |
+| Eudicotyledoneae | Euphorbiaceae   | 6630               |
+| Eudicotyledoneae | Myrtaceae       | 6537               |
+| Eudicotyledoneae | Apocynaceae     | 6506               |
+| Eudicotyledoneae | Melastomataceae | 6348               |
+
+: Las 10 familias de Angiospermae con mayor número de especies. Cifras de @wfo.
+
+Veinte familias tienen cada una más de 3000 especies. En conjunto, comprenden aproximadamente el 46 % de todas las plantas vasculares. Existen 33 familias con solo una especie, lo que representa algo menos del 8 % de todas las familias de plantas vasculares, pero menos del 0.01 % de todas las especies.
+:::
+
+## Angiospermae: ciclo de vida
+
+![Ciclo de vida de Angiospermae. <a href="https://commons.wikimedia.org/wiki/File:Angiosperm_life_cycle_diagram-es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/angiospermae_ciclo.svg){#fig-angiospermae-ciclo-01 fig-align="center"}
+
+## Angiospermae: ciclo de vida
+
+![Ciclo de vida de Angiospermae. @nabors2006.](/presentaciones/images/angiospermae_ciclo.jpg){#fig-angiospermae-ciclo-02 fig-align="center"}
 
 ## Referencías
