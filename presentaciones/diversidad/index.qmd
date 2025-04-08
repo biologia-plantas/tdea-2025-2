@@ -2270,7 +2270,7 @@ Cifras de @catálogo2016a, @wfo, @yang2024.
 :::
 
 ::: {.column .fragment width="50%"}
-![Relaciones de Angiospermae. @apg2016.](/presentaciones/images/angiospermae_cladograma.png){#fig-angiospermae-cladograma fig-align="center"}
+![Relaciones de Angiospermae. @apg2016.](/presentaciones/images/angiospermae_cladograma.png){#fig-angiospermae-cladograma fig-align="center" width="60%"}
 :::
 :::
 
@@ -2278,9 +2278,9 @@ Cifras de @catálogo2016a, @wfo, @yang2024.
 Cifras de @catálogo2016a, @wfo.
 :::
 
-## Angiospermae: diversidad
+## Angiospermae: diversidad {.smaller}
 
-![Cronología de la historia de la clasificación de Angiospermae en familias. @sotwpf2017.](/presentaciones/images/angiospermae_familias_numeros.png){#fig-angiospermae-familias-numeros fig-align="center"}
+![Cronología de la historia de la clasificación de Angiospermae en familias. @sotwpf2017.](/presentaciones/images/angiospermae_familias_numeros.png){#fig-angiospermae-numeros fig-align="center"}
 
 ::: fragment
 | Grupo            | Familia         | Número de especies |
@@ -2307,6 +2307,157 @@ Veinte familias tienen cada una más de 3000 especies. En conjunto, comprenden a
 
 ## Angiospermae: ciclo de vida
 
-![Ciclo de vida de Angiospermae. @nabors2006.](/presentaciones/images/angiospermae_ciclo.jpg){#fig-angiospermae-ciclo-02 fig-align="center"}
+![Ciclo de vida de Angiospermae. @nabors2006.](/presentaciones/images/angiospermae_ciclo.png){#fig-angiospermae-ciclo-02 fig-align="center"}
+
+## Angiospermae: relaciones
+
+::: columns
+::: {.column width="50%"}
+-   Angiospermae
+    -   Angiospermae basales (ANA)
+    -   Magnoliidae
+    -   Monocotyledoneae
+    -   Eudicotyledoneae
+        -   Eudicotyledoneae temprano divergentes
+        -   Superrosids
+        -   Superasterids
+:::
+
+::: {.column width="50%"}
+![Relaciones de Angiospermae. @apg2016.](/presentaciones/images/angiospermae_cladograma.png){#fig-angiospermae-cladograma fig-align="center" width="60%"}
+:::
+:::
+
+## Nymphaeales
+
+Hierbas acuáticas o subacuáticas, anuales o perennes, con rizomas o tubérculos. Hermafroditas, monoicas o dioicas. Hojas sumergidas, flotantes o emergidas. En Colombia: Cabombaceae y Nymphaeaceae.
+
+![A. *Nymphaea lotus*. B. *Victoria amazonica*.](/presentaciones/images/nymphaeales.jpg){#fig-angiospermae-nymphaeales fig-align="center"}
+
+## Magnoliidae
+
+Plantas leñosas. Hojas opuestas o alternas, coriáceas. Verticilos florales libres o poco fusionados y con muchas partes. Estambres laminares. Filamento poco diferenciado de la antera.
+
+![A. *Annona muricata* (Annonaceae, Magnoliales). B. *Aristolochia ringens* (Aristolochiaceae, Piperales). C. *Cinnamomum verum* (Lauraceae, Laurales). D. *Magnolia grandiflora* (Magnoliaceae, Magnoliales). E. *Persea americana* (Lauraceae, Laurales). F. *Piper nigrum* (Piperaceae, Piperales).](/presentaciones/images/magnoliidae.jpg){#fig-angiospermae-magnoliidae fig-align="center"}
+
+## Monocotyledoneae
+
+::: columns
+::: {.column .fragment width="50%"}
+### Características
+
+::: incremental
+-   Hierbas o arbustos
+-   Sin cambiúm vascular
+-   Atactostela
+-   Venación paralela
+-   Un sólo cotiledón
+-   Radícula reducida y efímera. Raíces adventicias
+:::
+:::
+
+::: {.column .fragment width="50%"} 
+![Apomorfías de Monocotyledoneae. A. Plastidios de los tubos cribosos con inclusiones proteicas cuneiformes. B. Atactostela. C–E. Nervadura paralela. @simpson2019.](/presentaciones/images/monocotyledoneae_apomorfias.jpg){#fig-monocotyledoneae-apomorfias fig-align="center" width="65%"}
+:::
+:::
+
+## Monocotyledoneae
+![A. Polen. B. *Agave tequilana* (Asparagaceae). C. *Cattleya trianae* (Orchidaceae). D. *Ceroxylon quindiuense* (Arecaceae). E. *Hemerocallis sp.* (Asphodelaceae). F. *Monstera deliciosa*. (Araceae). G. *Musa acuminata* (Musaceae). H. *Tradescantia pallida* (Commelinaceae). I. *Zea mays* (Poaceae).](/presentaciones/images/monocotyledoneae.jpg){#fig-monocotyledoneae fig-align="center"}
+
+## Angiospermae: relaciones
+
+::: columns
+::: {.column width="50%"}
+-   Angiospermae
+    -   Angiospermae basales (ANA)
+    -   Magnoliidae
+    -   Monocotyledoneae
+    -   Eudicotyledoneae
+        -   Eudicotyledoneae temprano divergentes
+        -   Superrosids
+        -   Superasterids
+:::
+
+::: {.column width="50%"}
+![Relaciones de Angiospermae. @apg2016.](/presentaciones/images/angiospermae_cladograma.png){#fig-angiospermae-cladograma fig-align="center" width="60%"}
+:::
+:::
+
+## Eudicotyledoneae
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Eudicotyledoneae temprano divergentes
+    -   No tricolpado
+-   Eudicotyledoneae
+    -   Polen tricolpado o derivado de tricolpado
+    -   Flores tetra o pentameras
+    -   Ácido elágico y ácido gálico
+    -   Duplicación genes florales
+:::
+
+::: {.column .fragment width="50%"}
+
+![Polen tricolpado. @halbritter2018.](/presentaciones/images/polen_tricolpado.jpg){#fig-polen-tricolpado fig-align="center" width="75%"}
+:::
+:::
+
+## Superrosids
+
+::: columns
+::: {.column .fragment width="50%"}
+-   18 ordenes
+-   155 familias
+-   Más de 88000 especies
+-   Apomorfias moléculares, no morfológicas
+:::
+
+::: {.column .fragment width="50%"}
+![Diversidad en Superrosids. <a href="https://commons.wikimedia.org/wiki/File:Rosids-montage.jpg">Caehlla2357</a>, CC0, via Wikimedia Commons.](/presentaciones/images/superrosids.jpg){#fig-superrosids fig-align="center"}
+:::
+:::
+
+## Superasterids
+
+::: columns
+::: {.column .fragment width="50%"}
+-   20 ordenes
+-   146 familias
+-   Más de 122000 especies
+-   Apomorfias moléculares, no morfológicas
+:::
+
+::: {.column .fragment width="50%"}
+
+![Doce especies de Asteraceae. <a href="https://commons.wikimedia.org/wiki/File:Asteracea_poster_3.jpg">Alvesgaspar, Tony Wills (10)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/asteraceae.jpg){#fig-asteraceae fig-align="center" width="65%"}
+:::
+:::
+
+## Monocotyledoneae vs Eudicotyledoneae
+
+| Característica                                         | Monocotiledóneas                            | Eudicotiledóneas                                |
+|--------------------------------------------------------|---------------------------------------------|--------------------------------------------------|
+| Partes florales                                        | En grupos de tres (usualmente)              | En grupos de cuatro o cinco (usualmente)         |
+| Polen                                                  | Monoaperturado (con un poro o colpo)        | Triaperturado (con tres poros o colpos)         |
+| Cotiledones                                            | Uno                                         | Dos                                              |
+| Nervadura de la hoja                                   | Usualmente paralela                         | Usualmente reticulada                            |
+| Disposición de haces vasculares primarios en el tallo | Dispersos                                   | En forma de anillo                               |
+| Crecimiento secundario verdadero, con cámbium vascular | Raro                                        | Comúnmente presente                              |
+
+: Principales diferencias entre monocotiledóneas (monocots) y eudicotiledóneas (eudicots) @evert2013. {#tbl-monocotyledoneae-eudicotyledoneae}
+
+## Monocotyledoneae vs Eudicotyledoneae
+
+![Comparación entre Monocotyledoneae y Eudicotyledoneae. <a href="https://commons.wikimedia.org/wiki/File:Comparison_of_Monocotyledons_and_Dicotyledons.png">C. Hulme Taylor</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/angiospermae_comparacion.png){#fig-angiospermae-comparacion fig-align="center" width="75%"}
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 ## Referencías
