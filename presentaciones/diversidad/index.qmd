@@ -1820,14 +1820,14 @@ Gymnospermae significa «semilla desnuda»
 ## Gymnospermae: diversidad
 
 ::: columns
-::: {.column .incremental width="50%"}
+::: {.column width="50%"}
 -   Mundial
     -   Familias: 12-13
     -   Géneros: 85
     -   Especies: 1221
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 -   Colombia
     -   Familias: 7
     -   Géneros: 15
@@ -2450,14 +2450,14 @@ Plantas leñosas. Hojas opuestas o alternas, coriáceas. Verticilos florales lib
 
 ![Comparación entre Monocotyledoneae y Eudicotyledoneae. <a href="https://commons.wikimedia.org/wiki/File:Comparison_of_Monocotyledons_and_Dicotyledons.png">C. Hulme Taylor</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/angiospermae_comparacion.png){#fig-angiospermae-comparacion fig-align="center" width="75%"}
 
-## Heading2
+<!-- ## Heading2 -->
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencías
