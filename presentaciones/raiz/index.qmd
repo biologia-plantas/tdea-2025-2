@@ -1,0 +1,200 @@
+---
+title: "Raíz"
+# date: 2025-03-22
+format:
+  revealjs:
+    controls: true
+    touch: false
+bibliography: references.bib
+draft: true
+---
+
+## Cuerpo primario de la planta
+
+::: columns
+::: {.column .fragment width="50%"}
+![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+![Distribución de los tejidos primarios en una planta vascular. @evert2013.](/presentaciones/images/tejidos_distribucion.png){#fig-planta-partes fig-align="center" width="65%"}
+:::
+:::
+
+## Raíz
+
+::: columns
+::: {.column .fragment width="50%"}
+![Ta Prohm, Angkor, Cambodia. <a href="https://commons.wikimedia.org/wiki/File:Tree_roots_and_temple,_Ta_Prohm,_Angkor,_Cambodia.jpg">David Sim</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.](/presentaciones/images/raiz_templo.jpg){#fig-raiz-templo fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+> Un órgano cilíndrico presente en prácticamente todas las plantas vasculares, compuesto por un meristemo apical que origina una cofia protectora, un sistema vascular central delimitado por la endodermis, pelos radicales epidérmicos con función de absorción y raíces laterales que se desarrollan de forma endógena. Su función principal es el anclaje y la absorción de agua y minerales. Se origina a partir de la radícula del embrión y, por lo general, crece en dirección descendente. @simpson2019.
+
+::: incremental
+-   Primera estructura en emerger
+-   Almacenamiento
+-   Producción de hormonas y metabolitos secundarios
+-   Regeneración clonal
+:::
+:::
+:::
+
+## Raíz: origen
+
+::: columns
+::: {.column .fragment width="30%"}
+![Esquema de una semilla de un frijol (Eudicotyledoneae). <a href="https://commons.wikimedia.org/wiki/File:Dycotyledon_seed_diagram-es.svg">LadyofHats, Cehagenmerak, rowanwindwhistler</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/semilla_partes.svg){#fig-semilla-partes fig-align="center"}
+:::
+
+::: {.column .fragment width="70%"}
+![Diferentes etapas de la germinación de una semilla de *Arabidopsis thaliana*). <a href="https://commons.wikimedia.org/wiki/File:Different_stages_of_seed_germination(Arabidopsis_thaliana).jpg">Alena Kravchenko</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/semilla_germinacion.jpg){#fig-semilla-partes fig-align="center"}
+:::
+:::
+
+## Sistema radicular
+
+::: columns
+::: {.column width="50%"}
+### Axonomorfo
+
+Pivotante o alorrizo
+
+-   Raíz primaria de vida larga
+-   Originada en el embrión
+-   Raíz pivotante
+-   Raíces secundarias
+-   Forma y tamaño variable
+-   Con crecimiento secundario
+:::
+
+::: {.column width="50%"}
+### Fasciculado
+
+Fibroso u homorrizo
+
+-   Raíz primaria de vida corta
+-   Originada en el tallo
+-   Raíces adventicias
+-   Pueden ser ramificadas
+-   Forma y tamaño homogéneo
+-   Sin crecimiento secundario
+:::
+:::
+
+![Ejemplos de sistema radicular. GDJ ([2021](https://pixabay.com/es/vectors/plantas-ra%C3%ADces-l%C3%ADnea-arte-botánica-6088466/)).](/presentaciones/images/raiz_sistemas.png){#fig-raiz-sistemas fig-align="center"}
+
+## Estructura externa
+
+::: columns
+::: {.column .fragment width="50%"}
+-   **Zona de suberosa o de ramificación:** región madura, sin pelos, donde se forman las raíces laterales
+-   **Zona pilífera:** región donde se encuentran los pelos absorbentes
+-   **Zona de crecimiento o alargamiento:** región glabra donde las células se alargan rápidamente
+-   **Zona meristemática:** meristema apical de la raíz y los tres meristemás primarios
+-   **Cofia, caliptra o pilorriza:** Estructura protectora en el extremo de la raíz.
+:::
+
+::: {.column .fragment width="50%"}
+![Estructura externa de una raíz. Traducido de @renatajéssicaluizadesireè2010.](/presentaciones/images/raiz_estructura_externa.jpg){#fig-raiz-estructura-externa fig-align="center"}
+:::
+:::
+
+## Estructura interna
+
+::: columns
+::: {.column .fragment width="70%"}
+![Morfología y anatomía de la raíz. @nabors2006.](/presentaciones/images/raiz_estructura_interna.jpg){#fig-raiz-estructura-interna-01 fig-align="center"}
+:::
+
+::: {.column .fragment width="30%"}
+![Desarrollo de la raíz. @evert2013.](/presentaciones/images/raiz_crecimiento.png){#fig-raiz-estructura-interna-02 fig-align="center" width="80%"}
+:::
+:::
+
+## Cofia, caliptra o pilorriza
+
+::: columns
+::: {.column .fragment width="50%"}
+> Una masa de células en forma de dedal que cubre y protege el extremo en crecimiento de una raíz. Típicamente consta de una columna central de células, llamada columela, y una porción lateral, la cofia lateral, que rodea la columela. @evert2013.
+
+-   Ayuda a la raíz a penetrar en el suelo
+-   Las células periféricas secretan grandes cantidades de mucílago que lubrica la raíz
+-   Percibe, procesa y transmite señales al meristema y a la región de elongación de la raíz
+-   La columela es el sitio donde se perciben tanto la gravedad (gravitropismo) como los gradientes de potencial hídrico (hidrotropismo)
+:::
+
+::: {.column .fragment width="50%"}
+![La cofia, el mucilago y las células de la perifería que se desprenden. @evert2013.](/presentaciones/images/raiz_cofia.jpg){#fig-raiz-cofia fig-align="center" width="80%"}
+:::
+:::
+
+## Meristema apical radicular o radical
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Región de intensa división celular
+-   La parte más distal (promeristemo) contiene células iniciales pequeñas, de citoplasma denso y núcleos grandes.
+-   Existen dos tipos de organización:
+    -   Cerrado: la cofia, el cilindro vascular y la corteza provienen de capas celulares independientes
+    -   Abierto: todas las regiones (o al menos la cofia y la corteza) se originan de un solo grupo de células iniciales
+-   A medida que la raíz crece, la división celular ocurre mayormente más allá del centro quiescente, una región relativamente inactiva
+-   El centro quiescente no solo regula el desarrollo, sino que también puede regenerar regiones vecinas si se lesionan
+:::
+
+::: {.column .fragment width="50%"}
+![Meristemo apical radical de *Allium cepa* protegido por la cofia. @megías-pacheco2017.](/presentaciones/images/meristema_apical_radicular.jpg){#fig-raiz-meristima fig-align="center"}
+:::
+:::
+
+## Estructura primaria
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Referencías
