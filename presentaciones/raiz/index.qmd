@@ -36,6 +36,7 @@ draft: true
 -   Almacenamiento
 -   Producción de hormonas y metabolitos secundarios
 -   Regeneración clonal
+-   Asociaciones simbióticas con hongos (micorrizas)
 :::
 :::
 :::
@@ -52,38 +53,6 @@ draft: true
 :::
 :::
 
-## Sistema radicular
-
-::: columns
-::: {.column width="50%"}
-### Axonomorfo
-
-Pivotante o alorrizo
-
--   Raíz primaria de vida larga
--   Originada en el embrión
--   Raíz pivotante
--   Raíces secundarias
--   Forma y tamaño variable
--   Con crecimiento secundario
-:::
-
-::: {.column width="50%"}
-### Fasciculado
-
-Fibroso u homorrizo
-
--   Raíz primaria de vida corta
--   Originada en el tallo
--   Raíces adventicias
--   Pueden ser ramificadas
--   Forma y tamaño homogéneo
--   Sin crecimiento secundario
-:::
-:::
-
-![Ejemplos de sistema radicular. GDJ ([2021](https://pixabay.com/es/vectors/plantas-ra%C3%ADces-l%C3%ADnea-arte-botánica-6088466/)).](/presentaciones/images/raiz_sistemas.png){#fig-raiz-sistemas fig-align="center"}
-
 ## Estructura externa
 
 ::: columns
@@ -98,6 +67,12 @@ Fibroso u homorrizo
 ::: {.column .fragment width="50%"}
 ![Estructura externa de una raíz. Traducido de @renatajéssicaluizadesireè2010.](/presentaciones/images/raiz_estructura_externa.jpg){#fig-raiz-estructura-externa fig-align="center"}
 :::
+:::
+
+# {background-color="black" background-image="/presentaciones/images/raiz_02.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Pearl_Millet_Adventitious_root.jpg">Dheaj</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
 :::
 
 ## Estructura interna
@@ -151,50 +126,266 @@ Fibroso u homorrizo
 
 ::: columns
 ::: {.column .fragment width="50%"}
+-   Rizodermis (epidermis)
+    -   Pelos radicales
+-   Córtex
+    -   Exodermis
+    -   Parénquima
+    -   Endodermis
+-   Estela (cilindro vascular)
+    -   Periciclo
+    -   Floema
+    -   Xilema
+    -   Medula
 :::
 
 ::: {.column .fragment width="50%"}
+![Estructura de una raíz primaria. @arbo2019.](/presentaciones/images/raiz_primaria.png){#fig-raiz-primaria-01 fig-align="center"}
+
+![Organización de una raíz primaria típica de Eudicotyledoneae. @megías-pacheco2017.](/presentaciones/images/raiz_primaria.jpg){#fig-raiz-primaria-02 fig-align="center"}
 :::
 :::
 
-## Heading2
+## Rizodermis
 
 ::: columns
 ::: {.column .fragment width="50%"}
+-   Rizodermis
+    -   Presente en raíces jóvenes
+    -   Células alargadas, delgadas y sin cutícula
+    -   Generalmente uniseriada
+    -   Tejido especializado en absorción
+-   Pelos radicales
+    -   Prolongaciones tubulares que aumentan la superficie de absorción
+    -   De vida corta, localizados en la zona de maduración
+-   Rizodermis pluriestratificada (velamen)
 :::
 
 ::: {.column .fragment width="50%"}
+![Corte transversal de raíz de *Solanum tuberosum*. <a href="https://commons.wikimedia.org/wiki/File:Solanum_tuberosum,_tiller,_Etzold_green_3.jpg">User:Micropix</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/raiz_rizodermis.jpg){#fig-raiz-rizozdermis fig-align="center" width="60%"}
 :::
 :::
 
-## Heading2
+## Córtex
 
 ::: columns
 ::: {.column .fragment width="50%"}
+-   Ocupa la mayor parte del cuerpo primario de la raíz
+-   Células parenquimáticas, generalmente sin clorofila, con espacios intercelulares
+-   Endodermis
+    -   Capa más interna y carece de espacios intercelulares
+    -   Bandas de Caspary, impregnadas con suberina y lignina
+-   Exodermis
+    -   Aparece bajo la epidermis
+    -   Muy parecida a la endodermis
 :::
 
 ::: {.column .fragment width="50%"}
+![Corte transversal de una raíz de Monocotyledoneae. @megías-pacheco2017.](/presentaciones/images/raiz_primaria_monocot.png){#fig-raiz-primaria-monocot fig-align="center"}
 :::
 :::
 
-## Heading2
+## Estela (cilindro vascular)
 
 ::: columns
 ::: {.column .fragment width="50%"}
+-   Incluye los tejidos vasculares primarios y el periciclo
+-   Periciclo
+    -   Capa no vascular derivada del procámbium
+    -   Forma raíces laterales
+    -   Contribuye al cambio vascular y origina el felógeno
+    -   Puede desarrollar paredes secundarias
+-   Tejido vascular
+    -   Organizados radialmente (xilema y floema primarios se disponen en cordones separados y alternos)
+    -   Según el número de cordones las raíz pueden ser diarca, triarca, tetrarca, pentarca o poliarca
 :::
 
 ::: {.column .fragment width="50%"}
+![Corte transversal de una raíz primaria de Eudicotyledoneae. @megías-pacheco2017.](/presentaciones/images/raiz_primaria_eudicot.png){#fig-raiz-primaria-eudicot fig-align="center" width="55%"}
+
+![Tipos de raíces en función del número de cordones de haces vasculares. @megías-pacheco2017.](/presentaciones/images/raiz-cordones.png){#fig-raiz-primaria-cordones fig-align="center" width="55%"}
 :::
 :::
 
-## Heading2
+## Transporte de agua y solutos
+
+![El transporte de agua y solutos puede seguir una vía simplástica (plasmodesmos) o apoplástica (paredes celulares). @nabors2006.](/presentaciones/images/raiz_transporte.png){#fig-raiz-transporte fig-align="center"}
+
+## Monocotyledoneae vs Eudicotyledoneae
+
+![Comparación entre raíz en crecimiento primario de Eudicotyledoneae y Monocotyledoneae. @nabors2006.](/presentaciones/images/raiz_comparacion.png){#fig-raiz-comparacion fig-align="center"}
+
+## Raices secundarias o laterales
 
 ::: columns
 ::: {.column .fragment width="50%"}
+-   Se originan en el periciclo, opuesto a los polos del protoxilema
+-   Ocurre detrás de la zona de elongación, en tejidos parcialmente o totalmente diferenciados
+-   Origen endógeno (desde el interior de la raíz principal)
+    -   Primordio radicular aumenta de tamaño y atraviesa la corteza
+    -   Desarrolla caliptra, meristemo apical y meristemos primarios en etapas tempranas
+-   La conexión vascular entre raíz lateral y raíz principal se establece posteriormente, por diferenciación del periciclo y parénquima vascular
 :::
 
 ::: {.column .fragment width="50%"}
+![Surgimiento de raíz lateral. @nabors2006.](/presentaciones/images/raiz_lateral.jpg){#fig-raiz-lateral fig-align="center"}
 :::
 :::
+
+## Estructura secundaria
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Presente en Gymnospermae y Angiospermae
+-   Consiste en la formación tejidos vasculares secundarios (xilema y floema) y peridermis (súber, felógeno y felodermis)
+-   Inicia en raíces que ya no se alargan con la formación del cámbium vascular (originado en el procámbium y periciclo)
+-   Perdida de córtex, endodermis y floema primario
+-   Formación de radios medulares, peridermis y lencitelas
+-   Algunas raíces pueden presentar crecimiento secundario atípico
+:::
+
+::: {.column .fragment width="50%"}
+![Crecimiento secundario de la raíz. @megías-pacheco2017.](/presentaciones/images/raiz_secundaria_esquema.png){#fig-raiz-secundaria fig-align="center"}
+:::
+:::
+
+## Crecimientos primario y secundario
+
+![Comparación entre raíz con crecimiento primario y secundario. @evert2013.](/presentaciones/images/raiz_primaria_secundaria.png){#fig-raiz-secundaria fig-align="center"}
+
+# {background-color="black" background-image="/presentaciones/images/raiz_01.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Carduus_nutans_kz06.jpg">Krzysztof Ziarnek, Kenraiz</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+:::
+
+## Tipos de raíces
+
+Las raíces se pueden clasificar por su origen (primaria, secundaria, adventicia), morfología (axonomorfa, fasciculada, modificada), hábitat (aéreas, acuáticas, subterráneas), función (almacenamiento, haustoriales, neumatoforos.), duración (anuales, bienales o perennes).
+
+![Tipos de raíz. A. Axonomorfa. B. Fibrosa. C. Fúlcreas. D. Haustoriales. E. De reserva. F. Tabulares. G, H. Neumatoforos. @evert2013.](/presentaciones/images/raiz_tipos.png){#fig-raiz-secundaria fig-align="center"}
+
+## Sistema radicular
+
+::: columns
+::: {.column width="50%"}
+### Axonomorfo
+
+Pivotante o alorrizo
+
+-   Raíz primaria de vida larga
+-   Originada en el embrión
+-   Raíz pivotante
+-   Raíces secundarias
+-   Forma y tamaño variable
+-   Con crecimiento secundario
+:::
+
+::: {.column width="50%"}
+### Fasciculado
+
+Fibroso u homorrizo
+
+-   Raíz primaria de vida corta
+-   Originada en el tallo
+-   Raíces adventicias
+-   Pueden ser ramificadas
+-   Forma y tamaño homogéneo
+-   Sin crecimiento secundario
+:::
+:::
+
+![Ejemplos de sistema radicular. GDJ ([2021](https://pixabay.com/es/vectors/plantas-ra%C3%ADces-l%C3%ADnea-arte-botánica-6088466/)).](/presentaciones/images/raiz_sistemas.png){#fig-raiz-sistemas fig-align="center"}
+
+::: footer
+Raíz adventicia: raíz que no se no se origina en la radícula
+:::
+
+## Raíces adventicias
+
+No se originan en la radícula del embrión, sino en cualquier otro lugar de la planta, pueden surgir de partes aéreas de la planta.
+
+![Raíces adventicias en un nudo del tallo de una planta de *Fragaria* (Rosaceae). <a href="https://commons.wikimedia.org/wiki/File:Pink_Panda_11_ies.jpg">Frank Vincentz</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons](/presentaciones/images/raiz_adventicia.jpg){#fig-raiz-adventicia fig-align="center"}
+
+## Raíces de almacenamiento
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Acumulan compuestos energéticos, como almidón
+-   Características de muchas plantas bienales
+-   Ejemplo: *Daucus carota* (zanahoria), Apiaceae; *Beta vulgaris* (remolacha), Amaranthaceae ;*Ipomoea batatas* (batata), Convolvulaceae; *Manihot esculenta* (yuca), Euphorbiaceae; *Raphanus sativus* (rábano), Brassicaceae.
+:::
+
+::: {.column .fragment width="50%"}
+![Raíz de *Daucus carota* (Apiaceae). @ahmad2019.](/presentaciones/images/raiz_zanahoria_esquema.jpg){#fig-raiz-zanahoria fig-align="center"}
+:::
+:::
+
+## Raíces aéreas
+
+-   Adventicias y no penetran el suelo. Absorben agua y minerales del aire o de escurrimientos.
+
+![Raíces aéreas. <a href="https://commons.wikimedia.org/wiki/File:Aerial_root.jpg">C1815</a>, CC0, via Wikimedia Commons.](/presentaciones/images/raiz_aerea.jpg){#fig-raiz-aereas fig-align="center"}
+
+## Raíces haustoriales 
+
+::: columns
+::: {.column width="50%"}
+Especializadas en penetrar los tejidos de plantas hospedadoras. Características de plantas parásitas.
+:::
+
+::: {.column width="50%"}
+![Morfología de dos uniones tipo abrazadoras. A-B. Vista superior del haustorio. C-D. Vista inferior del haustorio. E-F. Corte transversal del haustorio. Parásito (P). Hospedero (Hb y H). @teixeira-costa.](/presentaciones/images/raiz_haustorial.jpg){#fig-raiz-haustorial fig-align="center"}
+:::
+:::
+
+## Raíces soporte (raíces fúlcreas o zancudas)
+
+-   Adventicias que crecen desde la base del tallo para brindar soporte estructural adicional.
+
+![Raíces de *Zea mays* (Poaceae). <a href="https://commons.wikimedia.org/wiki/File:Zea_mays_roots_kz01.jpg">Krzysztof Ziarnek, Kenraiz</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/raiz_zancudas.jpg){#fig-raiz-zancudas fig-align="center"}
+
+## Neumatóforos
+
+Raíces modificadas que crecen hacia arriba desde suelos anóxicos para captar oxígeno.
+
+![Raíces de *Avicennia germinans* (Acanthaceae), mangle negro. <a href="https://commons.wikimedia.org/wiki/File:Pneumatophore_overkill_-_grey_mangrove.JPG">Peripitus</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/raiz_neumatoforos.jpg){#fig-raiz-neumatoforos fig-align="center"}
+
+## Raíces tabulares o contrafuertes
+
+Agrandadas, se extienden horizontalmente y se engrosan verticalmente en la base de árboles. Brindan soporte en suelos poco estables o en ambientes tropicales y pantanosos
+
+![Raíces de *Ficus elastica* (Moraceae), árbol del caucho. <a href="https://commons.wikimedia.org/wiki/File:Catania,_Villa_Bellini_2024f,_Ficus_elastica.jpg">Cayambe</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/raiz_tabulares.jpg){#fig-raiz-tabulares fig-align="center"}
+
+## Importancia de las raíces para el ser humano
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Alimentación
+-   Uso industrial
+-   Cultural, espiritual y tradicional
+-   Conservación del suelo
+:::
+
+::: {.column .fragment width="50%"}
+![Raíces de diversas formas y colores de *Daucus carota* (Apiaceae). <a href="https://commons.wikimedia.org/wiki/File:CarrotDiversityLg.jpg">User Larsinio on en.wikipedia</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/raiz_zanahoria.jpg){#fig-raiz-zanahoria fig-align="center"}
+:::
+:::
+
+# {background-color="black" background-image="/presentaciones/images/raiz_03.jpg"}
+
+::: footer
+<a href="https://commons.wikimedia.org/wiki/File:Ficus_benghalensis_adventitious_roots,_New_Farm_Park_IMGP0089.jpg">John Robert McPherson</a>, CC0, via Wikimedia Commons.
+:::
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencías
