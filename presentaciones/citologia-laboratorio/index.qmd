@@ -1,0 +1,261 @@
+---
+title: "Citología: laboratorio"
+# date: 2025-04-28
+format:
+  revealjs:
+    controls: true
+    touch: false
+bibliography: references.bib
+---
+
+# Introducción
+
+## Células
+
+::: columns
+::: {.column .fragment width="50%"}
+> Cuando se estudian a nivel celular, incluso los organismos más diversos son notablemente similares entre sí, tanto en su organización física como en sus propiedades bioquímicas. @evert2013.
+
+::: fragment
+![Flor de *Passiflora_caerulea*. By <a href="//commons.wikimedia.org/wiki/User:PetarM" title="User:PetarM">Petar Milošević</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=43160056">Link</a>.](/presentaciones/images/flor_passiflora_caerulea.jpg){#fig-passiflora fig-align="center" width="75%"}
+:::
+:::
+
+::: {.column .fragment width="50%"}
+![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
+:::
+:::
+
+## Teoría celular
+
+::: columns
+::: {.column .fragment width="50%"}
+1.  Todos los organismos vivos están compuestos por una o más células.
+2.  Las reacciones químicas de un organismo vivo, incluidos sus procesos de liberación de energía y sus reacciones biosintéticas, tienen lugar dentro de las células.
+3.  Las células surgen de otras células.
+4.  Las células contienen la información hereditaria de los organismos de los que forman parte, y esta información se transmite de célula madre a célula hija.
+
+:::
+
+::: {.column .fragment width="50%"}
+![Schem. XI - Del esquema o textura del corcho y de las células y poros de otros cuerpos espumosos semejantes. Hooke ([1665](https://commons.wikimedia.org/wiki/Category:Hooke's_Micrographia_Diagrams_from_the_National_Library_of_Wales)).](/presentaciones/images/micrographia_schem_11.jpg){#fig-micrographia-schem fig-align="center"}
+:::
+:::
+
+::: footer
+Traducido de @evert2013.
+:::
+
+## Célula vegetal {.smaller}
+
+::: fragment
+> La célula vegetal suele estar formada por una pared celular más o menos rígida y un protoplasto. @evert2013.
+:::
+
+::: fragment
+```{r}
+#| label: tbl-celula-componentes
+#| tbl-cap: Inventario de componentes celulares vegetales. Traducido de @evert2013.
+#| echo: false
+#| message: false
+#| html-table-processing: none
+
+celula_componentes <- tibble::tibble(
+  pared = c(
+    "Lámina media",
+    "Pared primaria",
+    "Pared secundaria",
+    "Plasmodesmata",
+    base::rep("",4)
+  ),
+  nucleo = c(
+    "Envoltura nuclear",
+    "Nucleoplasma",
+    "Cromatina",
+    "Nucleolo",
+    base::rep("", 4)
+  ),
+  cito = c(
+    "Membrana plasmática (límite exterior del citoplasma)",
+    "Citosol",
+    "Orgánulos rodeados por dos membranas: plástidos y mitocondrias",
+    "Orgánulos rodeados por una membrana: peroxisoma, vacuolas rodeadas por tonoplasto",
+    "Sistema de endomembranas (componentes principales): retículo endoplásmico, aparato de Golgi y vesículas",
+    "Citoesqueleto: microtúbulos y filamentos de actina",
+    "Ribosomas",
+    "Cuerpos oleosos"
+  )
+)
+
+celula_componentes |>
+  gt::gt() |>
+  gt::cols_label(
+    pared = "Pared celular",
+    nucleo = "Núcleo",
+    cito = "Citoplasma"
+  ) |>
+  gt::tab_spanner(
+    label = gt::md("**Protoplasma**"),
+    columns = c(nucleo, cito)
+  ) |>
+  gt::tab_style(
+    style = gt::cell_text(weight = "bold"),
+    locations = gt::cells_column_labels()
+  ) |> 
+  gt::tab_footnote(
+    footnote = ("El sistema de endomembranas también incluye la membrana plasmática, la envoltura nuclear, el tonoplasto y todas las demás membranas internas, a excepción de las membranas mitocondrial, plastidial y peroxisomal."),
+    gt::cells_body(columns = cito, rows = 5)
+  ) |> 
+  gt::opt_table_font(
+    font = gt::google_font(name = "Atkinson Hyperlegible")
+  ) |> 
+  gt::tab_options(
+    table.font.size = 32
+  )
+```
+:::
+
+## Célula vegetal: tamaños
+
+![Representación pictórica de varias estructuras vegetales y sus tamaños. @crang2018.](/presentaciones/images/plantas_tamanos.jpg){#fig-plantas-tamanos fig-align="center"}
+
+## Pared celular
+
+::: columns
+::: {.column .fragment width="50%"}
+
+:::
+
+::: {.column .fragment width="50%"}
+
+![Estructura y composición de la pared celular primaria y secundaria de las plantas. @loix2017.](/presentaciones/images/pared_celular_composicion.jpg){#fig-pared-celular-composicion fig-align="center"}
+:::
+:::
+
+## Primario y secundario
+
+Crecimiento. Meristemo. Xilema o floema. Pared celular
+
+## Plástidos {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+
+> Plastidio, término general que agrupa a todos los orgánulos vegetales que fabrican o almacenan nutrientes o pigmentos. @nabors2006.
+
+::: fragment
+> Junto con las vacuolas y las paredes celulares, los plástidos son componentes característicos de las células vegetales y se ocupan de procesos como la fotosíntesis y el almacenamiento. Los plástido se diferencia en un sistema de membranas formado por sacos aplanados llamados tilacoides y una matriz más o menos homogénea, llamada estroma. @evert2013.
+:::
+
+::: fragment
+![Cloroplastos (A y B). La imagen A es parénquima clorofílico, la imagen B es un estoma. Cromoplastos (C y D) del tomate. Amiloplastos (E y F) de la papa. @megías-pacheco2017.](/presentaciones/images/plastos-tipos.png){#fig-plastos-tipos fig-align="center"}
+:::
+:::
+
+::: {.column .fragment width="50%"}
+
+| Plástidos    | Función                                                                                                                 |
+|--------------|-------------------------------------------------------------------------------------------------------------------------|
+| Amiloplastos | Almacenan almidón; se consideran leucoplastos                                                                           |
+| Cloroplastos | Realizan la fotosíntesis                                                                                                |
+| Cromoplastos | Contienen abundantes lípidos coloreados; en flores y frutos                                                             |
+| Etioplastos  | Etapa específica en la transformación de proplastos en cloroplastos; se producen cuando los tejidos se cultivan sin luz |
+| Leucoplastos | Plastidios incoloros; sintetizan lípidos y otros materiales                                                             |
+| Proplástidos | Plastidios pequeños e indiferenciados                                                                                   |
+
+: Tipos de plástidos. Traducido de @mauseth2016. {#tbl-plastidios}
+
+::: fragment
+![Distintos tipos de plastos y los caminos de diferenciación entre ellos. @megías-pacheco2017.](/presentaciones/images/plastos.png){#fig-plastos fig-align="center"}
+:::
+:::
+:::
+
+# Procedimiento
+
+## Identificación de Lignina
+
+Corte transversal de tallo de *Aristolochia ringens* con Safranina-Azul de Alcian.
+
+
+
+## Reconocimiento de sustancias lipídicas
+
+Corte transversal de tallo de *Pinus patula* con Sudan III o Sudan negro. Calentar la lámina suavemente en un mechero.
+
+
+
+Repetir con corte transversal de hoja de *Ficus elastica*.
+
+## Estructura, Formas, diversidad e inclusiones citoplasmáticas
+
+Estambre de *Tradescantia pallida* en montaje en fresco.\
+[Tricoma: pared celular, vacuola, núcleo y citoplasma.]{.fragment}
+
+## Estructura, Formas, diversidad e inclusiones citoplasmáticas
+
+Hoja de *Egeria densa* en montaje en fresco (agua de su propio medio).\
+[Pared celular, citoplasma y cloroplastos.]{.fragment}
+
+
+
+
+## Estructura, Formas, diversidad e inclusiones citoplasmáticas
+
+Corte parte inferior de pétalos de flores de colores en montaje en fresco.\
+[Cromoplastos.]{.fragment}
+
+
+
+Repetir con raíz de *Daucus carota*, epidermis del fruto de *Capsicum annuum* y
+epidermis o mesocarpo de *Solanum lycopersicum*.
+
+## Estructura, Formas, diversidad e inclusiones citoplasmáticas
+
+Cortes de cotiledones de *Phaseolus vulgaris* montaje en fresco con lugol.\
+[Amiloplastos]{.fragment}
+
+
+
+Repetir con semillas de *Zea mays*, tubérculo de *Solanum tuberosum* y raíz de *Manihot esculenta*.
+
+## Estructura, Formas, diversidad e inclusiones citoplasmáticas
+
+Corte transversal de pecíolo de Begonia sp. en montaje en fresco.\
+[Drusas, estiloides, rafidios, cristales romboédricos.]{.fragment}
+
+
+
+Repetir con peciolo de *Impatiens balsamina* y epidermis de *Allium cepa*.
+
+## Estructura, Formas, diversidad e inclusiones citoplasmáticas
+
+Corte transversal de hoja de *Ficus elastica* con Safranina-Azul de Alcian.\
+[Epidermis pluriestratificada, cistolitos en idioblastos.]{.fragment}
+
+# ¿Preguntas?
+
+## Material próximo laboratorio {.smaller}
+
+-   Hojas de *Brassica oleracea* (repollo)
+-   Hojas de *Dianthus caryophyllus* (Clavel)
+-   Hojas y tallos de *Apium graveolens* (Apio)
+-   Hojas y tallos de *Begonia spp.*
+-   Hojas y tallos de *Coriandrum sativum* (Cilantro)
+-   Hojas y tallos de *Cucurbita máxima* (Auyama o Zapallo)
+-   Hojas y tallos de *Lactuca sativa* (Lechuga)
+-   Hojas y tallos de *Mentha × piperita* (Menta) o *Mentha spicata* (Hierbabuena)
+-   Hojas y tallos de *Nicotiana tabacum* (tabaco)
+-   Hojas y tallos de *Cannabis sativa* (marihuana)
+-   Hojas y tallos de *Pelargonium spp.* (Geranio, Novio)
+-   Hojas y tallos de *Petroselinum crispum* (Perejil)
+-   Hojas y tallos de *Sambucus nigra* (Sauco)
+-   Hojas y tallos de *Solanum lycopersicum* (Tomate)
+-   Hojas y tallos de *Solanum quitoense* (Lulo)
+-   Hojas y tallos de *Solanum tuberosum* (papa)
+-   Ramas con ápices de *Solenostemon scutellarioides* (Cóleo)
+-   Ramas de *Pinus spp.* (Pino)
+-   Semillas frescas e hidratadas de *Phaseolus vulgaris* (Frijol)
+-   Tallos de *Lycopodium clavatum* (Colchón de Pobre)
+
+## Referencias
