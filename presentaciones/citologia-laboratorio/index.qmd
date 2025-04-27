@@ -6,6 +6,8 @@ format:
     controls: true
     touch: false
 bibliography: references.bib
+nocite: |
+  @costea2025, @curtis2019, @detrick2025
 ---
 
 # Introducción
@@ -201,45 +203,69 @@ Fotografías de @megías-pacheco2017.
 
 Corte transversal de tallo de *Aristolochia ringens* con Safranina-Azul de Alcian.
 
-
+![Corte transversal de tallo de *Aristolochia ringens*. A. Detrick ([2025](https://anatomy.plb.ucdavis.edu/search?term=Aristolochia)). B. Curtis et al. ([2019](https://botweb.uwsp.edu/anatomy/images/vascularcambium/pages_c/Anat0194new.htm)). C. Costea ([2012](http://www.phytoimages.siu.edu/imgs/Cusman1/r/Aristolochiaceae_Aristolochia_sp_45585.html)).](/presentaciones/images/laboratorio/aristolochia_01.jpg){#fig-aristolochia-01 fig-align="center"}
 
 ## Reconocimiento de sustancias lipídicas
 
 Corte transversal de tallo de *Pinus patula* con Sudan III o Sudan negro. Calentar la lámina suavemente en un mechero.
 
+::: columns
+::: {.column width="66%"}
+![Corte transversal de *Pinus sp.* A. Tallo. Detrick ([2025](https://anatomy.plb.ucdavis.edu/search?term=pinus#gallery-20)). B. Hoja. Detrick ([2025](https://anatomy.plb.ucdavis.edu/search?term=pinus#gallery-1)).](/presentaciones/images/laboratorio/pinus_01.jpg){#fig-pinus-01 fig-align="center"}
+:::
 
+::: {.column width="33%"}
+![Corte transversal de hoja de *Ficus elastica*. Costea ([2012](http://phytoimages.siu.edu/imgs/pso/r/Moraceae_Ficus_elastica_47576.html))](/presentaciones/images/laboratorio/hoja_ficus.jpg){#fig-hoja-ficus-01 fig-align="center"}
+:::
+:::
 
 Repetir con corte transversal de hoja de *Ficus elastica*.
 
 ## Estructura, Formas, diversidad e inclusiones citoplasmáticas
 
-Estambre de *Tradescantia pallida* en montaje en fresco.\
-[Tricoma: pared celular, vacuola, núcleo y citoplasma.]{.fragment}
+Tricoma de *Tradescantia pallida* en montaje en fresco.\
+[Pared celular, vacuola, núcleo y citoplasma.]{.fragment}
+
+![*Tradescantia pallida*. A. Estambre y tricomas. Nickrent ([2008](http://www.phytoimages.siu.edu/imgs/paraman1/r/Commelinaceae_Tradescantia_pallida_12358.html)). B. Tricoma con azul de toluidina. Nickrent ([2013](http://www.phytoimages.siu.edu/imgs/paraman1/r/Commelinaceae_Tradescantia_sp_66245.html)). C. Tricoma en agua. Nickrent ([2012](http://www.phytoimages.siu.edu/imgs/paraman1/r/Commelinaceae_Tradescantia_pallida_42978.html)).](/presentaciones/images/laboratorio/tradescantia_pallida_01.jpg){#fig-tradescantia-01 fig-align="center"}
 
 ## Estructura, Formas, diversidad e inclusiones citoplasmáticas
 
 Hoja de *Egeria densa* en montaje en fresco (agua de su propio medio).\
 [Pared celular, citoplasma y cloroplastos.]{.fragment}
 
+::: columns
+::: {.column width="66%"}
+![A. Rama de *Egeria densa*. <a href="https://commons.wikimedia.org/wiki/File:Egeria_densa_iceland.JPG">Lara Gudmundsdottir</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons. B. Hoja de *Elodea canadensis*. <a href="https://commons.wikimedia.org/wiki/File:Elodea_canadensis_plant_histology.jpg">Juan Carlos Fonseca Mata</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/laboratorio/egeria_elodea.jpg){#fig-egeria-elodea-01 fig-align="center"}
+:::
 
-
+::: {.column width="33%"}
+![Ciclosis en *Elodea sp.* <a href="https://commons.wikimedia.org/wiki/File:Elodea-ciclose.gif">MarceloTeles</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons](/presentaciones/images/elodea-ciclose.gif){#fig-ciclosis fig-align="center"  width="100%"}
+:::
+:::
 
 ## Estructura, Formas, diversidad e inclusiones citoplasmáticas
 
+::: columns
+::: {.column width="50%"}
 Corte parte inferior de pétalos de flores de colores en montaje en fresco.\
 [Cromoplastos.]{.fragment}
 
-
-
 Repetir con raíz de *Daucus carota*, epidermis del fruto de *Capsicum annuum* y
 epidermis o mesocarpo de *Solanum lycopersicum*.
+
+:::
+
+::: {.column width="50%"}
+![Piel de diferentes frutos: frambuesa (*Rubus idaeus*), caqui (*Diospyros kaki*), pimentón (*Capsicum annuum*), mandarina (*Citrus reticulata*), cereza (*Prunus sp.*), naranja (*Citrus × sinensis*), viburno (*Viburnum sp.*), cornejo (*Cornus sp.*) y uva (*Vitis vinifera*). <a href="https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%B6%D1%83%D1%80%D0%B0_%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85_%D0%BF%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2_%D0%BF%D0%BE%D0%B4_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%BE%D0%BC.jpg">Andrei Savitsky</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/laboratorio/piel_frutos.jpg){#fig-piel-frutos fig-align="center" width="80%"}
+:::
+:::
 
 ## Estructura, Formas, diversidad e inclusiones citoplasmáticas
 
 Cortes de cotiledones de *Phaseolus vulgaris* montaje en fresco con lugol.\
 [Amiloplastos]{.fragment}
 
-
+![Amiloplastos en papa. <a href="https://commons.wikimedia.org/wiki/File:Potato_storage_tissue_containing_amyloplasts._(Leucoplast).jpg">Krishna satya 333</a>, CC0, via Wikimedia Commons.](/presentaciones/images/amiloplastos.jpg){#fig-amiloplastos fig-align="center"}
 
 Repetir con semillas de *Zea mays*, tubérculo de *Solanum tuberosum* y raíz de *Manihot esculenta*.
 
@@ -248,14 +274,24 @@ Repetir con semillas de *Zea mays*, tubérculo de *Solanum tuberosum* y raíz de
 Corte transversal de pecíolo de Begonia sp. en montaje en fresco.\
 [Drusas, estiloides, rafidios, cristales romboédricos.]{.fragment}
 
-
+![Cristales de oxalato de calcio en plantas. A. Rafidios. <a href="https://commons.wikimedia.org/wiki/File:Raphides_from_variegated_ivy.jpg">Agong1</a>, CC0, via Wikimedia Commons. B. Rafidios. <a href="https://commons.wikimedia.org/wiki/File:Rafidios_en_c%C3%A1scara_de_banana.jpg">Brandon Antonio Segura Torres &amp; Priscilla Vieto Bonilla</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons. C. Drusas y prismas o rombos en *Allium cepa*. <a href="https://commons.wikimedia.org/wiki/File:Druse_in_onion_scales.jpg">Agong1</a>, CC0, via Wikimedia Commons.](/presentaciones/images/laboratorio/cristales.jpg){#fig-cristales fig-align="center"}
 
 Repetir con peciolo de *Impatiens balsamina* y epidermis de *Allium cepa*.
 
 ## Estructura, Formas, diversidad e inclusiones citoplasmáticas
 
+::: columns
+::: {.column width="50%"}
 Corte transversal de hoja de *Ficus elastica* con Safranina-Azul de Alcian.\
 [Epidermis pluriestratificada, cistolitos en idioblastos.]{.fragment}
+
+![Corte transversal de hoja de *Ficus elastica*. Costea ([2012](http://phytoimages.siu.edu/imgs/pso/r/Moraceae_Ficus_elastica_47576.html))](/presentaciones/images/laboratorio/hoja_ficus.jpg){#fig-hoja-ficus-01 fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Corte transversal de Ficus elástica con Safranina y Azul Alcián. cis: cistolito, cu: cuticula, ep: epidermis pluriestratificada, hv: haz vascular, id: idioblasto, pe: parénquima en empalizada, pl: parénquima lagunar, st: estoma. @alzate-guarín2025.](/presentaciones/images/hoja_ficus.png){#fig-hoja-ficus-02 fig-align="center" width="85%"}
+:::
+:::
 
 # ¿Preguntas?
 
