@@ -2,7 +2,7 @@
 title: "Biología de las plantas, 2025-1"
 # subtitle: "Instituto de Biología, Universidad de Antioquia"
 description: |
-  Sitio web del curso Biología de las plantas del Instituto de Biología de la Universidad de Antioquia Seccional Suroeste, 2025-1
+  Sitio web del curso Biología de las plantas del Instituto de Biología de la Universidad de Antioquia, 2025-1
 
 author: 
   - name: "Álex Espinosa-Correa"
@@ -36,21 +36,25 @@ library("googlesheets4")
 library("gt")
 ```
 
-## Cronograma
+::: {.panel-tabset}
+
+## Andes
+
+### Cronograma
 
 ```{r}
-#| label: cronograma
+#| label: cronograma-andes
 #| echo: false
 #| message: false
 #| html-table-processing: none
 
-cronograma <- 
+cronograma_andes <- 
   googlesheets4::read_sheet(
     "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
     sheet = 1
   )
 
-cronograma |> 
+cronograma_andes |> 
   gt::gt() |> 
   gt::sub_missing(
     missing_text = ""
@@ -78,7 +82,7 @@ cronograma |>
   )
 ```
 
-## Evaluación
+### Evaluación
 
 ```{r}
 #| label: evaluacion-general
@@ -114,4 +118,45 @@ evaluacion_general |>
   )
 ```
 
+## Medellín
 
+### Cronograma
+
+```{r}
+#| label: cronograma-medellin
+#| echo: false
+#| message: false
+#| html-table-processing: none
+
+cronograma_medellin <- 
+  googlesheets4::read_sheet(
+    "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
+    sheet = 4
+  )
+
+cronograma_medellin |> 
+  gt::gt() |> 
+  gt::sub_missing(
+    missing_text = ""
+  ) |> 
+  gt::cols_label(
+    clase = "Clase",
+    fecha = "Fecha",
+    laboratorio = "Laboratorio",
+  ) |> 
+  gt::fmt_markdown(
+    columns = c(laboratorio)
+  ) |> 
+  gt::opt_table_font(
+    font = gt::google_font(name = "Atkinson Hyperlegible")
+  ) |> 
+  gt::tab_style(
+    style = gt::cell_text(weight = "bold"),
+    locations = gt::cells_column_labels()
+  ) |> 
+  gt::tab_footnote(
+    footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"),
+  )
+```
+
+:::

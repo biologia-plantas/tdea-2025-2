@@ -42,7 +42,7 @@ website:
         href: https://github.com/biologia-plantas/2025-1
       - text: "Manual de laboratorio"
         icon: book
-        href: https://alexespinosaco.github.io/biologia-plantas-manual/
+        href: https://geobota.github.io/biologia-plantas-manual/
       - text: "Google Classroom"
         icon: layout-text-window-reverse
         href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
@@ -76,12 +76,16 @@ website:
             href: presentaciones/diversidad/
           - text: "Raíz"
             href: presentaciones/raiz/
+          - text: "Tallo"
+            href: presentaciones/tallo/
       - section: "Laboratorio"
         contents:
           # - text: "Introducción al laboratorio"
           #   href: presentaciones/introducción-laboratorio/
           # - text: "Recorrido"
           #   href: presentaciones/recorrido/
+          - text: "Citología"
+            href: presentaciones/citologia-laboratorio/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
