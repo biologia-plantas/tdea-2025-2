@@ -13,15 +13,13 @@ bibliography: references.bib
 ## Células
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 > Cuando se estudian a nivel celular, incluso los organismos más diversos son notablemente similares entre sí, tanto en su organización física como en sus propiedades bioquímicas. @evert2013.
 
-::: fragment
 ![Flor de *Passiflora_caerulea*. By <a href="//commons.wikimedia.org/wiki/User:PetarM" title="User:PetarM">Petar Milošević</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=43160056">Link</a>.](/presentaciones/images/flor_passiflora_caerulea.jpg){#fig-passiflora fig-align="center" width="75%"}
 :::
-:::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
 :::
 :::
@@ -29,7 +27,7 @@ bibliography: references.bib
 ## Teoría celular
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 1.  Todos los organismos vivos están compuestos por una o más células.
 2.  Las reacciones químicas de un organismo vivo, incluidos sus procesos de liberación de energía y sus reacciones biosintéticas, tienen lugar dentro de las células.
 3.  Las células surgen de otras células.
@@ -37,7 +35,7 @@ bibliography: references.bib
 
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![Schem. XI - Del esquema o textura del corcho y de las células y poros de otros cuerpos espumosos semejantes. Hooke ([1665](https://commons.wikimedia.org/wiki/Category:Hooke's_Micrographia_Diagrams_from_the_National_Library_of_Wales)).](/presentaciones/images/micrographia_schem_11.jpg){#fig-micrographia-schem fig-align="center"}
 :::
 :::
@@ -46,13 +44,12 @@ bibliography: references.bib
 Traducido de @evert2013.
 :::
 
-## Célula vegetal {.smaller}
+## Célula vegetal
 
-::: fragment
+::: columns
+::: {.column width="50%"}
 > La célula vegetal suele estar formada por una pared celular más o menos rígida y un protoplasto. @evert2013.
-:::
 
-::: fragment
 ```{r}
 #| label: tbl-celula-componentes
 #| tbl-cap: Inventario de componentes celulares vegetales. Traducido de @evert2013.
@@ -110,9 +107,14 @@ celula_componentes |>
     font = gt::google_font(name = "Atkinson Hyperlegible")
   ) |> 
   gt::tab_options(
-    table.font.size = 32
+    table.font.size = 24
   )
 ```
+:::
+
+::: {.column width="50%"}
+![Estructura de una célula vegetal típica. @nabors2006.](/presentaciones/images/celula_vegetal.jpg){#fig-celula-vegetal-2 fig-align="center"}
+:::
 :::
 
 ## Célula vegetal: tamaños
@@ -122,11 +124,13 @@ celula_componentes |>
 ## Pared celular
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
+![Pared celular primaria y secundaria. @nabors2006.](/presentaciones/images/pared_celular_02.jpg){#fig-pared-celular-secundaria fig-align="center" width="50%"}
 
+![Diagrama que muestra la organización de las microfibrillas de celulosa y las tres capas (S1, S2, S3) de la pared secundaria. @evert2013.](/presentaciones/images/pared_celular_secundaria.png){#fig-pared-celular-secundaria fig-align="center" width="50%"}
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 
 ![Estructura y composición de la pared celular primaria y secundaria de las plantas. @loix2017.](/presentaciones/images/pared_celular_composicion.jpg){#fig-pared-celular-composicion fig-align="center"}
 :::
@@ -136,23 +140,21 @@ celula_componentes |>
 
 Crecimiento. Meristemo. Xilema o floema. Pared celular
 
+![Paredes celulares primarias (flechas) y secundarias. @megías-pacheco2017.](/presentaciones/images/pared_celular_primaria_secundaria.jpg){#fig-pared_celular fig-align="center"}
+
 ## Plástidos {.smaller}
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 
 > Plastidio, término general que agrupa a todos los orgánulos vegetales que fabrican o almacenan nutrientes o pigmentos. @nabors2006.
 
-::: fragment
 > Junto con las vacuolas y las paredes celulares, los plástidos son componentes característicos de las células vegetales y se ocupan de procesos como la fotosíntesis y el almacenamiento. Los plástido se diferencia en un sistema de membranas formado por sacos aplanados llamados tilacoides y una matriz más o menos homogénea, llamada estroma. @evert2013.
-:::
 
-::: fragment
 ![Cloroplastos (A y B). La imagen A es parénquima clorofílico, la imagen B es un estoma. Cromoplastos (C y D) del tomate. Amiloplastos (E y F) de la papa. @megías-pacheco2017.](/presentaciones/images/plastos-tipos.png){#fig-plastos-tipos fig-align="center"}
 :::
-:::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 
 | Plástidos    | Función                                                                                                                 |
 |--------------|-------------------------------------------------------------------------------------------------------------------------|
@@ -165,10 +167,32 @@ Crecimiento. Meristemo. Xilema o floema. Pared celular
 
 : Tipos de plástidos. Traducido de @mauseth2016. {#tbl-plastidios}
 
-::: fragment
 ![Distintos tipos de plastos y los caminos de diferenciación entre ellos. @megías-pacheco2017.](/presentaciones/images/plastos.png){#fig-plastos fig-align="center"}
 :::
 :::
+
+## Tinciones y colorantes
+
+|                   | Azul de toluidina | Safranina - Azul alcián |
+|-------------------|-------------------|-------------------------|
+| Pared primaria    | Azul a púrpura    | Azul                    |
+| Pared secundaria  | Verde brillante   | Rojo                    |
+| Suberina y cutina | Verde brillante   | Rojo                    |
+
+: Resultados de las dos tinciones generales. {#tbl-colorante}
+
+::: columns
+::: {.column width="50%"}
+![Tinción con Azul de toluidina.](/presentaciones/images/colorante_azul_toluidina.png){#fig-colorante_01 fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Tinción con Safranina-Azul alcián.](/presentaciones/images/colorante_safranina_azul_alcian.jpg){#fig-colorante_02 fig-align="center"}
+:::
+:::
+
+::: footer
+Fotografías de @megías-pacheco2017.
 :::
 
 # Procedimiento
