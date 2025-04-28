@@ -1,0 +1,515 @@
+---
+title: "Tallo"
+# date: 2025-04-29
+format:
+  revealjs:
+    controls: true
+    touch: false
+bibliography: references.bib
+draft: true
+---
+
+# Además del uso de diversos tejidos vegetales como alimento, ningún tejido vegetal ha desempeñado un papel más indispensable en la supervivencia humana a lo largo de la historia registrada que la madera, o xilema secundario. @evert2013.
+
+## Los árboles vivos más altos
+
+![El árbol vivo [más alto](https://en.wikipedia.org/wiki/List_of_tallest_trees) registrado es [Hyperion](http://famousredwoods.com/hyperion/) (*Sequoia sempervirens*). Le siguen el [Ciprés tibetano del sur n.º I](https://news.cctv.com/2023/08/13/ARTIo8JBhlLP4R2aGUAAkRaw230813.shtml) (*Cupressus austrotibetica*) y Menara (*Richetia faguetiana*), la angiosperma y el árbol más alto registrado en el trópico. Como referencia, el Edificio Coltejer en Medellín mide 175 metros de altura.](/presentaciones/images/tallo_tallest_trees.jpg){#fig-tallest-trees fig-align="center"}
+
+## El árbol vivo con mayor volumen
+
+![El General Sherman es una secuoya (*Sequoiadendron giganteum*) considerada el árbol de un solo tronco más grande del mundo. Su volumen se estima en 1,487 m³, con una altura de 83.8 m. La base tiene una circunferencia de 31.3 m y un diámetro de 11.1 m. <a href="https://commons.wikimedia.org/wiki/File:General_Sherman_Tree_in_Sequoia_National_Park_-_June_2022.jpg">Marty Aligata</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a> & <a href="https://commons.wikimedia.org/wiki/File:General_Sherman_with_fire_protection_wrap.jpg">Elizabeth Wu, National Park Service</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/general_sherman.jpg){#fig-general-sherman fig-align="center"}
+
+## Los árboles vivos de mayor diametro
+
+![A. El Árbol del Tule (*Taxodium mucronatum*) posee el [tronco de mayor diámetro](https://en.wikipedia.org/wiki/List_of_superlative_trees#Stoutest) del mundo: 11,62 m (9,38 m sin incluir los contrafuertes). B. El segundo era el Baobab de Sunland (*Adansonia digitata*), con un diámetro de 10,64 m, al menos hasta que se [dividió](https://www.citizen.co.za/letaba-herald/news-headlines/2017/04/18/world-famous-baobab-splits-again/).](/presentaciones/images/tallo_robustos.jpg){#fig-tallo-robustos fig-align="center"}
+
+## Los árboles vivos más longevos
+
+![No está claro cuál es el árbol no clonal [más longevo](https://en.wikipedia.org/wiki/List_of_oldest_trees). A. Se estima que Matusalén (*Pinus longaeva*) tiene 4856 años. B. Mientras que el Gran Abuelo (*Fitzroya cupressoides*) tendría entre 3654 y 5484 años. C. Por otra parte, Pando (*Populus tremuloides*), con una antigüedad estimada entre 16 000 y 80 000 años, es considerado el árbol clonal más longevo.](/presentaciones/images/tallo_longevos.jpg){#fig-tallo_longevos fig-align="center"}
+
+## La monocotiledónea más alta/larga
+
+![A. La palma de cera (*Ceroxylon quindiuense*) es la monocotiledónea más alta, alcanzando entre 45 y 60 m de altura. B. Por su parte, la palma trepadora *Calamus manan* puede llegar a extenderse hasta 240 m de longitud.](/presentaciones/images/tallo_palma.jpg){#fig-tallo-palma fig-align="center"}
+
+## Cuerpo primario de la planta
+
+::: columns
+::: {.column width="50%"}
+![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
+:::
+
+::: {.column width="50%"}
+![Distribución de los tejidos primarios en una planta vascular. @evert2013.](/presentaciones/images/tejidos_distribucion.png){#fig-planta-partes fig-align="center" width="65%"}
+:::
+:::
+
+## Vastago {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+> El término «vástago» se utiliza no solo como un término colectivo para estos dos órganos vegetativos (tallo y hojas), sino también para expresar su íntima asociación física y de desarrollo. @evert2013.
+
+-   Comprende el tallo y las hojas, constituye la porción aérea de la planta
+-   Inicia en el embrión como una plúmula o solo como meristema apical
+-   Estructuralmente más complejo que la raíz
+    -   Presenta **nudos** y **entrenudos** donde se insertan las hojas
+    -   El ápice del vástago genera hojas y yemas axilares
+    -   El ápice de la raíz no produce órganos laterales
+    -   El tallo desvía haces vasculares hacia las hojas, dejando **lagunas foliares**
+-   **Soporte:** elevación de hojas y estructuras reproductivas
+-   **Fotosíntesis:** elaboración de fotosintatos
+-   **Conducción:** transporte de fotosintatos (floema) y agua/minerales (xilema)
+
+> Tallo: estructura generalmente cilíndrica que lleva las hojas, con funciones típicas en el soporte y elevación de las hojas y estructuras reproductivas, así como en la conducción de agua, minerales y azúcares; en las plantas vasculares, se deriva inicialmente del epicótilo del embrión y crece generalmente hacia arriba. @simpson2019.
+:::
+
+::: {.column .fragment width="50%"}
+
+![Pastes del vastago. @megías-pacheco2017.](/presentaciones/images/vastago.png){#fig-planta-partes fig-align="center"}
+
+![Rama de *Gossypium hirsutum* (algodón mexicano). @arbo2019.](/presentaciones/images/vastago.jpg){#fig-planta-partes fig-align="center"}
+:::
+:::
+
+## Meristema apical caulinar
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Estructura dinámica
+    -   Añade células al cuerpo primario de la planta
+    -   Produce primordios foliares y primordios de yemas
+-   No tiene una cobertura protectora como la raíz
+-   El meristema apical caulinar origina tres meristemas primarios:
+    -   Protodermo (epidermis)
+    -   Procámbium (tecidos vasculares primarios)
+    -   Meristema fundamental (tejido fundamental)
+-   **Fitómero**: conjunto de nudo, entrenudo y yema axilar
+:::
+
+::: {.column .fragment width="50%"}
+![El meristema apical está protegido por hojas jóvenes que lo rodean @evert2013.](/presentaciones/images/meristema_apical_caulinar.png){#fig-meristema-apical-01 fig-align="center" width="35%"}
+
+![Ápice de un tallo de Coleus. A. Procámbium. B. Meristema fundamental. C. Laguna foliar. D. Tricoma. E. Meristema apical. F. Primordio foliar en desarrollo. G. Primordio foliar. H. Yema axilar. I. Tejido vascular en desarrollo. <a href="https://commons.wikimedia.org/wiki/File:Coleus_stemtip_L.jpg">Jon Houseman</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/meristema_apical_caulinar.jpg){#fig-meristema-apical-02 fig-align="center" width="50%"}
+:::
+:::
+
+## Dos modelos explican el crecimiento del vastago
+
+::: columns
+::: {.column .fragment width="50%"}
+-   **Teoría de zonación**
+    -   **Zona de células madre centrales:** células que rara vez se dividen y dan lugar a las células de las otras zonas
+    -   **Zona periférica:** células en rápida división y genera primordios foliares y a otras partes del tallo, además de protodermis, procámbium y meristema fundamental (cortéx)
+    -   **Zona medular:** produce células que forman parte del meristema fundamental y la médula
+-   **Teoría túnica-cuerpo**
+    -   **Túnica:** capas externas de células iniciales (L1 y L2), producen la protodermis. División anticlinal
+    -   **Cuerpo:** capa L3 y células derivadas, forma el procámbium y el meristemo fundamental. División anticlinal y periclinal
+:::
+
+::: {.column .fragment width="50%"}
+![Organización del meristema apical del vástago en zonas y capas. @nabors2006.](/presentaciones/images/tallo_meristema_apical_teorias.png){#fig-meristema-teorias fig-align="center" width="50%"}
+:::
+:::
+
+## Estructura primaria del tallo
+
+::: columns
+::: {.column .fragment width="30%"}
+-   Epidermis
+-   Córtex
+    -   Parénquima
+    -   Esclérenquima 
+    -   Colénquima
+-   Estela (cilindro vascular)
+    -   Xilema primario
+    -   Floema primario
+-   Médula
+    -   Parénquima
+:::
+
+::: {.column .fragment width="70%"}
+![Estructura primera del tallo en Eudicotyledoneae y Monocotyledoneae. @statecouncilofeducationalresearchandtraining2024.](/presentaciones/images/tallo_estructura_primaria.jpg){#fig-tallo-estructura-primaria fig-align="center"}
+:::
+:::
+
+## Estela y haces vasculares
+
+::: columns
+::: {.column .fragment width="50%"}
+-   **Haz vascular:** cordón de tejido que contiene xilema primario y floema primario (y procambio, si aún está presente), frecuentemente rodeado por una vaina de parénquima o fibras.
+    -   Radial
+    -   Colateral
+    -   Bicolateral
+    -   Concéntrico
+-   **Estela:** distribución espacial del sistema vascular primario de un tallo, organizado en disposiciones de xilema y floema.
+    -   Protoestela
+    -   Sifonoestela
+    -   Eustela
+    -   Atactostela
+:::
+
+::: {.column .fragment width="50%"}
+![Diposición y patrón de los haces vasculares. @megías-pacheco2017.](/presentaciones/images/vascular_organizacion.png){#fig-vascular-organizacion fig-align="center"}
+:::
+:::
+
+## Haz vascular: tipos
+
+![Tipos de haces vasculares. B. Anficribal o perifloemático. B. Anfivasal o perixilemático. C. Bicolateral. D. Colateral abierto. E. Colateral cerrado. @alzate-guarín2025.](/presentaciones/images/haces_vascualres_ejemplos.jpg){#fig-vascular-tipos fig-align="center"}
+
+## Tallo primario: comparación
+
+![Comparación entre diferentes tipos de estelas. @nabors2006.](/presentaciones/images/tallo_primario_comparacion.png){#fig-tallo-primario-comparacion fig-align="center"}
+
+## Monocotyledoneae vs Eudicotyledoneae
+
+::: {#fig-tallos-primarios-comparacion layout-ncol=2}
+
+![Tallo de maíz (*Zea mays*).](/presentaciones/images/tallo_primario_monocot.png){#fig-tallo-monocot}
+
+![Tallo de ranúnculo (Ranunculus sp.).](/presentaciones/images/tallo_primario_eudicot.png){#fig-tallo-eudicot}
+
+Comparación entre un tallo de Monocotyledoneae y Eudicotyledoneae. @megías-pacheco2017.
+:::
+
+
+## Trazas y lagunas foliares
+
+::: columns
+::: {.column .fragment width="50%"}
+-   **Traza foliar:** porción de un haz vascular que se extiende desde la base de la hoja hasta su conexión con un haz vascular en el tallo.
+-   **Laguna foliar:** en las plantas con semilla, región de tejido de parénquima en el cilindro vascular primario del tallo, situada por encima del punto de origen de una o varias trazas foliares.
+:::
+
+::: {.column .fragment width="50%"}
+![Traza y laguna foliar en Euphyllophyta. @simpson2019.](/presentaciones/images/euphyllophyta_euphyll.png){#fig-tallo-primario-comparacion fig-align="center" width="25%"}
+:::
+:::
+
+::: fragment
+![Sistema vascular primario en el tallo. A. Corte transversal. B.Vista longitudinal. @evert2013](/presentaciones/images/tallo_haces_vasculares.png){#fig-tallo-haces-vasculares fig-align="center" width="35%"}
+:::
+
+## Tallo vs Raíz
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Los tallos pueden distinguirse de las raíces de al menos tres maneras
+    -   Meristema apical caulinar no está cubierto por una capa protectora externa
+    -   Células epidérmicas del tallo no forman estructuras semejantes a los pelos radicales
+    -   Tallos producen hojas de manera exógena; no se forman órganos de manera endógena
+-   Los tallos aéreos de muchas plantas carecen de endodermis
+
+![Diferencias en la organización de los haces vasculares entre la raíz primaria y el tallo primario. @megías-pacheco2017.](/presentaciones/images/tallo_raiz.jpg){#fig-transicion-01 fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Zona de transición entre el tallo y la raíz. @nabors2006.](/presentaciones/images/tallo_raiz_transicion.jpg){#fig-transicion-02 fig-align="center" width="55%"}
+:::
+:::
+
+## Estructura secundaria: tejidos {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Peridermis
+    -   Súber
+    -   Felógeno
+    -   Felodermis
+-   Córtex
+-   Haces vasculares
+    -   Xilema secundario
+    -   Floema secundario
+    -   Cámbium vascular
+-   Medula
+
+![Transformación de un tallo con peridermis en un tallo con ritidoma. @megías-pacheco2017.](/presentaciones/images/tallo_ritidoma.png){#fig-tallo-ritidoma fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Tejidos presentes en tallo con crecimiento secundario. @megías-pacheco2017.](/presentaciones/images/tallo_secundario_partes.png){#fig-tallo-secundario fig-align="center"}
+
+:::
+:::
+
+## Cámbium vascular
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Células meristemáticas: Altamente vacuoladas, a diferencia de las iniciales del meristemo apical
+-   Dos tipos de células iniciales:
+    -   Iniciales fusiformes: Orientadas verticalmente, alargadas, de forma aplanada o de ladrillo en corte transversal
+    -   Iniciales de los radios: Orientadas horizontalmente, ligeramente alargadas 
+-   La división periclinal de las iniciales produce xilema secundario (hacia el interior) y floema secundario (hacia el exterior)
+:::
+
+::: {.column .fragment width="50%"}
+![Relación del cámbium vascular con el xilema secundario y el floema secundario. @evert2013](/presentaciones/images/cambium_vascular.jpg){#fig-tallo-haces-vasculares fig-align="center"}
+:::
+:::
+
+## Crecimiento secundario del tallo
+
+![Tallo con crecimiento secundario de la vid (*Vitis vinifera*). @megías-pacheco2017.](/presentaciones/images/tallo_secundario_eudicot.jpg){#fig-tallo-secundario-eudicot fig-align="center"}
+
+## Crecimiento secundario del tallo
+
+![Tallo con crecimiento secundario de pino (*Pinus sp.*). @megías-pacheco2017.](/presentaciones/images/tallo_secundario_gimno.png){#fig-tallo-secundario-gimno fig-align="center"}
+
+## Crecimiento secundario del tallo: desarrollo
+
+![Desarrollo del tallo en una angiosperma leñosa. A. Etapa temprana del desarrollo primario. B. Al finalizar el crecimiento primario. C. Origen del cámbium vascular. D. Después de la formación de algo de xilema secundario y floema secundario. E. Al final del primer año de crecimiento, mostrando el efecto del crecimiento secundario. @nabors2006.](/presentaciones/images/tallo_crecimiento_secundario.jpg){#fig-tallo-crecimiento-secundario fig-align="center" width="35%"}
+
+## Crecimiento secundario del tallo: desarrollo
+
+![A. Dos haces vasculares y el parénquima localizado entre ellos. B. El cámbium vascular usualmente no se forma hasta que una porción del tallo o la raíz tiene varias semanas o incluso varios meses de edad. @mauseth2016.](/presentaciones/images/tallo_crecimiento_01.jpg){#fig-tallo-crecimiento-01 fig-align="center"}
+
+## Tallo vs Raíz
+
+![Crecimiento del tallo y de la raíz. @nabors2006.](/presentaciones/images/crecimiento_secundario_comparacion.jpg){#fig-crecimiento-comparacion fig-align="center"}
+
+## Tallo vs Raíz
+
+![Comparación entre un tallo y una raíz con crecimineto secundario. Alda ([2010](http://b-log-ia20.blogspot.com/2010/12/anatomia-y-fisiologia-vegetal-iii.html)).](/presentaciones/images/crecimiento_secundario_comparacion.png){#fig-crecimiento-comparacion-02 fig-align="center"}
+
+## Crecimiento secundario del tallo: resumen
+
+![Esquema de los meristemos y tejidos presentes en el crecimiento primario y secundario. @nabors2006.](/presentaciones/images/tallo_crecimiento_02.png){#fig-tallo-crecimiento-02 fig-align="center"}
+
+## Estructura secundaria: partes
+
+::: columns
+::: {.column .fragment width="30%"}
+-   Corteza
+    -   Peridermis
+        -   Súber
+        -   Felógeno
+        -   Felodermis
+    -   Córtex
+    -   Floema primario
+-   Cámbium vascular
+-   Madera (xilema secundario)
+    -   Albura
+    -   Duramen
+-   Médula
+:::
+
+::: {.column .fragment width="70%"}
+
+![Diagrama que muestra los tejidos básicos de una sección transversal de un tronco de árbol común. <a href="https://commons.wikimedia.org/wiki/File:Tree_secondary_components_diagram.png">Brer Lappin</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/tallo_crecimiento_secundario_partes.png){#fig-tallo-crecimiento-secundario-partes-01 fig-align="center"}
+
+![Partes del tallo con crecimiento secundario. @nabors2006.](/presentaciones/images/tallo_crecimiento_secundario_partes.jpg){#fig-tallo-ccrecimiento-secundario-partes-02 fig-align="center" width="60%"}
+:::
+:::
+
+## Corteza
+
+::: columns
+::: {.column .fragment width="50%"}
+![A. Corteza delgada y descamada. B. Corteza rugosa tipo estopa. C. Corteza escamosa. D. Corteza profundamente surcada. @evert2013](/presentaciones/images/tallo_corteza.jpg){#fig-tallo-corteza fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Saca del corcho de *Quercus suber*. <a href="https://commons.wikimedia.org/wiki/File:IAPH_Saca_del_corcho.jpg">Cazalla Montijano, Juan Carlos</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/tallo_cocho.jpg){#fig-tallo-corcho fig-align="center"}
+:::
+:::
+
+::: footer
+corteza: término no técnico aplicado a todos los tejidos situados fuera del cámbium vascular de un tallo leñoso.
+:::
+
+## Estructura externa
+
+![Características externas de los tallos leñosos. @evert2013](/presentaciones/images/tallo_secundario_estructuras_externas.jpg){#fig-tallo-estructuras-externas fig-align="center"}
+
+
+## Anillos de crecimiento {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+> Acumulación de xilema (o floema) secundario durante una única temporada de crecimiento, siendo evidente debido a la diferencia estructural entre las últimas células de la madera de verano y las primeras células de la madera de primavera subsiguiente. @simpson2019.
+
+![Tallo con crecimiento secundario. @evert2013.](/presentaciones/images/tallo_secundario_anillos.png){#fig-tallo-crecimiento-secundario fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Tronco de una secuoya gigante, Andrew E. Douglass como escala. State Museum ([s.f.](https://ltrr.arizona.edu/giant_sequoia_slab)).](/presentaciones/images/dendrocronologia.jpg){#fig-dendrocronologia fig-align="center"}
+:::
+:::
+
+::: footer
+Dendrocronología: estudio científico de la anatomía de la madera para deducir detalles sobre acontecimientos pasados.
+:::
+
+## Anillos de crecimiento
+
+![El número de anillos varía con la distancia sobre el nivel del suelo. *Pinus longaeva* son los árboles vivos más antiguos que han permanecido de pie continuamente. @evert2013.](/presentaciones/images/tallo_anillos_crecimiento.jpg){#fig-tallo-anillos fig-align="center"}
+
+## Crecimiento anómalo {.smaller}
+
+::: columns
+::: {.column width="60%"}
+> Término bajo el cual se han agrupado las conformaciones cambiales, los productos cambiales y los números cambiales que difieren de la condición "normal" más común, un cambium cilíndrico único que produce floema externamente y xilema internamente. @carlquist2001.
+
+
+![A. El cambium en dos lados opuestos de esta Bauhinia está produciendo células rápidamente. B. Las tiras del cambium vascular de la artemisa (Artemisia tridentata) mueren periódicamente, mientras que las regiones circundantes del cambium permanecen vivas. @mauseth2016.](/presentaciones/images/tallo_anomalo_bougainvillia.jpg){#fig-tallo-anomalo fig-align="center" width="70%"}
+:::
+
+::: {.column width="40%"}
+![Crecimiento anómalo en tallo de *Bougainvillia*. Tomado de @spicer2010.](/presentaciones/images/tallo_anomalo_bougainvillia.jpg){#fig-tallo-anomalo fig-align="center" width="70%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Referencias
+
+
