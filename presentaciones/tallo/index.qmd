@@ -352,7 +352,7 @@ Dendrocronología: estudio científico de la anatomía de la madera para deducir
 > Término bajo el cual se han agrupado las conformaciones cambiales, los productos cambiales y los números cambiales que difieren de la condición "normal" más común, un cambium cilíndrico único que produce floema externamente y xilema internamente. @carlquist2001.
 
 
-![A. El cambium en dos lados opuestos de esta Bauhinia está produciendo células rápidamente. B. Las tiras del cambium vascular de la artemisa (Artemisia tridentata) mueren periódicamente, mientras que las regiones circundantes del cambium permanecen vivas. @mauseth2016.](/presentaciones/images/tallo_anomalo_bougainvillia.jpg){#fig-tallo-anomalo fig-align="center" width="70%"}
+![A. El cambium en dos lados opuestos de esta *Bauhinia* está produciendo células rápidamente. B. Las tiras del cambium vascular de la artemisa (Artemisia tridentata) mueren periódicamente, mientras que las regiones circundantes del cambium permanecen vivas. @mauseth2016.](/presentaciones/images/tallo_crecimiento_secundario_anomalo.jpg){#fig-tallo-anomalo-01 fig-align="center" width="45%"}
 :::
 
 ::: {.column width="40%"}
@@ -360,155 +360,23 @@ Dendrocronología: estudio científico de la anatomía de la madera para deducir
 :::
 :::
 
-## Heading2
+## Tallos modificados
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
+![Algunos tallos modificados. @nabors2006.](/presentaciones/images/tallo_tipos_01.jpg){#fig-tallo-tipos-01 fig-align="center"}
 
-::: {.column .fragment width="50%"}
-:::
-:::
+## Tallos modificados
 
-## Heading2
+![Tipos de tallo . (l .s . = sección longitudinal). @simpson2019.](/presentaciones/images/tallo_tipos_02.png){#fig-tallo-tipos-02 fig-align="center"}
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
+<!-- ## Heading2 -->
 
-::: {.column .fragment width="50%"}
-:::
-:::
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
 
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencias
 
