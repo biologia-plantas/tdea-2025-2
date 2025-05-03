@@ -1,12 +1,8 @@
 ---
 title: "Diversidad"
 # date: 2025-03-18
-format:
-  revealjs:
-    controls: true
-    touch: false
+format: revealjs
 bibliography: references.bib
-draft: true
 ---
 
 ```{r}

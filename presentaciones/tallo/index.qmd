@@ -1,12 +1,8 @@
 ---
 title: "Tallo"
 # date: 2025-04-29
-format:
-  revealjs:
-    controls: true
-    touch: false
+format: revealjs
 bibliography: references.bib
-draft: true
 ---
 
 # Además del uso de diversos tejidos vegetales como alimento, ningún tejido vegetal ha desempeñado un papel más indispensable en la supervivencia humana a lo largo de la historia registrada que la madera, o xilema secundario. @evert2013.
