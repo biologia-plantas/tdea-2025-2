@@ -56,7 +56,7 @@ website:
           - text: "Inicio"
             href: index.qmd
           - text: "Manual de laboratorio"
-            href: https://alexespinosaco.github.io/biologia-plantas-manual/
+            href: https://geobota.github.io/biologia-plantas-manual/
           - text: "Google Classroom"
             href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
           - text: "Google Meet"
