@@ -698,7 +698,7 @@ Clasificados en función de la organización de las células oclusivas y las cé
 :::
 
 ::: {.column .fragment width="50%"}
-![(A) Tricoma en forma de escama. (B y C) Tricomas ramificados. (D, E y F) Tricomas glandulares. (G y H) Tricomas simples, no ramificados, no glandulares. @mauseth2016.](/presentaciones/images/estomas_tipos.png){#fig-tricomas fig-align="center" width="60%"}
+![(A) Tricoma en forma de escama. (B y C) Tricomas ramificados. (D, E y F) Tricomas glandulares. (G y H) Tricomas simples, no ramificados, no glandulares. @mauseth2016.](/presentaciones/images/tricomas_esquema.png){#fig-tricomas fig-align="center" width="60%"}
 :::
 :::
 
@@ -911,7 +911,7 @@ El colénquima se clasifica en base a la distribución del engrosamiento de la p
 :::
 
 ::: fragment
-Existen formas intermedias de díficil clasificación.
+Existen formas intermedias de difícil clasificación.
 :::
 :::
 
@@ -958,7 +958,7 @@ Existen formas intermedias de díficil clasificación.
 ### Características
 
 ::: incremental
--   Células pequñas
+-   Células pequeñas
     -   Pared secundaria muy gruesa y lignificada
     -   Forma variable (isodiamétricas, estrelladas, ramificadas, etc.)
 -   Función mecánica o protectora
