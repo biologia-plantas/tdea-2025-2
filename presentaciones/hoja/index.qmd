@@ -5,3 +5,364 @@ format: revealjs
 bibliography: references.bib
 draft: true
 ---
+
+## Cuerpo primario de la planta
+
+::: columns
+::: {.column width="50%"}
+![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
+:::
+
+::: {.column width="50%"}
+![Distribución de los tejidos primarios en una planta vascular. @evert2013.](/presentaciones/images/tejidos_distribucion.png){#fig-planta-partes fig-align="center" width="65%"}
+:::
+:::
+
+## Hoja
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Apéndice lateral principal del tallo
+-   Altamente variable en estructura y función
+-   Generalmente aplanada en sentido dorsiventral
+-   Usualmente cumple funciones de fotosíntesis y transpiración
+:::
+
+::: {.column .fragment width="50%"}
+![El tamaño de las hojas. De la más pequeña a la más grande.](/presentaciones/images/hoja_comparacion.png){#fig-hoja-comparacion fig-align="center"}
+:::
+:::
+
+## Origen
+
+::: columns
+::: {.column .fragment width="50%"}
+![El meristema apical está protegido por hojas jóvenes que lo rodean @evert2013.](/presentaciones/images/meristema_apical_caulinar.png){#fig-meristema-apical-01 fig-align="center" width="75%"}
+:::
+
+::: {.column .fragment width="50%"}
+![Ápice de un tallo de Coleus. A. Procámbium. B. Meristema fundamental. C. Laguna foliar. D. Tricoma. E. Meristema apical. F. Primordio foliar en desarrollo. G. Primordio foliar. H. Yema axilar. I. Tejido vascular en desarrollo. <a href="https://commons.wikimedia.org/wiki/File:Coleus_stemtip_L.jpg">Jon Houseman</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/meristema_apical_caulinar.jpg){#fig-meristema-apical-02 fig-align="center"}
+:::
+:::
+
+## Partes
+
+![Partes de la hoja. <a href="https://commons.wikimedia.org/wiki/File:Diagram_of_simple_leaf-es.svg">Assafn (traducido al español por Alexespinosaco)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/hoja_diagrama.png){#fig-hoja-partes fig-aling="center"}
+
+## Hojas según su origen
+
+::: columns
+::: {.column .fragment width="50%"}
+### Megafila
+
+-   También llamada macrófila
+-   Hoja generalmente grande
+-   Con varias o muchas venas
+-   Traza(s) foliar(es), asociadas a
+    -   Espacio foliar en los helechos
+    -   Laguna foliar en las plantas con semillas
+:::
+
+::: {.column .fragment width="50%"}
+### Microfila
+
+-   También llamada licófilas
+-   Hoja pequeña
+-   Una sola vena y una sola traza foliar
+-   No asociada ni a un espacio foliar ni a una laguna foliar
+-   Características de las licofitas.
+:::
+:::
+
+## Sucesión foliar
+
+> Serie de metamorfosis que experimentan los filomas de las plantas cuando se consideran a partir de los cotilédones hasta llegar a los antofilos u hojas florales. @fontquer2001.
+
+-   **Embriófilos:** hojas embrionales o cotiledones, las hojas que se forman en el embrión
+-   **Catáfilos:**
+-   **Prófilos:**
+-   **Nomófilos:**
+-   **Hipsófilos:**
+-   **Antófilos:**
+
+## Complejidad
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Filotaxia
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Referencías
