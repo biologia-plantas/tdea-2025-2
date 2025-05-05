@@ -86,6 +86,8 @@ website:
           #   href: presentaciones/recorrido/
           - text: "Citología"
             href: presentaciones/citologia-laboratorio/
+          - text: "Histología"
+            href: presentaciones/histologia-laboratorio/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
