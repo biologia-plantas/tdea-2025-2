@@ -45,15 +45,22 @@ draft: true
 :::
 :::
 
-## Partes de la hoja
-
-![Partes de la hoja. <a href="https://commons.wikimedia.org/wiki/File:Diagram_of_simple_leaf-es.svg">Assafn (traducido al español por Alexespinosaco)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/hoja_diagrama.png){#fig-hoja-partes fig-aling="center"}
 
 ## Hojas según su origen
 
 ::: columns
-::: {.column .fragment width="50%"}
-### Megafila
+::: {.column width="50%"}
+### Microfilo
+
+-   También llamada licófilas
+-   Hoja pequeña
+-   Una sola vena y una sola traza foliar
+-   No asociada ni a un espacio foliar ni a una laguna foliar
+-   Características de las licofitas.
+:::
+
+::: {.column width="50%"}
+### Megafilo
 
 -   También llamada macrófila
 -   Hoja generalmente grande
@@ -62,17 +69,9 @@ draft: true
     -   Espacio foliar en los helechos
     -   Laguna foliar en las plantas con semillas
 :::
-
-::: {.column .fragment width="50%"}
-### Microfila
-
--   También llamada licófilas
--   Hoja pequeña
--   Una sola vena y una sola traza foliar
--   No asociada ni a un espacio foliar ni a una laguna foliar
--   Características de las licofitas.
 :::
-:::
+
+![Hojas según su origen. A. Microfilo. B. Megafilo. @simpson2019.](/presentaciones/images/hoja_microfilo_megafilo.png){#fig-hoja-comparacion fig-aling="center"}
 
 ## Sucesión foliar
 
@@ -85,6 +84,8 @@ draft: true
 -   **Hipsófilos:** hojas situadas entre nomófilos y antófilos. Brácteas y bractéolas
 -   **Antófilos:** hojas que forman la flor
 
+![Sucesión foliar en *Delonix regia*. @arbo2019.](/presentaciones/images/sucesion_foliar_delonix.jpg){#fig-sucesion-foliar fig-aling="center"}
+
 ## Heterofilia y anisofilia
 
 ::: columns
@@ -92,37 +93,69 @@ draft: true
 ### Heterofilia
 
 Hojas normales o nomófilos de una misma planta de tamaño y forma diferentes (polimorfismo)
+
+![Heterofilia en *Syngonium*. Gobatti ([s. f.](https://lucasgobatti.46graus.com/channel/heterofilia-foliar-botanica-e-zen-budismo-GBQ1347/)).](/presentaciones/images/hoja_heterofilia_syngonium.png){#fig-hoja-partes fig-aling="center"}
 :::
 
 ::: {.column .fragment width="50%"}
 ### Anisofilia
 
 Desigualdad foliar presente en las hojas de una misma rama
+
+![Anisofilia en *Selaginella denticulata*. @tormomolina2021.](/presentaciones/images/hoja_anisofilia_selaginella.jpg){#fig-hoja-partes fig-aling="center"}
 :::
 :::
+
+hoja_anisofilia_selaginella.jpg
+
+## Partes de la hoja
+
+![Partes de la hoja. <a href="https://commons.wikimedia.org/wiki/File:Diagram_of_simple_leaf-es.svg">Assafn (traducido al español por Alexespinosaco)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/hoja_diagrama.png){#fig-hoja-partes fig-aling="center"}
+
 
 ## Tipo de hoja
 
-Dependiendo de la complejidad del limbo, las hojas se pueden clasificar en simples o compuestas.
+
 
 ::: columns
 ::: {.column width="50%"}
-### Hoja simple
+Dependiendo de la complejidad del limbo, las hojas se pueden clasificar en simples o compuestas.
 
-El limbo o lámina es continuo y sin dividir
-:::
-
-::: {.column width="50%"}
-### Hoja compuesta
-
-El limbo o lámina se divide en varias subunidades (folíolos)
-:::
-:::
+-   **Hoja simple:** limbo o lámina es continuo y sin dividir
+-   **Hoja compuesta:** limbo o lámina se divide en varias subunidades (folíolos).
 
 Distinguir los folíolos de las hojas:
 
 -   Yema en la axila de las hojas (simples y compuestas), no en la axila de los folíolos
 -   Hojas en varios planos, folíolos en el mismo plano
+:::
+
+::: {.column width="50%"}
+![Arriba y a la derecha, hoja compuesta. Abajo, hoja simple. 1. Ápice. 2. Nervadura primaria. 3. Nervadura secundaria. 4. Lámina. 5. Borde foliar. 6. Raquis. <a href="https://commons.wikimedia.org/wiki/File:Diagramed_parts_of_leaves.svg">LFrancis19</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/hoja_simple_compuesta.png){#fig-hoja-partes fig-aling="center"}
+:::
+:::
+
+## Tipo de hoja {.smaller}
+
+::: columns
+::: {.column .fragment width="50%"}
+-   **Pinnadas:** folíolos dispuestos (opuesto o alterno) en un eje central (raquis)
+    -   **Imparipinnadas:** con folíolo terminal (número impar)
+    -   **Paripinnadas:** sin folíolo terminal (número par)
+-   **Bipinnadas:** dos órdenes de ejes pinnados; eje central (raquis), ejes laterales (raquilla)
+-   **Trifoliadas:** tres folíolos; usualmente de disposición palmada-ternada
+    -   **Biternadas, triternadas, etc.:** más órdenes ternados
+    -   **Pinnado-ternadas:** un folíolo terminal en el raquis
+-   **Geminadas:** sólo dos folíolos
+    -   **Bigeminadas:** Dos raquillas, cada una con dos folíolos
+    -   **emino-pinnadas:** dos raquilla con disposición pinnada
+-   **Unifoliadas:** parecen simples, pero tienen un único folíolo claramente diferenciado del pecíolo; derivadas por reducción.
+:::
+
+::: {.column .fragment width="50%"}
+![Tipos de hoja según su complejidad. @simpson2019.](/presentaciones/images/hoja_tipos.png){#fig-hoja-complejidad fig-aling="center"}
+:::
+:::
 
 ## Filotaxia
 
@@ -142,38 +175,152 @@ Forma de la lamina. @bonifacino2021.
 
 ## Margen
 
+El borde externo de la lámina.
+
 ![Forma del margen. @bonifacino2021.](/presentaciones/images/hoja_margen.png){#fig-hoja-margen fig-aling="cente}
 
-
 ## Ápice
+
+El ~25 % distal de la lámina
 
 ![Forma del ápice. @bonifacino2021.](/presentaciones/images/hoja_apice.png){#fig-hoja-apice fig-aling="center}
 
 ## Base
 
+El ~25 % proximal de la lámina.
+
 ![Forma de la base. @bonifacino2021.](/presentaciones/images/hoja_base.png){#fig-hoja-base fig-aling="center"}
 
 ## Inseción en el tallo
 
-![Tipos de hoja según la forma de inserción. Tomado de @bonifacino2011.](/presentaciones/images/hoja_insercion.png){#fig-hoja-insercion fig-aling="center"}
+![Tipos de hoja según la forma de inserción. @bonifacino2011.](/presentaciones/images/hoja_insercion.png){#fig-hoja-insercion fig-aling="center"}
 
-## Estípulas {.smaller}
+## Estípulas
 
 > Apéndice, a menudo en forma de hoja, a cada lado de la parte basal de una hoja, o que rodea el tallo. @evert2013.
 
-![Tipos de estípulas. Tomado de @bonifacino2011.](/presentaciones/images/hoja_estipulas.png){#fig-hoja-venacion-general fig-aling="center"}
+![Tipos de estípulas. @bonifacino2011.](/presentaciones/images/hoja_estipulas.png){#fig-hoja-venacion-general fig-aling="center"}
 
 ## Venación {.smaller}
 
+::: columns
+::: {.column width="50%"}
 > Patrón de las venas y la ramificación de las venas de una hoja. @evert2013.
 
-![Terminología general de la venación de las hojas. Tomado de @simpson2019.](/presentaciones/images/hoja_venacion_general.png){fig-aling="center"}
+-   **Uninervada:** una sola vena central sin venas laterales (licofitas, equisetos, coníferas)
+-   **Dicotómica:** Ramificación en pares iguales sin nervio medio (*Ginkgo*)
+-   **Paralela:** Venas primarias y secundarias paralelas entre sí; venillas transversas (monocotiledóneas)
+    -   Penni-paralela: venas secundarias paralelas desde una vena primaria (Zingiberales).
+    -   Palmado-paralela: varias venas primarias desde un punto; secundarias paralelas (palmas tipo abanico)
+-   **Reticulada:** venillas forman una red interconectada (eudicotiledóneas)
+    -   Pinnado-reticulada: venas secundarias a lo largo de una vena primaria
+    -   Palmado-reticulada: varias venas primarias desde un punto basal
+    -   Ternado-reticulada: tres venas primarias desde un punto basal
+:::
 
-## Venación {.smaller}
+::: {.column width="50%"}
+![Terminología general de la venación de las hojas. @simpson2019.](/presentaciones/images/hoja_venacion_general.png){fig-aling="center"}
+:::
+:::
 
-![Terminología especializada de la venación de las hojas. Tomado de @simpson2019.](/presentaciones/images/hoja_venacion_especializado.png){#fig-hoja-venacion-especializado fig-aling="center"}
+## Venación
 
-## Anatomía {.smaller}
+::: columns
+::: {.column width="50%"}
+-   **Craspedódroma:** venas secundarias alcanzan el margen
+    -   Simple: todas alcanzan el margen
+    -   Semicraspedódroma: se bifurcan, una va al margen y otra se arquea
+    -   Mixta: algunas alcanzan el margen, otras no
+-   **Camptódroma:** venas secundarias no alcanzan el margen
+    -   Broquidódroma: la mayoría forma arcos hacia arriba
+    -   Eucamptódroma: se curvan, sin unirse entre sí
+    -   Cladódroma: ramificadas hacia el margen
+    -   Reticulódroma: forman una red densa
+-   **Hifódroma:** Solo visible la vena principal (costilla); venas secundarias ausentes o muy reducidas.
+:::
+
+::: {.column width="50%"}
+![Terminología especializada de la venación de las hojas. @simpson2019.](/presentaciones/images/hoja_venacion_especializado.png){#fig-hoja-venacion-especializado fig-aling="center"}
+:::
+:::
+
+::: footer
+**Basal:** desde la base. **Suprabasal:** arriba de la base. **Perfecta:** cubren ≥ 2/3 del área. **Imperfecta:** cubren < 2/3 del área.
+:::
+
+## Venación
+
+::: columns
+::: {.column width="50%"}
+-   **Paralelódroma:** Venas primarias/secundarias paralelas, convergen en el ápice
+-   **Actinódroma:** ≥3 venas primarias desde un punto (ternada/palmada)
+    -   Palinactinódroma: esas venas se ramifican adicionalmente
+    -   Marginal: llegan al margen
+    -   Reticulada: no alcanzan el margen
+-   **Flabelada:** varias venas finas se dirigen al ápice
+-   **Campilódroma:** venas primarias en arcos curvados desde la base
+-   **Acrodroma:** ≥2 venas primarias se arquean hacia el ápice (no recurvadas)
+:::
+
+::: {.column width="50%"}
+![Terminología especializada de la venación de las hojas. @simpson2019.](/presentaciones/images/hoja_venacion_especializado.png){#fig-hoja-venacion-especializado fig-aling="center"}
+:::
+:::
+
+::: footer
+**Basal:** desde la base. **Suprabasal:** arriba de la base. **Perfecta:** cubren ≥ 2/3 del área. **Imperfecta:** cubren < 2/3 del área.
+:::
+
+## Estomas
+
+::: columns
+::: {.column width="50%"}
+> Abertura en la epidermis de hojas y tallos, bordeada por dos células oclusivas, que facilita el intercambio de gases. También se utiliza para referirse al aparato estomático completo, que incluye las células oclusivas y el poro que forman. @evert2006.
+
+### Características
+
+-   Formados por dos células oclusivas o de guarda y un orificio denominado (ostiolo)
+-   Bajo las células oclusivas se encuentra la cámara subestomática
+-   Generalmente rodeados por células acompañantes, subsidiarias, o anexas
+-   El número de estomas es variable
+-   En hojas normalmente están en el envés
+-   Controlan el intercambio de gases
+:::
+
+::: {.column width="50%"}
+
+![Estomas de diferentes plantas. @megías-pacheco2017.](/presentaciones/images/estomas.png){#fig-estomas fig-align="center"}
+
+![Estomas de diferentes plantas. @megías-pacheco2017.](/presentaciones/images/estoma_lateral.jpg){#fig-estomas-lateral fig-align="center"}
+:::
+:::
+
+::: footer
+*Estoma* del griego *stóma* «boca»
+:::
+
+## Estomas: clasificación
+
+::: columns
+::: {.column width="50%"}
+Clasificados en función de la organización de las células oclusivas y las células acompañantes
+
+-   **Actinocítico:** células anexas de manera radial
+-   **Anomocítico:** sin células anexas
+-   **Anisocítico:** tres células anexas de tamaño desigual
+-   **Ciclocítico:** anillos concéntricos de células anexas
+-   **Diacítico:** dos células anexas perpendiculares a las oclusivas
+-   **Paracítico:** dos células anexas paralelamente a las oclusivas
+-   **Tetracítico:** cuatro células anexas
+-   **Poaceae:** células oclusivas en forma de mancuerna, dos células anexas pequeñas paralelamente a las oclusivas
+:::
+
+::: {.column width="50%"}
+![Clasificación de estomas. @singh2019.](/presentaciones/images/estomas_tipos.png){#fig-estomas-tipos fig-align="center"}
+:::
+:::
+
+## Anatomía
 
 ::: columns
 ::: {.column width="50%"}
@@ -192,7 +339,7 @@ Tejidos:
 
 ::: {.column width="50%"}
 
-![Esquema anatómico de una hoja. No se muestra el haz vascular. Tomado de Aibdescalzo ([2012](https://upload.wikimedia.org/wikipedia/commons/3/3c/Leaf_Tissue_Structure_es.svg)).](/presentaciones/images/hoja_anatomia.png)
+![Esquema anatómico de una hoja. No se muestra el haz vascular. <a href="https://commons.wikimedia.org/wiki/File:Leaf_Tissue_Structure_es.svg">Leaf_Tissue_Structure.svg: Zephyrisderivative work: Aibdescalzo</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/hoja_anatomia.png){#fig-hoja-esquema}
 
 :::
 :::
@@ -223,274 +370,42 @@ Tejidos:
 -   Equifacial: hay dos epidermis distintas y el mesofilo es isolateral o indiferenciado. Las caras son iguales
 -   Unifacial: hay una sola epidermis y el mesofilo es isolateral. Las caras son iguales
 
-## Heading 2
+## Hojas de Gimnospermas {.smaller}
 
 ::: columns
 ::: {.column .fragment width="50%"}
+-   Hojas simples y uninervadas
+-   Hay una forma foliar típica de gimnospermas, la hoja acicular
+    -   la lámina que es una aguja verde, recorrida por una sola vena y terminada en una punta aguda
+    -   la base concrescente con el eje al que envuelven constituyendo el cojinete foliar
+-   En Taxodiáceas, Cupresáceas y Podocarpáceas las hojas son uninervadas y escuamiforme
+
+![Corte transversal de hoja de *Pinus sp.* @megías-pacheco2017.](/presentaciones/images/hoja_pinus.png){#fig-hoja-pinus-01}
 :::
 
 ::: {.column .fragment width="50%"}
+![Hojas aciculares de *pinus* formando fascículos. <a href="https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Pinus._img-006.jpg">Dmitry Makeev</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons. y @arbo2019.](/presentaciones/images/hoja_pinus.jpg){#fig-hoja-pinus-02}
 :::
 :::
 
-## Heading2
+## Hojas de Monocotiledóneas
 
 ::: columns
 ::: {.column .fragment width="50%"}
+-   Hojas simples, generalmente enteras, con venación paralela, y la vaina está siempre bien desarrollada.
+    -   Hoja sesil y envainadora de la familia Poaceae
+    -   Hoja peciolada y envainadora de la familia Araceae
+
+![Hoja de *Syngonium podophyllum* (Araceae). @arbo2019.](/presentaciones/images/hoja_syngonium.jpg){#fig-hoja-syngonium}
 :::
 
 ::: {.column .fragment width="50%"}
+![Hoja de *Zea mays*, maíz y @arbo2019.](/presentaciones/images/hoja_monocot.jpg){#fig-hoja-zea}
 :::
 :::
 
-## Heading2
+## Importancia de las hojas
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Heading2
-
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
+![A. *Lactuca sativa* (lechuga). B *Spinacia oleracea* (espinaca). C. *Brassica oleracea* (repollo). D. *Allium cepa* (cebolla). E. *Allium fistulosum* (cebolla larga). F. *Beta vulgaris* (remolacha). G. *Petroselinum crispum* (perejil). H. *Salvia rosmarinus* (romero). I. *Origanum vulgare* (orégano). J. *Camellia sinensis* (té). K. *Ilex paraguariensis* (yerba mate). L. *Mentha aquatica*. M. *Taraxacum officinale* (diente de león).](/presentaciones/images/hoja_importancia.jpg){#fig-hoja-importancia}
 
 ## Referencías

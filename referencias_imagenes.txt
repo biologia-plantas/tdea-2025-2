@@ -122,3 +122,22 @@ Imágenes usadas en tallo_palma.jpg
 https://upload.wikimedia.org/wikipedia/commons/b/b2/Ceroxylon_quindiuense%2C_the_world%27s_tallest_monocotyledon._%2811211135095%29.jpg
 https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:665221-1/images
 
+sucesion_foliar_
+
+https://commons.wikimedia.org/wiki/File:Delonix_regia_flower_closeup.jpg
+
+hoja_importancia
+https://commons.wikimedia.org/wiki/File:Romaine_lettuce.jpg
+https://commons.wikimedia.org/wiki/File:Spinach_3.jpg
+https://commons.wikimedia.org/wiki/File:Col_repollo.jpg
+https://commons.wikimedia.org/wiki/File:Allium_cepa_004.JPG
+https://commons.wikimedia.org/wiki/File:Welsh_onion.jpg
+https://commons.wikimedia.org/wiki/File:Beta_Vulgaris_aout_2012.jpg
+https://commons.wikimedia.org/wiki/File:Μαιντανός_2681Petroselinum_crispum.JPG
+https://commons.wikimedia.org/wiki/File:Salvia_rosmarinus_(10-04-2020),_vue_rapprochée.jpg
+https://commons.wikimedia.org/wiki/File:20130525Origanum_vulgare.jpg
+https://commons.wikimedia.org/wiki/File:Csinensis.jpg
+https://commons.wikimedia.org/wiki/File:Misiones_-_Hojas_de_Yerba_Mate.jpg
+https://commons.wikimedia.org/wiki/File:Mentha_aquatica_LC0099.jpg
+https://commons.wikimedia.org/wiki/File:Karahindiba_(81084).jpg
+
