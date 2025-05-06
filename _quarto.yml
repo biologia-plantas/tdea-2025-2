@@ -78,6 +78,8 @@ website:
             href: presentaciones/raiz/
           - text: "Tallo"
             href: presentaciones/tallo/
+          - text: "Hoja"
+            href: presentaciones/hoja/
       - section: "Laboratorio"
         contents:
           # - text: "Introducción al laboratorio"
