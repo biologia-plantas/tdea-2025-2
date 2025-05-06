@@ -45,7 +45,7 @@ draft: true
 :::
 :::
 
-## Partes
+## Partes de la hoja
 
 ![Partes de la hoja. <a href="https://commons.wikimedia.org/wiki/File:Diagram_of_simple_leaf-es.svg">Assafn (traducido al español por Alexespinosaco)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/hoja_diagrama.png){#fig-hoja-partes fig-aling="center"}
 
@@ -79,23 +79,151 @@ draft: true
 > Serie de metamorfosis que experimentan los filomas de las plantas cuando se consideran a partir de los cotilédones hasta llegar a los antofilos u hojas florales. @fontquer2001.
 
 -   **Embriófilos:** hojas embrionales o cotiledones, las hojas que se forman en el embrión
--   **Catáfilos:**
--   **Prófilos:**
--   **Nomófilos:**
--   **Hipsófilos:**
--   **Antófilos:**
+-   **Catáfilos:** hojas situadas entre los embriófilos y  nomófilos, a menudo son escuamiformes
+-   **Prófilos:** primeras hojas sobre un eje lateral
+-   **Nomófilos:** hojas normales u hojas propiamente dichas,  situadas entre catáfilos e hipsófilos
+-   **Hipsófilos:** hojas situadas entre nomófilos y antófilos. Brácteas y bractéolas
+-   **Antófilos:** hojas que forman la flor
 
-## Complejidad
+## Heterofilia y anisofilia
 
 ::: columns
 ::: {.column .fragment width="50%"}
+### Heterofilia
+
+Hojas normales o nomófilos de una misma planta de tamaño y forma diferentes (polimorfismo)
 :::
 
 ::: {.column .fragment width="50%"}
+### Anisofilia
+
+Desigualdad foliar presente en las hojas de una misma rama
 :::
 :::
 
+## Tipo de hoja
+
+Dependiendo de la complejidad del limbo, las hojas se pueden clasificar en simples o compuestas.
+
+::: columns
+::: {.column width="50%"}
+### Hoja simple
+
+El limbo o lámina es continuo y sin dividir
+:::
+
+::: {.column width="50%"}
+### Hoja compuesta
+
+El limbo o lámina se divide en varias subunidades (folíolos)
+:::
+:::
+
+Distinguir los folíolos de las hojas:
+
+-   Yema en la axila de las hojas (simples y compuestas), no en la axila de los folíolos
+-   Hojas en varios planos, folíolos en el mismo plano
+
 ## Filotaxia
+
+> Disposición de las hojas en un tallo o rama. @beentje2016.
+
+![Tipo de hoja según su filotaxia.  @bonifacino2011.](/presentaciones/images/hoja_filotaxia.png){#fig-hoja-filotaxia fig-aling="center"}
+
+## Forma de la lamina
+
+::: {#fig-hoja-forma layout-nrow="2"}
+![](/presentaciones/images/hoja_lamina_1.png){fig-aling="center"}
+
+![](/presentaciones/images/hoja_lamina_2.png){fig-aling="center"}
+
+Forma de la lamina. @bonifacino2021.
+:::
+
+## Margen
+
+![Forma del margen. @bonifacino2021.](/presentaciones/images/hoja_margen.png){#fig-hoja-margen fig-aling="cente}
+
+
+## Ápice
+
+![Forma del ápice. @bonifacino2021.](/presentaciones/images/hoja_apice.png){#fig-hoja-apice fig-aling="center}
+
+## Base
+
+![Forma de la base. @bonifacino2021.](/presentaciones/images/hoja_base.png){#fig-hoja-base fig-aling="center"}
+
+## Inseción en el tallo
+
+![Tipos de hoja según la forma de inserción. Tomado de @bonifacino2011.](/presentaciones/images/hoja_insercion.png){#fig-hoja-insercion fig-aling="center"}
+
+## Estípulas {.smaller}
+
+> Apéndice, a menudo en forma de hoja, a cada lado de la parte basal de una hoja, o que rodea el tallo. @evert2013.
+
+![Tipos de estípulas. Tomado de @bonifacino2011.](/presentaciones/images/hoja_estipulas.png){#fig-hoja-venacion-general fig-aling="center"}
+
+## Venación {.smaller}
+
+> Patrón de las venas y la ramificación de las venas de una hoja. @evert2013.
+
+![Terminología general de la venación de las hojas. Tomado de @simpson2019.](/presentaciones/images/hoja_venacion_general.png){fig-aling="center"}
+
+## Venación {.smaller}
+
+![Terminología especializada de la venación de las hojas. Tomado de @simpson2019.](/presentaciones/images/hoja_venacion_especializado.png){#fig-hoja-venacion-especializado fig-aling="center"}
+
+## Anatomía {.smaller}
+
+::: columns
+::: {.column width="50%"}
+Tejidos:
+
+-   Epidermis
+    -   Estomas, tricomas, etc.
+-   Mesofilo
+    -   Clorénquima
+        -   Parénquima en empalizada y esponjoso
+    -   Esclerénquima
+    -   Colénquima
+-   Haz vascular
+    -   Xilema y floema
+:::
+
+::: {.column width="50%"}
+
+![Esquema anatómico de una hoja. No se muestra el haz vascular. Tomado de Aibdescalzo ([2012](https://upload.wikimedia.org/wikipedia/commons/3/3c/Leaf_Tissue_Structure_es.svg)).](/presentaciones/images/hoja_anatomia.png)
+
+:::
+:::
+
+## Anatomía: tipos de hoja
+
+### Según la distribución de los estomas:
+
+-   Anfistomática: estomas en ambas caras
+-   Epistomática: estomas sólo en la cara adaxial
+-   Hipostomática: estomas sólo en la cara abaxial
+
+## Anatomía: tipos de hoja
+
+### Según el mesofilo:
+
+-   Dorsiventral: parénquima en empalizada y parénquima esponjoso
+-   Isolateral:
+    -   capas de parénquima en empalizada, parénquima esponjoso y parénquima en empalizada
+    -   capas de clorénquima homogéneo, parénquima homogéneo incoloro, clorénquima homogéneo
+-   Indiferenciado: una capa de clorénquima homogéneo
+
+## Anatomía: tipos de hoja
+
+### Según la epidermis y el tipo de mesofilo:
+
+-   Bifacial: hay dos epidermis distintas y el mesofilo es dorsiventral. Las dos caras son distintas
+-   Equifacial: hay dos epidermis distintas y el mesofilo es isolateral o indiferenciado. Las caras son iguales
+-   Unifacial: hay una sola epidermis y el mesofilo es isolateral. Las caras son iguales
+
+## Heading 2
 
 ::: columns
 ::: {.column .fragment width="50%"}
