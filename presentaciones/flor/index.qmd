@@ -1,0 +1,6 @@
+---
+title: "Flor"
+# date: 2025-05-13
+format: revealjs
+bibliography: references.bib
+---
