@@ -80,6 +80,8 @@ website:
             href: presentaciones/tallo/
           - text: "Hoja"
             href: presentaciones/hoja/
+          - text: "Flor"
+            href: presentaciones/flor/
       - section: "Laboratorio"
         contents:
           # - text: "Introducción al laboratorio"
@@ -90,6 +92,8 @@ website:
             href: presentaciones/citologia-laboratorio/
           - text: "Histología"
             href: presentaciones/histologia-laboratorio/
+          - text: "Diversidad"
+            href: presentaciones/diversidad-laboratorio/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
