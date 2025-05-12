@@ -4,3 +4,259 @@ title: "Flor"
 format: revealjs
 bibliography: references.bib
 ---
+
+## La flor más conocida
+
+![Las «flores» más populares. A. El girasol (*Helianthus annuus*, Asteraceae). B. La Rosa (*Rosa spp.*, Rosaceae).](/presentaciones/images/flor_populares.jpg){#fig-flor-populares fig-align="center"}
+
+## La flor nacional de Colombia
+
+![Flor de mayo o lirio de mayo (Cattleya trianae, Orchidaceae) es la flor nacional de Colombia. Especie dedicada a José Jerónimo Triana, quizá el botánico colombiano más importante de todos los tiempos. <a href="https://commons.wikimedia.org/wiki/File:A_and_B_Larsen_orchids_-_Cattleya_trianae_503-5.jpg">Arne and Bent Larsen or A./B. Larsen</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5/dk/deed.en">CC BY-SA 2.5 DK</a>, via Wikimedia Commons.](/presentaciones/images/flor_cattleya_trianae.jpg){#fig-flor-cattleya-trianae fig-align="center"}
+
+## La flor más pequeña
+
+![*Wolffia columbiana* es una planta acuática de la familia Araceae. Es una de las plantas más pequeñas y tiene la flor más pequeña del mundo. @armstrong2023.](/presentaciones/images/flor_wolffia_columbiana.jpg){#fig-wolffia-columbiana fig-align="center"}
+
+## La flor más grande
+
+![*Rafflesia arnoldii* es una planta parásita de la familia Euphorbiaceae. Con más de 1 m diámetro es la flor más grande del mundo. <a href="https://commons.wikimedia.org/wiki/File:Rafflesia_arnoldii,_Sumatra.jpg">LukeTriton</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_rafflesia_arnoldii.jpg){#fig-wolffia-columbiana fig-align="center"}
+
+## La inflorescencia más grande
+
+![Las inflorescencias más grandes del mundo. A. Aro gigante (*Amorphophallus titanum*, Araceae), supera los 3 m de altura. B. Palma de Ceilán (*Corypha umbraculifera*, Arecaceae), entre 6 y 8 m. C. *Puya raimondii* (Bromeliaceae), alcanza hasta 10 m.](/presentaciones/images/flor_infloresencia_comparacion.jpg){#fig-infloresencia-comparacion fig-align="center"}
+
+## Flores comestibles
+
+![Algunas flores comestibles. @federaciónmexicanadejardineríayarreglofloral2022.](/presentaciones/images/flor_comestibles.jpg){#fig-flor-comestible fig-align="center"}
+
+## Flores en Colombia
+
+![Colombia es el segundo exportado de flores a nivel mundial. Cuenta con más 60 especies de flores y más de 1.300 variedades. Agronegocios ([2023](https://www.agronegocios.co/agricultura/colombia-entre-los-reyes-de-la-exportacion-de-ramos-de-flores-en-el-mundo-3578195), [2025a](https://www.agronegocios.co/agricultura/exportacion-de-flores-para-el-dia-de-san-valentin-crecio-13-respecto-al-ano-pasado-4059715), [2025b](https://www.agronegocios.co/agricultura/colombia-triplico-exportacion-de-flores-a-diferentes-paises-por-dia-de-la-madre-4131096)), @córdoba2025.](/presentaciones/images/flores_colombia.jpg){#fig-flores-colombia fig-align="center"}
+
+## Qué es una flor
+
+::: columns
+::: {.column .fragment width="50%"}
+> Estructura reproductiva de las plantas con flores; vastago modificado y determinado que porta esporófilos (estambres y/o carpelos), con o sin hojas modificadas externas, denominadas perianto (sépalos y pétalos). @simpson2019
+:::
+
+::: {.column .fragment width="50%"}
+![Diversidad de flores. *Anthericum liliago* (Liliaceae), *Oxalis pes-caprae* (Oxalidaceae), *Nerium oleander* (Apocynaceae), *Lantana camara* (Verbenaceae), *Anagallis arvensis* (Primulaceae), *Verbascum sinuatum* (Scrophulariaceae), *Malva sylvestris* (Malvaceae), *Scolymus hispanicus* (Asteraceae), *Erodium malacoides* (Geraniaceae), *Convolvulus arvensis* (Convolvulaceae), *Hebe x franciscana* (Plantaginaceae), *Zantedeschia aethiopica* (Araceae). <a href="https://commons.wikimedia.org/wiki/File:Flower_poster_2.jpg">Alvesgaspar</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_diversidad.jpg){#fig-flor-diversidad fig-align="center" width="50%"}
+:::
+:::
+
+## Flor: partes
+
+![Partes de una flor ideal. <a href="https://commons.wikimedia.org/wiki/File:Mature_flower_diagram-es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_diagrama.svg){#fig-flor-partes fig-align="center"}
+
+## Flor: ejemplo
+
+![Mortiño (*Vaccinium meridionale*, Ericaceae). A. Inflorescencia. B. morfología de la flor. C. Grano de polen. D. Polen sobre la cabeza de *Apis mellifera*. @chamorro2015.](/presentaciones/images/flor_vaccinium_meridionale.jpg){#fig-flor-vaccinium-meridionale fig-align="center"}
+
+## Flor: verticilos y componentes
+
+::: columns
+::: {.column .fragment width="50%"}
+-   **Verticilo:** conjunto de hojas que se insertan en un mismo nudo
+
+| Verticilos | Componentes |
+|------------|-------------|
+| Cáliz      | Sépalos     |
+| Corola     | Pétalos     |
+| Androceo   | Estambres   |
+| Gineceo    | Carpelos    |
+
+: Verticilos y componentes de la flor. {#tbl-verticilo-componentes}
+
+-   **Perianto:** conjunto de cáliz y corola
+-   **Perigonio:** cáliz y corola indistinguibles (tépalos)
+-   **Completa:** presenta todos los verticilos
+-   **Incompleta:** carece de algún verticilo
+:::
+
+::: {.column .fragment width="50%"}
+![Una flor reducida a sus componentes. 1. Receptáculo. 2. Sépalos. 3. Pétalos. 4. Estambres. 5. Pistilo. <a href="https://commons.wikimedia.org/wiki/File:Bluete-Schema.svg">Denniss, Rainer Zenz, Petr Dlouhý</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_esquema.svg){#fig-flor-esquema fig-align="center"}
+:::
+:::
+
+## Perianto: cáliz y corola
+
+::: columns
+::: {.column .fragment width="50%"}
+-   El perianto (o perigonio) es el conjunto más externo de hojas modificadas no reproductivas de una flor
+-   Protege los órganos florales jóvenes y favorecer la polinización
+-   Ausente en algunas plantas con flores muy pequeñas y reducidas
+-   Origen en el meristema apical floral, en forma de primordios foliares
+-   Puede conservar características foliares:
+    -   **Sépalos:** generalmente verde, con estomas y venas
+    -   **Pétalos:** con venas y a veces estomas vestigiales
+-   Puede modificarse drásticamente durante el desarrollo y perder su apariencia de hoja
+-   Arreglo **espiralado** o **verticilado**
+:::
+
+::: {.column .fragment width="50%"}
+![A y B. Se distinguen claramente los pétalos y los sépalos. C. Como no es posible diferenciarlos, se denominan tépalos.](/presentaciones/images/flor_perianto.jpg){#fig-flor-perianto fig-align="center" width="30%"}
+:::
+:::
+
+## Perianto: ciclicidad y merosidad
+
+::: columns
+::: {.column .fragment width="50%"}
+### Ciclicidad: número de verticilos
+
+-   **Uniseriado** (1 verticilo), **biseriado** (2 verticilos), **triseriado** (3 verticilos), **tetraseriado** (4 verticilos), **multiseriado** (\> 3 verticilos)
+-   **Diclámideo** (cáliz y corola distintas), **homoclámideo** (cáliz y corola similares)
+:::
+
+::: {.column .fragment width="50%"}
+### Merosidad: número de piezas
+
+-   **Isómero** (igual número en ambos verticilos), **anisómero** (diferente número entre verticilos)
+-   **Bímero** (2 piezas), **trímero** (3 piezas), **tetrámero** (4 piezas), **pentámero** (5 piezas)
+
+:::
+:::
+
+::: fragment
+**Aclámideo** (sin perianto), **apetáleo** (sin pétalos), **asepáleo** (sin sépalos)
+:::
+
+::: fragment
+![Perianto: ciclicidad y merosidad. @simpson2019.](/presentaciones/images/flor_perianto_ciclos.png){#fig-flor-perianto-ciclos fig-align="center"}
+:::
+
+::: footer
+del latín clamide: vestidura
+:::
+
+## Perianto: fusión
+
+::: columns
+::: {.column .fragment width="50%"}
+### Sin fusión
+
+-   **Aposepáleo** (corisepáleo): sépalos libres
+-   **Apopetáleo** (coripetáleo): pétalos libres
+-   **Apotepáleo** (coritepáleo): tépalos libres
+:::
+
+::: {.column .fragment width="50%"}
+### Con fusión
+
+-   **Sinsépalo** (gamosépalo): sépalos fusionados
+-   **Simpetáleo** (gamopetáleo): pétalos fusionados
+-   **Sintepáleo** (gamotepáleo): tépalos fusionados
+:::
+:::
+
+::: fragment
+![Fusión del perianto. La fusión forma una estructura tubular. Si la fusión es parcial, se forma un tubo basal del cual emergen lóbulos. @simpson2019. ](/presentaciones/images/flor_perianto_fusion.png){#fig-flor-perianto-fusion fig-align="center"}
+:::
+
+## Perianto: tipos
+
+::: columns
+::: {.column .fragment width="30%"}
+-   El tipo de perianto describe su forma y estructura general
+-   Usualmente se basa en la corola, por lo que a menudo podría llamarse también tipo de corola
+-   Se tiene en cuenta forma, grado de fusión, orientación y merosidad
+-   Diagnóstico en algunos clados de angiospermas y refleja adaptaciones (polinización)
+:::
+
+::: {.column .fragment width="70%"}
+![Tipos de perianto/partes (c.s. = sección transversal; l.s. = sección longitudinal). @simpson2019.](/presentaciones/images/flor_perianto_tipos.png){#fig-flor-perianto-tipos fig-align="center" width="70%"}
+:::
+:::
+
+## Androceo
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Verticilo floral que comprende todos los estambres
+-   Se inicia como un primordio en el meristema apical floral
+-   **Estambre**, interpretado como una hoja modificada portadora de esporangios (microsporófilo)
+    -   Estambres laminares
+        -   Forma aplanada y foliosa. Dos tecas en la cara adaxial
+    -   Estambres filamentosos
+        -   Forma cilíndrica o filiforme. Poseen un filamento y una antera
+    -   Estaminodios
+        -    No funcionales. Pueden parecer fértiles o estar modificados
+:::
+
+::: {.column .fragment width="50%"}
+![Tipos y partes de los estambres. @simpson2019.](/presentaciones/images/flor_androceo_tipos.png){#fig-flor-androce-tipos fig-align="center"}
+
+![Partes de un estambre filamentoso y estructura de una antera. @bonifacino2021.](/presentaciones/images/flor_androceo.png){#fig-flor-androceo fig-align="center"}
+:::
+:::
+
+::: footer
+Androceo (del latín androecium, y este del griego ἀνήρ, ἀνδρός = 'varón' y οἰκίον = 'casa')
+:::
+
+## Estambre: ciclicidad y posición
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Ciclicidad
+    -   Uniseriado, biseriado, triseriado, tetraseriado
+-   Posición relativa a otras piezas florales
+    -   **Antisépalo:** frente a los sépalos
+    -   **Alternipétalo:** entre los pétalos
+    -   **Antipétalo:** frente a los pétalos
+    -   **Alternisépalo:** entre los sépalos
+:::
+
+::: {.column .fragment width="50%"}
+-   Posición relativa a ciclicidad y número
+    -   **Haplostémono:** un verticilo, opuestos a sépalos
+    -   **Obhaplostémono:** un verticilo, opuestos a pétalos
+    -   **Diplostémono:** dos verticilos: externo antisépalo, interno antipétalo
+    -   **Obdiplostémono:** dos verticilos: externo antipétalo, interno antisépalo
+:::
+:::
+
+::: fragment
+![Ciclicidad del estambre (uniseriado o biseriado) y posición @simpson2019.](/presentaciones/images/flor_androceo_ciclos.png){#fig-flor-androceo-ciclos fig-align="center" width="75%"}
+:::
+
+## Anteras: estructura y tipos
+
+::: columns
+::: {.column .fragment width="50%"}
+-   Unidades que contienen el polen
+-   Ubicadas en los estambres de la mayoría de las angiospermas
+-   2 tecas, cada una con 2 microsporangios. Los microsporangios se fusionan en lóculos
+-   Conectivo: tejido entre las tecas
+-   Tipos de anteras
+    -   Ditecal: 2 tecas, 4 microsporangios
+    -   Monotecal: 1 teca, 2 microsporangios
+    -   Polinia: masas de polen fusionadas en una sola unidad
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Polen
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Heading2
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Referencias
