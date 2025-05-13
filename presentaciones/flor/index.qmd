@@ -79,6 +79,25 @@ bibliography: references.bib
 :::
 :::
 
+## Flor: simetría
+
+Evaluación de la presencia y del número de planos de simetría con imagen especular.
+
+-   Actinomorfas, radial, regular, polisimétricas: 3 o más planos de simetría
+-   Birradial, disimétrica: exactamente dos planos de simetría
+-   Zigomorfa, bilateral, irregular,monosimétrica: un solo plano de simetría
+-   Asimétrica: ningún plano de simetría
+
+![Tipos de simetría de la flor. @simpson2019.](/presentaciones/images/flor_simetria.png){#fig-flor-simetria fig-aling="center"}
+
+## Flor: simetría
+
+![Izquierda, flor normal de Streptocarpus (cigomorfa o con simetría especular). Derecha, flor pelórica (con simetría radial) en la misma planta.](/presentaciones/images/flor_simetria_ejemplo.jpg){#fig-flor-simetria-ejemplo fig-aling="center"}
+
+::: footer
+Peloría: aberración en la que una planta que normalmente produce flores zigomorfas desarrolla flores actinomorfas
+:::
+
 ## Perianto: cáliz y corola
 
 ::: columns
@@ -228,35 +247,229 @@ Androceo (del latín androecium, y este del griego ἀνήρ, ἀνδρός = 'v
 -   Unidades que contienen el polen
 -   Ubicadas en los estambres de la mayoría de las angiospermas
 -   2 tecas, cada una con 2 microsporangios. Los microsporangios se fusionan en lóculos
--   Conectivo: tejido entre las tecas
+:::
+
+::: {.column .fragment width="50%"}
 -   Tipos de anteras
     -   Ditecal: 2 tecas, 4 microsporangios
     -   Monotecal: 1 teca, 2 microsporangios
     -   Polinia: masas de polen fusionadas en una sola unidad
 :::
+:::
+
+::: columns
+::: {.column .fragment width="50%"}
+![Antera en sección transversal. 1. Filamento. 2. Teca. 3. Conectivo. 4. Saco polínico (también llamado esporangio). <a href="https://commons.wikimedia.org/wiki/File:Anther-schematic.svg">Original: Ben Stefanowitsch Vector:  TilmannR</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons.](/presentaciones/images/flor_antera_esquema.svg){#fig-antera-esquema fig-align="center" width="50%"}
+:::
 
 ::: {.column .fragment width="50%"}
+![Corte transversal de antera de *Digitalis purpurea* (Scrophulariaceae). @megías-pacheco2017.](/presentaciones/images/flor_antera_corte.png){#fig-antera-corte fig-align="center"}
 :::
 :::
+
+## Estambres: ejemplos
+
+![A. *Hemerocallis sp.* (Asphodelaceae). B. *Canna sp.* (Cannaceae).](/presentaciones/images/flor_estambres.jpg){#fig-flor-estambres fig-align="center"}
 
 ## Polen
 
+:::: {.columns}
+::: {.column .fragment width="50%"}
+> Células de forma y dimensión variables, dotadas de una cubierta muy resistente o esporodermis, que se forman dentro de los sacos polínicos del estambre y tiene como misión, una vez formado el microgametófito pluricelular, fecundar el óvulo. @saenz-laín2004.
+
+![Formación del grano de polen @megías-pacheco2017.](/presentaciones/images/polen_formacion.png){#fig-polen-formacion fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+![Diversidad del polen. @suárez-cervera2008.](/presentaciones/images/polen_diversidad.jpg){#fig-polen-diversidad fig-align="center"}
+:::
+::::
+
+## Morfología polínica
+
+:::: {.columns}
+::: {.column width="50%" .fragment .r-stretch}
+### Unidad polínica
+
+![Polaridad y distintos grados de agrupación del polen. **1.** Polaridad; **2-7.** Tétradas; **2.** linear; **3.** tetraédrica; **4.** decusada; **5.** tetragonal; **6.** romboidal; **7.** en forma de T; **8.** díada; **9.** másula; **10.** polinia; **11-12.** políada. @trigo-pérez2008.](/presentaciones/images/polen_unidad_polinica.jpg){#fig-polen-unidad-polinica fig-align="center"}
+:::
+
+::: {.column width="50%" .fragment .r-stretch}
+### Aberturas (Sistema NPC)
+
+![Sistema NPC (**N.** Número; **P.** Posición; **C.** Carácter o forma) para la clasificación de las aberturas propuesto por @erdtman1969.](/presentaciones/images/polen_sistema_npc.jpg){#fig-polen-sistema-npc fig-align="center"}
+:::
+::::
+
+## Morfología polínica
+
+:::: {.columns}
+::: {.column .fragment width="50%"}
+### Estructura y ornamentación
+
+\
+
+\
+
+\
+
+![Estructura de la pared del polen (esporodermis). @halbritter2018.](/presentaciones/images/polen_exina_esquema.png){#fig-exina-esquema fig-align="center"}
+:::
+
+::: {.column .fragment width="50%"}
+### Polaridad, simetría, forma, tamaño
+
+![Tamaño de los granos de polen. @halbritter2018.](/presentaciones/images/polen_tamano.png){#fig-polen-tamaño fig-align="center" width="50%"}
+:::
+::::
+
+## Polen: miscrocopio óptico
+
+![Granos de polen. *Taraxacum sp.* (Asteraceae), *Lythrum salicaria* (Lythraceae), *Brassica napus* (Brassicaceae), *Tilia × europaea* (Malvaceae), *Silene dioica* (Caryophyllaceae), *Crataegus monogyna* (Rosaceae). @jobson2020.](/presentaciones/images/polen_OM.jpg){#fig-polen-OM fig-align="center"}
+
+## Polen: microscopio electrónico de barrido (SEM)
+
+![Granos de polen. Girasol (*Helianthus annuus*, Asteraceae), batatilla (*Ipomoea purpurea*, Convolvulaceae), Malva real (*Alcea rosea*, Malvaceae), Azucena (*Lilium auratum*, Liliaceae), Primavera de jardín (*Oenothera fruticosa*, Onagraceae), y Ricino (*Ricinus communis*, Euphorbiaceae). <a href="https://commons.wikimedia.org/wiki/File:Misc_pollen_colorized.jpg">Dartmouth Electron Microscope Facility, Dartmouth College</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/polen_SEM.jpg){#fig-polen-OM fig-align="center"}
+
+## Gineceo: de carpelos y pistilos
+
+::: {.fragment fragment-index="1"}
+> [Gineceo: El conjunto de todos los carpelos. @evert2013.]{.fragment fragment-index="1"} [Verticilo femenino de una flor. El(los) pistilo(s). @beentje2016.]{.fragment fragment-index="4"}
+:::
+
+::: {.fragment fragment-index="2"}
+> Carpelo: unidad del gineceo. Megasporofila modificada, típicamente conduplicada (doblada longitudinalmente a lo largo de la vena media), que encierra uno o más óvulos. @simpson2019.
+:::
+
+::: {.fragment fragment-index="3"}
+> Pistilo: en flores apocárpicas, unidad del carpelo, estilo y estigma separados. En flores sincárpicas, todo el gineceo. Órgano femenino de la flor, cuando está completo consiste de ovario, estilo y estigma. @beentje2016
+:::
+
+::: {.fragment fragment-index="5"}
+![Gineceo: desarrollo del carpelo . (c .s . = sección transversal) @simpson2019.](/presentaciones/images/flor_gineceo.png){#fig-flor-gineceo fig-align="center" width="60%"}
+:::
+
+## Gineceo: carpelos, fusión y lóculos {.smaller}
+
+-   Lóculos = cavidades del ovario
+    -   Unilocular o plurilocular
+-   Gineceo apocárpico o unicarpelar
+    -   n.º de carpelos = n.º de pistilos = n.º de lóculos 
+-   Gineceo sincárpico:
+    -   Si hay ≥2 estilos/estigmas → n.º de carpelos = n.º de estilos/estigmas, n.º de lóculos variable
+    -   Si hay 1 estilo/estigma → n.º de carpelos = n.º de lóculos = n.º de placentas
+
+![Fusión del gineceo, número de carpelos y lóculos. @simpson2019.](/presentaciones/images/flor_gineceo_fusion.png){#fig-gineceo-fusion fig-aling="center"}
+
+::: footer
+Apocárpico: carpelos libres, Sincárpico: carpelos fusionados
+:::
+
+## Gineceo: carpelos, fusión y lóculos
+
+![A. Flor de *Helleborus* (Ranunculaceae) orientalis tras la fecundación. B. Corte transversal del ovario de *Narcissus* (Amaryllidaceae).](/presentaciones/images/flor_carpelos_ejemplo.jpg){#fig-gineceo-carpelos-ejemplo fig-aling="center"}
+
+## Posición del ovario y posición del perianto/androceo
+
 ::: columns
 ::: {.column .fragment width="50%"}
+### Posición del ovario
+
+Evalúa la ubicación o disposición del ovario en relación con las demás partes florales: hipantio, cáliz, corola y androceo.
+
+Ovario súpero, ovario ínfero, ovario semiínfero
 :::
 
 ::: {.column .fragment width="50%"}
+### Posición del perianto/androceo
+
+Describe la ubicación del perianto y el androceo en relación tanto con el ovario como con el hipantio, si este está presente.
+
+Sin hipantio: hipógino, epígino, epihipógino. Con hipantio: perígino, epiperígino
 :::
 :::
 
-## Heading2
+::: fragment
+![Posición del gineceo, androceo y perianto. @simpson2019.](/presentaciones/images/flor_gineceo_posicion.png){#fig-gineceo-posicion fig-aling="center" width="75%"}
+:::
+
+::: footer
+Hipantio: estructura en forma de copa o tubular alrededor o encima del ovario, que lleva a lo largo de su margen los sépalos, pétalos y estambres.
+:::
+
+## Posición del ovario y posición del perianto/androceo
+
+![Diferntes posiciones del ovario y del perianto/androceo. Digital Flowers ([s. f.](https://www.life.illinois.edu/help/digitalflowers/)).](/presentaciones/images/flor_ovario_posicion.jpg){#fig-flor-ovario-posicion fig-aling="center"}
+
+## Placentación
+
+Disposición de los óvulos según el número y posición de placenta, septos y lóculos
+
+![Gineceo . A. Placentación . (c .s . = sección transversal; l .s . = sección longitudinal). @simpson2019.](/presentaciones/images/flor_gineceo_placentacion.png){#fig-gineceo-placentacion fig-aling="center"}
+
+## Ovulo
 
 ::: columns
 ::: {.column .fragment width="50%"}
+Los óvulos son semillas inmaduras, y consisten técnicamente en un megaesporangio envuelto por uno o más tegumentos.
+
+-   Nucela: megasporangio donde se desarrolla el gametofito femenino
+-   Integumento(s): cubiertas que rodean la nucela
+-   Micrópilo: abertura por donde entra el tubo polínico
+-   Funículo: pedicelo que conecta el óvulo con la placenta
+-   Rafe: cresta formada por la unión del funículo a la integumentación
 :::
 
 ::: {.column .fragment width="50%"}
+![Esquema de un óvulo en gimnospermas y angiospermas. <a href="https://commons.wikimedia.org/wiki/File:Ovule-Gymno-Angio-es.svg">obra derivada: nahuel9m (contacto)Ovule-Gymno-Angio-fr.svg: The original uploader was Tameeria at English Wikipedia.. Translation and vectorisation by Cehagenmerak.</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_gineceo_ovulo.svg){#fig-gineceo-ovulo fig-aling="center"}
+
 :::
 :::
+
+::: fragment
+![Tipos de ovulo: anátropo, ortótropo, hemitropo, campilótropo, anfitropo. @simpson2019.](/presentaciones/images/flor_gineceo_ovulo_tipos.png){#fig-gineceo-ovulo-tipos fig-aling="center" width="30%"}
+:::
+
+## Gineceo: ejemplo
+
+![A. y B. Corte transversal de ovario de *Digitalis purpurea* (Scrophulariaceae). C. Corte longitudinal de *Iris sp.* (Iridaceae). @megías-pacheco2017.](/presentaciones/images/flor_gineceo_corte.png){#fig-gineceo-corte fig-align="center"}
+
+## Sexo {.smaller}
+
+::: fragment
+::: columns
+::: {.column width="50%"}
+### de la flor
+
+-   perfecta o bisexual (4)
+    -   carpelos y estambres
+-   imperfecta o unisexual
+    -   carpelos: pistilada (6)
+    -   estambres: estaminada (5)
+
+### de la planta
+
+-   hermafrodita (1)
+-   dioica (3 y 8)
+-   monoica (2 y 7)
+:::
+
+::: {.column width="50%"}
+![Sexo de la flor y de la planta. Tomado de @tormomolina2021.](/presentaciones/images/flor_sexualidad.jpg){#fig-flor-sexo fig-aling="center"}
+:::
+:::
+:::
+
+# {background-color="white" background-image="/presentaciones/images/flor_meme.jpg" background-size="contain"}
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencias
