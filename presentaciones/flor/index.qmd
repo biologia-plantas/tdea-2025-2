@@ -462,14 +462,19 @@ Los óvulos son semillas inmaduras, y consisten técnicamente en un megaesporang
 
 # {background-color="white" background-image="/presentaciones/images/flor_meme.jpg" background-size="contain"}
 
-<!-- ## Heading2 -->
+## Heading2
 
-<!-- ::: columns -->
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
+::: columns
+::: {.column .fragment width="50%"}
+> Parte de la planta que porta las flores, incluyendo todas sus brácteas, ramas y flores, pero excluyendo las hojas no modificadas. @beentje2016.
 
-<!-- ::: {.column .fragment width="50%"} -->
-<!-- ::: -->
-<!-- ::: -->
+-   Aumenta la eficiencia reproductiva
+-   
+
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
 
 ## Referencias
