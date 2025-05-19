@@ -467,28 +467,94 @@ Los óvulos son semillas inmaduras, y consisten técnicamente en un megaesporang
 ::: columns
 ::: {.column .fragment width="50%"}
 > Parte de la planta que porta las flores, incluyendo todas sus brácteas, ramas y flores, pero excluyendo las hojas no modificadas. @beentje2016.
+:::
 
+::: {.column .fragment width="50%"}
 -   Aumenta la eficiencia reproductiva
 -   Partes: bráctea, pedúnculo, raquis
 -   Posición: axilar, terminal, cauliflora
 -   Desarrollo: indeterminado, determinado
 :::
+:::
 
-::: {.column .fragment width="50%"}
-:::
-:::
+![1. Flores solitarias, 2. Fasciculadas, 3. Racemosa, 4. Cimosa. @tormomolina2021.](/presentaciones/images/flor_inflorescencias.jpg){#fig-inflorescencia fig-aling="center"}
 
 ## Inflorescencia: tipos
 
 ::: columns
+::: {.column .fragment width="40%"}
+-   **Simples:** sólo presentan ramificaciones de primer orden
+    -   **Definidas, cerradas o cimosas:** el eje presenta una flor terminal
+        -   Monocasio, dicasio, pleocasio
+    -   **Indefinidas, abiertas o racemosas:** el eje no presenta una flor terminal
+        -   Racimo, espiga, amento, espádice, corimbo, umbela, cabezuela
+-   **Compuestas:** tienen más de un orden de ramificación
+    -   Panicula, umbela compuesta, corimbo compuesto, verticilastro
+
+:::
+
+::: {.column .fragment width="60%"}
+![Tipos de inflorescencias. @tormomolina2021.](/presentaciones/images/flor_inflorescencias_tipos.png){#fig-inflorescencia-tipos fig-aling="center"}
+:::
+:::
+
+## Inflorescencia simple indefinida: racimo
+
+Un solo eje que porta flores pediceladas
+
+::: columns
+::: {.column .fragment width="30%"}
+![Esquema de un racimo. <a href="https://commons.wikimedia.org/wiki/File:Traube_(inflorescence).svg">Amada44</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_racimo_esquema.svg){#fig-inflorescencia-racimo-01 fig-aling="center"}
+:::
+
+::: {.column .fragment width="70%"}
+![*Brassica rapa* (Brassiceae) ejemplo de un racimo. <a href="https://commons.wikimedia.org/wiki/File:Brassica_rapa_(7490657798).jpg">Matt Lavin from Bozeman, Montana, USA</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_racimo_ejemplo.jpg){#fig-inflorescencia-racimo-02 fig-aling="center"}
+:::
+:::
+
+## Inflorescencia simple indefinida: espiga
+
+Un solo eje que porta flores sésiles
+
+::: columns
 ::: {.column .fragment width="50%"}
+![Esquema de un espiga <a href="https://commons.wikimedia.org/wiki/File:Inflorescences_Spike_Kwiatostan_K%C5%82os.svg">Original: Danielm Vector:  Shazz</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_espiga_esquema.svg){#fig-inflorescencia-espiga-01 fig-aling="center"}
 :::
 
 ::: {.column .fragment width="50%"}
+![Llante, *Plantago major* (Plantaginaceae) ejemplo de una espiga <a href="https://commons.wikimedia.org/wiki/File:Broadleaf_Plantain_Spike.jpg">Sanjay Acharya</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_espiga_ejemplo.jpg){#fig-inflorescencia-espiga-02 fig-aling="center" width="50%"}
 :::
 :::
 
-## Heading2
+## Inflorescencia simple indefinida: amento
+
+Un solo eje péndulo que porta flores unisexuales
+
+::: columns
+::: {.column .fragment width="30%"}
+![Esquema de un amento. <a href="https://commons.wikimedia.org/wiki/File:K%C3%A4tzchen_(inflorescence).svg">Original:  Supermartl Vector:  Amada44</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_amento_esquema.svg){#fig-inflorescencia-amento-01 fig-aling="center"}
+:::
+
+::: {.column .fragment width="70%"}
+![Sauce llorón, *Salix humboldtiana* (Salicaceae) ejemplo de un amento. <a href="https://commons.wikimedia.org/wiki/File:Salix_humboldtiana_(8643642931).jpg">Dick Culbert from Gibsons, B.C., Canada</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_amento_ejemplo.jpg){#fig-inflorescencia-amento-02 fig-aling="center"}
+:::
+:::
+
+## Inflorescencia simple indefinida: espádice
+
+Un eje central engrosado o carnoso, típicamente con flores congestionadas
+
+::: columns
+::: {.column .fragment width="30%"}
+![Esquema de un espádice. <a href="https://commons.wikimedia.org/wiki/File:Kolben_(inflorescence).svg">Amada44</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_espadice_esquema.svg){#fig-inflorescencia-espadice-01 fig-aling="center"}
+:::
+
+::: {.column .fragment width="70%"}
+![Cartucho o cala, *Zantedeschia aethiopica* (Araceae) ejemplo de un espádice. <a href="https://commons.wikimedia.org/wiki/File:Funchal_-_Zantedeschia_aethiopica_IMG_1904.JPG">Hedwig Storch</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_espadice_ejemplo.jpg){#fig-inflorescencia-espadice-02 fig-aling="center"}
+:::
+:::
+
+## Inflorescencia simple indefinida: corimbo
 
 ::: columns
 ::: {.column .fragment width="50%"}
@@ -498,7 +564,47 @@ Los óvulos son semillas inmaduras, y consisten técnicamente en un megaesporang
 :::
 :::
 
-## Heading2
+## Inflorescencia simple indefinida: umbela
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Inflorescencia simple indefinida: cabezuela
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Inflorescencia simple definida: monocasio
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Inflorescencia simple definida: dicasio
+
+::: columns
+::: {.column .fragment width="50%"}
+:::
+
+::: {.column .fragment width="50%"}
+:::
+:::
+
+## Inflorescencia simple definida: pleocasio
 
 ::: columns
 ::: {.column .fragment width="50%"}
