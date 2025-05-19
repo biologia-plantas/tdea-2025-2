@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="360">
+<g id="c"><g id="b"><g id="a">
+<path stroke="#0D0" stroke-width="2.4" d="m10,56 30-22m0,13 30,22"/>
+<path fill="#0D0" d="m20,34 12-4h8v4m0,9h8l12,4H40m120,0-9-5-21,13 21-8m9,13 9-5 21,13-21-8"/>
+<path fill="none" stroke="#F00" stroke-width="18" stroke-linecap="round"
+d="m10,56h0m140,0h0M70,69h0m100,0h0"/></g>
+<use xlink:href="#a" transform="translate(0,26)"/></g>
+<use xlink:href="#b" transform="translate(0,52)"/></g>
+<use xlink:href="#c" transform="translate(0,104)"/>
+<use xlink:href="#c" transform="translate(0,182)"/>
+<path stroke="#0D0" stroke-width="3" d="m40,3v330m120,10V3"/>
+</svg>
