@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="606" height="400">
+<path fill="none" stroke="#0C0" stroke-width="3" d="m16,80
+284,134-230-157m57-18 175,175-117-188m56-8 58,196V16m60,2-60,196
+119-188m59,13-178,175 232-157m55,23-285,134v182h-2V214"/>
+<path fill="#0C0" d="m257,223 43-9-9,9m18,0-9-9 43,9"/>
+<path fill="none" stroke="#F00" stroke-width="32" stroke-linecap="round"
+stroke-dasharray="0,59" d="m16,80a663,663 0 0,1 571,1"/>
+</svg>
