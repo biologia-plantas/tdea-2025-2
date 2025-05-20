@@ -498,6 +498,10 @@ Los óvulos son semillas inmaduras, y consisten técnicamente en un megaesporang
 :::
 :::
 
+::: footer
+Cima puede utilizarse como un término general para una inflorescencia determinada.
+:::
+
 ## Inflorescencia simple indefinida: racimo
 
 Un solo eje que porta flores pediceladas
@@ -554,6 +558,24 @@ Un eje central engrosado o carnoso, típicamente con flores congestionadas
 :::
 :::
 
+## Inflorescencia simple indefinida: espiguilla
+
+Una espiga pequeña; unidad básica de la inflorescencia en las familias Cyperaceae (ciperáceas) y Poaceae (gramíneas)
+
+::: columns
+::: {.column .fragment width="30%"}
+![Esquema de una espiguilla: 1. Glumas; 2: Lemma; 3: Arista; 4: Pálea; 5: Lodículas; 6: Androceo; 7: Gineceo. <a href="https://commons.wikimedia.org/wiki/File:Ährchen_Roggen_schema.PNG">supermartl</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_espiguilla_esquema.png){#fig-inflorescencia-espiguilla-01 fig-aling="center"}
+:::
+
+::: {.column .fragment width="30%"}
+![Trigo ,*Triticum aestivum* (Poaceae) ejemplo de una espiguilla. <a href="https://commons.wikimedia.org/wiki/File:En_Anatomia.png">Aelwyn</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_espiguilla_ejemplo_02.png){#fig-inflorescencia-espiguilla-03 fig-aling="center"}
+:::
+
+::: {.column .fragment width="40%"}
+![Dos espiguillas de avena alta de dos flores: 1. Gluma inferior. 2. Pedúnculo. 3. Gluma superior. 4. Lema de la flor superior. 5. Estigma. 6. Palea. 7. Estambres. 8. Arista. 9. Lema de la flor inferior con arista. 10. Lodículas. <a href="https://commons.wikimedia.org/wiki/File:Arrhenatherum_spikelets.jpg">Kostka Martin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_espiguilla_ejemplo_01.jpg){#fig-inflorescencia-espiguilla-02 fig-aling="center"}
+:::
+:::
+
 ## Inflorescencia simple indefinida: corimbo
 
 Un eje principal con ejes laterales y/o pedicelos que sostienen flores con forma aplanada o convexa
@@ -564,68 +586,156 @@ Un eje principal con ejes laterales y/o pedicelos que sostienen flores con forma
 :::
 
 ::: {.column .fragment width="70%"}
-![Sauce llorón, *Salix humboldtiana* (Salicaceae) ejemplo de un corimbo. <a href="https://commons.wikimedia.org/wiki/File:Salix_humboldtiana_(8643642931).jpg">Dick Culbert from Gibsons, B.C., Canada</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_corimbo_ejemplo.jpg){#fig-inflorescencia-corimbo-02 fig-aling="center"}
+![*Viburnum lantana* (Adoxaceae) ejemplo de un corimbo. <a href="https://commons.wikimedia.org/wiki/File:(ms)_Viburnum_lantana_3.jpg">Hladac</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_corimbo_ejemplo.jpg){#fig-inflorescencia-corimbo-02 fig-aling="center" width="50%"}
 :::
 :::
 
 ## Inflorescencia simple indefinida: umbela
 
+Un eje principal en la que los pedicelos de las flores están unidos en un solo punto, de forma plana o convexa
+
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="30%"}
+![Esquema de un umbela. <a href="https://commons.wikimedia.org/wiki/File:Inflorescences_Umbel_Kwiatostan_Baldach.svg">Shazz</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_umbela_esquema.svg){#fig-inflorescencia-umbela-01 fig-aling="center"}
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="70%"}
+![*Iberis umbellata* (Brassicaceae) ejemplo de un umbela. <a href="https://commons.wikimedia.org/wiki/File:Iberis_umbellata_sl30.jpg">Stefan.lefnaer</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_umbela_ejemplo.jpg){#fig-inflorescencia-umbela-02 fig-aling="center" width="60%"}
 :::
 :::
 
 ## Inflorescencia simple indefinida: cabezuela
 
+Un eje principal ensanchado en cuyo extremo (receptáculo) nacen flores sésiles o subsésiles rodeadas de brácteas (involucro) Sinónimo: capítulo.
+
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="30%"}
+![Esquema de un cabezuela. <a href="https://commons.wikimedia.org/wiki/File:Ubor_hoofdie.svg">Nefronus</a>, CC0, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_cabezuela_esquema.svg){#fig-inflorescencia-cabezuela-01 fig-aling="center" width="50%"}
+
+![Corte transversal del capítulo de *Helianthus annuus* (Asteraceae). @arbo2019.](/presentaciones/images/flor_inflorescencia_cabezuela_ejemplo_01.jpg){#fig-inflorescencia-cabezuela-02 fig-aling="center"}
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="70%"}
+![Los tipos de flores en *Helianthus annuus* (Asteraceae). Alithographica ([2019](https://www.deviantart.com/alithographica/art/Science-Fact-Friday-Asteraceae-791976584)).](/presentaciones/images/flor_inflorescencia_cabezuela_ejemplo_02.jpg){#fig-inflorescencia-cabezuela-03 fig-aling="center"}
 :::
 :::
 
 ## Inflorescencia simple definida: monocasio
 
+Se desarrolla sólo una flor por debajo de cada flor terminal, proceso que se repite consecutivamente: cima circinada o escorpioide (ramificación en la misma dirección), cima helicoidal o helicoide (ramificación en dirección opuesta)
+
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="25%"}
+![Esquema de una cima circinada o escorpioide. <a href="https://commons.wikimedia.org/wiki/File:Sikkel_(bloeiwijze).jpg">Rasbak</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_circinada_esquema.jpg){#fig-inflorescencia-monocasio-01 fig-aling="center"}
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="25%"}
+![*Gladiolus imbricatus* (Iridaceae) ejemplo de una cima circinada. <a href="https://commons.wikimedia.org/wiki/File:Gladiolus_imbricatus_a1.jpg">Opioła Jerzy</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_circinada_ejemplo.jpg){#fig-inflorescencia-monocasio-02 fig-aling="center"}
+:::
+
+::: {.column .fragment width="25%"}
+![Esquema de una cima helicoidal o helicoide. <a href="https://commons.wikimedia.org/wiki/File:Schicht.jpg">Rasbak</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_helicoidal_esquema.jpg){#fig-inflorescencia-monocasio-03 fig-aling="center"}
+:::
+
+::: {.column .fragment width="25%"}
+![*Canna spp.* (Cannaceae) ejemplo de una cima helicoidal. <a href="https://commons.wikimedia.org/wiki/File:Canna_Endeavour_01.jpg">Claines Canna</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_helicoidal_ejemplo.jpg){#fig-inflorescencia-monocasio-04 fig-aling="center"}
 :::
 :::
 
 ## Inflorescencia simple definida: dicasio
 
-::: columns
-::: {.column .fragment width="50%"}
-:::
-
-::: {.column .fragment width="50%"}
-:::
-:::
-
-## Inflorescencia simple definida: pleocasio
+Debajo de la flor terminal, nacen dos flores pedunculadas opuestas, esta ramificación se puede repetir varias veces
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="30%"}
+![Esquema de un dicasio simple. <a href="https://commons.wikimedia.org/wiki/File:Monochasium(inflorescence).svg">Kagami</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_dicasio_simple_esquema.svg){#fig-inflorescencia-dicasio-01 fig-aling="center"}
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column .fragment width="30%"}
+![Esquema de un dicasio compuesto o cima dicotomica. <a href="https://commons.wikimedia.org/wiki/File:Dichasium_(inflorescence).svg">supermartl</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_dicasio_compuesto_esquema.svg){#fig-inflorescencia-dicasio-02 fig-aling="center"}
+:::
+
+::: {.column .fragment width="40%"}
+![*Begonia acerifolia* (Begoniaceae) ejemplo de un dicasio. <a href="https://commons.wikimedia.org/wiki/File:Begonia_acerifolia.jpg">LUFJARD</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_helicoida_ejemplo.jpg){#fig-inflorescencia-docasio-03 fig-aling="center"}
 :::
 :::
 
-## Heading2
+## Inflorescencia compuesta
+
+Agregados de inflorescencias unitarias (también llamadas “primarias” o “parciales”); cada inflorescencia unitaria es una subunidad de la inflorescencia secundaria que, en sí misma, se asemeja a un tipo de inflorescencia.
+
+-   Panícula: eje principal se ramifica una o más veces y puede sostener racimos, umbelas, corimbos o espigas
+-   Tirso: Eje principal de crecimiento indefinido que produce lateralmente ramas con estructura de cimas
+-   Umbela compuesta: más frecuente que la umbela simple
+
+![Algunos ejemplos de inflorescencias compuestas. @casaresporcel2014.](/presentaciones/images/flor_inflorescencias_compuestas.png){#fig-inflorescencia-compuesta fig-aling="center"}
+
+## Polinización
 
 ::: columns
 ::: {.column .fragment width="50%"}
+Transferencia de los granos de polen desde los microsporangios, ya sea directamente al óvulo (en gimnospermas) o al estigma (en angiospermas).
+
+Tres tipos principales:
+
+-   Anemófila (anemofilia)
+-   Zoófila (zoofilia)
+    -   Entomófila (entomofilia)
+    -   Quiropterófila (quiropterofilia)
+    -   Ornitófila (ornitofilia)
+-   Hidrófila (hidrofilia)
 :::
 
 ::: {.column .fragment width="50%"}
+![¿Cuánto de la producción mundial de alimentos depende de los polinizadores?. @owid2021.](/presentaciones/images/polinizacion_dependencia.png){#fig-polinizacion-dependencia fig-aling="center" width="75%"}
 :::
 :::
+
+## Polinización: síndrome floral {.scrollable}
+
+| **Rasgo**                       | **Polinización por viento**                    | **Polinización biótica**              |
+|--------------------|-----------------------------|-----------------------|
+| **Morfología floral**           |                                                |                                       |
+| Estigmas                        | Plumosos                                       | Simples                               |
+| Relación polen/óvulo            | Alta                                           | Baja                                  |
+| Diámetro del polen              | 10--50 μm                                      | Altamente variable (a menudo \>60 μm) |
+| Ornamentación del polen         | Lisa, con poco o nada de *pollenkitt*          | A menudo elaborada, con *pollenkitt*  |
+| Número y tipo de aperturas      | Pocas, circulares                              | Numerosas, alargadas                  |
+| Filamentos estaminales          | Largos                                         | Variables                             |
+| Néctares                        | Ausentes o reducidos                           | Presentes                             |
+| Fragancia                       | Ausente o reducida                             | Presente                              |
+| Perianto                        | Ausente o reducido                             | Llamativo                             |
+| Tipo de flor                    | Generalmente unisexual                         | Generalmente bisexual                 |
+| Estructura de la inflorescencia | Péndula, en amentos, frecuentemente condensada | Variable, a veces simple y difusa     |
+| Posición de la inflorescencia   | Lejos de la vegetación circundante             | Variable                              |
+| **Hábitat**                     |                                                |                                       |
+| Velocidad óptima del viento     | Baja a moderada                                | Cero a baja                           |
+| Humedad                         | Baja                                           | Media a alta                          |
+| Precipitación                   | Infrecuente                                    | Infrecuente a común                   |
+| Vegetación circundante          | Abierta                                        | Abierta a cerrada                     |
+| Densidad de plantas             | Moderada a alta                                | Baja a alta                           |
+
+: Comparación entre polinización por viento y polinización biótica. @culley2002. {#tbl-polinizacion}
+
+## Angiospermae: ciclo de vida
+
+![Ciclo de vida de Angiospermae. <a href="https://commons.wikimedia.org/wiki/File:Angiosperm_life_cycle_diagram-es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/angiospermae_ciclo.svg){#fig-angiospermae-ciclo-01 fig-align="center"}
+
+## Angiospermae: ciclo de vida
+
+![Ciclo de vida de Angiospermae. @nabors2006.](/presentaciones/images/angiospermae_ciclo.png){#fig-angiospermae-ciclo-02 fig-align="center"}
+
+
+
+
+<!-- ## Heading2 -->
+
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## Referencias
