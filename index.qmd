@@ -1,8 +1,8 @@
 ---
-title: "Biología de las plantas, 2025-1"
+title: "Biología de las Plantas (2025-1)"
 # subtitle: "Instituto de Biología, Universidad de Antioquia"
 description: |
-  Sitio web del curso Biología de las plantas del Instituto de Biología de la Universidad de Antioquia, 2025-1
+  Sitio web del curso Biología de las Plantas (2025-1) del Instituto de Biología de la Universidad de Antioquia.
 
 author: 
   - name: "Álex Espinosa-Correa"

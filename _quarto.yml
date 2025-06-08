@@ -8,11 +8,11 @@ execute:
   freeze: auto
 
 website:
-  title: "Biología de las plantas, 2025-1"
+  title: "Biología de las Plantas, 2025-1"
   description: |
-    Sitio web del curso Biología de las plantas del Instituto de Biología de la Universidad de Antioquia Seccional Suroeste, 2025-1
-  site-url: https://biologia-plantas.github.io/2025-1
-  repo-url: https://github.com/biologia-plantas/2025-1
+    Sitio web del curso Biología de las Plantas (2025-1) del Instituto de Biología de la Universidad de Antioquia. 
+  site-url: https://biologia-plantas.github.io/2025-1/
+  repo-url: https://github.com/biologia-plantas/2025-1/
   # repo-actions: [edit, source, issue]
 
   page-navigation: true
