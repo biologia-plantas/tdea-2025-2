@@ -1,0 +1,233 @@
+---
+title: "Raíz: laboratorio"
+# date: 2025-07-13
+format: revealjs
+bibliography: references.bib
+---
+
+# Introducción
+
+## Cuerpo primario de la planta
+
+::: columns
+::: {.column width="50%"}
+![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
+:::
+
+::: {.column width="50%"}
+![Distribución de los tejidos primarios en una planta vascular. @evert2013.](/presentaciones/images/tejidos_distribucion.png){#fig-planta-partes fig-align="center" width="65%"}
+:::
+:::
+
+## Raíz
+
+::: columns
+::: {.column width="50%"}
+![Ta Prohm, Angkor, Cambodia. <a href="https://commons.wikimedia.org/wiki/File:Tree_roots_and_temple,_Ta_Prohm,_Angkor,_Cambodia.jpg">David Sim</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.](/presentaciones/images/raiz_templo.jpg){#fig-raiz-templo fig-align="center"}
+:::
+
+::: {.column width="50%"}
+> Un órgano cilíndrico presente en prácticamente todas las plantas vasculares, compuesto por un meristemo apical que origina una cofia protectora, un sistema vascular central delimitado por la endodermis, pelos radicales epidérmicos con función de absorción y raíces laterales que se desarrollan de forma endógena. Su función principal es el anclaje y la absorción de agua y minerales. Se origina a partir de la radícula del embrión y, por lo general, crece en dirección descendente. @simpson2019.
+
+-   Primera estructura en emerger
+-   Almacenamiento
+-   Producción de hormonas y metabolitos secundarios
+-   Regeneración clonal
+-   Asociaciones simbióticas con hongos (micorrizas)
+:::
+:::
+
+## Estructura externa
+
+::: columns
+::: {.column width="50%"}
+-   **Zona de suberosa o de ramificación:** región madura, sin pelos, donde se forman las raíces laterales
+-   **Zona pilífera:** región donde se encuentran los pelos absorbentes
+-   **Zona de crecimiento o alargamiento:** región glabra donde las células se alargan rápidamente
+-   **Zona meristemática:** meristema apical de la raíz y los tres meristemás primarios
+-   **Cofia, caliptra o pilorriza:** Estructura protectora en el extremo de la raíz.
+:::
+
+::: {.column width="50%"}
+![Estructura externa de una raíz. Traducido de @renatajéssicaluizadesireè2010.](/presentaciones/images/raiz_estructura_externa.jpg){#fig-raiz-estructura-externa fig-align="center"}
+:::
+:::
+
+## Estructura interna
+
+::: columns
+::: {.column width="70%"}
+![Morfología y anatomía de la raíz. @nabors2006.](/presentaciones/images/raiz_estructura_interna.jpg){#fig-raiz-estructura-interna-01 fig-align="center"}
+:::
+
+::: {.column width="30%"}
+![Desarrollo de la raíz. @evert2013.](/presentaciones/images/raiz_crecimiento.png){#fig-raiz-estructura-interna-02 fig-align="center" width="80%"}
+:::
+:::
+
+## Estructura primaria {.smaller}
+
+::: columns
+::: {.column width="50%"}
+-   Rizodermis (epidermis)
+    -   Pelos radicales
+-   Córtex
+    -   Exodermis
+    -   Parénquima
+    -   Endodermis
+-   Estela (cilindro vascular)
+    -   Periciclo
+    -   Floema
+    -   Xilema
+    -   Medula
+
+![Estructura de una raíz primaria. @arbo2019.](/presentaciones/images/raiz_primaria.png){#fig-raiz-primaria-01 fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Organización de una raíz primaria típica de Eudicotyledoneae. @megías-pacheco2017.](/presentaciones/images/raiz_primaria.jpg){#fig-raiz-primaria-02 fig-align="center"}
+
+![Tipos de raíces en función del número de cordones de haces vasculares. @megías-pacheco2017.](/presentaciones/images/raiz-cordones.png){#fig-raiz-primaria-cordones fig-align="center" width="55%"}
+:::
+:::
+
+## Raices secundarias o laterales
+
+::: columns
+::: {.column width="50%"}
+-   Se originan en el periciclo, opuesto a los polos del protoxilema
+-   Ocurre detrás de la zona de elongación, en tejidos parcialmente o totalmente diferenciados
+-   Origen endógeno (desde el interior de la raíz principal)
+    -   Primordio radicular aumenta de tamaño y atraviesa la corteza
+    -   Desarrolla caliptra, meristemo apical y meristemos primarios en etapas tempranas
+-   La conexión vascular entre raíz lateral y raíz principal se establece posteriormente, por diferenciación del periciclo y parénquima vascular
+:::
+
+::: {.column width="50%"}
+![Surgimiento de raíz lateral. @nabors2006.](/presentaciones/images/raiz_lateral.jpg){#fig-raiz-lateral fig-align="center"}
+:::
+:::
+
+## Estructura secundaria
+
+::: columns
+::: {.column width="50%"}
+-   Presente en Gymnospermae y Angiospermae
+-   Consiste en la formación tejidos vasculares secundarios (xilema y floema) y peridermis (súber, felógeno y felodermis)
+-   Inicia en raíces que ya no se alargan con la formación del cámbium vascular (originado en el procámbium y periciclo)
+-   Perdida de córtex, endodermis y floema primario
+-   Formación de radios medulares, peridermis y lencitelas
+-   Algunas raíces pueden presentar crecimiento secundario atípico
+:::
+
+::: {.column width="50%"}
+![Crecimiento secundario de la raíz. @megías-pacheco2017.](/presentaciones/images/raiz_secundaria_esquema.png){#fig-raiz-secundaria fig-align="center"}
+:::
+:::
+
+## Monocotyledoneae vs Eudicotyledoneae
+
+![Comparación entre raíz en crecimiento primario de Eudicotyledoneae y Monocotyledoneae. @nabors2006.](/presentaciones/images/raiz_comparacion.png){#fig-raiz-comparacion fig-align="center"}
+
+## Crecimientos primario y secundario
+
+![Comparación entre raíz con crecimiento primario y secundario. @evert2013.](/presentaciones/images/raiz_primaria_secundaria.png){#fig-raiz-secundaria fig-align="center"}
+
+## Tipos de raíces
+
+Las raíces se pueden clasificar por su origen (primaria, secundaria, adventicia), morfología (axonomorfa, fasciculada, modificada), hábitat (aéreas, acuáticas, subterráneas), función (almacenamiento, haustoriales, neumatoforos.), duración (anuales, bienales o perennes).
+
+![Tipos de raíz. A. Axonomorfa. B. Fibrosa. C. Fúlcreas. D. Haustoriales. E. De reserva. F. Tabulares. G, H. Neumatoforos. @evert2013.](/presentaciones/images/raiz_tipos.png){#fig-raiz-secundaria fig-align="center"}
+
+## Sistema radicular
+
+::: columns
+::: {.column width="50%"}
+### Axonomorfo
+
+Pivotante o alorrizo
+
+-   Raíz primaria de vida larga
+-   Originada en el embrión
+-   Raíz pivotante
+-   Raíces secundarias
+-   Forma y tamaño variable
+-   Con crecimiento secundario
+:::
+
+::: {.column width="50%"}
+### Fasciculado
+
+Fibroso u homorrizo
+
+-   Raíz primaria de vida corta
+-   Originada en el tallo
+-   Raíces adventicias
+-   Pueden ser ramificadas
+-   Forma y tamaño homogéneo
+-   Sin crecimiento secundario
+:::
+:::
+
+![Ejemplos de sistema radicular. GDJ ([2021](https://pixabay.com/es/vectors/plantas-ra%C3%ADces-l%C3%ADnea-arte-botánica-6088466/)).](/presentaciones/images/raiz_sistemas.png){#fig-raiz-sistemas fig-align="center"}
+
+::: footer
+Raíz adventicia: raíz que no se no se origina en la radícula
+:::
+
+# Procedimiento
+
+## Sistema radicular
+
+-   En diferentes plantas, ubique la raíz primaria y las raíces secundarias e identifique que sistema radicular posee (axonomorfo o fasciculado).
+
+## Raíces modificadas
+
+-   En diferentes plantas identifique las modificaciones que pueda presentar la raíz, así como el tipo al que pertenezca (haustorios, raíces acuáticas, tuberosa, entre otras)
+
+## Estructura externa de la raíz
+
+-   En una plantula de *Raphanus sativus* identifique las siguientes regiones: cofia, meristemo apical, zona de elongación y diferenciación, zona pilífera, zona suprapilífera y cuello.
+
+## Raíz de Eudicotyledoneae
+
+-   Cortes transversales con Safranina y Azul Alcián de raíces de *Phaseolus vulgaris* o cualquier otra Eudicotyledoneae. Observe e identifique: epidermis, parénquima cortical, endodermis (distinga las bandas de Caspary y las células de paso), periciclo, cambium vascular, floema primario, xilema primario. Así mismo identifique si hay raices laterales.
+
+## Raíz de Monocotyledoneae
+
+-   Cortes transversales con Safranina y Azul Alcián de raíces de *Zea mays*, *Monstera deliciosa* y Orchidaceae. Observe e identifique: epidermis, exodermis (si existe), córtex, velamen (si existe), endodermis, floema, xilema, médula.
+
+![Corte transversal de una raíz de Monocotyledoneae. @megías-pacheco2017.](/presentaciones/images/raiz_primaria_monocot.png){#fig-raiz-primaria-monocot fig-align="center"}
+
+## Cuerpo secundario de la raíz
+
+-   Cortes transversales con Safranina y Azul Alcián de raíces con crecimiento secundario. Observe e identifique: súber, cambium suberoso, felodermis, floema y xilemas secundarios, además de los tejidos primarias que aún puedan estar presentes.
+
+## Raíz de *Daucus carota*
+
+::: columns
+::: {.column width="50%"}
+-   Cortes transversales y longitudinales de una zanahoria. Observe al estereomicroscopio e identifique los tejidos que la conforman.
+:::
+
+::: {.column width="50%"}
+![Raíz de *Daucus carota* (Apiaceae). @ahmad2019.](/presentaciones/images/raiz_zanahoria_esquema.jpg){#fig-raiz-zanahoria fig-align="center"}
+:::
+:::
+
+# ¿Preguntas?
+
+## Material próximo laboratorio
+
+-   Tallos de *Aristolochia ringens*
+-   Tallos de *Cucurbita máxima* (Auyama o Zapallo)
+-   Tallos de *Cupressus spp.* (Ciprés)
+-   Tallos de *Cyperus papyrus* (Papiro)
+-   Tallos de *Dracaena sanderiana* (Bambú de la Suerte) o *Cordyline fruticosa* (Banderilla)
+-   Tallos de *Pennisetum purpureum* (Pasto de Elefante) o cualquier otra Poaceae
+-   Tallos de *Pinus spp.* (Pino)
+-   Tallos de *Polypodium spp.* o cualquier otro helecho (Gleicheniaceae, Schizaeaceae, Marsileaceae)
+-   Tallos de *Salix humboldtiana* (Sauce)
+-   Tallos de diferentes plantas
+
+## Referencias

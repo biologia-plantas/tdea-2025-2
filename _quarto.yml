@@ -94,6 +94,8 @@ website:
             href: presentaciones/histologia-laboratorio/
           - text: "Diversidad"
             href: presentaciones/diversidad-laboratorio/
+          - text: "Raíz"
+            href: presentaciones/raiz-laboratorio/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
