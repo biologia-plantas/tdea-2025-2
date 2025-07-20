@@ -1,0 +1,43 @@
+---
+title: "Tallo: laboratorio"
+# date: 2025-07-21
+format: revealjs
+bibliography: references.bib
+---
+
+# Introducción
+
+## Cuerpo primario de la planta
+
+::: columns
+::: {.column width="50%"}
+![Diagrama de una planta vascular joven. @evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes fig-align="center" width="50%"}
+:::
+
+::: {.column width="50%"}
+![Distribución de los tejidos primarios en una planta vascular. @evert2013.](/presentaciones/images/tejidos_distribucion.png){#fig-planta-partes fig-align="center" width="65%"}
+:::
+:::
+
+
+
+# Procedimiento
+
+
+
+# ¿Preguntas?
+
+## Material próximo laboratorio
+
+-   Tallos de *Aristolochia ringens*
+-   Tallos de *Cucurbita máxima* (Auyama o Zapallo)
+-   Tallos de *Cupressus spp.* (Ciprés)
+-   Tallos de *Cyperus papyrus* (Papiro)
+-   Tallos de *Dracaena sanderiana* (Bambú de la Suerte) o *Cordyline fruticosa* (Banderilla)
+-   Tallos de *Pennisetum purpureum* (Pasto de Elefante) o cualquier otra Poaceae
+-   Tallos de *Pinus spp.* (Pino)
+-   Tallos de *Polypodium spp.* o cualquier otro helecho (Gleicheniaceae, Schizaeaceae, Marsileaceae)
+-   Tallos de *Salix humboldtiana* (Sauce)
+-   Tallos de diferentes plantas
+
+## Referencias
