@@ -151,7 +151,7 @@ bibliography: references.bib
 
 ## Haz vascular: tipos
 
-![Tipos de haces vasculares. B. Anficribal o perifloemático. B. Anfivasal o perixilemático. C. Bicolateral. D. Colateral abierto. E. Colateral cerrado. @alzate-guarín2025.](/presentaciones/images/haces_vascualres_ejemplos.jpg){#fig-vascular-tipos fig-align="center"}
+![Tipos de haces vasculares. B. Anfivasal o perixilemático. B. Anficribal o perifloemático. C. Bicolateral. D. Colateral abierto. E. Colateral cerrado. @alzate-guarín2025.](/presentaciones/images/haces_vascualres_ejemplos.jpg){#fig-vascular-tipos fig-align="center"}
 
 ## Tallo primario: comparación
 
