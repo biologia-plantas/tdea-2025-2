@@ -79,6 +79,9 @@ cronograma_andes |>
   ) |> 
   gt::tab_footnote(
     footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"),
+  ) |> 
+  gt::cols_width(
+    fecha ~ gt::px(110)
   )
 ```
 
