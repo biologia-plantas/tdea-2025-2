@@ -1,0 +1,333 @@
+---
+title: "Hoja: laboratorio"
+# date: 2025-07-21
+format: revealjs
+bibliography: references.bib
+---
+
+# Introducción
+
+## Cuerpo primario de la planta
+
+::::: columns
+::: {.column width="50%"}
+![Diagrama de una planta vascular joven.
+@evert2013.](/presentaciones/images/plantas_partes.png){#fig-planta-partes
+fig-align="center" width="50%"}
+:::
+
+::: {.column width="50%"}
+![Distribución de los tejidos primarios en una planta vascular.
+@evert2013.](/presentaciones/images/tejidos_distribucion.png){fig-align="center"
+width="65%"}
+:::
+:::::
+
+## Hoja
+
+::::: columns
+::: {.column width="50%"}
+-   Apéndice lateral principal del tallo
+-   Altamente variable en estructura y función
+-   Generalmente aplanada en sentido dorsiventral
+-   Usualmente cumple funciones de fotosíntesis y transpiración
+:::
+
+::: {.column width="50%"}
+![El tamaño de las hojas. De la más pequeña a la más
+grande.](/presentaciones/images/hoja_comparacion.png){#fig-hoja-comparacion
+fig-align="center"}
+:::
+:::::
+
+## Origen
+
+::::: columns
+::: {.column width="50%"}
+![El meristema apical está protegido por hojas jóvenes que lo rodean
+@evert2013.](/presentaciones/images/meristema_apical_caulinar.png){#fig-meristema-apical-01
+fig-align="center" width="75%"}
+:::
+
+::: {.column width="50%"}
+![Ápice de un tallo de Coleus. A. Procámbium. B. Meristema fundamental. C.
+Laguna foliar. D. Tricoma. E. Meristema apical. F. Primordio foliar en
+desarrollo. G. Primordio foliar. H. Yema axilar. I. Tejido vascular en
+desarrollo.
+<a href="https://commons.wikimedia.org/wiki/File:Coleus_stemtip_L.jpg">Jon
+Houseman</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA
+4.0</a>, via Wikimedia
+Commons.](/presentaciones/images/meristema_apical_caulinar.jpg){#fig-meristema-apical-02
+fig-align="center"}
+:::
+:::::
+
+## Partes de la hoja
+
+![Partes de la hoja.
+<a href="https://commons.wikimedia.org/wiki/File:Diagram_of_simple_leaf-es.svg">Assafn
+(traducido al español por Alexespinosaco)</a>,
+<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via
+Wikimedia Commons.](/presentaciones/images/hoja_diagrama.png){#fig-hoja-partes
+fig-aling="center"}
+
+## Tipo de hoja {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+Dependiendo de la complejidad del limbo, las hojas se pueden clasificar en
+simples o compuestas.
+
+-   **Hoja simple:** limbo o lámina es continuo y sin dividir
+-   **Hoja compuesta:** limbo o lámina se divide en varias subunidades
+    (folíolos).
+    -   **Pinnadas:** folíolos dispuestos (opuesto o alterno) en un eje central
+        (raquis)
+        -   **Imparipinnadas:** con folíolo terminal (número impar)
+        -   **Paripinnadas:** sin folíolo terminal (número par)
+    -   **Bipinnadas:** dos órdenes de ejes pinnados; eje central (raquis), ejes
+        laterales (raquilla)
+    -   **Trifoliadas:** tres folíolos; usualmente de disposición
+        palmada-ternada
+    -   **Biternadas, triternadas, etc.:** más órdenes ternados
+    -   **Pinnado-ternadas:** un folíolo terminal en el raquis
+    -   **Geminadas:** sólo dos folíolos
+    -   **Bigeminadas:** Dos raquillas, cada una con dos folíolos
+    -   **emino-pinnadas:** dos raquilla con disposición pinnada
+    -   **Unifoliadas:** parecen simples, pero tienen un único folíolo
+        claramente diferenciado del pecíolo; derivadas por reducción.
+
+Distinguir los folíolos de las hojas: yema en la axila de las hojas (simples y
+compuestas), no en la axila de los folíolos. Hojas en varios planos, folíolos en
+el mismo plano
+:::
+
+::: {.column width="50%"}
+![Tipos de hoja según su complejidad.
+@simpson2019.](/presentaciones/images/hoja_tipos.png){#fig-hoja-complejidad
+fig-aling="center"}
+:::
+:::::
+
+## Forma de la lamina
+
+::: {#fig-hoja-forma layout-nrow="2"}
+![](/presentaciones/images/hoja_lamina_1.png){fig-aling="center"}
+
+![](/presentaciones/images/hoja_lamina_2.png){fig-aling="center"}
+
+Forma de la lamina. @bonifacino2021.
+:::
+
+## Margen, ápice y base {.smaller}
+
+::: {#fig-hoja-base-apice layout-nrow="3"}
+![](/presentaciones/images/hoja_margen.png){fig-aling="\"cente"}
+
+![](/presentaciones/images/hoja_apice.png){fig-aling="\"center"}
+
+![](/presentaciones/images/hoja_base.png){fig-aling="center"}
+
+Forma del margen, ápice y base. @bonifacino2021.
+:::
+
+## Inseción en el tallo
+
+![Tipos de hoja según la forma de inserción.
+@bonifacino2011.](/presentaciones/images/hoja_insercion.png){#fig-hoja-insercion
+fig-aling="center"}
+
+## Estípulas
+
+> Apéndice, a menudo en forma de hoja, a cada lado de la parte basal de una
+> hoja, o que rodea el tallo. @evert2013.
+
+![Tipos de estípulas.
+.](/presentaciones/images/hoja_estipulas.png){#fig-hoja-venacion-general
+fig-aling="center"} 
+
+## Venación {.smaller}
+
+::: columns
+::: {.column width="50%"}
+> Patrón de las venas y la ramificación de las venas de una hoja. @evert2013.
+
+-   **Uninervada:** una sola vena central sin venas laterales (licofitas, equisetos, coníferas)
+-   **Dicotómica:** Ramificación en pares iguales sin nervio medio (*Ginkgo*)
+-   **Paralela:** Venas primarias y secundarias paralelas entre sí; venillas transversas (monocotiledóneas)
+    -   Penni-paralela: venas secundarias paralelas desde una vena primaria (Zingiberales).
+    -   Palmado-paralela: varias venas primarias desde un punto; secundarias paralelas (palmas tipo abanico)
+-   **Reticulada:** venillas forman una red interconectada (eudicotiledóneas)
+    -   Pinnado-reticulada: venas secundarias a lo largo de una vena primaria
+    -   Palmado-reticulada: varias venas primarias desde un punto basal
+    -   Ternado-reticulada: tres venas primarias desde un punto basal
+:::
+
+::: {.column width="50%"}
+![Terminología general de la venación de las hojas. @simpson2019.](/presentaciones/images/hoja_venacion_general.png){fig-aling="center"}
+:::
+:::
+
+## Venación
+
+::: columns
+::: {.column width="50%"}
+-   **Craspedódroma:** venas secundarias alcanzan el margen
+    -   Simple: todas alcanzan el margen
+    -   Semicraspedódroma: se bifurcan, una va al margen y otra se arquea
+    -   Mixta: algunas alcanzan el margen, otras no
+-   **Camptódroma:** venas secundarias no alcanzan el margen
+    -   Broquidódroma: la mayoría forma arcos hacia arriba
+    -   Eucamptódroma: se curvan, sin unirse entre sí
+    -   Cladódroma: ramificadas hacia el margen
+    -   Reticulódroma: forman una red densa
+-   **Hifódroma:** Solo visible la vena principal (costilla); venas secundarias ausentes o muy reducidas.
+:::
+
+::: {.column width="50%"}
+![Terminología especializada de la venación de las hojas. @simpson2019.](/presentaciones/images/hoja_venacion_especializado.png){#fig-hoja-venacion-especializado fig-aling="center"}
+:::
+:::
+
+::: footer
+**Basal:** desde la base. **Suprabasal:** arriba de la base. **Perfecta:** cubren ≥ 2/3 del área. **Imperfecta:** cubren < 2/3 del área.
+:::
+
+## Venación
+
+::: columns
+::: {.column width="50%"}
+-   **Paralelódroma:** Venas primarias/secundarias paralelas, convergen en el ápice
+-   **Actinódroma:** ≥3 venas primarias desde un punto (ternada/palmada)
+    -   Palinactinódroma: esas venas se ramifican adicionalmente
+    -   Marginal: llegan al margen
+    -   Reticulada: no alcanzan el margen
+-   **Flabelada:** varias venas finas se dirigen al ápice
+-   **Campilódroma:** venas primarias en arcos curvados desde la base
+-   **Acrodroma:** ≥2 venas primarias se arquean hacia el ápice (no recurvadas)
+:::
+
+::: {.column width="50%"}
+![Terminología especializada de la venación de las hojas. @simpson2019.](/presentaciones/images/hoja_venacion_especializado.png){#fig-hoja-venacion-especializado fig-aling="center"}
+:::
+:::
+
+::: footer
+**Basal:** desde la base. **Suprabasal:** arriba de la base. **Perfecta:** cubren ≥ 2/3 del área. **Imperfecta:** cubren < 2/3 del área.
+:::
+
+## Indumento
+
+> Conjunto de pelos, gládulas, escamas, etc., que recubre la superficie de los
+> diversos organos de la planta.
+
+![Tipos de indumentos y tricomas. @lópez-nieto2014](/presentaciones/images/indumento_tipos.jpg){#fig-indumento-tipos}
+
+## Anatomía
+
+::::: columns
+::: {.column width="50%"}
+Tejidos:
+
+-   Epidermis
+    -   Estomas, tricomas, etc.
+-   Mesofilo
+    -   Clorénquima
+        -   Parénquima en empalizada y esponjoso
+    -   Esclerénquima
+    -   Colénquima
+-   Haz vascular
+    -   Xilema y floema
+:::
+
+::: {.column width="50%"}
+![Esquema anatómico de una hoja. No se muestra el haz vascular.
+<a href="https://commons.wikimedia.org/wiki/File:Leaf_Tissue_Structure_es.svg">Leaf_Tissue_Structure.svg:
+Zephyrisderivative work: Aibdescalzo</a>,
+<a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via
+Wikimedia Commons.](/presentaciones/images/hoja_anatomia.png){#fig-hoja-esquema}
+:::
+:::::
+
+## Anatomía: tipos de hoja
+
+### Según la distribución de los estomas:
+
+-   Anfistomática: estomas en ambas caras
+-   Epistomática: estomas sólo en la cara adaxial
+-   Hipostomática: estomas sólo en la cara abaxial
+
+## Anatomía: tipos de hoja
+
+### Según el mesofilo:
+
+-   Dorsiventral: parénquima en empalizada y parénquima esponjoso
+-   Isolateral:
+    -   capas de parénquima en empalizada, parénquima esponjoso y parénquima en
+        empalizada
+    -   capas de clorénquima homogéneo, parénquima homogéneo incoloro,
+        clorénquima homogéneo
+-   Indiferenciado: una capa de clorénquima homogéneo
+
+## Anatomía: tipos de hoja
+
+### Según la epidermis y el tipo de mesofilo:
+
+-   Bifacial: hay dos epidermis distintas y el mesofilo es dorsiventral. Las dos
+    caras son distintas
+-   Equifacial: hay dos epidermis distintas y el mesofilo es isolateral o
+    indiferenciado. Las caras son iguales
+-   Unifacial: hay una sola epidermis y el mesofilo es isolateral. Las caras son
+    iguales
+
+# Procedimiento
+
+## Estructura externa de la hoja
+
+-   En hojas de diferentes plantas, observe e identifique: ápice, base, cara
+    adaxial, cara abaxial, estípulas, lámina, margen, pecíolo, venación, yema
+    axilar.
+
+## Diversidad foliar
+
+-   En la mayor cantidad posible de hojas de Angiospermae y Gymnospermae,
+    realice observaciones comparativas teniendo en cuenta:
+    -   Ápice: agudo, acuminado, obtuso, etc.
+    -   Base: aguda, cordada, obtusa, etc.
+    -   Estípulas: presencia o ausencia.
+    -   Filotaxia: alterna, opuesta, verticilada, etc.
+    -   Forma: elíptica, lanceolada, linear, etc.
+    -   Margen: dentado, entero, serrado, etc.
+    -   Pecíolo: peciolada, sesil, etc.
+    -   Tipo de hoja: simple o compuesta, si es compuesta indique el tipo
+        exacto.
+    -   Venación: actinodromo, braquidodromo, craspedodromo, etc.
+    -   Modificaciones
+
+## Estructura interna de la hoja
+
+-   Cortes transversales con Safranina y Azul Alcián de hojas de Angiospermae y
+    Gymnospermae. Observe e identifique: cutícula, epidermis, parénquima en
+    empalizada, parénquima esponjoso y tejido vascular, además asigne el tipo de
+    hoja correspondiente.
+
+# ¿Preguntas?
+
+## Material próximo laboratorio
+
+-   Ramas con flores de diferentes especies.
+-   Ramas con flores de *Calliandra spp.* (Carbonero)
+-   Ramas con flores de *Crotalaria spp.* (Cascabelito)
+-   Ramas con flores de *Eucalyptus spp.* (Eucalipto)
+-   Ramas con flores de *Handroanthus spp.* o Tabebuia sp. (Guayacán)
+-   Ramas con flores de *Helianthus annuus* (Girasol)
+-   Ramas con flores de *Hemerocallis spp.* (Lirio)
+-   Ramas con flores de *Hibiscus rosa-sinensis* (San Joaquín)
+-   Ramas con flores de *Impatiens balsamina* (Besito)
+-   Ramas con flores de *Mangifera indica* (Mango)
+-   Ramas con flores de *Nerium oleander* (Adelfa, Azucena de La Habana)
+-   Ramas con flores de *Salix humboldtiana* (Sauce)
+-   Ramas con flores de *Tradescantia pallida* (Guardaparque)
+-   Ramas con flores de *Zea mays* (Maíz)
+
+## Referencias

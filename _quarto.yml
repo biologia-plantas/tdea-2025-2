@@ -100,6 +100,8 @@ website:
             href: presentaciones/raiz-laboratorio/
           - text: "Tallo"
             href: presentaciones/tallo-laboratorio/
+          - text: "Hoja"
+            href: presentaciones/hoja-laboratorio/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
