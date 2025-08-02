@@ -109,6 +109,12 @@ fig-aling="center"}
 :::
 :::::
 
+## Filotaxia
+
+> Disposición de las hojas en un tallo o rama. @beentje2016.
+
+![Tipo de hoja según su filotaxia.  @bonifacino2011.](/presentaciones/images/hoja_filotaxia.png){#fig-hoja-filotaxia fig-aling="center"}
+
 ## Forma de la lamina
 
 ::: {#fig-hoja-forma layout-nrow="2"}
