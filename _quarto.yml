@@ -11,8 +11,8 @@ website:
   title: "Biología de las Plantas, 2025-2"
   description: |
     Sitio web del curso Biología de las Plantas (2025-2) del Instituto de Biología de la Universidad de Antioquia. 
-  site-url: https://biologia-plantas.github.io/2025-1/
-  repo-url: https://github.com/biologia-plantas/2025-1/
+  site-url: https://biologia-plantas.github.io/2025-2/
+  repo-url: https://github.com/biologia-plantas/2025-2/
   favicon: imagenes/bldp.png
   image: imagenes/bldp.png
   # repo-actions: [edit, source, issue]
