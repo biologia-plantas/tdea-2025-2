@@ -3,6 +3,8 @@ library("tidyverse")
 library("googlesheets4")
 library("gt")
 
+## Oriente cronograma ----
+
 cronograma_oriente <- 
   googlesheets4::read_sheet(
     "https://docs.google.com/spreadsheets/d/1HbEA1sPWc1Us1aAOGgMMlCMN19GKnS4tmQm0Aio0ZtA",
@@ -40,6 +42,8 @@ tbl_cronograma_oriente <-
     fecha ~ gt::px(110)
   )
 
+## Oriente evaluación general ---- 
+
 evaluacion_general <- 
   googlesheets4::read_sheet(
     "https://docs.google.com/spreadsheets/d/1HbEA1sPWc1Us1aAOGgMMlCMN19GKnS4tmQm0Aio0ZtA",
@@ -68,6 +72,8 @@ tbl_evaluacion_general <-
     style = gt::cell_text(weight = "bold"),
     locations = gt::cells_column_labels()
   )
+
+## Oriente evaluación laboratorio ---- 
 
 evaluacion_laboratorio <- 
   googlesheets4::read_sheet(
