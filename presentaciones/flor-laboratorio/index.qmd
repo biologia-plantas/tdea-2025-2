@@ -1,0 +1,441 @@
+---
+title: "Flor: laboratorio"
+# date: 2025-07-21
+format: revealjs
+bibliography: references.bib
+---
+
+# Introducción
+
+## La flor más pequeña
+
+![*Wolffia columbiana* es una planta acuática de la familia Araceae. Es una de las plantas más pequeñas y tiene la flor más pequeña del mundo. @armstrong2023.](/presentaciones/images/flor_wolffia_columbiana.jpg){#fig-wolffia-columbiana fig-align="center"}
+
+## La flor más grande
+
+![*Rafflesia arnoldii* es una planta parásita de la familia Euphorbiaceae. Con más de 1 m diámetro es la flor más grande del mundo. <a href="https://commons.wikimedia.org/wiki/File:Rafflesia_arnoldii,_Sumatra.jpg">LukeTriton</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_rafflesia_arnoldii.jpg){#fig-wolffia-columbiana fig-align="center"}
+
+## La inflorescencia más grande
+
+![Las inflorescencias más grandes del mundo. A. Aro gigante (*Amorphophallus titanum*, Araceae), supera los 3 m de altura. B. Palma de Ceilán (*Corypha umbraculifera*, Arecaceae), entre 6 y 8 m. C. *Puya raimondii* (Bromeliaceae), alcanza hasta 10 m.](/presentaciones/images/flor_infloresencia_comparacion.jpg){#fig-infloresencia-comparacion fig-align="center"}
+
+## Qué es una flor
+
+::: columns
+::: {.column width="50%"}
+<div style="font-size: 1.8em;">
+> Estructura reproductiva de las plantas con flores; vastago modificado y determinado que porta esporófilos (estambres o carpelos), con o sin hojas modificadas externas, denominadas perianto (sépalos y pétalos). @simpson2019
+</div>
+:::
+
+::: {.column width="50%"}
+![Diversidad de flores. *Anthericum liliago* (Liliaceae), *Oxalis pes-caprae* (Oxalidaceae), *Nerium oleander* (Apocynaceae), *Lantana camara* (Verbenaceae), *Anagallis arvensis* (Primulaceae), *Verbascum sinuatum* (Scrophulariaceae), *Malva sylvestris* (Malvaceae), *Scolymus hispanicus* (Asteraceae), *Erodium malacoides* (Geraniaceae), *Convolvulus arvensis* (Convolvulaceae), *Hebe x franciscana* (Plantaginaceae), *Zantedeschia aethiopica* (Araceae). <a href="https://commons.wikimedia.org/wiki/File:Flower_poster_2.jpg">Alvesgaspar</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_diversidad.jpg){#fig-flor-diversidad fig-align="center" width="50%"}
+:::
+:::
+
+## Flor: partes
+
+![Partes de una flor ideal. <a href="https://commons.wikimedia.org/wiki/File:Mature_flower_diagram-es.svg">LadyofHats</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_diagrama.svg){#fig-flor-partes fig-align="center"}
+
+## Flor: verticilos y componentes
+
+::: columns
+::: {.column width="50%"}
+-   **Verticilo:** conjunto de hojas que se insertan en un mismo nudo
+
+| Verticilos | Componentes |
+|------------|-------------|
+| Cáliz      | Sépalos     |
+| Corola     | Pétalos     |
+| Androceo   | Estambres   |
+| Gineceo    | Carpelos    |
+
+: Verticilos y componentes de la flor. {#tbl-verticilo-componentes}
+
+-   **Perianto:** conjunto de cáliz y corola
+-   **Perigonio:** cáliz y corola indistinguibles (tépalos)
+-   **Completa:** presenta todos los verticilos
+-   **Incompleta:** carece de algún verticilo
+:::
+
+::: {.column width="50%"}
+![Una flor reducida a sus componentes. 1. Receptáculo. 2. Sépalos. 3. Pétalos. 4. Estambres. 5. Pistilo. <a href="https://commons.wikimedia.org/wiki/File:Bluete-Schema.svg">Denniss, Rainer Zenz, Petr Dlouhý</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/flor_esquema.svg){#fig-flor-esquema fig-align="center"}
+:::
+:::
+
+## Flor: simetría
+
+Evaluación de la presencia y del número de planos de simetría con imagen especular.
+
+-   Actinomorfas, radial, regular, polisimétricas: 3 o más planos de simetría
+-   Birradial, disimétrica: exactamente dos planos de simetría
+-   Zigomorfa, bilateral, irregular,monosimétrica: un solo plano de simetría
+-   Asimétrica: ningún plano de simetría
+
+![Tipos de simetría de la flor. @simpson2019.](/presentaciones/images/flor_simetria.png){#fig-flor-simetria fig-aling="center"}
+
+## Flor: simetría
+
+![Izquierda, flor normal de Streptocarpus (cigomorfa o con simetría especular). Derecha, flor pelórica (con simetría radial) en la misma planta.](/presentaciones/images/flor_simetria_ejemplo.jpg){#fig-flor-simetria-ejemplo fig-aling="center"}
+
+::: footer
+Peloría: aberración en la que una planta que normalmente produce flores zigomorfas desarrolla flores actinomorfas
+:::
+
+## Perianto: cáliz y corola
+
+::: columns
+::: {.column width="50%"}
+-   El perianto (o perigonio) es el conjunto más externo de hojas modificadas no reproductivas de una flor
+-   Protege los órganos florales jóvenes y favorecer la polinización
+-   Ausente en algunas plantas con flores muy pequeñas y reducidas
+-   Origen en el meristema apical floral, en forma de primordios foliares
+-   Puede conservar características foliares:
+    -   **Sépalos:** generalmente verde, con estomas y venas
+    -   **Pétalos:** con venas y a veces estomas vestigiales
+-   Puede modificarse drásticamente durante el desarrollo y perder su apariencia de hoja
+-   Arreglo **espiralado** o **verticilado**
+:::
+
+::: {.column width="50%"}
+![A y B. Se distinguen claramente los pétalos y los sépalos. C. Como no es posible diferenciarlos, se denominan tépalos.](/presentaciones/images/flor_perianto.jpg){#fig-flor-perianto fig-align="center" width="30%"}
+:::
+:::
+
+## Perianto: ciclicidad y merosidad
+
+::: columns
+::: {.column width="50%"}
+### Ciclicidad: número de verticilos
+
+-   **Uniseriado** (1 verticilo), **biseriado** (2 verticilos), **triseriado** (3 verticilos), **tetraseriado** (4 verticilos), **multiseriado** (\> 3 verticilos)
+-   **Diclámideo** (cáliz y corola distintas), **homoclámideo** (cáliz y corola similares)
+:::
+
+::: {.column width="50%"}
+### Merosidad: número de piezas
+
+-   **Isómero** (igual número en ambos verticilos), **anisómero** (diferente número entre verticilos)
+-   **Bímero** (2 piezas), **trímero** (3 piezas), **tetrámero** (4 piezas), **pentámero** (5 piezas)
+
+:::
+:::
+
+**Aclámideo** (sin perianto), **apetáleo** (sin pétalos), **asepáleo** (sin sépalos)
+
+![Perianto: ciclicidad y merosidad. @simpson2019.](/presentaciones/images/flor_perianto_ciclos.png){#fig-flor-perianto-ciclos fig-align="center"}
+
+::: footer
+del latín clamide: vestidura
+:::
+
+## Perianto: fusión
+
+::: columns
+::: {.column width="50%"}
+### Sin fusión
+
+-   **Aposepáleo** (corisepáleo): sépalos libres
+-   **Apopetáleo** (coripetáleo): pétalos libres
+-   **Apotepáleo** (coritepáleo): tépalos libres
+:::
+
+::: {.column width="50%"}
+### Con fusión
+
+-   **Sinsépalo** (gamosépalo): sépalos fusionados
+-   **Simpetáleo** (gamopetáleo): pétalos fusionados
+-   **Sintepáleo** (gamotepáleo): tépalos fusionados
+:::
+:::
+
+![Fusión del perianto. La fusión forma una estructura tubular. Si la fusión es parcial, se forma un tubo basal del cual emergen lóbulos. @simpson2019. ](/presentaciones/images/flor_perianto_fusion.png){#fig-flor-perianto-fusion fig-align="center"}
+
+## Androceo
+
+::: columns
+::: {.column width="50%"}
+-   Verticilo floral que comprende todos los estambres
+-   Se inicia como un primordio en el meristema apical floral
+-   **Estambre**, interpretado como una hoja modificada portadora de esporangios (microsporófilo)
+    -   Estambres laminares
+        -   Forma aplanada y foliosa. Dos tecas en la cara adaxial
+    -   Estambres filamentosos
+        -   Forma cilíndrica o filiforme. Poseen un filamento y una antera
+    -   Estaminodios
+        -    No funcionales. Pueden parecer fértiles o estar modificados
+:::
+
+::: {.column width="50%"}
+![Tipos y partes de los estambres. @simpson2019.](/presentaciones/images/flor_androceo_tipos.png){#fig-flor-androce-tipos fig-align="center"}
+
+![Partes de un estambre filamentoso y estructura de una antera. @bonifacino2021.](/presentaciones/images/flor_androceo.png){#fig-flor-androceo fig-align="center"}
+:::
+:::
+
+::: footer
+Androceo (del latín androecium, y este del griego ἀνήρ, ἀνδρός = 'varón' y οἰκίον = 'casa')
+:::
+
+## Estambre: ciclicidad y posición
+
+::: columns
+::: {.column width="50%"}
+-   Ciclicidad
+    -   Uniseriado, biseriado, triseriado, tetraseriado
+-   Posición relativa a otras piezas florales
+    -   **Antisépalo:** frente a los sépalos
+    -   **Alternipétalo:** entre los pétalos
+    -   **Antipétalo:** frente a los pétalos
+    -   **Alternisépalo:** entre los sépalos
+:::
+
+::: {.column width="50%"}
+-   Posición relativa a ciclicidad y número
+    -   **Haplostémono:** un verticilo, opuestos a sépalos
+    -   **Obhaplostémono:** un verticilo, opuestos a pétalos
+    -   **Diplostémono:** dos verticilos: externo antisépalo, interno antipétalo
+    -   **Obdiplostémono:** dos verticilos: externo antipétalo, interno antisépalo
+:::
+:::
+
+![Ciclicidad del estambre (uniseriado o biseriado) y posición @simpson2019.](/presentaciones/images/flor_androceo_ciclos.png){#fig-flor-androceo-ciclos fig-align="center" width="75%"}
+
+## Anteras: estructura y tipos
+
+::: columns
+::: {.column width="50%"}
+-   Unidades que contienen el polen
+-   Ubicadas en los estambres de la mayoría de las angiospermas
+-   2 tecas, cada una con 2 microsporangios. Los microsporangios se fusionan en lóculos
+:::
+
+::: {.column width="50%"}
+-   Tipos de anteras
+    -   Ditecal: 2 tecas, 4 microsporangios
+    -   Monotecal: 1 teca, 2 microsporangios
+    -   Polinia: masas de polen fusionadas en una sola unidad
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+![Antera en sección transversal. 1. Filamento. 2. Teca. 3. Conectivo. 4. Saco polínico (también llamado esporangio). <a href="https://commons.wikimedia.org/wiki/File:Anther-schematic.svg">Original: Ben Stefanowitsch Vector:  TilmannR</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons.](/presentaciones/images/flor_antera_esquema.svg){#fig-antera-esquema fig-align="center" width="50%"}
+:::
+
+::: {.column width="50%"}
+![Corte transversal de antera de *Digitalis purpurea* (Scrophulariaceae). @megías-pacheco2017.](/presentaciones/images/flor_antera_corte.png){#fig-antera-corte fig-align="center"}
+:::
+:::
+
+## Polen
+
+:::: {.columns}
+::: {.column width="50%"}
+> Células de forma y dimensión variables, dotadas de una cubierta muy resistente o esporodermis, que se forman dentro de los sacos polínicos del estambre y tiene como misión, una vez formado el microgametófito pluricelular, fecundar el óvulo. @saenz-laín2004.
+
+![Formación del grano de polen @megías-pacheco2017.](/presentaciones/images/polen_formacion.png){#fig-polen-formacion fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Diversidad del polen. @suárez-cervera2008.](/presentaciones/images/polen_diversidad.jpg){#fig-polen-diversidad fig-align="center"}
+:::
+::::
+
+## Morfología polínica
+
+:::: {.columns}
+::: {.column width="50%" .r-stretch}
+### Unidad polínica
+
+![Polaridad y distintos grados de agrupación del polen. **1.** Polaridad; **2-7.** Tétradas; **2.** linear; **3.** tetraédrica; **4.** decusada; **5.** tetragonal; **6.** romboidal; **7.** en forma de T; **8.** díada; **9.** másula; **10.** polinia; **11-12.** políada. @trigo-pérez2008.](/presentaciones/images/polen_unidad_polinica.jpg){#fig-polen-unidad-polinica fig-align="center"}
+:::
+
+::: {.column width="50%" .r-stretch}
+### Aberturas (Sistema NPC)
+
+![Sistema NPC (**N.** Número; **P.** Posición; **C.** Carácter o forma) para la clasificación de las aberturas propuesto por @erdtman1969.](/presentaciones/images/polen_sistema_npc.jpg){#fig-polen-sistema-npc fig-align="center"}
+:::
+::::
+
+## Gineceo: de carpelos y pistilos
+
+::: {.fragment fragment-index="1"}
+> [Gineceo: El conjunto de todos los carpelos. @evert2013.]{.fragment fragment-index="1"} [Verticilo femenino de una flor. El(los) pistilo(s). @beentje2016.]{.fragment fragment-index="4"}
+:::
+
+::: {.fragment fragment-index="2"}
+> Carpelo: unidad del gineceo. Megasporofila modificada, típicamente conduplicada (doblada longitudinalmente a lo largo de la vena media), que encierra uno o más óvulos. @simpson2019.
+:::
+
+::: {.fragment fragment-index="3"}
+> Pistilo: en flores apocárpicas, unidad del carpelo, estilo y estigma separados. En flores sincárpicas, todo el gineceo. Órgano femenino de la flor, cuando está completo consiste de ovario, estilo y estigma. @beentje2016
+:::
+
+::: {.fragment fragment-index="5"}
+![Gineceo: desarrollo del carpelo . (c .s . = sección transversal) @simpson2019.](/presentaciones/images/flor_gineceo.png){#fig-flor-gineceo fig-align="center" width="60%"}
+:::
+
+## Gineceo: carpelos, fusión y lóculos {.smaller}
+
+-   Lóculos = cavidades del ovario
+    -   Unilocular o plurilocular
+-   Gineceo apocárpico o unicarpelar
+    -   n.º de carpelos = n.º de pistilos = n.º de lóculos
+-   Gineceo sincárpico:
+    -   Si hay ≥2 estilos/estigmas → n.º de carpelos = n.º de estilos/estigmas, n.º de lóculos variable
+    -   Si hay 1 estilo/estigma → n.º de carpelos = n.º de lóculos = n.º de placentas
+
+![Fusión del gineceo, número de carpelos y lóculos. @simpson2019.](/presentaciones/images/flor_gineceo_fusion.png){#fig-gineceo-fusion fig-aling="center"}
+
+::: footer
+Apocárpico: carpelos libres, Sincárpico: carpelos fusionados
+:::
+
+## Posición del ovario y posición del perianto/androceo
+
+::: columns
+::: {.column width="50%"}
+### Posición del ovario
+
+Evalúa la ubicación o disposición del ovario en relación con las demás partes florales: hipantio, cáliz, corola y androceo.
+
+Ovario súpero, ovario ínfero, ovario semiínfero
+:::
+
+::: {.column width="50%"}
+### Posición del perianto/androceo
+
+Describe la ubicación del perianto y el androceo en relación tanto con el ovario como con el hipantio, si este está presente.
+
+Sin hipantio: hipógino, epígino, epihipógino. Con hipantio: perígino, epiperígino
+:::
+:::
+
+![Posición del gineceo, androceo y perianto. @simpson2019.](/presentaciones/images/flor_gineceo_posicion.png){#fig-gineceo-posicion fig-aling="center" width="75%"}
+
+::: footer
+Hipantio: estructura en forma de copa o tubular alrededor o encima del ovario, que lleva a lo largo de su margen los sépalos, pétalos y estambres.
+:::
+
+## Sexo
+
+::: columns
+::: {.column width="50%"}
+### de la flor
+
+-   perfecta o bisexual (4)
+    -   carpelos y estambres
+-   imperfecta o unisexual
+    -   carpelos: pistilada (6)
+    -   estambres: estaminada (5)
+
+### de la planta
+
+-   hermafrodita (1)
+-   dioica (3 y 8)
+-   monoica (2 y 7)
+:::
+
+::: {.column width="50%"}
+![Sexo de la flor y de la planta. Tomado de @tormomolina2021.](/presentaciones/images/flor_sexualidad.jpg){#fig-flor-sexo fig-aling="center"}
+:::
+:::
+
+## {background-color="white" background-image="/presentaciones/images/flor_meme.jpg" background-size="contain"}
+
+## Inflorescencia
+
+::: columns
+::: {.column width="50%"}
+> Parte de la planta que porta las flores, incluyendo todas sus brácteas, ramas y flores, pero excluyendo las hojas no modificadas. @beentje2016.
+:::
+
+::: {.column width="50%"}
+-   Aumenta la eficiencia reproductiva
+-   Partes: bráctea, pedúnculo, raquis
+-   Posición: axilar, terminal, cauliflora
+-   Desarrollo: indeterminado, determinado
+:::
+:::
+
+![1. Flores solitarias, 2. Fasciculadas, 3. Racemosa, 4. Cimosa. @tormomolina2021.](/presentaciones/images/flor_inflorescencias.jpg){#fig-inflorescencia fig-aling="center"}
+
+## Inflorescencia: tipos
+
+::: columns
+::: {.column width="40%"}
+-   **Simples:** sólo presentan ramificaciones de primer orden
+    -   **Definidas, cerradas o cimosas:** el eje presenta una flor terminal
+        -   Monocasio, dicasio, pleocasio
+    -   **Indefinidas, abiertas o racemosas:** el eje no presenta una flor terminal
+        -   Racimo, espiga, amento, espádice, corimbo, umbela, cabezuela
+-   **Compuestas:** tienen más de un orden de ramificación
+    -   Panicula, umbela compuesta, corimbo compuesto, verticilastro
+
+:::
+
+::: {.column width="60%"}
+![Tipos de inflorescencias. @tormomolina2021.](/presentaciones/images/flor_inflorescencias_tipos.png){#fig-inflorescencia-tipos fig-aling="center"}
+:::
+:::
+
+::: footer
+Cima puede utilizarse como un término general para una inflorescencia determinada.
+:::
+
+# Procedimiento
+
+## Morfología de la flor
+
+-   Realice observaciones comparativas entre una flor de Eudicotyledoneae y Monocotyledoneae. Identifique cada uno de los verticilos y componentes de estos.
+
+## Polen
+
+-   Realice montaje húmedo de diferentes anteras. Observe e identifique la unidad polínica, aberturas, estructura, polaridad, simetría, forma y tamaño
+
+## Diversidad de la flor {.smaller}
+
+-   Observe la mayor cantidad de flores de plantas de diferente especie. Tenga en cuenta:
+
+    -   Verticilos presentes: perianto (cáliz, corola), androceo, gineceo.
+    -   Número de componentes de cada verticilo: sépalos, pétalos, estambres, carpelos.
+    -   Flor completa o incompleta
+    -   Flor perfecta o imperfecta
+    -   Simetría: actinomorfa, irregular, zigomorfa.
+    -   Número de carpelos
+    -   Posición del ovario: ínfero, semi-ínfero, súpero,
+    -   Sexo de la flor: unisexual, bisexual.
+    -   Sexo de la especie: dioica, monoica.
+    -   Flores solitarias o en inflorescencia
+    -   Tipo de inflorescencia: espiga, capítulo, umbela, etc.
+
+# ¿Preguntas?
+
+## Material próximo laboratorio {.smaller}
+
+-   Frutos de *Ananas comosus* (Piña)
+-   Frutos de *Carica papaya* (Papaya)
+-   Frutos de *Citrus × aurantium* (Naranja)
+-   Frutos de *Coriandrum sativum* (Cilantro)
+-   Frutos de *Cucumis sativus* (Pepino cohombro)
+-   Frutos de *Ficus carica* (Breva)
+-   Frutos de *Fragaria spp.* (Fresa)
+-   Frutos de *Fraxinus uhdei* (Urapán)
+-   Frutos de *Helianthus annuus* (Girasol)
+-   Frutos de *Malus domestica* (Manzana)
+-   Frutos de *Mangifera indica* (Mango)
+-   Frutos de *Musa × paradisiaca* (Banano)
+-   Frutos de *Persea americana* (Aguacate)
+-   Frutos de *Pisum sativum* (Arveja)
+-   Frutos de *Prunus persica* (Durazno)
+-   Frutos de *Pyrus communis* (Pera)
+-   Frutos de *Quercus humboldtiana* (Roble)
+-   Frutos de *Ricinus communis* (Higuerilla)
+-   Frutos de *Rubus glaucus* (Mora)
+-   Frutos de *Sinapis alba* (Mostaza)
+-   Frutos de *Solanum lycopersicum* (Tomate)
+-   Frutos de *Zea mays* (Maíz)
+-   Frutos de otras plantas
+
+## Referencias
