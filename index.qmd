@@ -1,8 +1,8 @@
 ---
-title: "Biología de las Plantas (2025-1)"
+title: "Biología de las Plantas (2025-2)"
 # subtitle: "Instituto de Biología, Universidad de Antioquia"
 description: |
-  Sitio web del curso Biología de las Plantas (2025-1) del Instituto de Biología de la Universidad de Antioquia.
+  Sitio web del curso Biología de las Plantas (2025-2) del Instituto de Biología de la Universidad de Antioquia.
 
 author: 
   - name: "Álex Espinosa-Correa"
@@ -12,7 +12,7 @@ author:
     affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia"
     affiliation-url: https://geobota.github.io/
 
-date: 2025-02-10
+date: 2025-08-02
 date-modified: today
 
 citation: true
@@ -25,67 +25,32 @@ engine: knitr
 #| message: false
 #| warning: false
 
-# if (!require("here")) install.packages("here"); library("here")
-# if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
-# if (!require("googlesheets4")) install.packages("googlesheets4"); library("googlesheets4")
-# if (!require("gt")) install.packages("gt"); library("gt")
-
 library("here")
-library("tidyverse")
-library("googlesheets4")
-library("gt")
+
+base::source(
+  here::here(
+    "scripts",
+    "script_cronograma_evaluacion.R"
+  )
+)
 ```
 
 ::: {.panel-tabset}
 
-## Andes
+## Oriente
 
 ### Cronograma
 
 ```{r}
-#| label: cronograma-andes
+#| label: cronograma-oriente
 #| echo: false
 #| message: false
 #| html-table-processing: none
 
-cronograma_andes <- 
-  googlesheets4::read_sheet(
-    "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
-    sheet = 1
-  )
-
-cronograma_andes |> 
-  gt::gt() |> 
-  gt::sub_missing(
-    missing_text = ""
-  ) |> 
-  gt::cols_label(
-    clase = "Clase",
-    fecha = "Fecha",
-    modalidad = "Modalidad",
-    tema = "Tema",
-    laboratorio = "Laboratorio",
-    evaluacion = "Evaluación"
-  ) |> 
-  gt::fmt_markdown(
-    columns = c(modalidad, tema, laboratorio)
-  ) |> 
-  gt::opt_table_font(
-    font = gt::google_font(name = "Atkinson Hyperlegible")
-  ) |> 
-  gt::tab_style(
-    style = gt::cell_text(weight = "bold"),
-    locations = gt::cells_column_labels()
-  ) |> 
-  gt::tab_footnote(
-    footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"),
-  ) |> 
-  gt::cols_width(
-    fecha ~ gt::px(110)
-  )
+tbl_cronograma_oriente
 ```
 
-### Evaluación
+### Evaluación general
 
 ```{r}
 #| label: evaluacion-general
@@ -93,74 +58,60 @@ cronograma_andes |>
 #| message: false
 #| html-table-processing: none
 
-evaluacion_general <- 
-  googlesheets4::read_sheet(
-    "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
-    sheet = 2
-  )
-
-evaluacion_general |> 
-  gt::gt() |> 
-  gt::sub_missing(
-    missing_text = ""
-  ) |> 
-  gt::cols_label(
-    criterio = "Criterio",
-    porcentaje = "Porcentaje"
-  ) |> 
-  gt::fmt_percent(
-    columns = porcentaje,
-    decimals = 1
-  ) |> 
-  gt::opt_table_font(
-    font = gt::google_font(name = "Atkinson Hyperlegible")
-  ) |> 
-  gt::tab_style(
-    style = gt::cell_text(weight = "bold"),
-    locations = gt::cells_column_labels()
-  )
+tbl_evaluacion_general
 ```
 
-## Medellín
-
-### Cronograma
+### Evaluación laboratorio
 
 ```{r}
-#| label: cronograma-medellin
+#| label: evaluacion-laboratorio
 #| echo: false
 #| message: false
 #| html-table-processing: none
 
-cronograma_medellin <- 
-  googlesheets4::read_sheet(
-    "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
-    sheet = 4
-  )
-
-cronograma_medellin |> 
-  gt::gt() |> 
-  gt::sub_missing(
-    missing_text = ""
-  ) |> 
-  gt::cols_label(
-    clase = "Clase",
-    fecha = "Fecha",
-    laboratorio = "Laboratorio",
-  ) |> 
-  gt::fmt_markdown(
-    columns = c(laboratorio)
-  ) |> 
-  gt::opt_table_font(
-    font = gt::google_font(name = "Atkinson Hyperlegible")
-  ) |> 
-  gt::tab_style(
-    style = gt::cell_text(weight = "bold"),
-    locations = gt::cells_column_labels()
-  ) |> 
-  gt::tab_footnote(
-    footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"),
-  )
+tbl_evaluacion_laboratorio
 ```
+
+<!-- ## Medellín -->
+
+<!-- ### Cronograma -->
+
+<!-- ```{r} -->
+<!-- #| label: cronograma-medellin -->
+<!-- #| echo: false -->
+<!-- #| message: false -->
+<!-- #| html-table-processing: none -->
+
+<!-- cronograma_medellin <-  -->
+<!--   googlesheets4::read_sheet( -->
+<!--     "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0", -->
+<!--     sheet = 4 -->
+<!--   ) -->
+
+<!-- cronograma_medellin |>  -->
+<!--   gt::gt() |>  -->
+<!--   gt::sub_missing( -->
+<!--     missing_text = "" -->
+<!--   ) |>  -->
+<!--   gt::cols_label( -->
+<!--     clase = "Clase", -->
+<!--     fecha = "Fecha", -->
+<!--     laboratorio = "Laboratorio", -->
+<!--   ) |>  -->
+<!--   gt::fmt_markdown( -->
+<!--     columns = c(laboratorio) -->
+<!--   ) |>  -->
+<!--   gt::opt_table_font( -->
+<!--     font = gt::google_font(name = "Atkinson Hyperlegible") -->
+<!--   ) |>  -->
+<!--   gt::tab_style( -->
+<!--     style = gt::cell_text(weight = "bold"), -->
+<!--     locations = gt::cells_column_labels() -->
+<!--   ) |>  -->
+<!--   gt::tab_footnote( -->
+<!--     footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"), -->
+<!--   ) -->
+<!-- ``` -->
 
 :::
 

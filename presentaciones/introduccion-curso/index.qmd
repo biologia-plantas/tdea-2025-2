@@ -1,6 +1,6 @@
 ---
 title: "Introducción al curso"
-# date: 2025-02-18
+# date: 2025-08-05
 format: revealjs
 bibliography: references.bib
 nocite: |
@@ -13,10 +13,14 @@ nocite: |
 #| message: false
 #| warning: false
 
-if (!require("here")) install.packages("here"); library("here")
-if (!require("tidyverse")) install.packages("tidyverse"); library("tidyverse")
-if (!require("googlesheets4")) install.packages("googlesheets4"); library("googlesheets4")
-if (!require("gt")) install.packages("gt"); library("gt")
+library("here")
+
+base::source(
+  here::here(
+    "scripts",
+    "script_cronograma_evaluacion.R"
+  )
+)
 ```
 
 ## Información del curso
@@ -42,38 +46,7 @@ if (!require("gt")) install.packages("gt"); library("gt")
 #| message: false
 #| html-table-processing: none
 
-cronograma <- 
-  googlesheets4::read_sheet(
-    "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
-    sheet = 1
-  )
-
-cronograma |> 
-  gt::gt() |> 
-  gt::sub_missing(
-    missing_text = ""
-  ) |> 
-  gt::cols_label(
-    clase = "Clase",
-    fecha = "Fecha",
-    modalidad = "Modalidad",
-    tema = "Tema",
-    laboratorio = "Laboratorio",
-    evaluacion = "Evaluación"
-  ) |> 
-  gt::fmt_markdown(
-    columns = c(modalidad, tema, laboratorio)
-  ) |> 
-  gt::opt_table_font(
-    font = gt::google_font(name = "Atkinson Hyperlegible")
-  ) |> 
-  gt::tab_style(
-    style = gt::cell_text(weight = "bold"),
-    locations = gt::cells_column_labels()
-  ) |> 
-  gt::tab_footnote(
-    footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"),
-  ) |> 
+tbl_cronograma_oriente |> 
   gt::tab_options(
     table.font.size = 24
   )
@@ -82,7 +55,7 @@ cronograma |>
 ## Evaluación
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ### General
 
 ```{r}
@@ -91,39 +64,14 @@ cronograma |>
 #| message: false
 #| html-table-processing: none
 
-evaluacion_general <- 
-  googlesheets4::read_sheet(
-    "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
-    sheet = 2
-  )
-
-evaluacion_general |> 
-  gt::gt() |> 
-  gt::sub_missing(
-    missing_text = ""
-  ) |> 
-  gt::cols_label(
-    criterio = "Criterio",
-    porcentaje = "Porcentaje"
-  ) |> 
-  gt::fmt_percent(
-    columns = porcentaje,
-    decimals = 1
-  ) |> 
-  gt::opt_table_font(
-    font = gt::google_font(name = "Atkinson Hyperlegible")
-  ) |> 
-  gt::tab_style(
-    style = gt::cell_text(weight = "bold"),
-    locations = gt::cells_column_labels()
-  ) |> 
+tbl_evaluacion_general |> 
   gt::tab_options(
     table.font.size = 24
   )
 ```
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ### Laboratorio
 
 ```{r}
@@ -132,56 +80,22 @@ evaluacion_general |>
 #| message: false
 #| html-table-processing: none
 
-evaluacion_laboratorio <- 
-  googlesheets4::read_sheet(
-    "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0",
-    sheet = 3
-  )
-
-evaluacion_laboratorio |> 
-  gt::gt() |> 
-  gt::sub_missing(
-    missing_text = ""
-  ) |> 
-  gt::cols_label(
-    criterio = "Criterio",
-    porcentaje = "Porcentaje"
-  ) |> 
-  gt::fmt_percent(
-    columns = porcentaje,
-    decimals = 1
-  ) |> 
-  gt::opt_table_font(
-    font = gt::google_font(name = "Atkinson Hyperlegible")
-  ) |> 
-  gt::tab_style(
-    style = gt::cell_text(weight = "bold"),
-    locations = gt::cells_column_labels()
-  ) |> 
+tbl_evaluacion_laboratorio |> 
   gt::tab_options(
     table.font.size = 24
   )
 ```
 
-::: incremental
 -   Para el desarrollo de las actividades es indispensable cumplir las normas del laboratorio, así como traer el material solicitado.
 
--   Tener instalada una app como Timestamp Camera <http://www.timestampcamera.com>
-:::
 :::
 :::
 
 ## Recursos del curso
 
-::: incremental
--   {{< bi globe >}} Sitio web <https://biologia-plantas.github.io/2025-1/>
+-   {{< bi globe >}} Sitio web <https://biologia-plantas.github.io/2025-2/>
 
 -   {{< bi book >}} Manual de laboratorio <https://alexespinosaco.github.io/biologia-plantas-manual/>
-
--   {{< bi layout-text-window-reverse >}} Google Classroom <https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3>
-
--   {{< bi person-video >}} Google Meet <https://meet.google.com/zrq-rtri-der>
-:::
 
 ## Bibliográfica recomendada
 

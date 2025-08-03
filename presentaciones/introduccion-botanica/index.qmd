@@ -1,6 +1,6 @@
 ---
 title: "Introducción a la botánica"
-# date: 2025-02-18
+# date: 2025-08-05
 format: revealjs
 bibliography: references.bib
 ---
