@@ -656,7 +656,7 @@ Debajo de la flor terminal, nacen dos flores pedunculadas opuestas, esta ramific
 :::
 
 ::: {.column .fragment width="40%"}
-![*Begonia acerifolia* (Begoniaceae) ejemplo de un dicasio. <a href="https://commons.wikimedia.org/wiki/File:Begonia_acerifolia.jpg">LUFJARD</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_helicoida_ejemplo.jpg){#fig-inflorescencia-docasio-03 fig-aling="center"}
+![*Begonia acerifolia* (Begoniaceae) ejemplo de un dicasio. <a href="https://commons.wikimedia.org/wiki/File:Begonia_acerifolia.jpg">LUFJARD</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/flor_inflorescencia_helicoidal_ejemplo.jpg){#fig-inflorescencia-docasio-03 fig-aling="center"}
 :::
 :::
 
