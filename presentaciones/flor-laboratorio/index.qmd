@@ -1,6 +1,6 @@
 ---
 title: "Flor: laboratorio"
-# date: 2025-07-21
+# date: 2025-08-03
 format: revealjs
 bibliography: references.bib
 ---
