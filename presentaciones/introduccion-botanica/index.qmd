@@ -164,7 +164,25 @@ Criptógamas: plantas sin semilla. Espermatófitas/Fanerógamas: plantas con sem
 :::
 :::::
 
-## Botánica: Siglo XVII
+## Botánica: Siglo XVII {.smaller}
+
+::::: columns
+::: {.column width="25%"}
+![Caspar Bauhin (1560 – 1624). <br> Botánico y médico suizo. <br> *Pinax theatri botanici*, describe 6000 especies. <br> Sustituye los clásicos "nombre-frase" por "géneros y especies", un sistema binario. <br> Género *Bauhinia* (Fabaceae). <br> <a href="https://commons.wikimedia.org/wiki/File:Bauhin_Gaspard_1550-1624.jpg">Unknown source</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_bauhin_gaspard.jpg){#fig-historia-bauhin-gaspard}
+:::
+
+::: {.column width="25%"}
+![John Ray (1627 – 1705). <br> Naturalista inglés. <br> Fundador de la botánica moderna. <br> Primera definición de especie. Términos cotiledón y polen. <br> *Methodus plantarum nova*, recupera los grupos de Teofrastro. <br> *Historia Plantarum*, 1800 plantas en 33 grupos. <br> Clasificación: 1. Herbae. A. Imperfectae (sin flores). B. Perfectae (con flores), Dicotiledóneas, Monocotiledóneas. 2. Arborae. A. Monocotiledóneas. B. Dicotiledóneas. <br> <a href="https://commons.wikimedia.org/wiki/File:John_Ray_from_NPG.jpg">National Portrait Gallery</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_john_ray.jpg){#fig-historia-john-ray}
+:::
+
+::: {.column width="25%"}
+![Marcello Malpighi (1628 – 1694). <br> Anatomista y biólogo italiano. <br> «Padre de la histología». <br> *Anatome plantarum*, observaciones de haces vasculares y estomas. <br>  Género *Malpighia* (Malpighiaceae, Malpighiales). <br> <a href="https://commons.wikimedia.org/wiki/File:Marcello_Malpighi_by_Carlo_Cignani.jpg">Carlo Cignani</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_marcello_malpighi.jpg){#fig-historia-marcello-malpighi}
+:::
+
+::: {.column width="25%"}
+![Joseph Pitton de Tournefort (1656 – 1708). Botánico, y explorador francés. <br> Fija el concepto de género para las plantas. <br> *Institutiones rei herbariae*, describe 698 géneros y casi 9000 especies, ordenados en base a caracteres florales (corola). <br> Géneros *Tournefortia* (Boraginaceae) y *Tournefortiopsis* (Rubiaceae). <br> <a href="https://commons.wikimedia.org/wiki/File:Tournefort_Joseph_Pitton_de_1656-1708.jpg">Ambroise Tardieu (1788–1841)</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_joseph_pitton_tournefort.jpg){#fig-historia-joseph-pitton-tournefort}
+:::
+:::::
 
 ## Botánica: Siglo XVIII
 
