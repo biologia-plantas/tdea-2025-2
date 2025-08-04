@@ -186,7 +186,39 @@ Criptógamas: plantas sin semilla. Espermatófitas/Fanerógamas: plantas con sem
 
 ## Botánica: Siglo XVIII
 
+::::: columns
+::: {.column width="50%"}
+![Rudolf Jakob Camerarius (1665 – 1721). <br> Botánico y médico alemán. <br> *De sexu plantarum epistola*, descubrimiento de la reproducción sexual en las plantas. <br> <a href="https://commons.wikimedia.org/wiki/File:Rudolf_jakob_camerarius.jpg">Artist unknown</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_rudolf_jakob_camerarius.jpg){#fig-rudolf-jakob-camerarius}
+:::
+
+::: {.column width="50%"}
+![Carl von Linné (1707 – 1778). <br> Científico, naturalista, botánico, médico y zoólogo sueco. <br> «Padre de la taxonomía y ecología». <br> *Species Plantarum*, clasificación segun el androceo. 23 clases de plantas con flores 1 clase de plantas sin flores (Cryptogamia: helechos, musgos, algas y hongos). Describe 6000 especies y 1000 géneros. Utiliza la nomenclatura binominal. <br> <a href="https://commons.wikimedia.org/wiki/File:Carl_von_Linn%C3%A9.jpg">Alexander Roslin</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_carl_von_linne.jpg){#fig-historia-carl-von-linne}
+:::
+:::::
+
+::: footer
+Descubrimiento: oxígeno (1773/1774), fotosíntesis (1778), 
+:::
+
 ## Botánica: Siglo XIX
+
+::::: columns
+::: {.column width="25%"}
+![Bernard de Jussieu  (1699 – 1777). <br> Médico y botánico francés. <br> Agrupó a «las plantas superiores» en 64 órdenes. <br> Género *Jussiaea* (Onagraceae). <a href="https://commons.wikimedia.org/wiki/File:Bernard_de_Jussieu.jpg">Unknown</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_bernard_de_jussieu.jpg){#fig-historia-bernard-de-jussieu}
+:::
+
+::: {.column width="25%"}
+![Antoine Laurent de Jussieu (1748 – 1836). <br> Médico y botánico francés. <br> *Genera plantarum*, clasificación de las plantas fanerógamas según subordinación de los caracteres (cotiledones, posición de la corola). 100 órdenes "naturales", 7500 especies. Acotiledóneas, dicotiledóneas y monocotiledóneas. <br> <a href="https://commons.wikimedia.org/wiki/File:Antoine_Laurent_de_Jussieu.png">Design by Charles Thévenin (1764-1838)</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_antoine_de_jussieu.jpg){#fig-historia-antoine-de-jussieu}
+:::
+
+::: {.column width="25%"}
+![Augustin Pyrame de Candolle (1778 – 1841). <br> Botánico y micólogo suizo. <br> *Théorie élémentaire de la Botanique*, introduce el término taxonomía. Divide las plantas en vasculares exógenas (dicotiledóneas) y endógenas (monocotiledóneas) y celulares foliáceas (musgos y hepáticas) y sin hojas (hongos, líquenes y algas). <br> <a href="https://commons.wikimedia.org/wiki/File:Augustin-Pyramus_de_Candolle_(1778-1841),_botaniste_genevois,_professeur_%C3%A0_l%27Acad%C3%A9mie,_recteur_de_1830_%C3%A0_1832.jpg">Joseph Hornung</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_augustin_de_candolle.jpg){#fig-historia-augustin-de-candolle}
+:::
+
+::: {.column width="25%"}
+![Alphonse Pyrame de Candolle (1806 – 1893). <br> Botánico suizo. <br> <a href="https://commons.wikimedia.org/wiki/File:Pyrame_de_Candolle,_Alphonse_Louis,_BNF_Gallica.jpg">Unknown . Upload, stitch and restoration by Jebulon</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_alphonse_de_candolle.jpg){#fig-historia-alphonse-de-candolle}
+:::
+:::::
 
 ## Botánica: Siglo XX
 
