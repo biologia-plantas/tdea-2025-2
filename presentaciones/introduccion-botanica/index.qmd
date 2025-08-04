@@ -87,37 +87,92 @@ Artículos de @crisci2019 y @burke2022.
 
 ::::: columns
 ::: {.column width="25%"}
-![Aristóteles (384 – 322 a. e. c.). Dividió a las plantas en dos grupos: con flores y sin floras. <br> <a href="https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg">After Lysippos</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_aristoteles.jpg){#fig-historia-aristoteles}
+![Aristóteles (384 – 322 a. e. c.). <br> Filósofo, polímata y científico griego. <br> Dividió a las plantas en dos grupos: con flores y sin floras. <br> <a href="https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg">After Lysippos</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_aristoteles.jpg){#fig-historia-aristoteles}
 :::
 
 ::: {.column width="25%"}
-![Teofrasto (371 – 287 a. e. c.). <br> «El padre de la Botánica». <br> *De historia plantarum*. Clasificación en árboles, arbustos, subarbustos y hierbas. 480 especies. <br> *De causis plantarum*. Diferencia entre Monocot y Eudicot, diferencias entre tejidos, reproducción y plantas medicinales. <br> <a href="https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg">Teofrasto_Orto_botanico_PA.jpg: tato grassoderivative work: Singinglemon</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons.](/presentaciones/images/historia_teofrasto.jpg){#fig-historia-teofrasto}
+![Teofrasto (371 – 287 a. e. c.). <br> Filósofo y botánico griego. <br> «El padre de la Botánica». <br> *De historia plantarum*. Clasificación en árboles, arbustos, subarbustos y hierbas. 480 especies. <br> *De causis plantarum*. Diferencia entre Monocot y Eudicot, diferencias entre tejidos, reproducción y plantas medicinales. <br> Género *Theophrasta* (Theophrastoideae, Primulaceae). <br> <a href="https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg">Teofrasto_Orto_botanico_PA.jpg: tato grassoderivative work: Singinglemon</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons.](/presentaciones/images/historia_teofrasto.jpg){#fig-historia-teofrasto}
 :::
 
 ::: {.column width="25%"}
-![Plinio el Viejo (23/24 – 79 e. c.). <br> *Naturalis historia*. 37 libros, 12-27 dedicados a las plantas. <br> <a href="https://commons.wikimedia.org/wiki/File:Caius_Plinius_Secundus._Stipple_engraving_by_F._W._Bollinger_Wellcome_V0004719_(cropped).jpg">See page for author</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_plinio.jpg){#fig-historia-plinio}
+![Plinio el Viejo (23/24 – 79 e. c.). <br> Escritor y militar romano. <br> *Naturalis historia*. 37 libros, 12-27 dedicados a las plantas. <br> <a href="https://commons.wikimedia.org/wiki/File:Caius_Plinius_Secundus._Stipple_engraving_by_F._W._Bollinger_Wellcome_V0004719_(cropped).jpg">See page for author</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_plinio.jpg){#fig-historia-plinio}
 :::
 
 ::: {.column width="25%"}
-![Dioscórides (40 – 90 e. c.). <br> *De materia medica*. Describe 600 especies clasificadas según sus propiedades. Reune todo el saber fitoterapeútico de la época <br> <a href="https://commons.wikimedia.org/wiki/File:Dioscorides01.jpg">http://huntbot.andrew.cmu.edu</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_dioscorides.jpg){#fig-historia-dioscorides}
+![Dioscórides (40 – 90 e. c.). <br> Médico, farmacólogo y botánico de la Grecia romana. <br> *De materia medica*. Describe 600 especies clasificadas según sus propiedades. Reune todo el saber fitoterapeútico de la época <br> Género *Dioscorea* (Dioscoreaceae, Dioscoreales). <br> <a href="https://commons.wikimedia.org/wiki/File:Dioscorides01.jpg">http://huntbot.andrew.cmu.edu</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_dioscorides.jpg){#fig-historia-dioscorides}
 :::
 :::::
 
-## Botánica: Edad Media
+## Botánica: Edad Media {.smaller}
 
 ::::: columns
 ::: {.column width="33%"}
-![Albucasis (936/940 – 1009/1013). <br> «Padre de la cirugía moderna». <br> *Higiene de Albucasis* contiene 166 dibujos de plantas con comentarios acerca de ellas. <br> <a href="https://commons.wikimedia.org/wiki/File:Al-Zahrawi-cropped.png">Ernest Board</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_albucasis.jpg){#fig-historia-albucasis}
+![Albucasis (936/940 – 1009/1013). <br> Médico y científico andalusí. <br> «Padre de la cirugía moderna». <br> *Higiene de Albucasis* contiene 166 dibujos de plantas con comentarios acerca de ellas. <br> <a href="https://commons.wikimedia.org/wiki/File:Al-Zahrawi-cropped.png">Ernest Board</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_albucasis.jpg){#fig-historia-albucasis}
 :::
 
 ::: {.column width="33%"}
-![Ibn al-Baitar (1190/1197 – 1248). <br> conocido como al-Nabatí (el botánico). <br> recopiló el conocimiento de 1400 plantas medicinales. <br> <a href="https://commons.wikimedia.org/wiki/File:Ibn_al-Baytar.JPG">Keke999</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_ibn_aldaitar.jpg){#fig-historia-ibn-aldaitar}
+![Ibn al-Baitar (1190/1197 – 1248). <br> Médico y botánico andalusí. <br> conocido como al-Nabatí (el botánico). <br> recopiló el conocimiento de 1400 plantas medicinales. <br> <a href="https://commons.wikimedia.org/wiki/File:Ibn_al-Baytar.JPG">Keke999</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_ibn_al_daitar.jpg){#fig-historia-ibn-al-daitar}
 :::
 
 ::: {.column width="34%"}
-![Alberto Magno (1193/1206 – 1280). <br> <a href="https://commons.wikimedia.org/wiki/File:AlbertusMagnus.jpg">Tommaso da Modena</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_alberto_magno.jpg){#fig-historia-alberto-magno}
+![Alberto Magno (1193/1206 – 1280). <br> Teólogo, geógrafo, filósofo, químico, polímata, fraile dominico y obispo alemán. <br> *De vegetabilis et plantis libri septem*. Descripciones morfológicas y fisiológicas. <br> Clasificación: plantas sin hojas (criptógamas) y plantas con hojas. Esta última en corticadas (monocotiledóneas) y tunicadas (dicotiledóneas herbáceas y leñosas). <br> <a href="https://commons.wikimedia.org/wiki/File:AlbertusMagnus.jpg">Tommaso da Modena</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_alberto_magno.jpg){#fig-historia-alberto-magno}
 :::
 :::::
+
+::: footer
+Criptógamas: plantas sin semilla. Espermatófitas/Fanerógamas: plantas con semilla.
+:::
+
+## Botánica: Renacimiento {.smaller}
+
+::::: columns
+::: {.column width="25%"}
+![Producción de libros en Europa entre el Siglo XVI y XVIII. <br> Johannes Gutenberg inventa la imprenta de tipos moviles cerca a 1450. <br> <a href="https://commons.wikimedia.org/wiki/File:European_Output_of_Printed_Books_ca._1450%E2%80%931800.svg">Tentotwo & Rehua</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons .](/presentaciones/images/historia_libros_impresos.svg){#fig-historia-libros-impresos}
+:::
+
+::: {.column width="25%"}
+![Jardín Botánico de Pisa. <br> Funfado en 1544 por iniciativa de Luca Ghini (médico y botánico italiano) y el apoyo financiero de Cosme I de Médici (gran duque de Toscana). <br> <a href="https://commons.wikimedia.org/wiki/File:Orto_botanico_di_Pisa_-_general_view.JPG">Daderot.</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_jardin_botanico_pisa.jpg){#fig-historia-historia-jardin-botanico-pisa}
+:::
+
+::: {.column width="25%"}
+![«Palma de Goethe» en el Jardín Botánico de Padua. <br> Fundado en 1545 por Luigi Squalermo (médico y botánico italiano) <br> <a href="https://commons.wikimedia.org/wiki/File:OrtoBotPadova_Serra_palma_Goethe.jpg">Semolo75</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_jardin_botanico_padua.jpg){#fig-historia-jardin-botanico-padua}
+
+:::
+
+::: {.column width="25%"}
+![Microscopio simple de Anton van Leeuwenhoek (1674). <br> 1267, Roger Bacón explica los principios de la lente. <br> 1590, Hans Jansen y Zacharias Jansen inventan el miscroscopio compuesto. <br> 1665, Robert Hooke publica Micrographia, acuña el termino célula. <br> <a href="https://commons.wikimedia.org/wiki/File:Leeuwenhoek_Microscope.png">Jeroen Rouwkema</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_miscrocopio_leeuwenhoek.jpg){#fig-historia-miscrocopio-leeuwenhoek}
+:::
+:::::
+
+## Botánica: Renacimiento {.smaller}
+
+::::: columns
+::: {.column width="25%"}
+![Andrés Laguna (1510 – 1559). <br> Médico humanista, farmacólogo y botánico español. <br> Traductor de los textos de Dioscórides y Galeno. <br> Género *Lagunaria* (Malvaceae). <br> <a href="https://commons.wikimedia.org/wiki/File:Acerca_de_la_materia_medicinal_y_de_los_venenos_mort%C3%ADferos_(2).jpg">Anónimo siglo XVI, del grabado, Luis de la Cerda del soneto. Biblioteca Nacional de España por la digitalización</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_andres_laguna.jpg){#fig-historia-andres-laguna}
+:::
+
+::: {.column width="25%"}
+![Paracelso (1493 – 1541). <br> Alquimista, médico y astrólogo suizo. <br> «Padre de la toxicología». <br> Teoría de las signaturas: las plantas, los animales o los minerales llevan sobre sí los signos que permiten conocer sus virtudes. <a href="https://commons.wikimedia.org/wiki/File:Paracelsus.jpg">After Quinten Metsys</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_paracelsus.jpg){#fig-historia-paracelsus}
+:::
+
+::: {.column width="25%"}
+![Andrea Cesalpino (1519 – 1603). <br> Médico, filósofo y botánico italiano. <br> *De plantis libri XVI* y *Appendix ad libros de plantis*. <br> Clasificó las plantas según caracteres del porte, el fruto, la semilla y el embrión (excluyendo la flor). 14 clases de plantas con flores y una sin flores ni frutos. <br> Género *Caesalpinia* (Caesalpinioideae, Fabaceae). <br> <a href="https://commons.wikimedia.org/wiki/File:Andrea_Cesalpino.jpg">Battista Ricci</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_andrea_cesalpino.jpg){#fig-historia-andrea-cesalpino}
+:::
+
+::: {.column width="25%"}
+![Carolus Clusius (1525 – 1609). <br> Médico, micólogo y botánico flamenco. <br> Considerado uno de los padres de la horticultura. <br> *Rariorum plantarum historia*. Primeras descripciones científicas de las plantas y hongos. <br> <a href="https://commons.wikimedia.org/wiki/File:Carolus_Clusius00.jpg">Attributed to Jacob de Monte</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_carolus_clusius.jpg){#fig-historia-carolus-clusius}
+:::
+:::::
+
+## Botánica: Siglo XVII
+
+## Botánica: Siglo XVIII
+
+## Botánica: Siglo XIX
+
+## Botánica: Siglo XX
+
+## Botánica: Siglo XXI
 
 ## Botánica y método científico
 
