@@ -69,7 +69,7 @@ Algunos autores [@simpson2019] distinguen entre Botánica y Ciencia de las plant
 Artículos de @crisci2019 y @burke2022.
 :::
 
-## Botánica
+## Botánica: definición
 
 ::: {.fragment fragment-index="1"}
 > Del latín medieval *botanicus*, y este del griego βοτανική *botanikḗ*, derivado de βοτάνη *botánē* 'hierba'. @realacademiaespañola2025.
@@ -82,6 +82,42 @@ Artículos de @crisci2019 y @burke2022.
 ::: {.fragment fragment-index="3"}
 ![Relaciones entre Botánica, Agronomía y Medicina. El «Triángulo de la Botánica» resaltado en rojo. El área de transdisciplinariedad, representada por la región central, se indica con tres líneas de puntos. @peruzzi2025.](/presentaciones/images/botanica_definicion.jpg){#fig-botanica-definicion fig-align="center" width="60%"}
 :::
+
+## Botánica: Antigüedad clásica {.smaller}
+
+::::: columns
+::: {.column width="25%"}
+![Aristóteles (384 – 322 a. e. c.). Dividió a las plantas en dos grupos: con flores y sin floras. <br> <a href="https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg">After Lysippos</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_aristoteles.jpg){#fig-historia-aristoteles}
+:::
+
+::: {.column width="25%"}
+![Teofrasto (371 – 287 a. e. c.). <br> «El padre de la Botánica». <br> *De historia plantarum*. Clasificación en árboles, arbustos, subarbustos y hierbas. 480 especies. <br> *De causis plantarum*. Diferencia entre Monocot y Eudicot, diferencias entre tejidos, reproducción y plantas medicinales. <br> <a href="https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg">Teofrasto_Orto_botanico_PA.jpg: tato grassoderivative work: Singinglemon</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons.](/presentaciones/images/historia_teofrasto.jpg){#fig-historia-teofrasto}
+:::
+
+::: {.column width="25%"}
+![Plinio el Viejo (23/24 – 79 e. c.). <br> *Naturalis historia*. 37 libros, 12-27 dedicados a las plantas. <br> <a href="https://commons.wikimedia.org/wiki/File:Caius_Plinius_Secundus._Stipple_engraving_by_F._W._Bollinger_Wellcome_V0004719_(cropped).jpg">See page for author</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_plinio.jpg){#fig-historia-plinio}
+:::
+
+::: {.column width="25%"}
+![Dioscórides (40 – 90 e. c.). <br> *De materia medica*. Describe 600 especies clasificadas según sus propiedades. Reune todo el saber fitoterapeútico de la época <br> <a href="https://commons.wikimedia.org/wiki/File:Dioscorides01.jpg">http://huntbot.andrew.cmu.edu</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_dioscorides.jpg){#fig-historia-dioscorides}
+:::
+:::::
+
+## Botánica: Edad Media
+
+::::: columns
+::: {.column width="33%"}
+![Albucasis (936/940 – 1009/1013). <br> «Padre de la cirugía moderna». <br> *Higiene de Albucasis* contiene 166 dibujos de plantas con comentarios acerca de ellas. <br> <a href="https://commons.wikimedia.org/wiki/File:Al-Zahrawi-cropped.png">Ernest Board</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_albucasis.jpg){#fig-historia-albucasis}
+:::
+
+::: {.column width="33%"}
+![Ibn al-Baitar (1190/1197 – 1248). <br> conocido como al-Nabatí (el botánico). <br> recopiló el conocimiento de 1400 plantas medicinales. <br> <a href="https://commons.wikimedia.org/wiki/File:Ibn_al-Baytar.JPG">Keke999</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_ibn_aldaitar.jpg){#fig-historia-ibn-aldaitar}
+:::
+
+::: {.column width="34%"}
+![Alberto Magno (1193/1206 – 1280). <br> <a href="https://commons.wikimedia.org/wiki/File:AlbertusMagnus.jpg">Tommaso da Modena</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_alberto_magno.jpg){#fig-historia-alberto-magno}
+:::
+:::::
 
 ## Botánica y método científico
 
