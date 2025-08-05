@@ -70,42 +70,42 @@ website:
             href: presentaciones/introduccion-curso/
           - text: "Introducción a la botánica"
             href: presentaciones/introduccion-botanica/
-          # - text: "Citología"
-          #   href: presentaciones/citologia/
-          # - text: "Histología"
-          #   href: presentaciones/histologia/
-          # - text: "Diversidad"
-          #   href: presentaciones/diversidad/
-          # - text: "Raíz"
-          #   href: presentaciones/raiz/
-          # - text: "Tallo"
-          #   href: presentaciones/tallo/
-          # - text: "Hoja"
-          #   href: presentaciones/hoja/
-          # - text: "Flor"
-          #   href: presentaciones/flor/
+          - text: "Citología"
+            href: presentaciones/citologia/
+          - text: "Histología"
+            href: presentaciones/histologia/
+          - text: "Diversidad"
+            href: presentaciones/diversidad/
+          - text: "Raíz"
+            href: presentaciones/raiz/
+          - text: "Tallo"
+            href: presentaciones/tallo/
+          - text: "Hoja"
+            href: presentaciones/hoja/
+          - text: "Flor"
+            href: presentaciones/flor/
       - section: "Laboratorio"
         contents:
           # - text: "Introducción al laboratorio"
           #   href: presentaciones/introducción-laboratorio/
           # - text: "Recorrido"
           #   href: presentaciones/recorrido/
-          # - text: "Citología"
-          #   href: presentaciones/citologia-laboratorio/
-          # - text: "Histología"
-          #   href: presentaciones/histologia-laboratorio/
-          # - text: "Diversidad"
-          #   href: presentaciones/diversidad-laboratorio/
-          # - text: "Raíz"
-          #   href: presentaciones/raiz-laboratorio/
-          # - text: "Tallo"
-          #   href: presentaciones/tallo-laboratorio/
-          # - text: "Hoja"
-          #   href: presentaciones/hoja-laboratorio/
-          # - text: "Flor"
-          #   href: presentaciones/flor-laboratorio/
-          # - text: "Fruto"
-          #   href: presentaciones/fruto-laboratorio/
+          - text: "Citología"
+            href: presentaciones/citologia-laboratorio/
+          - text: "Histología"
+            href: presentaciones/histologia-laboratorio/
+          - text: "Diversidad"
+            href: presentaciones/diversidad-laboratorio/
+          - text: "Raíz"
+            href: presentaciones/raiz-laboratorio/
+          - text: "Tallo"
+            href: presentaciones/tallo-laboratorio/
+          - text: "Hoja"
+            href: presentaciones/hoja-laboratorio/
+          - text: "Flor"
+            href: presentaciones/flor-laboratorio/
+          - text: "Fruto"
+            href: presentaciones/fruto-laboratorio/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
