@@ -200,7 +200,7 @@ Criptógamas: plantas sin semilla. Espermatófitas/Fanerógamas: plantas con sem
 Descubrimiento: oxígeno (1773/1774), fotosíntesis (1778), 
 :::
 
-## Botánica: Siglo XIX
+## Botánica: Siglo XIX {.smaller}
 
 ::::: columns
 ::: {.column width="25%"}
@@ -224,13 +224,46 @@ Descubrimiento: oxígeno (1773/1774), fotosíntesis (1778),
 Descubrimiento: alternancia de generaciones (1851) por Wilhelm Hoffmeister (1824-1877).
 :::
 
-## Botánica: Siglo XIX
+## Botánica: Siglo XIX {.smaller}
 
+::::: columns
+::: {.column width="25%"}
+![José Celestino Mutis (1732 – 1808). <br> Médico, botánico, geógrafo, matemático y sacerdote católico español. <br> Real Expedición Botánica del Nuevo Reino de Granada (1783-1808, 1812-1816). 20 000 especies vegetales y 7000 animales. <br> Fundador del estudio de la medicina científica, de la botánica y de la astronomía en Colombia. <br> <a href="https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Celestino_Mutis.jpg">R. Cristobal</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_jose_celestino_mutis.jpg){#fig-historia-jose-celestino-mutis}
+:::
+
+::: {.column width="25%"}
+![Alexander von Humboldt (1769 – 1859). <br> Polímata alemán, geógrafo, naturalista, y explorador. <br> «Padre de la Biogeografía» <br> <a href="https://commons.wikimedia.org/wiki/File:Stieler,_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg">Joseph Karl Stieler</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_alexander_von_humboldt.jpg){#fig-historia-alexander-von-humboldt}
+:::
+
+::: {.column width="25%"}
+![Charles Darwin (1809 – 1882). <br> Naturalista inglés <br> *The origin of species* (1859),  bases de la actual teoría de la evolución. <br> *Fertilisation of orchids* (1862), *Variation of plants and animals under domestication* (1868), *Movement and habits of climbing plants* (1875), *Insectivorous plants* (1875), *The effects of cross and self fertilisation in the vegetable kingdo* (1876), *The different forms of flowers on plants of the same species* (1877), *The power of movement in plants* (1880). <br> <a href="https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg">Herbert Rose Barraud</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_charles_darwin.jpg){#fig-historia-charles-darwin}
+:::
+
+::: {.column width="25%"}
+![Gregor Mendel (1822 – 1884). <br> Fraile agustino católico y naturalista. <br> «Padre de la genética» <br> Leyes de Mende.: principio de la uniformidad, principio de la segregación de los caracteres independientes, ley de la transmisión independiente de los alelos. <br>  <a href="https://commons.wikimedia.org/wiki/File:Gregor_Mendel_2.jpg">http://0.tqn.com/d/biology/1/0/l/e/3244238.jpg</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_gregor_mendel.jpg){#fig-historia-gregor-mendel}
+:::
+:::::
 
 
 ## Botánica: Siglo XX
 
-## Botánica: Siglo XXI
+::::: columns
+::: {.column width="33%"}
+![August Wilhelm Eichler (1839 – 1887). <br> Botánico alemán <br> *Blütendiagramme*, especies no florales, Criptógamas (Thallophyta, Bryophyta, Pteridophyta), y florales, Fanerógamas (Gimnospermas, Angiospermas). <br> <a href="https://commons.wikimedia.org/wiki/File:August_Wilhelm_Eichler.jpg">Atelier des Franz Neumayer Munich Neue Pferdstrasse No. 2</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_august_eichler.jpg){#fig-historia-august-eichler}
+:::
+
+::: {.column width="34%"}
+![Adolf Engler (1844 – 1930). <br> Botánico alemán. <br> *Die Natürlichen Pflanzenfamilien*, 17 divisiones: 15 para Criptógamas y 2 para Fanerógamas. Cormófitos en Embriófitas asifonógamas y Embriófitas sifonógamas. <a href="https://commons.wikimedia.org/wiki/File:William_Pape_-_Portraitstudie_Adolf_Engler._Entwurf_zu_dem_verschollenen_Gem%C3%A4lde_%22Letzte_Sitzung_der_Preu%C3%9Fischen_Akademie_der_Wissenschaften_im_alten_Haus%22_-_BG-M_12017-12_-_Berlinische_Galerie.jpg">William Pape</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_adolf_engler.jpg){#fig-historia-adolf-engler}
+:::
+
+::: {.column width="33%"}
+![Arthur Cronquist (1919 – 1992). <br> Botánico estadounidense. <br> *An integrated system of classification of flowering plants* y *The evolution and classification of flowering plants*. Junto a Armén Takhtajan (1910 – 2009) y Walter Zimmermann (1892 – 1980) publicó *On the higher taxa of Embryophyta*, una clasificación de los Embriófitos. <a href="https://commons.wikimedia.org/wiki/File:Arthur_Cronquist_-_American_botanist.jpg">Staff Photographers</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.](/presentaciones/images/historia_arthur_cronquist.jpg){#fig-historia-arthur-cronquist}
+:::
+:::::
+
+::: footer
+Cronquist, Takhtajan & Zimmermann: Rhyniophyta, Bryophyta, Psilotophyta, Lycopodiophyta, Equisetophyta, Polypodiophyta, Pinophyta, Magnoliophyta.
+:::
 
 ## Botánica y método científico
 
