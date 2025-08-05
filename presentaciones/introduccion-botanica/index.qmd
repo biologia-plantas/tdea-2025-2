@@ -216,9 +216,17 @@ Descubrimiento: oxígeno (1773/1774), fotosíntesis (1778),
 :::
 
 ::: {.column width="25%"}
-![Alphonse Pyrame de Candolle (1806 – 1893). <br> Botánico suizo. <br> <a href="https://commons.wikimedia.org/wiki/File:Pyrame_de_Candolle,_Alphonse_Louis,_BNF_Gallica.jpg">Unknown . Upload, stitch and restoration by Jebulon</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_alphonse_de_candolle.jpg){#fig-historia-alphonse-de-candolle}
+![Alphonse Pyrame de Candolle (1806 – 1893). <br> Botánico suizo. <br> *Prodromus systematis naturalis regni vegetabilis*, resumen de todas las plantas conocidas, acompañado de Taxonomía, Ecología, Evolución, y Biogeografía. <br> <a href="https://commons.wikimedia.org/wiki/File:Pyrame_de_Candolle,_Alphonse_Louis,_BNF_Gallica.jpg">Unknown . Upload, stitch and restoration by Jebulon</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/historia_alphonse_de_candolle.jpg){#fig-historia-alphonse-de-candolle}
 :::
 :::::
+
+::: footer
+Descubrimiento: alternancia de generaciones (1851) por Wilhelm Hoffmeister (1824-1877).
+:::
+
+## Botánica: Siglo XIX
+
+
 
 ## Botánica: Siglo XX
 
