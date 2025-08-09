@@ -1,179 +1,27 @@
 ---
-title: "Biología de las Plantas (2025-2)"
-# subtitle: "Instituto de Biología, Universidad de Antioquia"
+title: "Botánica (2025-2)"
 description: |
-  Sitio web del curso Biología de las Plantas (2025-2) del Instituto de Biología de la Universidad de Antioquia.
+  Sitio web del curso Botánica (2025-2) del programa de Ingeniería Agronómica 
+  del TdeA Institución Universitaria.
 
 author: 
   - name: "Álex Espinosa-Correa"
-    email: alex.espinosa@udea.edu.co
+    email: alex.espinosa@tdea.edu.co
     url: https://alexespinosaco.github.io/
     orcid: 0000-0002-7353-1182
-    affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia"
-    affiliation-url: https://geobota.github.io/
+    # affiliation: "Grupo de Estudios Botánicos GEOBOTA, Instituto de Biología, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellín, Colombia"
+    # affiliation-url: https://geobota.github.io/
 
-date: 2025-08-02
+date: 2025-08-08
 date-modified: today
 
 citation: true
 engine: knitr
+
+listing: 
+  contents: presentaciones
+  type: grid
+  sort: "number"
+  fields: [image, title, description]
 ---
-
-```{r}
-#| label: setup
-#| echo: false
-#| message: false
-#| warning: false
-
-library("here")
-
-base::source(
-  here::here(
-    "scripts",
-    "script_cronograma_evaluacion.R"
-  )
-)
-```
-
-::: {.panel-tabset}
-
-## Oriente
-
-### Cronograma
-
-::: {.light-content}
-```{r}
-#| label: cronograma-oriente-light
-#| echo: false
-#| message: false
-#| html-table-processing: none
-
-tbl_cronograma_oriente |> 
-  gt::tab_options(
-    table.background.color = "#fff",
-    table.font.color = "#212529"
-  )
-```
-:::
-
-::: {.dark-content}
-```{r}
-#| label: cronograma-oriente-dark
-#| echo: false
-#| message: false
-#| html-table-processing: none
-
-tbl_cronograma_oriente |> 
-  gt::tab_options(
-    table.background.color = "#222",
-    table.font.color = "#dee2e6"
-  )
-```
-:::
-### Evaluación general
-
-::: {.light-content}
-```{r}
-#| label: evaluacion-general-light
-#| echo: false
-#| message: false
-#| html-table-processing: none
-
-tbl_evaluacion_general |> 
-  gt::tab_options(
-    table.background.color = "#fff",
-    table.font.color = "#212529"
-  )
-```
-:::
-
-::: {.dark-content}
-```{r}
-#| label: evaluacion-general-dark
-#| echo: false
-#| message: false
-#| html-table-processing: none
-
-tbl_evaluacion_general |> 
-  gt::tab_options(
-    table.background.color = "#222",
-    table.font.color = "#dee2e6"
-  )
-```
-:::
-
-### Evaluación laboratorio
-
-::: {.light-content}
-```{r}
-#| label: evaluacion-laboratorio-light
-#| echo: false
-#| message: false
-#| html-table-processing: none
-
-tbl_evaluacion_laboratorio |> 
-  gt::tab_options(
-    table.background.color = "#fff",
-    table.font.color = "#212529"
-  )
-```
-:::
-
-::: {.dark-content}
-```{r}
-#| label: evaluacion-laboratorio-dark
-#| echo: false
-#| message: false
-#| html-table-processing: none
-
-tbl_evaluacion_laboratorio |> 
-  gt::tab_options(
-    table.background.color = "#222",
-    table.font.color = "#dee2e6"
-  )
-```
-:::
-
-<!-- ## Medellín -->
-
-<!-- ### Cronograma -->
-
-<!-- ```{r} -->
-<!-- #| label: cronograma-medellin -->
-<!-- #| echo: false -->
-<!-- #| message: false -->
-<!-- #| html-table-processing: none -->
-
-<!-- cronograma_medellin <-  -->
-<!--   googlesheets4::read_sheet( -->
-<!--     "https://docs.google.com/spreadsheets/d/1xJCXs5eryxCfMz3ZZlhxQ0Erz_hHFzUQrrGYBtB3eS0", -->
-<!--     sheet = 4 -->
-<!--   ) -->
-
-<!-- cronograma_medellin |>  -->
-<!--   gt::gt() |>  -->
-<!--   gt::sub_missing( -->
-<!--     missing_text = "" -->
-<!--   ) |>  -->
-<!--   gt::cols_label( -->
-<!--     clase = "Clase", -->
-<!--     fecha = "Fecha", -->
-<!--     laboratorio = "Laboratorio", -->
-<!--   ) |>  -->
-<!--   gt::fmt_markdown( -->
-<!--     columns = c(laboratorio) -->
-<!--   ) |>  -->
-<!--   gt::opt_table_font( -->
-<!--     font = gt::google_font(name = "Atkinson Hyperlegible") -->
-<!--   ) |>  -->
-<!--   gt::tab_style( -->
-<!--     style = gt::cell_text(weight = "bold"), -->
-<!--     locations = gt::cells_column_labels() -->
-<!--   ) |>  -->
-<!--   gt::tab_footnote( -->
-<!--     footnote = ("El cronograma puede variar dependiendo del desarrollo del curso"), -->
-<!--   ) -->
-<!-- ``` -->
-
-:::
 
