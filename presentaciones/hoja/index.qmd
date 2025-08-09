@@ -1,9 +1,10 @@
 ---
 title: "Hoja"
-# date: 2025-05-06
+# date: 2025-08-08
 format: revealjs
 bibliography: references.bib
-draft: true
+image: /presentaciones/images/hoja_diagrama.png
+number: "06"
 ---
 
 ## Cuerpo primario de la planta

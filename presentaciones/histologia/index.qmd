@@ -1,8 +1,10 @@
 ---
 title: "Histología"
-# date: 2025-03-04
+# date: 2025-08-08
 format: revealjs
 bibliography: references.bib
+image: /presentaciones/images/tejidos_sistemas.jpg
+number: "03"
 ---
 
 # Histología

@@ -1,8 +1,10 @@
 ---
 title: "Flor"
-# date: 2025-05-13
+# date: 2025-08-08
 format: revealjs
 bibliography: references.bib
+image: /presentaciones/images/flor_diagrama.svg
+number: "07"
 ---
 
 ## La flor más conocida

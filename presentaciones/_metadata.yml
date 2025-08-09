@@ -1,10 +1,10 @@
 author: 
   - name: "Álex Espinosa-Correa"
     url: https://alexespinosaco.github.io/
-    affiliation: "Grupo de Estudios Botánicos GEOBOTA"
-    affiliation-url: https://geobota.github.io/
+    # affiliation: "Grupo de Estudios Botánicos GEOBOTA"
+    # affiliation-url: https://geobota.github.io/
 
-institute: "Universidad de Antioquia <br> Biología de las Plantas (2025-2)"
+institute: "TdeA Institución Universitaria <br> Botánica (2025-2)"
 
 format: 
   revealjs:
@@ -17,7 +17,7 @@ format:
     chalkboard: true
     controls: true
     touch: false
-    footer: "[biologia-plantas.github.io/2025-2](https://biologia-plantas.github.io/2025-2/)"
+    footer: "[biologia-plantas.github.io/tdea-2025-2](https://biologia-plantas.github.io/tdea-2025-2/)"
     logo: "/imagenes/bldp.png"
     pointer:
       color: green

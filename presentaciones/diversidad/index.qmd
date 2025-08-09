@@ -1,8 +1,10 @@
 ---
 title: "Diversidad"
-# date: 2025-03-18
+# date: 2025-08-08
 format: revealjs
 bibliography: references.bib
+number: "08"
+draft: true
 ---
 
 ```{r}

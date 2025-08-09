@@ -1,8 +1,10 @@
 ---
 title: "Raíz"
-# date: 2025-04-22
+# date: 2025-08-08
 format: revealjs
 bibliography: references.bib
+image: /presentaciones/images/raiz_templo.jpg
+number: "04"
 ---
 
 ## Cuerpo primario de la planta

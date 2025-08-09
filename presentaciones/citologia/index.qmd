@@ -1,8 +1,10 @@
 ---
 title: "Citología"
-# date: 2025-02-25
+# date: 2025-08-08
 format: revealjs
 bibliography: references.bib
+image: /presentaciones/images/celula_vegetal.jpg
+number: "02"
 ---
 
 ```{r}

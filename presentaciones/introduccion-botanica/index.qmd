@@ -1,8 +1,10 @@
 ---
 title: "Introducción a la botánica"
-# date: 2025-08-05
+# date: 2025-08-08
 format: revealjs
 bibliography: references.bib
+image: /presentaciones/images/tropical_forest_with_monkeys_1982.76.7.jpg
+number: "01"
 ---
 
 # Introducción a la botánica
@@ -29,6 +31,10 @@ bibliography: references.bib
 ::: {.column .fragment fragment-index="2" width="50%"}
 ![Tropical forest with monkeys, @rousseau1910.](/presentaciones/images/tropical_forest_with_monkeys_1982.76.7.jpg){#fig-tropical-forest-monkeys fig-align="center" width="75%"}
 :::
+:::
+
+::: footer
+*Plant awareness disparity* = brecha en la percepción y conocimiento de las plantas
 :::
 
 ## ¿Sufro de ceguera a las plantas?
@@ -511,129 +517,129 @@ En Colombia existe un [Catálogo de árboles urbanos en Colombia](https://catalo
 :::
 :::
 
-# Sistemática filogenética
+<!-- # Sistemática filogenética -->
 
-> Por desgracia, la biología tiene más terminología de la cuenta. @niklas2016.
+<!-- > Por desgracia, la biología tiene más terminología de la cuenta. @niklas2016. -->
 
-## Sistemática filogenética
+<!-- ## Sistemática filogenética -->
 
-::: columns
-::: {.column .incremental width="50%"}
--   **Sistemática:** ciencia que incluye y abarca la taxonomía tradicional, la descripción, identificación, nomenclatura y clasificación de los organismos, y que tiene como objetivo principal la reconstrucción de la filogenia, o historia evolutiva, de la vida.
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   **Sistemática:** ciencia que incluye y abarca la taxonomía tradicional, la descripción, identificación, nomenclatura y clasificación de los organismos, y que tiene como objetivo principal la reconstrucción de la filogenia, o historia evolutiva, de la vida. -->
 
--   **Filogenética:** clasificación basada en la historia evolutiva o el patrón de descendencia; se refiere a las relaciones entre grupos de individuos en un momento dado.
+<!-- -   **Filogenética:** clasificación basada en la historia evolutiva o el patrón de descendencia; se refiere a las relaciones entre grupos de individuos en un momento dado. -->
 
--   **Sistemática filogenética:** metodología para inferir el patrón de la historia evolutiva de un grupo de organismos mediante la agrupación de taxones basada en apomorfías.
+<!-- -   **Sistemática filogenética:** metodología para inferir el patrón de la historia evolutiva de un grupo de organismos mediante la agrupación de taxones basada en apomorfías. -->
 
--   **Filogenia:** historia evolutiva o patrón de descendencia de un grupo de organismos.
+<!-- -   **Filogenia:** historia evolutiva o patrón de descendencia de un grupo de organismos. -->
 
--   **Cladograma:** diagrama de ramificación que representa conceptualmente la mejor estimación de la filogenia. Sinónimo: árbol filogenético.
-:::
+<!-- -   **Cladograma:** diagrama de ramificación que representa conceptualmente la mejor estimación de la filogenia. Sinónimo: árbol filogenético. -->
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-![Página de los cuadernos de Darwin (hacia julio de 1837) con su primer esbozo de un árbol evolutivo y las palabras « Pienso» en la parte superior. <a href="https://commons.wikimedia.org/wiki/File:Darwin_Tree_1837.png">Charles Darwin</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/darwin_tree_1837.jpg){#fig-darwin-tree fig-align="center"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![Página de los cuadernos de Darwin (hacia julio de 1837) con su primer esbozo de un árbol evolutivo y las palabras « Pienso» en la parte superior. <a href="https://commons.wikimedia.org/wiki/File:Darwin_Tree_1837.png">Charles Darwin</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/darwin_tree_1837.jpg){#fig-darwin-tree fig-align="center"} -->
+<!-- ::: -->
+<!-- ::: -->
 
-::: footer
-Definiciones tomadas de @simpson2019. 
-:::
+<!-- ::: footer -->
+<!-- Definiciones tomadas de @simpson2019.  -->
+<!-- ::: -->
 
-## Clado y Taxón
+<!-- ## Clado y Taxón -->
 
-::: columns
-::: {.column .incremental width="50%"}
--   **Clado:** grupo monofilético, formado por un ancestro común y todos los linajes que surgen de ese ancestro común. Ver: linaje.
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   **Clado:** grupo monofilético, formado por un ancestro común y todos los linajes que surgen de ese ancestro común. Ver: linaje. -->
 
--   **Linaje:** secuencia de poblaciones ancestrales-descendientes, en la que los miembros están vinculados o conectados por flujo génico. Ver: clado.
+<!-- -   **Linaje:** secuencia de poblaciones ancestrales-descendientes, en la que los miembros están vinculados o conectados por flujo génico. Ver: clado. -->
 
--   **Taxón **(plural, taxa): grupo de organismos, idealmente monofilético y tradicionalmente tratado con un rango determinado.
+<!-- -   **Taxón **(plural, taxa): grupo de organismos, idealmente monofilético y tradicionalmente tratado con un rango determinado. -->
 
--   **Rango:** una de las categorías taxonómicas jerárquicas, en la que un rango superior incluye todos los rangos inferiores.
-:::
+<!-- -   **Rango:** una de las categorías taxonómicas jerárquicas, en la que un rango superior incluye todos los rangos inferiores. -->
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-![Diferencia entre clados (izquierda) y taxones (derecha). A, B y C son grupos que están delimitados por sus apomorfías (izquierda) o por su circunscripción (derecha). <a href="https://commons.wikimedia.org/wiki/File:Cladograma_diferencia_entre_clados_y_taxones.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma_diferencia_clados_taxones.svg){#fig-cladograma-clado-taxon fig-align="center"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![Diferencia entre clados (izquierda) y taxones (derecha). A, B y C son grupos que están delimitados por sus apomorfías (izquierda) o por su circunscripción (derecha). <a href="https://commons.wikimedia.org/wiki/File:Cladograma_diferencia_entre_clados_y_taxones.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma_diferencia_clados_taxones.svg){#fig-cladograma-clado-taxon fig-align="center"} -->
+<!-- ::: -->
+<!-- ::: -->
 
-::: footer
-Definiciones tomadas de @simpson2019. 
-:::
+<!-- ::: footer -->
+<!-- Definiciones tomadas de @simpson2019.  -->
+<!-- ::: -->
 
-## Carácteres
+<!-- ## Carácteres -->
 
-::: columns
-::: {.column .incremental width="50%"}
--   **Carácter:** característica o atributo de un taxón.
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   **Carácter:** característica o atributo de un taxón. -->
 
--   **Estado del carácter:** una de las dos o más formas de un carácter.
+<!-- -   **Estado del carácter:** una de las dos o más formas de un carácter. -->
 
--   **Ancestral:** se refiere a una condición o estado de carácter preexistente. Sinónimo: plesiomorfo; primitivo.
+<!-- -   **Ancestral:** se refiere a una condición o estado de carácter preexistente. Sinónimo: plesiomorfo; primitivo. -->
 
--   **Derivado:** se refiere a una nueva condición o estado del carácter. Sinónimo: apomórfico, avanzado.
+<!-- -   **Derivado:** se refiere a una nueva condición o estado del carácter. Sinónimo: apomórfico, avanzado. -->
 
--   **Homología:** similitud resultante de una ascendencia común. Adjetivo: homólogo.
+<!-- -   **Homología:** similitud resultante de una ascendencia común. Adjetivo: homólogo. -->
 
--   **Homólogo:** carácter específico que es homólogo a otro rasgo citado. Ver: homología.
-:::
+<!-- -   **Homólogo:** carácter específico que es homólogo a otro rasgo citado. Ver: homología. -->
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-![Caracteres biológicos según su posición evolutiva. <a href="https://commons.wikimedia.org/wiki/File:Cladogramanotansimple.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma-caracteres.svg){#fig-cladograma-caracteres fig-align="center"}
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![Caracteres biológicos según su posición evolutiva. <a href="https://commons.wikimedia.org/wiki/File:Cladogramanotansimple.svg">RoRo</a>, CC0, via Wikimedia Commons.](/presentaciones/images/cladograma-caracteres.svg){#fig-cladograma-caracteres fig-align="center"} -->
 
-![Huesos homólogos en diferentes vertebrados. <a href="https://commons.wikimedia.org/wiki/File:Homology_vertebrates-es.svg">Волков Владислав Петрович (Vladlen666); translation by Angelito7</a>, CC0, via Wikimedia Commons.](/presentaciones/images/homology_vertebrates-es.svg){#fig-cladograma-caracteres fig-align="center" width="50%"}
-:::
-:::
+<!-- ![Huesos homólogos en diferentes vertebrados. <a href="https://commons.wikimedia.org/wiki/File:Homology_vertebrates-es.svg">Волков Владислав Петрович (Vladlen666); translation by Angelito7</a>, CC0, via Wikimedia Commons.](/presentaciones/images/homology_vertebrates-es.svg){#fig-cladograma-caracteres fig-align="center" width="50%"} -->
+<!-- ::: -->
+<!-- ::: -->
 
-::: footer
-Definiciones tomadas de @simpson2019. 
-:::
+<!-- ::: footer -->
+<!-- Definiciones tomadas de @simpson2019.  -->
+<!-- ::: -->
 
-## Morfías
+<!-- ## Morfías -->
 
-::: columns
-::: {.column .incremental width="50%"}
--   **Apoformia:** una condición derivada o estado de carácter, que representa una novedad evolutiva.
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   **Apoformia:** una condición derivada o estado de carácter, que representa una novedad evolutiva. -->
 
-    -   **Autapomorfía:** apomorfía que se da en un único linaje o taxón.
+<!--     -   **Autapomorfía:** apomorfía que se da en un único linaje o taxón. -->
 
-    -   **Sinapomorfia:** apomorfía que une dos o más taxones o linajes
+<!--     -   **Sinapomorfia:** apomorfía que une dos o más taxones o linajes -->
 
--   **Plesiomorfia:** carácter ancestral
+<!-- -   **Plesiomorfia:** carácter ancestral -->
 
-    -   **Simplesiomorfia:** carácter ancestral (plesiomorfo) compartido entre taxones, que puede servir de base para agruparlos en una clasificación fenética.
+<!--     -   **Simplesiomorfia:** carácter ancestral (plesiomorfo) compartido entre taxones, que puede servir de base para agruparlos en una clasificación fenética. -->
 
 
-:::
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-![El carácter círculo negro es plesiomórfico y simplesiomórfico. El círculo gris es apomorfo y sinapomorfo. El carácter círculo blanco es apoformo y autapomorfo. A, B, C, D y E son taxones existentes y F, G, H e I son antepasados comunes. <a href="https://commons.wikimedia.org/wiki/File:Clado.JPG">Biotoscano</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/morfias.jpg){#fig-morfias fig-align="center"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![El carácter círculo negro es plesiomórfico y simplesiomórfico. El círculo gris es apomorfo y sinapomorfo. El carácter círculo blanco es apoformo y autapomorfo. A, B, C, D y E son taxones existentes y F, G, H e I son antepasados comunes. <a href="https://commons.wikimedia.org/wiki/File:Clado.JPG">Biotoscano</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/morfias.jpg){#fig-morfias fig-align="center"} -->
+<!-- ::: -->
+<!-- ::: -->
 
-::: footer
-Definiciones tomadas de @simpson2019. 
-:::
+<!-- ::: footer -->
+<!-- Definiciones tomadas de @simpson2019.  -->
+<!-- ::: -->
 
-## Monofilético vs Parafilético
+<!-- ## Monofilético vs Parafilético -->
 
-::: columns
-::: {.column .incremental width="50%"}
--   **Monofilético:** grupo que consiste en un ancestro común más todos (y sólo todos) los descendientes de ese ancestro.
+<!-- ::: columns -->
+<!-- ::: {.column .incremental width="50%"} -->
+<!-- -   **Monofilético:** grupo que consiste en un ancestro común más todos (y sólo todos) los descendientes de ese ancestro. -->
 
--   **Parafilético:** grupo que incluye un ancestro común más algunos, pero no todos, los descendientes de ese ancestro común.
+<!-- -   **Parafilético:** grupo que incluye un ancestro común más algunos, pero no todos, los descendientes de ese ancestro común. -->
 
--   **Polifilético:** grupo formado por dos o más grupos monofiléticos o parafiléticos separados, cada uno con un antepasado común distinto; grupo en el que el antepasado común de todos los miembros no es a su vez miembro del grupo.
-:::
+<!-- -   **Polifilético:** grupo formado por dos o más grupos monofiléticos o parafiléticos separados, cada uno con un antepasado común distinto; grupo en el que el antepasado común de todos los miembros no es a su vez miembro del grupo. -->
+<!-- ::: -->
 
-::: {.column .fragment width="50%"}
-![Cladograma de los vertebrados que muestra los tres diferentes grupos filogenéticos o taxones que existen. <a href="https://commons.wikimedia.org/wiki/File:Phylogenetic-Groups.svg">TotoBaggins at English Wikipedia</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/phylogenetic-groups.svg){#fig-phylogenetic-groups fig-align="center"}
-:::
-:::
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![Cladograma de los vertebrados que muestra los tres diferentes grupos filogenéticos o taxones que existen. <a href="https://commons.wikimedia.org/wiki/File:Phylogenetic-Groups.svg">TotoBaggins at English Wikipedia</a>, Public domain, via Wikimedia Commons.](/presentaciones/images/phylogenetic-groups.svg){#fig-phylogenetic-groups fig-align="center"} -->
+<!-- ::: -->
+<!-- ::: -->
 
-::: footer
-Definiciones tomadas de @simpson2019. 
-:::
+<!-- ::: footer -->
+<!-- Definiciones tomadas de @simpson2019.  -->
+<!-- ::: -->
 
 # Las Plantas
 
