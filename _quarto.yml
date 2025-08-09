@@ -8,11 +8,12 @@ execute:
   freeze: auto
 
 website:
-  title: "Biología de las Plantas, 2025-2"
+  title: "Botánica, 2025-2"
   description: |
-    Sitio web del curso Biología de las Plantas (2025-2) del Instituto de Biología de la Universidad de Antioquia. 
-  site-url: https://biologia-plantas.github.io/2025-2/
-  repo-url: https://github.com/biologia-plantas/2025-2/
+    Sitio web del curso Botánica (2025-2) del programa de Ingeniería Agronómica 
+    del TdeA Institución Universitaria. 
+  site-url: https://biologia-plantas.github.io/tdea-2025-2/
+  repo-url: https://github.com/biologia-plantas/tdea-2025-2/
   favicon: imagenes/bldp.png
   image: imagenes/bldp.png
   # repo-actions: [edit, source, issue]
@@ -22,7 +23,7 @@ website:
   bread-crumbs: true
 
   google-analytics:
-    tracking-id: "G-H1C9C97SS0"
+    tracking-id: "G-S36JWWK7HL"
     anonymize-ip: true
 
   twitter-card:
@@ -42,32 +43,21 @@ website:
       - text: "Repositorio"
         icon: github
         href: https://github.com/biologia-plantas/2025-2/
-      - text: "Manual de laboratorio"
+      - text: "Guía de laboratorio"
         icon: book
-        href: https://geobota.github.io/biologia-plantas-manual/
-      # - text: "Google Classroom"
-      #   icon: layout-text-window-reverse
-      #   href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
-      # - text: "Google Meet"
-      #   icon: person-video
-      #   href: https://meet.google.com/zrq-rtri-der
+        href: https://www.tdea.edu.co/images/tdea/galeria/2024/PDF/Gu%C3%ADa%20de%20laboratorios%20de%20Bot%C3%A1nica%20y%20Fisiolog%C3%ADa_.pdf
 
     contents:
       - section: "Información del curso"
         contents:
           - text: "Inicio"
             href: index.qmd
-          - text: "Manual de laboratorio"
-            href: https://geobota.github.io/biologia-plantas-manual/
-          # - text: "Google Classroom"
-          #   href: https://classroom.google.com/u/1/c/NzUwNTI3OTE5NDI3
-          # - text: "Google Meet"
-          #   href: https://meet.google.com/zrq-rtri-der
+          - text: "Guía de laboratorio"
+            href: https://www.tdea.edu.co/images/tdea/galeria/2024/PDF/Gu%C3%ADa%20de%20laboratorios%20de%20Bot%C3%A1nica%20y%20Fisiolog%C3%ADa_.pdf
           - text: "Enlaces de utilidad"
-      - section: "Teoría"
+            href: enlaces.qmd
+      - section: "Presentaciones"
         contents:
-          - text: "Introducción al curso"
-            href: presentaciones/introduccion-curso/
           - text: "Introducción a la botánica"
             href: presentaciones/introduccion-botanica/
           - text: "Citología"
@@ -84,28 +74,6 @@ website:
             href: presentaciones/hoja/
           - text: "Flor"
             href: presentaciones/flor/
-      - section: "Laboratorio"
-        contents:
-          # - text: "Introducción al laboratorio"
-          #   href: presentaciones/introducción-laboratorio/
-          # - text: "Recorrido"
-          #   href: presentaciones/recorrido/
-          - text: "Citología"
-            href: presentaciones/citologia-laboratorio/
-          - text: "Histología"
-            href: presentaciones/histologia-laboratorio/
-          - text: "Diversidad"
-            href: presentaciones/diversidad-laboratorio/
-          - text: "Raíz"
-            href: presentaciones/raiz-laboratorio/
-          - text: "Tallo"
-            href: presentaciones/tallo-laboratorio/
-          - text: "Hoja"
-            href: presentaciones/hoja-laboratorio/
-          - text: "Flor"
-            href: presentaciones/flor-laboratorio/
-          - text: "Fruto"
-            href: presentaciones/fruto-laboratorio/
 
   page-footer: 
     left: Álex Espinosa-Correa © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
