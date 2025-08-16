@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biologia-plantas.github.io/tdea-2025-2/index.html</loc>
-    <lastmod>2025-08-09T05:04:47.588Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/tallo/index.html</loc>
-    <lastmod>2025-08-09T05:58:29.190Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/introduccion-botanica/index.html</loc>
-    <lastmod>2025-08-09T05:15:41.445Z</lastmod>
+    <loc>https://biologia-plantas.github.io/tdea-2025-2/enlaces.html</loc>
+    <lastmod>2025-08-15T01:58:59.930Z</lastmod>
   </url>
   <url>
     <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/hoja/index.html</loc>
-    <lastmod>2025-08-09T05:57:05.192Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/citologia/index.html</loc>
-    <lastmod>2025-08-09T05:21:56.793Z</lastmod>
-  </url>
-  <url>
-    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/histologia/index.html</loc>
-    <lastmod>2025-08-09T05:27:14.227Z</lastmod>
+    <lastmod>2025-08-15T01:58:59.932Z</lastmod>
   </url>
   <url>
     <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/flor/index.html</loc>
-    <lastmod>2025-08-09T06:00:28.773Z</lastmod>
+    <lastmod>2025-08-15T01:58:59.932Z</lastmod>
   </url>
   <url>
     <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/raiz/index.html</loc>
-    <lastmod>2025-08-09T05:48:01.230Z</lastmod>
+    <lastmod>2025-08-15T01:59:00.339Z</lastmod>
   </url>
   <url>
-    <loc>https://biologia-plantas.github.io/tdea-2025-2/enlaces.html</loc>
-    <lastmod>2025-08-09T04:50:13.490Z</lastmod>
+    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/tallo/index.html</loc>
+    <lastmod>2025-08-15T01:59:00.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/tdea-2025-2/index.html</loc>
+    <lastmod>2025-08-15T01:58:59.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/diversidad/index.html</loc>
+    <lastmod>2025-08-16T02:50:14.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/introduccion-botanica/index.html</loc>
+    <lastmod>2025-08-15T01:59:00.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/citologia/index.html</loc>
+    <lastmod>2025-08-15T01:58:59.931Z</lastmod>
+  </url>
+  <url>
+    <loc>https://biologia-plantas.github.io/tdea-2025-2/presentaciones/histologia/index.html</loc>
+    <lastmod>2025-08-15T01:58:59.932Z</lastmod>
   </url>
 </urlset>
