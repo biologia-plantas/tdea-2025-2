@@ -3,8 +3,8 @@ title: "Diversidad"
 # date: 2025-08-08
 format: revealjs
 bibliography: references.bib
+image: /presentaciones/images/diversidad.jpg
 number: "08"
-draft: true
 ---
 
 ```{r}
@@ -484,7 +484,26 @@ Definiciones e imagen de @evert2013.
 
 ![El árbol de la vida. Beaud (2023). Tomado de @sgribaldo2023.](/presentaciones/images/tree_of_life_beaud.jpg){#fig-tree-life-beaud fig-align="center"}
 
+## Evolución de las plantas
 
+::: fragment
+> Para poder hacer una tarta de manzana a partir de cero hay que inventar primero el universo. Sagan ([1980](https://www.imdb.com/es/title/tt0760463/))
+:::
+
+::: fragment
+Ocho acontecimientos de la historia de la vida vegetal se perfilan como monumentales por sus consecuencias sobre todas las formas de vida.
+:::
+
+::: incremental
+1.  La evolución de las primeras formas celulares de vida
+2.  El origen y desarrollo de las células fotosintéticas
+3.  La evolución de la pluricelularidad en los microorganismos procariotas
+4.  La primera aparición de células eucariotas (organismos con orgánulos y capacidad de reproducción sexual)
+5.  El asalto ecológico de las plantas a la tierra y su crecimiento en el aire
+6.  La evolución de los tejidos conductores
+7.  La evolución del hábito de la semilla
+8.  El surgimiento de las plantas con flores
+:::
 
 ## Algunos acontecimientos evolutivos importantes
 
